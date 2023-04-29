@@ -1,12 +1,10 @@
-
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
-import java.io.IOException;
 
-public class WebsiteCrawler {
-    public static void main(String[] args) throws IOException{
+public class WebScraper {
+    public static void main(String[] args) {
         
         String url = "https://vi.wikipedia.org/wiki/Vua_Vi%E1%BB%87t_Nam"; // URL of the website to crawl
         
@@ -32,6 +30,7 @@ public class WebsiteCrawler {
             
             // Extract specific element on the page (e.g. paragraph with class "lead")
             Element leadParagraph = document.select("p.lead").first();
+            assert leadParagraph != null;
             System.out.println("Lead Paragraph: " + leadParagraph.text());
             
         } catch (Exception e) {
