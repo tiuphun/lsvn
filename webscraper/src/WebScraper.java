@@ -3,11 +3,26 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
+import java.io.BufferedReader;
+import java.io.FileReader;
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.List;
 public class WebScraper {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
         
+        // Websites to scrape from
         String url = "https://vi.wikipedia.org/wiki/Vua_Vi%E1%BB%87t_Nam"; // URL of the website to crawl
         
+        List<String> urls = new ArrayList<>();
+        // Read file containing URLs
+        BufferedReader br = new BufferedReader(new FileReader("urls.txt"));
+        String line;
+        while ((line = br.readLine()) != null) {
+            urls.add(line);
+        }
+        br.close();
+
         try {
             // Connect to the website and retrieve HTML content
             Document document = Jsoup.connect(url).get();

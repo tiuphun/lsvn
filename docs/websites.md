@@ -13,9 +13,20 @@ The following links are organized by a hierarchical structure, from the most gen
 * [Danh sách di sản thế giới tại Việt Nam](https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_di_s%E1%BA%A3n_th%E1%BA%BF_gi%E1%BB%9Bi_t%E1%BA%A1i_Vi%E1%BB%87t_Nam)
 * [Du lịch Việt Nam](https://vi.wikipedia.org/wiki/Du_l%E1%BB%8Bch_Vi%E1%BB%87t_Nam)
 
+
 ### EN
 * [Vietnam](https://en.wikipedia.org/wiki/Vietnam)
 * [History of Vietnam](https://en.wikipedia.org/wiki/History_of_Vietnam)
 * [List of World Heritage Sites in Vietnam](https://en.wikipedia.org/wiki/List_of_World_Heritage_Sites_in_Vietnam)
 
-## 
+## Others: VN
+* [Bảo tàng lịch sử quốc gia](https://baotanglichsu.vn/vi)
+* [Người kể sử](nguoikesu.com)
+
+### Vietnam History (EN)
+* [Vietnam War 50th Anniversary](https://www.vietnamwar50th.com/)
+* [Vietnam Online](https://www.vietnamonline.com/)
+* [Vietnam Travel](https://vietnam.travel/)
+
+### Vietnam Archives
+* [The Vietnam Archive | TTU](https://www.vietnam.ttu.edu/virtualarchive/)
