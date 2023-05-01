@@ -1,7 +1,8 @@
 {
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
-        "WebCrawler/lib/jsoup-1.15.4.jar"
+        "WebCrawler/lib/jsoup-1.15.4.jar",
+        "webscraper/lib/jsoup-1.15.4.jar"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
