@@ -1,4 +1,4 @@
-// This scraper extracts data from webpages saved offline. The pages are in `website` folder.
+// This scraper extracts data from webpages saved to the local machine. The pages are in `website` folder.
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
