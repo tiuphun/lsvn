@@ -2,27 +2,17 @@ import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
-
-import java.io.BufferedReader;
-import java.io.FileReader;
+import org.json.JSONArray;
+import org.json.JSONObject;
+import java.io.FileWriter;
 import java.io.IOException;
-import java.util.ArrayList;
-import java.util.List;
+
 public class WebScraper {
     public static void main(String[] args) throws IOException {
         
-        // Websites to scrape from
-        String url = "https://vi.wikipedia.org/wiki/Vua_Vi%E1%BB%87t_Nam"; // URL of the website to crawl
+        // Website to scrape from
+        String url = "https://nguoikesu.com/"; 
         
-        List<String> urls = new ArrayList<>();
-        // Read file containing URLs
-        BufferedReader br = new BufferedReader(new FileReader("urls.txt"));
-        String line;
-        while ((line = br.readLine()) != null) {
-            urls.add(line);
-        }
-        br.close();
-
         try {
             // Connect to the website and retrieve HTML content
             Document document = Jsoup.connect(url).get();
@@ -31,27 +21,65 @@ public class WebScraper {
             String title = document.title();
             System.out.println("Title: " + title);
             
-            // Extract all links on the page
-            Elements links = document.select("a[href]");
-            for (Element link : links) {
-                System.out.println("Link: " + link.attr("href"));
+            // Extract all headings on the page
+            Elements headings = document.select("h1, h2, h3, h4, h5, h6");
+            JSONArray headingsArray = new JSONArray();
+            for (Element heading : headings) {
+                headingsArray.put(heading.text());
             }
             
-            // Extract all images on the page
-            Elements images = document.select("img[src]");
-            for (Element image : images) {
-                System.out.println("Image: " + image.attr("src"));
+            // Extract all paragraphs on the page
+            Elements paragraphs = document.select("p");
+            JSONArray paragraphsArray = new JSONArray();
+            for (Element paragraph : paragraphs) {
+                paragraphsArray.put(paragraph.text());
             }
             
-            // Extract specific element on the page (e.g. paragraph with class "lead")
-            Element leadParagraph = document.select("p.lead").first();
-            assert leadParagraph != null;
-            System.out.println("Lead Paragraph: " + leadParagraph.text());
+            // Extract all keywords on the page
+            Elements keywords = document.select("meta[name=keywords]");
+            JSONArray keywordsArray = new JSONArray();
+            for (Element keyword : keywords) {
+                keywordsArray.put(keyword.attr("content"));
+            }
+            
+            // Extract all tables on the page
+            Elements tables = document.select("table");
+            JSONArray tablesArray = new JSONArray();
+            for (Element table : tables) {
+                tablesArray.put(table.outerHtml());
+            }
+            
+            // Extract all anchor items on the page
+            Elements anchors = document.select("a[href]");
+            JSONArray anchorsArray = new JSONArray();
+            for (Element anchor : anchors) {
+                JSONObject anchorObject = new JSONObject();
+                anchorObject.put("text", anchor.text());
+                anchorObject.put("href", anchor.attr("href"));
+                anchorsArray.put(anchorObject);
+            }
+            
+            // Create a JSON object with the extracted data
+            JSONObject json = new JSONObject();
+            json.put("title", title);
+            json.put("headings", headingsArray);
+            json.put("paragraphs", paragraphsArray);
+            json.put("keywords", keywordsArray);
+            json.put("tables", tablesArray);
+            json.put("anchors", anchorsArray);
+            
+            // Format the JSON object with indentation
+            String formattedJson = json.toString(4);
+            
+            // Write the formatted JSON object to a file
+            FileWriter file = new FileWriter("output.json");
+            file.write(formattedJson);
+            file.flush();
+            file.close();
             
         } catch (Exception e) {
             e.printStackTrace();
         }
         
     }
-    
 }
