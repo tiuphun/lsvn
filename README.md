@@ -39,7 +39,7 @@ The following links are organized by a hierarchical structure, from the most gen
 
 ### 🗨️ Others
 * [Bảo tàng lịch sử quốc gia](https://baotanglichsu.vn/vi)
-*** [Người kể sử](nguoikesu.com) 📌**
+* [**Người kể sử**](nguoikesu.com) 📌
 * [Vietnam War 50th Anniversary](https://www.vietnamwar50th.com/)
 * [Vietnam Online](https://www.vietnamonline.com/)
 * [Vietnam Travel](https://vietnam.travel/)
