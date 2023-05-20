@@ -1,6 +1,9 @@
 # Final Project: Vietnam's History
 > The original project description can be found [here](https://docs.google.com/document/d/1dI-0LJEQR6v6rokB1idBbUu1vkbUhVn2/edit).
 
+## How to navigate this repository?
+Source code is located in the `webscraper/src` folder. The parent folder contains the data collected from the web scraper.
+## Requirements
 The entities need to be collected includes:
 * Dynasties
 * Historical figures (kings, queens, commanders, philosophers,...)

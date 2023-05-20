@@ -723,8 +723,28 @@
             "href": "/tu-lieu/bang-giao/hoi-nghi-paris-mat-tran-ngoai-giao-nam-1968-1972"
         },
         {
-            "text": "Nguyễn Huệ",
-            "href": "/nhan-vat/nguyen-hue"
+            "text": "Trần Nhân Tông",
+            "href": "/nhan-vat/tran-nhan-tong"
+        },
+        {
+            "text": "Lê Đại Hành",
+            "href": "/nhan-vat/le-dai-hanh"
+        },
+        {
+            "text": "Nguyễn Trãi",
+            "href": "/nhan-vat/nguyen-trai"
+        },
+        {
+            "text": "Lý Nam Đế",
+            "href": "/nhan-vat/ly-nam-de"
+        },
+        {
+            "text": "Hai Bà Trưng",
+            "href": "/nhan-vat/hai-ba-trung"
+        },
+        {
+            "text": "Hùng Vương",
+            "href": "/nhan-vat/hung-vuong"
         },
         {
             "text": "Ngô Quyền",
@@ -735,32 +755,12 @@
             "href": "/nhan-vat/ho-chi-minh"
         },
         {
-            "text": "Lê Đại Hành",
-            "href": "/nhan-vat/le-dai-hanh"
-        },
-        {
-            "text": "Hai Bà Trưng",
-            "href": "/nhan-vat/hai-ba-trung"
-        },
-        {
-            "text": "Trần Hưng Đạo",
-            "href": "/nhan-vat/tran-hung-dao"
+            "text": "Nguyễn Huệ",
+            "href": "/nhan-vat/nguyen-hue"
         },
         {
             "text": "Lý Thường Kiệt",
             "href": "/nhan-vat/ly-thuong-kiet"
-        },
-        {
-            "text": "Đinh Tiên Hoàng",
-            "href": "/nhan-vat/dinh-tien-hoang"
-        },
-        {
-            "text": "Trần Nhân Tông",
-            "href": "/nhan-vat/tran-nhan-tong"
-        },
-        {
-            "text": "Lý Thái Tổ",
-            "href": "/nhan-vat/ly-thai-to"
         },
         {
             "text": "Vấn đề biên giới Việt-Trung thời Mạc",
@@ -803,44 +803,44 @@
             "href": "/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky"
         },
         {
-            "text": "Quần thể di tích danh thắng Yên Tử",
-            "href": "/dia-danh/quan-the-di-tich-danh-thang-yen-tu"
-        },
-        {
-            "text": "Đền Hùng",
-            "href": "/dia-danh/den-hung"
-        },
-        {
-            "text": "Chiến khu Tân Trào",
-            "href": "/dia-danh/chien-khu-tan-trao"
+            "text": "Dinh Độc Lập",
+            "href": "/dia-danh/dinh-doc-lap"
         },
         {
             "text": "Quần thể di tích Cố đô Huế",
             "href": "/dia-danh/quan-the-di-tich-co-do-hue"
         },
         {
-            "text": "thành Cổ Loa",
-            "href": "/dia-danh/thanh-co-loa"
-        },
-        {
             "text": "Thành nhà Hồ",
             "href": "/dia-danh/thanh-nha-ho"
         },
         {
-            "text": "Đền Phù Đổng",
-            "href": "/dia-danh/den-phu-dong"
+            "text": "Thành cổ Quảng Trị",
+            "href": "/dia-danh/thanh-co-quang-tri"
         },
         {
-            "text": "Đền Ngọc Sơn",
-            "href": "/dia-danh/den-ngoc-son"
+            "text": "Văn Miếu - Quốc Tử Giám",
+            "href": "/dia-danh/van-mieu-quoc-tu-giam"
         },
         {
-            "text": "Hồ Hoàn Kiếm",
-            "href": "/dia-danh/ho-hoan-kiem"
+            "text": "Khu di tích Pác Bó",
+            "href": "/dia-danh/khu-di-tich-pac-bo"
         },
         {
-            "text": "Cố đô Hoa Lư",
-            "href": "/dia-danh/co-do-hoa-lu"
+            "text": "Đền Trần (Nam Định)",
+            "href": "/dia-danh/den-tran-nam-dinh"
+        },
+        {
+            "text": "Chiến khu Tân Trào",
+            "href": "/dia-danh/chien-khu-tan-trao"
+        },
+        {
+            "text": "chùa Thầy",
+            "href": "/dia-danh/chua-thay"
+        },
+        {
+            "text": "Quần thể di tích danh thắng Yên Tử",
+            "href": "/dia-danh/quan-the-di-tich-danh-thang-yen-tu"
         },
         {
             "text": "Giới thiệu",
@@ -871,7 +871,7 @@
             "href": "https://hoctotnguvan.com"
         }
     ],
-    "title": "",
+    "title": "Lịch sử Việt Nam - History of Vietnam - Người Kể Sử",
     "paragraphs": [
         "Thời kỳ Hồng Bàng theo truyền thuyết và dã sử cho rằng bắt đầu từ năm 2879 TCN, là niên đại của Kinh Dương Vương, với quốc hiệu Xích Quỷ. Lãnh thổ của quốc gia dưới thời Kinh Dương vương rộng lớn, phía bắc tới sông Dương Tử (cả vùng hồ Động Đình), phía nam tới nước Hồ Tôn (Chiêm Thành), phía đông là Đông Hải (một phần của Thái Bình Dương), phía tây là Ba Thục (Tứ Xuyên, Trung Hoa ngày nay). Về sau người Việt chỉ thấy có ở miền Bắc Việt Nam ngày nay, có thể một phần do sự lấn áp của các tộc người Hoa Hạ từ phương Bắc.",
         "Có ít nhất 18 đời Hùng Vương cai trị trong thời đại Hồng Bàng, cho đến năm 258 TCN. Các thông tin về các đời vua Hùng dựa nhiều trên các truyền thuyết. Cũng có nhiều bằng chứng khảo cổ học như trống đồng Đông Sơn được tìm thấy ở miền bắc Việt Nam có cùng niên đại với thời kỳ Hồng Bàng, thể hiện một nền văn hóa đồ đồng rất phát triển (văn hoá Đông Sơn).",

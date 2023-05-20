@@ -1,4 +1,3 @@
-// This Java code snippet scrapes multiple webpages and saves the extracted data to JSON files.
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -10,6 +9,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.ListIterator;
+import java.util.concurrent.CopyOnWriteArrayList;
 
 public class MultiplePages {
     public static void main(String[] args) throws IOException {
@@ -18,7 +18,7 @@ public class MultiplePages {
         String initialUrl = "https://nguoikesu.com/";
         
         // List of URLs to scrape
-        List<String> urls = new ArrayList<>();
+        List<String> urls = new CopyOnWriteArrayList<>();
         urls.add(initialUrl);
         
         try {
@@ -40,11 +40,11 @@ public class MultiplePages {
                 for (int i = 0; i < anchors.length(); i++) {
                     JSONObject anchor = anchors.getJSONObject(i);
                     String href = anchor.getString("href");
-                    if (!urls.contains(href) && href.startsWith(initialUrl)) {
-                        urls.add(href);
+                    if (!urls.contains(href)) {
+                        String newUrl = initialUrl + href;
+                        urls.add(newUrl);
                     }
                 }
-
             }
             
         } catch (Exception e) {
