@@ -1,0 +1,1004 @@
+{
+    "tables": ["<table class=\"infobox\">\n <tbody>\n  <tr>\n   <th colspan=\"2\">Lý Tĩnh<br><font size=\"2\">李靖<\/font><\/th>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\"><img class=\"jch-lazyload\" alt=\"李靖.jpg\" src=\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxIiBoZWlnaHQ9IjEiPjwvc3ZnPg==\" data-src=\"/images/wiki/ly-tinh/397430fb1065101d8e26005b8db5dd3e.jpg\">\n    <noscript>\n     <img alt=\"李靖.jpg\" src=\"/images/wiki/ly-tinh/397430fb1065101d8e26005b8db5dd3e.jpg\">\n    <\/noscript><\/td>\n  <\/tr>\n  <tr>\n   <th colspan=\"2\">Thông tin chung<\/th>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Tự<\/th>\n   <td>Dược Sư (药师)<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Thụy hiệu<\/th>\n   <td>Cảnh Vũ (景武)<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Chức quan cao nhất<\/th>\n   <td>Binh bộ Thượng thư, Trung thư lệnh<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Tước vị<\/th>\n   <td>Vệ quốc công (卫国公)<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Thân phụ<\/th>\n   <td>Lý Thuyên<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Thân mẫu<\/th>\n   <td>Hàn phu nhân<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Sinh<\/th>\n   <td>571<br>\n     Tam Nguyên, Hàm Dương, Thiểm Tây<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Mất<\/th>\n   <td>2 tháng 6, 649<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Nghề nghiệp<\/th>\n   <td>Tướng <a class=\"annotation\" href=\"/nhan-vat/nha-duong\" title=\"Nhà Đường (tiếng Trung: 唐朝; bính âm: Táng Cháo, Hán Việt: Đường triều; phát âm tiếng Trung:&amp;#160;[tʰɑ̌ŋ tʂʰɑ̌ʊ]; tiếng Hán trung đại: Dâng) (18 tháng 6, 618 - 1 tháng 6, 907) là một Triều đại Trung Quốc tiếp nối sau nhà Tùy và sau nó là thời kì Ngũ Đại Thập Quốc. Nhà Đường được hoàng đế Đường Cao Tổ...\" target=\"_blank\">nhà Đường<\/a><\/td>\n  <\/tr>\n <\/tbody>\n<\/table>"],
+    "keywords": [],
+    "headings": [
+        "Nhân Vật Lịch Sử",
+        "Lý Tĩnh",
+        "Dưới thời nhà Tùy",
+        "Dưới thời Cao Tổ",
+        "Diệt Tiêu Tiển",
+        "Diệt Phụ Công Thạch",
+        "Không tham gia cuộc tranh giành của các hoàng tử",
+        "Dưới thời Đường Thái Tông",
+        "Diệt Đông Đột Quyết",
+        "Diệt Thổ Cốc Hồn",
+        "Trọn vẹn đến cuối đời",
+        "Chú thích",
+        "Tham khảo",
+        "Bài viết cùng thư mục",
+        "CÁC THỜI KỲ LỊCH SỬ",
+        "Tư Liệu",
+        "Anh Hùng Dân Tộc Tiêu Biểu",
+        "Anh Hùng Dân Tộc Tiêu Biểu",
+        "Tư Liệu Lịch Sử",
+        "Di Tích Lịch Sử"
+    ],
+    "anchors": [
+        {
+            "text": "",
+            "href": "/"
+        },
+        {
+            "text": "Trang Chủ",
+            "href": "/"
+        },
+        {
+            "text": "Dòng Lịch Sử",
+            "href": "/dong-lich-su"
+        },
+        {
+            "text": "Hồng Bàng & Văn Lang",
+            "href": "/dong-lich-su/hong-bang-va-van-lang"
+        },
+        {
+            "text": "Âu Lạc & Nam Việt",
+            "href": "/dong-lich-su/au-lac-va-nam-viet"
+        },
+        {
+            "text": "Bắc thuộc lần I",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat"
+        },
+        {
+            "text": "Trưng Nữ Vương",
+            "href": "/dong-lich-su/trung-nu-vuong"
+        },
+        {
+            "text": "Bắc thuộc lần II",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-hai"
+        },
+        {
+            "text": "Nhà Lý & Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu"
+        },
+        {
+            "text": "Bắc thuộc lần III",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-ba"
+        },
+        {
+            "text": "Thời kỳ xây nền tự chủ",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu"
+        },
+        {
+            "text": "Nhà Ngô",
+            "href": "/dong-lich-su/nha-ngo"
+        },
+        {
+            "text": "Nhà Đinh",
+            "href": "/dong-lich-su/nha-dinh"
+        },
+        {
+            "text": "Nhà Tiền Lê",
+            "href": "/dong-lich-su/nha-tien-le"
+        },
+        {
+            "text": "Nhà Lý",
+            "href": "/dong-lich-su/nha-ly"
+        },
+        {
+            "text": "Nhà Trần",
+            "href": "/dong-lich-su/nha-tran"
+        },
+        {
+            "text": "Nhà Hồ",
+            "href": "/dong-lich-su/nha-ho"
+        },
+        {
+            "text": "Nhà Hậu Trần",
+            "href": "/dong-lich-su/nha-hau-tran"
+        },
+        {
+            "text": "Bắc thuộc lần IV",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-tu"
+        },
+        {
+            "text": "Nhà Hậu Lê",
+            "href": "/dong-lich-su/nha-hau-le"
+        },
+        {
+            "text": "Nam Bắc Triều",
+            "href": "/dong-lich-su/nam-bac-trieu"
+        },
+        {
+            "text": "Trịnh Nguyễn Phân Tranh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh"
+        },
+        {
+            "text": "Nhà Tây Sơn",
+            "href": "/dong-lich-su/nha-tay-son"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/nha-nguyen"
+        },
+        {
+            "text": "Pháp Thuộc",
+            "href": "/dong-lich-su/phap-thuoc"
+        },
+        {
+            "text": "Việt Nam Dân Chủ Cộng Hoà",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Cộng hoà xã hội chủ nghĩa Việt Nam",
+            "href": "/dong-lich-su/viet-nam-xhcn"
+        },
+        {
+            "text": "Tư Liệu",
+            "href": "/tu-lieu"
+        },
+        {
+            "text": "Quân Sự",
+            "href": "/tu-lieu/quan-su?filter_tag[0]="
+        },
+        {
+            "text": "Tác Phẩm",
+            "href": "/tu-lieu/tac-pham?filter_tag[0]="
+        },
+        {
+            "text": "Bang Giao",
+            "href": "/tu-lieu/bang-giao"
+        },
+        {
+            "text": "Biểu đồ thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Nhân Vật",
+            "href": "/nhan-vat"
+        },
+        {
+            "text": "Anh Hùng Dân Tộc",
+            "href": "/anh-hung-dan-toc?types[0]=1"
+        },
+        {
+            "text": "Danh nhân văn hóa",
+            "href": "/danh-nhan-van-hoa?types[0]=1"
+        },
+        {
+            "text": "Di Tích",
+            "href": "/di-tich-lich-su?types[0]=1"
+        },
+        {
+            "text": "Ngày Nay",
+            "href": "/thoi-su"
+        },
+        {
+            "text": "Sách",
+            "href": "/sach"
+        },
+        {
+            "text": "Video",
+            "href": "/video"
+        },
+        {
+            "text": "Q&A",
+            "href": "/hoi-dap"
+        },
+        {
+            "text": "Lịch sử lớp 12",
+            "href": "/hoi-dap/lop-12"
+        },
+        {
+            "text": "Lịch sử lớp 11",
+            "href": "/hoi-dap/lop-11"
+        },
+        {
+            "text": "Lịch sử lớp 10",
+            "href": "/hoi-dap/lop-10"
+        },
+        {
+            "text": "Lịch sử lớp 9",
+            "href": "/hoi-dap/lop-9"
+        },
+        {
+            "text": "Lịch sử lớp 8",
+            "href": "/hoi-dap/lop-8"
+        },
+        {
+            "text": "Lịch sử lớp 7",
+            "href": "/hoi-dap/lop-7"
+        },
+        {
+            "text": "Lịch sử lớp 6",
+            "href": "/hoi-dap/lop-6"
+        },
+        {
+            "text": "Trang chủ",
+            "href": "/"
+        },
+        {
+            "text": "Nhân Vật",
+            "href": "/nhan-vat"
+        },
+        {
+            "text": "Nhân Vật Lịch Sử",
+            "href": "/nhan-vat"
+        },
+        {
+            "text": "Thu / Mở",
+            "href": "#"
+        },
+        {
+            "text": "Dưới thời nhà Tùy",
+            "href": "#duoi-thoi-nha-tuy"
+        },
+        {
+            "text": "Dưới thời Cao Tổ",
+            "href": "#duoi-thoi-cao-to"
+        },
+        {
+            "text": "Diệt Tiêu Tiển",
+            "href": "#diet-tieu-tien"
+        },
+        {
+            "text": "Diệt Phụ Công Thạch",
+            "href": "#diet-phu-cong-thach"
+        },
+        {
+            "text": "Không tham gia cuộc tranh giành của các hoàng tử",
+            "href": "#khong-tham-gia-cuoc-tranh-gianh-cua-cac-hoang-tu"
+        },
+        {
+            "text": "Dưới thời Đường Thái Tông",
+            "href": "#duoi-thoi-duong-thai-tong"
+        },
+        {
+            "text": "Diệt Đông Đột Quyết",
+            "href": "#diet-dong-dot-quyet"
+        },
+        {
+            "text": "Diệt Thổ Cốc Hồn",
+            "href": "#diet-tho-coc-hon"
+        },
+        {
+            "text": "Trọn vẹn đến cuối đời",
+            "href": "#tron-ven-den-cuoi-doi"
+        },
+        {
+            "text": "Chú thích",
+            "href": "#chu-thich"
+        },
+        {
+            "text": "Tham khảo",
+            "href": "#tham-khao"
+        },
+        {
+            "text": "nhà Đường",
+            "href": "/nhan-vat/nha-duong"
+        },
+        {
+            "text": "nhà Đường",
+            "href": "/nhan-vat/nha-duong"
+        },
+        {
+            "text": "nhà Hán",
+            "href": "/nhan-vat/nha-han"
+        },
+        {
+            "text": "nước Lương",
+            "href": "/dia-danh/nuoc-luong"
+        },
+        {
+            "text": "nhà Đường",
+            "href": "/nhan-vat/nha-duong"
+        },
+        {
+            "text": "nhà Tùy",
+            "href": "/nhan-vat/nha-tuy"
+        },
+        {
+            "text": "nhà Tùy",
+            "href": "/nhan-vat/nha-tuy"
+        },
+        {
+            "text": "Ngô Khởi",
+            "href": "/nhan-vat/ngo-khoi"
+        },
+        {
+            "text": "Dương Tố",
+            "href": "/nhan-vat/duong-to"
+        },
+        {
+            "text": "Dương Tố",
+            "href": "/nhan-vat/duong-to"
+        },
+        {
+            "text": "Dương Tố",
+            "href": "/nhan-vat/duong-to"
+        },
+        {
+            "text": "Dương Tố",
+            "href": "/nhan-vat/duong-to"
+        },
+        {
+            "text": "Dương Tố",
+            "href": "/nhan-vat/duong-to"
+        },
+        {
+            "text": "tỉnh Sơn Tây",
+            "href": "/dia-danh/tinh-son-tay"
+        },
+        {
+            "text": "Lý Mật",
+            "href": "/nhan-vat/ly-mat"
+        },
+        {
+            "text": "nhà Tùy",
+            "href": "/nhan-vat/nha-tuy"
+        },
+        {
+            "text": "Lý Uyên",
+            "href": "/nhan-vat/ly-uyen"
+        },
+        {
+            "text": "Lý Uyên",
+            "href": "/nhan-vat/ly-uyen"
+        },
+        {
+            "text": "Lý Uyên",
+            "href": "/nhan-vat/ly-uyen"
+        },
+        {
+            "text": "Lý Uyên",
+            "href": "/nhan-vat/ly-uyen"
+        },
+        {
+            "text": "Lý Uyên",
+            "href": "/nhan-vat/ly-uyen"
+        },
+        {
+            "text": "Lý Thế Dân",
+            "href": "/nhan-vat/ly-the-dan"
+        },
+        {
+            "text": "Lý Uyên",
+            "href": "/nhan-vat/ly-uyen"
+        },
+        {
+            "text": "Lý Thế Dân",
+            "href": "/nhan-vat/ly-the-dan"
+        },
+        {
+            "text": "Lý Uyên",
+            "href": "/nhan-vat/ly-uyen"
+        },
+        {
+            "text": "nhà Đường",
+            "href": "/nhan-vat/nha-duong"
+        },
+        {
+            "text": "nước Trịnh",
+            "href": "/dia-danh/nuoc-trinh"
+        },
+        {
+            "text": "Lý Uyên",
+            "href": "/nhan-vat/ly-uyen"
+        },
+        {
+            "text": "nhà Lương",
+            "href": "/nhan-vat/nha-luong"
+        },
+        {
+            "text": "sông Trường Giang",
+            "href": "/dia-danh/song-truong-giang"
+        },
+        {
+            "text": "nước Lương",
+            "href": "/dia-danh/nuoc-luong"
+        },
+        {
+            "text": "nhà Đường",
+            "href": "/nhan-vat/nha-duong"
+        },
+        {
+            "text": "nước Lương",
+            "href": "/dia-danh/nuoc-luong"
+        },
+        {
+            "text": "sông Trường Giang",
+            "href": "/dia-danh/song-truong-giang"
+        },
+        {
+            "text": "nước Lương",
+            "href": "/dia-danh/nuoc-luong"
+        },
+        {
+            "text": "nước Lương",
+            "href": "/dia-danh/nuoc-luong"
+        },
+        {
+            "text": "nhà Đường",
+            "href": "/nhan-vat/nha-duong"
+        },
+        {
+            "text": "nhà Đường",
+            "href": "/nhan-vat/nha-duong"
+        },
+        {
+            "text": "nhà Đường",
+            "href": "/nhan-vat/nha-duong"
+        },
+        {
+            "text": "nhà Đường",
+            "href": "/nhan-vat/nha-duong"
+        },
+        {
+            "text": "sông Dương Tử",
+            "href": "/dia-danh/song-duong-tu"
+        },
+        {
+            "text": "nhà Đường",
+            "href": "/nhan-vat/nha-duong"
+        },
+        {
+            "text": "nhà Đường",
+            "href": "/nhan-vat/nha-duong"
+        },
+        {
+            "text": "Lý Thế Dân",
+            "href": "/nhan-vat/ly-the-dan"
+        },
+        {
+            "text": "Lý Thế Dân",
+            "href": "/nhan-vat/ly-the-dan"
+        },
+        {
+            "text": "Lý Thế Dân",
+            "href": "/nhan-vat/ly-the-dan"
+        },
+        {
+            "text": "Lý Thế Dân",
+            "href": "/nhan-vat/ly-the-dan"
+        },
+        {
+            "text": "nhà Đường",
+            "href": "/nhan-vat/nha-duong"
+        },
+        {
+            "text": "nhà Tùy",
+            "href": "/nhan-vat/nha-tuy"
+        },
+        {
+            "text": "nhà Đường",
+            "href": "/nhan-vat/nha-duong"
+        },
+        {
+            "text": "nước Ngô",
+            "href": "/dia-danh/nuoc-ngo"
+        },
+        {
+            "text": "Bài viết trước: Lý Tín Trước",
+            "href": "/nhan-vat/ly-tin"
+        },
+        {
+            "text": "Bài viết kế tiếp: Lý Toái Quang Tiếp tục",
+            "href": "/nhan-vat/ly-toai-quang"
+        },
+        {
+            "text": "Kinh Dương Vương",
+            "href": "/nhan-vat/kinh-duong-vuong"
+        },
+        {
+            "text": "Lạc Long Quân",
+            "href": "/nhan-vat/lac-long-quan"
+        },
+        {
+            "text": "nhà Chu",
+            "href": "/nhan-vat/nha-chu"
+        },
+        {
+            "text": "Ngô Sĩ Liên",
+            "href": "/nhan-vat/ngo-si-lien"
+        },
+        {
+            "text": "Lý Thái Tổ",
+            "href": "/nhan-vat/ly-thai-to"
+        },
+        {
+            "text": "nhà Thương",
+            "href": "/nhan-vat/nha-thuong"
+        },
+        {
+            "text": "nhà Đường",
+            "href": "/nhan-vat/nha-duong"
+        },
+        {
+            "text": "Triệu Việt Vương",
+            "href": "/nhan-vat/trieu-viet-vuong"
+        },
+        {
+            "text": "nhà Tần",
+            "href": "/nhan-vat/nha-tan"
+        },
+        {
+            "text": "Triệu Đà",
+            "href": "/nhan-vat/trieu-da"
+        },
+        {
+            "text": "Hồng Bàng & Văn Lang",
+            "href": "/dong-lich-su/hong-bang-va-van-lang"
+        },
+        {
+            "text": "Âu Lạc & Nam Việt",
+            "href": "/dong-lich-su/au-lac-va-nam-viet"
+        },
+        {
+            "text": "Bắc thuộc lần I",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat"
+        },
+        {
+            "text": "Nhà Triệu",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat/nha-trieu"
+        },
+        {
+            "text": "Trưng Nữ Vương",
+            "href": "/dong-lich-su/trung-nu-vuong"
+        },
+        {
+            "text": "Bắc thuộc lần II",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-hai"
+        },
+        {
+            "text": "Nhà Lý & Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu"
+        },
+        {
+            "text": "Nhà Tiền Lý",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-tien-ly"
+        },
+        {
+            "text": "Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-trieu"
+        },
+        {
+            "text": "Nhà Hậu Lý",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-hau-ly"
+        },
+        {
+            "text": "Bắc thuộc lần III",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-ba"
+        },
+        {
+            "text": "Thời kỳ xây nền tự chủ",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu"
+        },
+        {
+            "text": "Họ Khúc",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu/ho-khuc"
+        },
+        {
+            "text": "Nhà Ngô",
+            "href": "/dong-lich-su/nha-ngo"
+        },
+        {
+            "text": "Nhà Đinh",
+            "href": "/dong-lich-su/nha-dinh"
+        },
+        {
+            "text": "Nhà Tiền Lê",
+            "href": "/dong-lich-su/nha-tien-le"
+        },
+        {
+            "text": "Nhà Lý",
+            "href": "/dong-lich-su/nha-ly"
+        },
+        {
+            "text": "Nhà Trần",
+            "href": "/dong-lich-su/nha-tran"
+        },
+        {
+            "text": "Nhà Hồ",
+            "href": "/dong-lich-su/nha-ho"
+        },
+        {
+            "text": "Nhà Hậu Trần",
+            "href": "/dong-lich-su/nha-hau-tran"
+        },
+        {
+            "text": "Bắc thuộc lần IV",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-tu"
+        },
+        {
+            "text": "Nhà Hậu Lê",
+            "href": "/dong-lich-su/nha-hau-le"
+        },
+        {
+            "text": "Nam Bắc Triều",
+            "href": "/dong-lich-su/nam-bac-trieu"
+        },
+        {
+            "text": "Nhà Lê Trung Hưng",
+            "href": "/dong-lich-su/nam-bac-trieu/nha-le-trung-hung"
+        },
+        {
+            "text": "Nhà Mạc",
+            "href": "/dong-lich-su/nam-bac-trieu/nha-mac"
+        },
+        {
+            "text": "Trịnh Nguyễn Phân Tranh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh"
+        },
+        {
+            "text": "Nhà Lê Trung Hưng",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/nha-le-trung-hung"
+        },
+        {
+            "text": "Chúa Trịnh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-trinh"
+        },
+        {
+            "text": "Chúa Nguyễn",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen"
+        },
+        {
+            "text": "Nhà Tây Sơn",
+            "href": "/dong-lich-su/nha-tay-son"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/nha-nguyen"
+        },
+        {
+            "text": "Pháp Thuộc",
+            "href": "/dong-lich-su/phap-thuoc"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/phap-thuoc/nha-nguyen"
+        },
+        {
+            "text": "Những cuộc khởi nghĩa chống thực dân Pháp",
+            "href": "/dong-lich-su/phap-thuoc/khoi-nghia-chong-phap"
+        },
+        {
+            "text": "Đảng Cộng Sản Việt Nam",
+            "href": "/dong-lich-su/phap-thuoc/dang-cong-san-viet-nam"
+        },
+        {
+            "text": "Việt Nam Dân Chủ Cộng Hoà",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Kháng chiến chống Pháp",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-phap"
+        },
+        {
+            "text": "Kháng chiến chống Mĩ",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-mi"
+        },
+        {
+            "text": "Cộng hoà xã hội chủ nghĩa Việt Nam",
+            "href": "/dong-lich-su/viet-nam-xhcn"
+        },
+        {
+            "text": "Trận Điện Biên Phủ trên không năm 1972",
+            "href": "/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972"
+        },
+        {
+            "text": "Chiến tranh biên giới Tây Nam năm 1975 - 1978",
+            "href": "/tu-lieu/quan-su/chien-tranh-bien-gioi-tay-nam-nam-1975-1978"
+        },
+        {
+            "text": "Chiến dịch Mùa Xuân năm 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-mua-xuan-nam-1975"
+        },
+        {
+            "text": "Hải chiến Trường Sa năm 1988",
+            "href": "/tu-lieu/quan-su/hai-chien-truong-sa-nam-1988"
+        },
+        {
+            "text": "Chiến dịch Đường 14 - Phước Long năm 1974 - 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-duong-14-phuoc-long-nam-1974-1975"
+        },
+        {
+            "text": "Chiến dịch Tây Nguyên năm 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-tay-nguyen-nam-1975"
+        },
+        {
+            "text": "Trận Mậu Thân tại Huế năm 1968",
+            "href": "/tu-lieu/quan-su/tran-mau-than-tai-hue-nam-1968"
+        },
+        {
+            "text": "Bảng đối chiếu các triều đại Việt Nam và các triều đại Trung Quốc",
+            "href": "/tu-lieu/bang-doi-chieu-cac-trieu-dai-viet-nam-va-cac-trieu-dai-trung-quoc"
+        },
+        {
+            "text": "Bình Ngô đại cáo - bản tuyên ngôn độc lập thứ hai",
+            "href": "/tu-lieu/tac-pham/binh-ngo-dai-cao-ban-tuyen-ngon-doc-lap-thu-hai"
+        },
+        {
+            "text": "Lãnh thổ Việt Nam qua từng thời kỳ",
+            "href": "/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky"
+        },
+        {
+            "text": "Trận Đồi Thịt Băm năm 1969",
+            "href": "/tu-lieu/quan-su/tran-doi-thit-bam-nam-1969"
+        },
+        {
+            "text": "Chiến dịch Đắk Tô năm 1972",
+            "href": "/tu-lieu/quan-su/chien-dich-dak-to-nam-1972"
+        },
+        {
+            "text": "Nam quốc sơn hà - Bản tuyên ngôn độc lập đầu tiên",
+            "href": "/tu-lieu/tac-pham/nam-quoc-son-ha-ban-tuyen-ngon-doc-lap-dau-tien"
+        },
+        {
+            "text": "Tuyên ngôn độc lập Việt Nam Dân chủ Cộng hòa",
+            "href": "/tu-lieu/tac-pham/tuyen-ngon-doc-lap-viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Trận Bản Đông năm 1971",
+            "href": "/tu-lieu/quan-su/tran-ban-dong-nam-1971"
+        },
+        {
+            "text": "Trận Rạch Gầm \u2013 Xoài Mút năm 1785",
+            "href": "/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785"
+        },
+        {
+            "text": "Lịch sử Chữ viết tiếng Việt",
+            "href": "/tu-lieu/lich-su-chu-viet-tieng-viet"
+        },
+        {
+            "text": "Hịch tướng sĩ - Dụ chư tỳ tướng hịch văn",
+            "href": "/tu-lieu/tac-pham/hich-tuong-si-du-chu-ty-tuong-hich-van"
+        },
+        {
+            "text": "Danh sách Trạng nguyên Việt Nam",
+            "href": "/tu-lieu/danh-sach-trang-nguyen-viet-nam"
+        },
+        {
+            "text": "Hội nghị Paris, mặt trận ngoại giao năm 1968-1972",
+            "href": "/tu-lieu/bang-giao/hoi-nghi-paris-mat-tran-ngoai-giao-nam-1968-1972"
+        },
+        {
+            "text": "Lê Đại Hành",
+            "href": "/nhan-vat/le-dai-hanh"
+        },
+        {
+            "text": "Lý Thường Kiệt",
+            "href": "/nhan-vat/ly-thuong-kiet"
+        },
+        {
+            "text": "Lê Thái Tổ",
+            "href": "/nhan-vat/le-thai-to"
+        },
+        {
+            "text": "Ngô Quyền",
+            "href": "/nhan-vat/ngo-quyen"
+        },
+        {
+            "text": "Hồ Chí Minh",
+            "href": "/nhan-vat/ho-chi-minh"
+        },
+        {
+            "text": "Lý Nam Đế",
+            "href": "/nhan-vat/ly-nam-de"
+        },
+        {
+            "text": "Hùng Vương",
+            "href": "/nhan-vat/hung-vuong"
+        },
+        {
+            "text": "Đinh Tiên Hoàng",
+            "href": "/nhan-vat/dinh-tien-hoang"
+        },
+        {
+            "text": "Nguyễn Huệ",
+            "href": "/nhan-vat/nguyen-hue"
+        },
+        {
+            "text": "Hai Bà Trưng",
+            "href": "/nhan-vat/hai-ba-trung"
+        },
+        {
+            "text": "Trần Nhân Tông",
+            "href": "/nhan-vat/tran-nhan-tong"
+        },
+        {
+            "text": "Nguyễn Trãi",
+            "href": "/nhan-vat/nguyen-trai"
+        },
+        {
+            "text": "Trần Hưng Đạo",
+            "href": "/nhan-vat/tran-hung-dao"
+        },
+        {
+            "text": "Lý Thái Tổ",
+            "href": "/nhan-vat/ly-thai-to"
+        },
+        {
+            "text": "Hồ Chí Minh",
+            "href": "/nhan-vat/ho-chi-minh"
+        },
+        {
+            "text": "Nguyễn Trãi",
+            "href": "/nhan-vat/nguyen-trai"
+        },
+        {
+            "text": "Đinh Tiên Hoàng",
+            "href": "/nhan-vat/dinh-tien-hoang"
+        },
+        {
+            "text": "Lê Thái Tổ",
+            "href": "/nhan-vat/le-thai-to"
+        },
+        {
+            "text": "Trần Hưng Đạo",
+            "href": "/nhan-vat/tran-hung-dao"
+        },
+        {
+            "text": "Hai Bà Trưng",
+            "href": "/nhan-vat/hai-ba-trung"
+        },
+        {
+            "text": "Trần Nhân Tông",
+            "href": "/nhan-vat/tran-nhan-tong"
+        },
+        {
+            "text": "Lý Thái Tổ",
+            "href": "/nhan-vat/ly-thai-to"
+        },
+        {
+            "text": "Ngô Quyền",
+            "href": "/nhan-vat/ngo-quyen"
+        },
+        {
+            "text": "Nguyễn Huệ",
+            "href": "/nhan-vat/nguyen-hue"
+        },
+        {
+            "text": "Vấn đề biên giới Việt-Trung thời Mạc",
+            "href": "/tu-lieu/bang-giao/van-de-bien-gioi-viet-trung-thoi-mac"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Tây Sơn",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-tay-son"
+        },
+        {
+            "text": "Biểu đồ các nhân vật lịch sử theo dòng thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Danh sách Trạng nguyên Việt Nam",
+            "href": "/tu-lieu/danh-sach-trang-nguyen-viet-nam"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Nguyễn",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-nguyen"
+        },
+        {
+            "text": "Trận Điện Biên Phủ trên không năm 1972",
+            "href": "/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972"
+        },
+        {
+            "text": "Trận Ngọc Hồi - Đống Đa năm 1789",
+            "href": "/tu-lieu/quan-su/tran-ngoc-hoi-dong-da-nam-1789"
+        },
+        {
+            "text": "Trận Cẩm Sa năm 1775",
+            "href": "/tu-lieu/quan-su/tran-cam-sa-nam-1775"
+        },
+        {
+            "text": "Trận Rạch Gầm \u2013 Xoài Mút năm 1785",
+            "href": "/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785"
+        },
+        {
+            "text": "Lãnh thổ Việt Nam qua từng thời kỳ",
+            "href": "/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky"
+        },
+        {
+            "text": "Khu di tích Pác Bó",
+            "href": "/dia-danh/khu-di-tich-pac-bo"
+        },
+        {
+            "text": "Khu lưu niệm Chủ tịch Tôn Đức Thắng",
+            "href": "/dia-danh/khu-luu-niem-chu-tich-ton-duc-thang"
+        },
+        {
+            "text": "chùa Thầy",
+            "href": "/dia-danh/chua-thay"
+        },
+        {
+            "text": "Khu di tích chiến thắng Điện Biên Phủ",
+            "href": "/dia-danh/khu-di-tich-chien-thang-dien-bien-phu"
+        },
+        {
+            "text": "Cố đô Hoa Lư",
+            "href": "/dia-danh/co-do-hoa-lu"
+        },
+        {
+            "text": "Hồ Hoàn Kiếm",
+            "href": "/dia-danh/ho-hoan-kiem"
+        },
+        {
+            "text": "Văn Miếu - Quốc Tử Giám",
+            "href": "/dia-danh/van-mieu-quoc-tu-giam"
+        },
+        {
+            "text": "Đền Hùng",
+            "href": "/dia-danh/den-hung"
+        },
+        {
+            "text": "Đền Trần (Nam Định)",
+            "href": "/dia-danh/den-tran-nam-dinh"
+        },
+        {
+            "text": "Thành nhà Hồ",
+            "href": "/dia-danh/thanh-nha-ho"
+        },
+        {
+            "text": "Giới thiệu",
+            "href": "/gioi-thieu"
+        },
+        {
+            "text": "Quyền riêng tư",
+            "href": "/quyen-rieng-tu"
+        },
+        {
+            "text": "Liên hệ",
+            "href": "/lien-he"
+        },
+        {
+            "text": "Địa Danh",
+            "href": "/dia-danh"
+        },
+        {
+            "text": "Trang Facebook",
+            "href": "https://www.facebook.com/nguoikesu/"
+        },
+        {
+            "text": "DanhMucBDS.com",
+            "href": "https://danhmucbds.com"
+        },
+        {
+            "text": "HocTotNguVan.com",
+            "href": "https://hoctotnguvan.com"
+        }
+    ],
+    "title": "Lý Tĩnh - Người Kể Sử",
+    "paragraphs": [
+        "Lý Tĩnh (chữ Hán: 李靖; 571 - 649), biểu tự Dược Sư (药师)1 , người huyện Tam Nguyên, Ung Châu (nay là huyện Tam Nguyên, tỉnh Thiểm Tây Trung Quốc), là tướng lĩnh và khai quốc công thần nhà Đường, một trong 24 vị công thần được vẽ hình để thờ phụng trong Lăng Yên Các và về sau từng đảm nhận chức vụ Tướng quốc. Ông có công diệt Đông Đột Quyết, Thổ Cốc Hồn, sau được phong làm Vệ Quốc công nên còn gọi là Lý Vệ Công (李卫公). Lý Tĩnh và Lý Thế Tích được coi là hai vị tướng xuất sắc nhất thời Sơ Đường.",
+        "Trong lịch sử phong kiến Trung Quốc, Lý Tĩnh được xem như một trong các đại danh tướng, được xếp ngang hàng với Vệ Thanh nhà Hán. Ông là một trong các danh tướng gần như chưa thất bại bao giờ. Bản thân ông thích dùng loại hình tấn công bất ngờ vào những nơi và những lúc địch không phòng bị mà phá được giặc. Khi tấn công Tiêu Tiển, Lý Tĩnh hiến kế nhân lúc quân Lương không phòng bị vượt sông vào trời mưa lúc nước dâng cao mà diệt được nước Lương, bắt được Tiêu Tiển. Sau đó Đường Thái Tông cho Lý Tĩnh đánh Đông Đột Quyết, ông dùng 3,000 kỵ binh bất ngờ vượt qua Âm Sơn lúc mùa đông trời tuyết mà đánh vào trung quân Đột Quyết, bắt được Hiệt Lợi Khả Hãn, diệt được Đông Đột Quyết. Khi đi đánh Thổ Cốc Hồn, quân Thổ Cốc Hồn ỷ vào địa thế núi cao và trời tuyết mà không phòng bị. Lý Tĩnh ra lệnh cho quân Đường hành quân liên tục trong mấy ngày vượt mấy ngàn dặm, leo lên núi tuyết đi qua phía sau quân địch mà đánh bất ngờ, đánh bại được Thổ Cốc Hồn.",
+        "Các chiến công của Lý Tĩnh đã giúp cho nhà Đường mở rộng lãnh thổ mấy ngàn dặm về phía tây và tây bắc, trở thành đất nước bá chủ hùng mạnh nhất Đông Á và Trung Á thời bấy giờ. Đường Thái Tông từng muốn gia phong cho ông thêm hàm Binh mã Đại Nguyên soái, nhưng Lý Tĩnh vì sợ công lao của mình cao chấn chủ nên đã từ chối và về sống an nhàn đến cuối đời. Ông là một trong số ít những đại danh tướng và khai quốc công thần có công lao cái thế nhưng lại có cái kết tốt đẹp, được trọn vẹn đến hết đời, khác với Bạch Khởi, Hàn Tín và Từ Đạt. Cuốn sách ghi lại cuộc trò chuyện giữa Lý Tĩnh và Đường Thái Tông bàn luận về binh pháp được đời sau biên tập lại thành \"Lý Vệ công vấn đáp\" hay \"Lý Vệ công binh pháp\" trở thành một phần trong \"Vũ kinh thất thư\", bảy cuốn binh pháp đóng vai trò quan trọng mà tướng lãnh phong kiến nào cũng phải học tập.",
+        "",
+        "",
+        "Lý Tĩnh sinh năm 571 dưới thời Bắc Chu, trong thế gia Lý thị Lũng Tây. Ông nội ông, Lý Sùng Nghĩa (李崇義), từng làm thứ sử Ân Châu, tước đến Vĩnh Khang huyện công (永康县公), cha ông Lý Thuyên (李诠) từng làm thái thú quận Triệu, tước đến Lâm Phần tương công (临汾襄公). Mẹ ông là Hàn phu nhân, con gái Bắc Chu Tân Nghĩa quận công Hàn Mộc Lan (韩木兰), em gái của danh tướng nhà Tùy Hàn Cầm Hổ. Ngay từ nhỏ, ông đã thể hiện là một người tài năng văn võ song toàn, thông hiểu sử sách, đặc biệt có năng khiếu về lý luận quân sự. Cậu ông là Hàn Cầm Hổ đánh giá cao tài năng của Lý Tĩnh đến nỗi thường nói rằng: \"Có thể đàm đạo cùng ta về binh pháp Tôn, Ngô (Tôn Tử, Ngô Khởi - hai nhà quân sự cổ đại nổi tiếng của Trung Quốc, nhất là Tôn Tử được xem như là thủy tổ của Binh gia), cũng chỉ có Lý Tĩnh thôi\".",
+        "Thời trẻ ông đảm nhận chức Công tào (功曹) huyện Trường An, sau giữ chức Giá bộ Viên ngoại lang. Tuy đây chỉ là những chức quan nhỏ nhưng nhiều quan lớn trong triều như Lại bộ Thượng thư Ngưu Hoằng, Thượng thư Tả phó xạ Dương Tố đều biết đến tên tuổi Lý Tĩnh và có ý khen ngợi ông. Bản thân Lý Tĩnh tuy có tài hoa nhưng suốt nửa đời đầu, ông chỉ có thể đảm nhận những chức vụ nhỏ. Dương Tố từng có ý tiến cử ông với Tùy Dạng Đế, nhưng vì Lý Tĩnh có tình ý với một ca kỹ trong phủ Dương Tố là Trương Xuất Trần, làm Xuất Trần bỏ đi theo ông nên Dương Tố đâm ra ghét ông. Sau khi Dương Tố chết, con là Dương Huyền Cảm làm phản nhưng thất bại, bị giết cả họ. Lý Tĩnh vì từng có liên quan đến Dương gia nên trong một thời gian dài không được bổ nhiệm nữa.",
+        "Năm Đại Nghiệp thứ 13 (617), Lý Tĩnh được bổ nhiệm làm quận thừa Mã Áp (nay thuộc tỉnh Sơn Tây). Lúc này phong trào khởi nghĩa phản Tùy đang lên cao: Hà Bắc có Đậu Kiến Đức, Hà Nam có Trạch Nhượng, Lý Mật, Giang Hoài có Đỗ Phục Uy, Phụ Công Thạch đều hùng cứ một phương, uy hiếp nghiêm trọng đến triều đình nhà Tùy. Lý Uyên khi đó đang là Lưu thủ Thái Nguyên cũng âm thầm chiêu binh mãi mã, chờ ngày khởi sự. Lý Tĩnh phát hiện ra động thái bất thường của Lý Uyên, đã giả vờ phạm tội để bị giải về Giang Đô, nhờ thế có thể báo tin cho Tùy Dạng Đế. Tuy nhiên khi ông đến Trường An thì cả vùng Quan Trung đã đại loạn, đường sá tắc nghẽn và không có cách nào đi đến Giang Đô. Không lâu sau đó, Lý Uyên quả nhiên khởi binh công chiếm Trường An và bắt được Lý Tĩnh. Nhớ thù xưa, Lý Uyên đem Lý Tĩnh ra hành hình, nhưng ông nói: \"Đường công khởi nghĩa binh là muốn vì thiên hạ mà trừ bạo loạn, nhưng nay chỉ vì ân oán cá nhân mà chém tráng sĩ thì liệu có thành đại sự được không?\". Lý Uyên ấn tượng với lời nói ông, đồng thời Lý Thế Dân, con trai thứ của Lý Uyên - vì thán phục dũng khí của Lý Tĩnh - cũng đứng ra xin hộ nên Lý Tĩnh được tha. Không lâu sau đó Lý Thế Dân mời Lý Tĩnh về phục vụ dưới trướng.2",
+        "Năm 618, sau khi nhận được tin Vũ Văn Hóa Cập gây chính biến, giết chết Tùy Dạng Đế. Lý Uyên ép Tùy Cung Đế nhường ngôi để lập ra nhà Đường, tức là Đường Cao Tổ. Lý Tĩnh tiếp tục phục vụ cho triều đại mới và đến năm 619 thì tham gia chiến dịch tấn công nước Trịnh của Vương Thế Sung, lập công trong trận Lạc Dương và trận Hổ Lao nên được phong chức và cho khai phủ.",
+        "Sau đó, cũng vào năm 619, Lý Uyên đã giao phó cho Lý Tĩnh đánh dẹp Tiêu Tiển (蕭銑), là chắt của vua nhà Lương (502 - 557) là Thế Tổ Nguyên Đế (Tiêu Dịch) (508 - 555) đang cát cứ vùng trung du sông Trường Giang. Khi đến Kim Châu, Lý Tĩnh đụng phải một bọn cướp đã mấy lần đánh bại Lư Giang vương Lý Viện, cháu họ của Cao Tổ. Lý Tĩnh đã kết hợp lực lượng với Lý Viện cùng đánh tan bọn cướp. Tuy nhiên khi đến biên giới nước Lương, ông bị quân Lương đánh chặn và không thể tiến thêm được nên phải dừng ở Hạ Châu. Đường Cao Tổ vì nghi ngờ Lý Tĩnh cố tình không tiến quân nên rất giận dữ, bí mật sai Thứ sử Hạ Châu là Hứa Thiệu giết Lý Tĩnh. Tuy nhiên, Hứa Thiệu vì tán thưởng tài cầm quân của Lý Tĩnh nên dâng tấu xin Cao Tổ tha chết cho Lý Tĩnh, Cao Tổ sau đó đã chấp thuận. Trong lúc đó, vào mùa xuân năm 620, một thủ lĩnh bộ tộc Khai Sơn ở Quí Châu nổi dậy chống nhà Đường. Đường Cao Tổ ban đầu sai cháu họ là Triệu quận vương Lý Hiếu Cung đi dẹp nhưng không thành công. Lý Tĩnh sau đó tiếp viện với 800 kỵ binh, bí mật đột kích chém được tướng giặc, dẹp được phản loạn.",
+        "Vào năm 621, Lý Tĩnh thông qua Lý Hiếu Cung dâng lên 10 sách lược bình Lương cho Đường Cao Tổ. Đường Cao Tổ duyệt phương án của Lý Tĩnh và cho Lý Tĩnh làm phó tướng của Lý Hiếu Cung. Vì Lý Hiếu Cung còn trẻ tuổi thiếu kinh nghiệm nên thực tế Cao Tổ giao cho Lý Tĩnh quyền chỉ huy trong hầu hết chiến dịch nhưng Lý Hiếu Cung vẫn là chủ tướng trên danh nghĩa.",
+        "Mùa thu năm 621, Đường Cao Tổ hạ lệnh cho Lý Hiếu Cung và Lý Tĩnh đem đại quân diệt nước Lương, trong khi đó Lý Viện và các tướng khác tấn công ở các mặt trận khác. Cùng lúc này trời mưa to, mực nước sông Trường Giang rất cao, dòng chảy rất nhanh. Trong khi các tướng khác cho rằng nên tạm hoãn tiến công, Lý Tĩnh khuyên Lý Hiếu Cung nên nhân lúc nước chảy nhanh mà vượt sông đánh kinh đô của Tiêu Tiển là Giang Lăng. Lý Hiếu Cung theo kế, ngay hôm đó cùng Lý Tĩnh chỉ huy 2000 chiến thuyền vượt sông. Tiêu Tiển vì thấy mùa lũ nên đã cho quân lính giải tán lo việc nông canh, một mặt chỉ có thể huy động quân già yếu ra chống, một mặt sai người đi kêu gọi quân tiếp viện. Lý Hiếu Cung thấy kế của Lý Tĩnh ngay từ đầu thuận lợi nên nóng lòng muốn đánh, chư tướng ai cũng nhao nhao xin giết giặc. Chỉ có Lý Tĩnh nói:",
+        "Lý Hiếu Cung theo lời các tướng, chỉ để Lý Tĩnh ở lại giữ trại, còn mình dẫn theo quân sĩ ra đánh. Chẳng ngờ quân Lương sĩ khí đang hăng, lấy một chọi mười, đánh quân Đường thua thảm hại. Lý Hiếu Cung phải quay lại giữ bờ nam. Quân Lương thấy đại thắng thì mở cờ trong bụng, hồ hởi chèo thuyền ra giữa sông để thu chiến lợi phẩm, quân Đường còn sợ không dám nhìn thẳng. Lý Tĩnh lúc này lại khuyên Lý Hiếu Cung nhân lúc quân địch đang không đề phòng, nên đánh ngay. Lý Hiếu Cung đồng ý, cho Lý Tĩnh cấp quân xông ra giết, quân Lương đang đắc ý không ngờ quân Đường lại đến đánh nên chỉ lo chạy thoát thân chứ không nghĩ đến việc đánh trả. Quân Lý Tĩnh thừa sức truy đuổi, giết ngược một mạch thẳng đến tận dưới chân thành Giang Lăng.",
+        "Sau khi đánh bại tướng Lương là Văn Thế Hồng, Lý Hiếu Cung cho quân vây hãm Giang Lăng, cắt đứt liên lạc của Tiêu Tiển với quân đội của mình trên khắp lãnh thổ. Quân Đường lúc này cướp được vô số chiến thuyền, ai cũng vui mừng, cho rằng chiến rằng chiến hạm quý báu khác thường như vậy mà dùng để đánh địch thì chỉ có toàn thắng. Chỉ có Lý Tĩnh không vui mừng gì, lại ra kế nên thả nổi chiến thuyền trên sông. Các tướng sĩ nghi hoặc, Lý Tĩnh giải thích:",
+        "Quân cứu viện của Tiêu Tiển thấy dọc sông đều là thuyền bè không người, quả nhiên lầm tưởng rằng Giang Lăng đã thất thủ nên không tiến thêm nữa. Trong khi đó quan viên địa phương thấy Giang Lăng bị vây chặt thì ùn ùn kéo nhau ra lạy chầu quân Đường, Tiêu Tiển chờ mãi chẳng thấy quan viên lẫn viện binh đến nên đã đầu hàng Lý Hiếu Cung. Quân Đường vào Giang Lăng, ngang nhiên cướp bóc, lại viện dẫn lý lẽ: \"Tướng địch không chủ động đến hàng, chết là còn may chán, lẽ ra còn phải tịch thu hết gia sản khen thưởng cho tướng sĩ.\" Lý Tĩnh lại khuyên Lý Hiếu Cung:",
+        "Nhờ Lý Tĩnh và hàng thần của Tiêu Tiển là Sầm Văn Bản khuyên can nên Lý Hiếu Cung ra lệnh cấm cướp bóc dân chúng và không được trả thù quan tướng nước Lương. Các châu huyện nước Lương nghe tin Giang Lăng thất thủ nên đã đầu hàng nhà Đường. Hơn 10 vạn viện binh cũng cởi giáp ra hàng. Tiêu Tiển bị giải về Trường An và bị Đường Cao Tổ ra lệnh chém đầu. Lý Tĩnh vì lập công nên được thăng làm Vĩnh Khang huyện công. Sau đó Đường Cao Tổ sai Lý Tĩnh xuôi nam đi thuyết phục một số vùng nay thuộc Quảng Đông và Quảng Tây, trước đó vốn theo Tiêu Tiển và một thủ lĩnh nghĩa quân khác là Lâm Sĩ Hoằng, thần phục nhà Đường. Lý Tĩnh tiến quân đến Quế Châu và đã chiêu hàng được một số thủ lĩnh nghĩa quân lớn trong vùng. Lý Tĩnh sau đó được giữ chức thứ sử Quế Châu.",
+        "Mùa thu năm 623, một tướng nhà Đường là Phụ Công Thạch, vốn là tướng dưới trướng Ngô vương Đỗ Phục Uy, nổi dậy chống nhà Đường trong khi Đỗ Phục Uy vẫn ở Trường An, bản thân Phụ tự xưng là Tống đế. Đường Cao Tổ cho Lý Hiếu Cung làm chủ tướng, Lý Tĩnh làm phó đi đánh Phụ Công Thạch trong khi Lý Thế Tích và các tướng khác tấn công từ nhiều mặt. Lý Hiếu Cung và Lý Tĩnh xuôi dòng sông Dương Tử, nhiều phen đánh bại quân Tống. Phụ Công Thạch cho quân đóng ở núi Bác Vọng chuẩn bị chống quân Đường tập kích, lại căn dặn hai tướng là Phùng Huy Lượng và Trần Đăng Sư không được ra ngoài giao chiến, cứ để quân Đường bị tiêu hao. Tuy nhiên Lý Hiếu Cung nghe kế Lý Tĩnh, tấn công cắt nguồn lương thực quân Tống. Thấy hết lương, Phùng và Trần bắt buộc phải ra giao chiến với Lý Hiếu Cung. Các tướng khác khuyên Lý Hiếu Cung nên bỏ qua Phùng Trần hai tướng mà đi đường vòng đánh thẳng vào kinh đô Tống là Đan Dương, tuy nhiên Lý Hiếu Cung vẫn nghe theo lời Lý Tĩnh giao chiến với Phùng-Trần. Ban đầu, Lý Hiếu Cung dùng một nhánh quân già yếu giao chiến với quân Tống, sau đó dụ quân Tống vào sâu rồi chia cắt thành từng nhánh rồi tiêu diệt. Phụ Công Thạch nghe tin hoảng sợ bỏ Đan Dương mà chạy về phía đông nhưng bị người dân bắt rồi giao cho quân Đường. Đường Cao Tổ rất tán thưởng Lý Tĩnh, đã bình luận rằng: \"Lý Tĩnh đúng là khắc tinh của Tiêu Tiển và Phụ Công Thạch. Cho dù là Bạch Khởi, Hàn Tín, Vệ Thanh hay Hoắc Khứ Bệnh cũng không hơn được\".",
+        "Năm 625, Đông Đột Quyết tấn công Thái Nguyên, Lý Tĩnh dẫn quân lên bắc chống cự. Đương thời tướng Đường nào đánh Đột Quyết cũng bại, chỉ có Lý Tĩnh là giữ vững được binh lính. Năm 626, Đột Quyết lại tấn công, Lý Tĩnh được phong làm Thứ sử Linh Châu và ông đã cố gắng cắt đứt đường về của quân Đột Quyết, nhưng sau đó nhà Đường và Đột Quyết đã giảng hòa. Vào thời điểm này, nội bộ nhà Đường chứng kiến cuộc tranh giành quyền lực gay gắt giữa Thái tử Lý Kiến Thành và Tần vương Lý Thế Dân. Lý Thế Dân từng gửi thư cho cả Lý Tĩnh và Lý Thế Tích để hỏi kế, nhưng cả hai đều từ chối. Điều này làm cho hai người có được sự kính trọng của Lý Thế Dân.",
+        "Cùng năm 626, Lý Thế Dân quyết định ra tay trước, bí mật mai phục giết chết anh trai là Lý Kiến Thành và em là Lý Nguyên Cát tại cửa Huyền Vũ, ép Đường Cao Tổ lập mình làm Thái tử và sau đó truyền ngôi cho, tức là Đường Thái Tông.",
+        "Năm đầu Trinh Quán (627), ông được phong Hình bộ Thượng thư. Sang năm thứ 2 (628), kiêm Trung thư lệnh, đứng đầu Trung thư tỉnh, chức vụ này được xem như ngang với chức tể tướng. Sang đầu năm thứ 3 (629), lại phong kiêm làm Thượng thư của Binh bộ.",
+        "Vào năm Trinh Quán thứ 3 (629), lúc này nội bộ Đông Đột Quyết đang bất ổn, Hiệt Lợi Khả hãn đang tấn công cháu của mình là Đột Lợi Khả hãn. Đường Thái Tông hạ lệnh cho Lý Tĩnh làm Đại tướng quân, cùng với Lý Thế Tích, Sài Thiệu và Tiết Vạn Triệt đem 10 vạn đại quân đi đánh Đột Quyết. Lý Tĩnh phát động tấn công một cách bất ngờ, dùng 3,000 kỵ binh xuất phát từ Mã Ấp xuyên qua đỉnh Ác Dương, đánh bại quân Đột Quyết, chiếm lấy được Định Tương. Hiệt Lợi hoảng sợ phải bỏ chạy đến Tích Khẩu. Lý Tĩnh bí mật sai sứ giả đến khuyên bộ thuộc của Hiệt Lợi đầu hàng. Một bộ thuộc của Hiệt Lợi bí mật bắt cóc Tiêu hoàng hậu - vợ Tùy Dạng đế và cháu trai bà là Dương Chính Đạo, vốn được người Đột Quyết lập làm Tùy vương, dâng cho Lý Tĩnh.",
+        "Hiệt Lợi gửi sứ giả đến chầu Thái Tông, xin được quy thuận và nộp cống cho nhà Đường nhưng vẫn mưu tính bỏ chạy xa hơn với quân đội của mình. Thái Tông sai Đường Kiệm làm sứ đáp trả lại Hiệt Lợi, nhưng lại gửi thư ra lệnh cho Lý Tĩnh phải hộ tống Hiệt Lợi đến Trường An. Lý Tĩnh đọc thư và nhận ra lệnh của Thái Tông là tấn công Hiệt Lợi, sau đó ông đã cho quân kết hợp với quân của Lý Thế Tích và tấn công Hiệt Lợi. Quân Đường đánh bại và bắt tù binh hầu hết lực lượng của Hiệt Lợi, giết được vợ của Hiệt Lợi là công chúa Nghĩa Thành nhà Tùy. Hiệt Lợi bỏ chạy xa hơn, nhưng bị tướng Đường là Trương Bảo Tương bắt được. Quý tộc Đông Đột Quyết đều ra hàng nhà Đường.",
+        "Để vinh danh chiến thắng của Lý Tĩnh, Thái Tông ra lệnh đại xá thiên hạ và cho tổ chức ăn uống vui chơi 5 ngày, còn Lý Tĩnh được phong là Đại quốc công (代國公). Vào năm Trinh Quán thứ 4 (630), Lý Tĩnh được phong làm Thượng thư Phó xạ, đứng đầu Thượng thư tỉnh.",
+        "Tháng 4 năm Trinh Quán thứ 9 (635), mặc dù đã ngoài 60 và muốn lui về ở ẩn, nhưng biên cương phía Bắc Đại Đường, quân Thổ Cốc Hồn của Mộ Dung Phục Doãn (慕容伏允) lại xâm lấn, cướp phá, Đường Thái Tông vẫn mời và phong chức ông Đại Tổng quản hành quân Tây Hải đạo, thống soái cả năm đạo binh do các tướng Đạo Tông, Hầu Quân Tập, Lý Đại Lượng, Lý Đạo Ngạn, Cao Tăng Sinh để tiến đánh Thổ Cốc Hồn.",
+        "Quân Đường ban đầu đánh thắng quân Thổ Cốc Hồn mấy trận. Quân Thổ Cốc Hồn đáp trả bằng cách đốt hết cỏ ở bãi chăn thả nhằm cắt nguồn lương thực cho ngựa của quân Đường, các tướng Đường thấy thế ai cũng bàn lùi. Duy nhất chỉ có Hầu Quân Tập xin đánh và được Lý Tĩnh đồng ý. Quân Thổ Cốc Hồn ỷ có núi tuyết cao che sau lưng nên không sợ quân Đường. Lý Tĩnh sai bỏ ngựa, cho quân lính đi bộ mấy ngày liên tiếp vượt cả trăm dặm, leo lên núi vòng ra phía sau quân Thổ Cốc Hồn mà tập kích. Quân Thổ Cốc Hồn không phòng bị nên bị đánh tan tác, Lý Tĩnh bắt được thê thiếp và con cái của Mộ Dung Phục Doãn. Mộ Dung Phục Doãn bị bộ tướng của mình giết chết. Con trai của Mộ Dung Phục Doãn là Mộ Dung Thuận đầu hàng quân Đường và được Thái Tông đưa lên thay làm Khả hãn. Phần lớn quân Đường được rút về, chỉ để Lý Đại Lượng ở lại trấn thủ.",
+        "Khi đánh Đông Đột Quyết về, Lý Tĩnh bị Tiêu Vũ đàn hặc đã thả quân cướp bóc kho tàng của người Đột Quyết. Thái Tông phải khiển trách Lý Tĩnh, nhưng vẫn gia tăng cho Lý Tĩnh thực ấp và thưởng cho tơ lụa. Sau đó, hối hận vì đã khiển trách Lý Tĩnh, Thái Tông đã nói: \"Trước đây có kẻ nói xấu hãm hại ái khanh. Nay Trẫm đã rõ, ái khanh đừng để trong lòng\" và thưởng thêm vàng lụa cho Lý Tĩnh. Khi nhậm chức Thượng thư Phó xạ trong Thượng thư tỉnh, Lý Tĩnh đặc biệt kiệm lời khi bàn việc với các Thượng thư khác, một phẩm chất được xem là hiếm có. Tuy nhiên, có một lời giải thích chính đáng hơn là Thái Tông không tin các thần tử của mình, đặc biệt là võ tướng và Lý Tĩnh biết rõ điều đó. Ông cố gắng hạ thấp mình để tránh bị nhà vua nghi kị.",
+        "Năm Trinh Quán thứ 8 (634), Thái Tông muốn cử một số khâm sai đi các đạo khắp cả nước để dò xét dân tình, kiểm tra các quan, giúp đỡ dân nghèo và tìm kiếm nhân tài. Lý Tĩnh tiến cử Ngụy Trưng, nhưng Thái Tông muốn giữ Ngụy Trưng bên người để chỉ ra sai sót của bản thân nên đã sai Lý Tĩnh và 12 quan viên khác đi dò xét các đạo. Sau chuyến đi này, Lý Tĩnh viện cớ có tật ở chân xin được về nhà dưỡng lão. Thái Tông đồng ý, nhưng vẫn cho Lý Tĩnh giữ lại chức vụ và ra lệnh khi Lý Tĩnh khỏe lên thì phải đến Môn hạ tỉnh để thay thế chức vụ Thượng thư.",
+        "Trong chiến dịch Thổ Cốc Hồn, Lý Tĩnh có lần đã khiển trách Cao Tăng Sinh. Họ Cao bất mãn với Lý Tĩnh, mật mưu cùng với Đường Phong Nghị vu cho Lý Tĩnh mưu phản. Tuy nhiên Lý Tĩnh được chứng minh trong sạch và Cao Tăng Sinh với Đường Phong Nghị phải chịu tội vu cáo đại thần, bị phạt đi đày mặc dù Cao Tăng Sinh đã có công trong Sự biến cửa Huyền Vũ. Tuy nhiên kể từ đây, Lý Tĩnh đóng cửa từ chối tiếp khách, thậm chí chẳng mấy khi gặp họ hàng.",
+        "Năm Trinh Quán thứ 11 (637), Thái Tông muốn phân phong đất đai cho tôn thất và công thần làm đất ăn lộc mãi mãi, tước vị của Lý Tĩnh được đổi thành Vệ quốc công (衛國公). Tuy nhiên Trưởng Tôn Vô Kỵ phản đối việc phân phong đất đai, Thái Tông phải thôi nhưng tước vị của Lý Tĩnh không thay đổi. Năm thứ 17 (643), Thái Tông cho xây dựng Lăng Yên các để vinh danh 24 vị công thần khai quốc của Đại Đường, Lý Tĩnh nằm trong số 24 vị đó.",
+        "Năm Trinh Quán thứ 18 (644), Thái Tông muốn đánh Cao Câu Ly nên đã triệu Lý Tĩnh để hỏi ý. Vua hỏi: \"Quốc công trước đã bình định nước Ngô ở phía nam, sau lại quét sạch mạc bắc, dẹp họ Mộ Dung ở phía tây, nay chỉ còn Cao Câu Ly ở phía đông không thần phục. Không biết ý quốc công thế nào?\".",
+        "Lý Tĩnh trả lời: \"Thần trước đây nhờ vào ơn của tiên đế với thánh thượng mới lập được một chút công lao. Hiện nay thần đã già, xương cốt đã rệu rã nhưng nếu thánh thượng không chê, thần tuy có bệnh nhưng nguyện dắt ngựa đi đầu\". Thái Tông thấy Lý Tĩnh bị bệnh nên quyết định để ông ở nhà, tự mình thân chinh lãnh đạo một cuộc viễn chinh không thành công đánh Cao Câu Ly vào năm sau (645).",
+        "Năm Trinh Quán 23 (649), Lý Tĩnh qua đời, chỉ vài tháng trước khi Thái Tông băng hà. Lý Tĩnh được chôn cất rất long trọng và mộ của ông nằm cạnh lăng Thái Tông ở Chiêu lăng. Thụy hiệu là Cảnh Vũ (景武).",
+        "(Nguồn: Wikipedia)"
+    ]
+}

@@ -1,0 +1,1304 @@
+{
+    "tables": [],
+    "keywords": [],
+    "headings": [
+        "Địa Danh",
+        "tỉnh Hà Tiên",
+        "Lịch sử",
+        "Vùng đất Hà Tiên xưa",
+        "Tiểu quốc Hà Tiên",
+        "Tỉnh Hà Tiên thời nhà Nguyễn",
+        "Cương vực",
+        "Tổng đốc và Tuần phủ tỉnh Hà Tiên",
+        "Địa hình địa mạo Hà Tiên nhà Nguyễn",
+        "Tỉnh Hà Tiên thời Pháp thuộc",
+        "Tỉnh Hà Tiên giai đoạn 1945-1956",
+        "Hà Tiên giai đoạn 1956-1976",
+        "Việt Nam Cộng hòa",
+        "Chính quyền Cách mạng",
+        "Hà Tiên sau năm 1976",
+        "Phân chia hành chánh",
+        "Năm 1820",
+        "Năm 1836",
+        "Năm 1901",
+        "Ảnh",
+        "Chú thích",
+        "Bài viết cùng thư mục",
+        "CÁC THỜI KỲ LỊCH SỬ",
+        "Tư Liệu",
+        "Di Tích Lịch Sử",
+        "Anh Hùng Dân Tộc Tiêu Biểu",
+        "Tư Liệu Lịch Sử",
+        "Di Tích Lịch Sử"
+    ],
+    "anchors": [
+        {
+            "text": "",
+            "href": "/"
+        },
+        {
+            "text": "Trang Chủ",
+            "href": "/"
+        },
+        {
+            "text": "Dòng Lịch Sử",
+            "href": "/dong-lich-su"
+        },
+        {
+            "text": "Hồng Bàng & Văn Lang",
+            "href": "/dong-lich-su/hong-bang-va-van-lang"
+        },
+        {
+            "text": "Âu Lạc & Nam Việt",
+            "href": "/dong-lich-su/au-lac-va-nam-viet"
+        },
+        {
+            "text": "Bắc thuộc lần I",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat"
+        },
+        {
+            "text": "Trưng Nữ Vương",
+            "href": "/dong-lich-su/trung-nu-vuong"
+        },
+        {
+            "text": "Bắc thuộc lần II",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-hai"
+        },
+        {
+            "text": "Nhà Lý & Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu"
+        },
+        {
+            "text": "Bắc thuộc lần III",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-ba"
+        },
+        {
+            "text": "Thời kỳ xây nền tự chủ",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu"
+        },
+        {
+            "text": "Nhà Ngô",
+            "href": "/dong-lich-su/nha-ngo"
+        },
+        {
+            "text": "Nhà Đinh",
+            "href": "/dong-lich-su/nha-dinh"
+        },
+        {
+            "text": "Nhà Tiền Lê",
+            "href": "/dong-lich-su/nha-tien-le"
+        },
+        {
+            "text": "Nhà Lý",
+            "href": "/dong-lich-su/nha-ly"
+        },
+        {
+            "text": "Nhà Trần",
+            "href": "/dong-lich-su/nha-tran"
+        },
+        {
+            "text": "Nhà Hồ",
+            "href": "/dong-lich-su/nha-ho"
+        },
+        {
+            "text": "Nhà Hậu Trần",
+            "href": "/dong-lich-su/nha-hau-tran"
+        },
+        {
+            "text": "Bắc thuộc lần IV",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-tu"
+        },
+        {
+            "text": "Nhà Hậu Lê",
+            "href": "/dong-lich-su/nha-hau-le"
+        },
+        {
+            "text": "Nam Bắc Triều",
+            "href": "/dong-lich-su/nam-bac-trieu"
+        },
+        {
+            "text": "Trịnh Nguyễn Phân Tranh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh"
+        },
+        {
+            "text": "Nhà Tây Sơn",
+            "href": "/dong-lich-su/nha-tay-son"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/nha-nguyen"
+        },
+        {
+            "text": "Pháp Thuộc",
+            "href": "/dong-lich-su/phap-thuoc"
+        },
+        {
+            "text": "Việt Nam Dân Chủ Cộng Hoà",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Cộng hoà xã hội chủ nghĩa Việt Nam",
+            "href": "/dong-lich-su/viet-nam-xhcn"
+        },
+        {
+            "text": "Tư Liệu",
+            "href": "/tu-lieu"
+        },
+        {
+            "text": "Quân Sự",
+            "href": "/tu-lieu/quan-su?filter_tag[0]="
+        },
+        {
+            "text": "Tác Phẩm",
+            "href": "/tu-lieu/tac-pham?filter_tag[0]="
+        },
+        {
+            "text": "Bang Giao",
+            "href": "/tu-lieu/bang-giao"
+        },
+        {
+            "text": "Biểu đồ thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Nhân Vật",
+            "href": "/nhan-vat"
+        },
+        {
+            "text": "Anh Hùng Dân Tộc",
+            "href": "/anh-hung-dan-toc?types[0]=1"
+        },
+        {
+            "text": "Danh nhân văn hóa",
+            "href": "/danh-nhan-van-hoa?types[0]=1"
+        },
+        {
+            "text": "Di Tích",
+            "href": "/di-tich-lich-su?types[0]=1"
+        },
+        {
+            "text": "Ngày Nay",
+            "href": "/thoi-su"
+        },
+        {
+            "text": "Sách",
+            "href": "/sach"
+        },
+        {
+            "text": "Video",
+            "href": "/video"
+        },
+        {
+            "text": "Q&A",
+            "href": "/hoi-dap"
+        },
+        {
+            "text": "Lịch sử lớp 12",
+            "href": "/hoi-dap/lop-12"
+        },
+        {
+            "text": "Lịch sử lớp 11",
+            "href": "/hoi-dap/lop-11"
+        },
+        {
+            "text": "Lịch sử lớp 10",
+            "href": "/hoi-dap/lop-10"
+        },
+        {
+            "text": "Lịch sử lớp 9",
+            "href": "/hoi-dap/lop-9"
+        },
+        {
+            "text": "Lịch sử lớp 8",
+            "href": "/hoi-dap/lop-8"
+        },
+        {
+            "text": "Lịch sử lớp 7",
+            "href": "/hoi-dap/lop-7"
+        },
+        {
+            "text": "Lịch sử lớp 6",
+            "href": "/hoi-dap/lop-6"
+        },
+        {
+            "text": "Trang chủ",
+            "href": "/"
+        },
+        {
+            "text": "Địa Danh",
+            "href": "/dia-danh"
+        },
+        {
+            "text": "Địa Danh Lịch Sử",
+            "href": "/dia-danh"
+        },
+        {
+            "text": "Thu / Mở",
+            "href": "#"
+        },
+        {
+            "text": "Lịch sử",
+            "href": "#lich-su"
+        },
+        {
+            "text": "Vùng đất Hà Tiên xưa",
+            "href": "#vung-dat-ha-tien-xua"
+        },
+        {
+            "text": "Tiểu quốc Hà Tiên",
+            "href": "#tieu-quoc-ha-tien"
+        },
+        {
+            "text": "Tỉnh Hà Tiên thời nhà Nguyễn",
+            "href": "#tinh-ha-tien-thoi-nha-nguyen"
+        },
+        {
+            "text": "Cương vực",
+            "href": "#cuong-vuc"
+        },
+        {
+            "text": "Tổng đốc và Tuần phủ tỉnh Hà Tiên",
+            "href": "#tong-doc-va-tuan-phu-tinh-ha-tien"
+        },
+        {
+            "text": "Địa hình địa mạo Hà Tiên nhà Nguyễn",
+            "href": "#dia-hinh-dia-mao-ha-tien-nha-nguyen"
+        },
+        {
+            "text": "Tỉnh Hà Tiên thời Pháp thuộc",
+            "href": "#tinh-ha-tien-thoi-phap-thuoc"
+        },
+        {
+            "text": "Tỉnh Hà Tiên giai đoạn 1945-1956",
+            "href": "#tinh-ha-tien-giai-doan-1945-1956"
+        },
+        {
+            "text": "Hà Tiên giai đoạn 1956-1976",
+            "href": "#ha-tien-giai-doan-1956-1976"
+        },
+        {
+            "text": "Việt Nam Cộng hòa",
+            "href": "#viet-nam-cong-hoa"
+        },
+        {
+            "text": "Chính quyền Cách mạng",
+            "href": "#chinh-quyen-cach-mang"
+        },
+        {
+            "text": "Hà Tiên sau năm 1976",
+            "href": "#ha-tien-sau-nam-1976"
+        },
+        {
+            "text": "Phân chia hành chánh",
+            "href": "#phan-chia-hanh-chanh"
+        },
+        {
+            "text": "Năm 1820",
+            "href": "#nam-1820"
+        },
+        {
+            "text": "Năm 1836",
+            "href": "#nam-1836"
+        },
+        {
+            "text": "Năm 1901",
+            "href": "#nam-1901"
+        },
+        {
+            "text": "Ảnh",
+            "href": "#anh"
+        },
+        {
+            "text": "Chú thích",
+            "href": "#chu-thich"
+        },
+        {
+            "text": "Mạc Cửu",
+            "href": "/nhan-vat/mac-cuu"
+        },
+        {
+            "text": "Mạc Thiên Tứ",
+            "href": "/nhan-vat/mac-thien-tu"
+        },
+        {
+            "text": "Mạc Cửu",
+            "href": "/nhan-vat/mac-cuu"
+        },
+        {
+            "text": "nhà Minh",
+            "href": "/nhan-vat/nha-minh"
+        },
+        {
+            "text": "Mạc Cửu",
+            "href": "/nhan-vat/mac-cuu"
+        },
+        {
+            "text": "Mạc Cửu",
+            "href": "/nhan-vat/mac-cuu"
+        },
+        {
+            "text": "Mạc Cửu",
+            "href": "/nhan-vat/mac-cuu"
+        },
+        {
+            "text": "Mạc Cửu",
+            "href": "/nhan-vat/mac-cuu"
+        },
+        {
+            "text": "Mạc Cửu",
+            "href": "/nhan-vat/mac-cuu"
+        },
+        {
+            "text": "Mạc Cửu",
+            "href": "/nhan-vat/mac-cuu"
+        },
+        {
+            "text": "Mạc Cửu",
+            "href": "/nhan-vat/mac-cuu"
+        },
+        {
+            "text": "Mạc Cửu",
+            "href": "/nhan-vat/mac-cuu"
+        },
+        {
+            "text": "Mạc Cửu",
+            "href": "/nhan-vat/mac-cuu"
+        },
+        {
+            "text": "tỉnh Quảng Đông",
+            "href": "/dia-danh/tinh-quang-dong"
+        },
+        {
+            "text": "Mạc Cửu",
+            "href": "/nhan-vat/mac-cuu"
+        },
+        {
+            "text": "Mạc Cửu",
+            "href": "/nhan-vat/mac-cuu"
+        },
+        {
+            "text": "Mạc Cửu",
+            "href": "/nhan-vat/mac-cuu"
+        },
+        {
+            "text": "Nguyễn Phúc Chu",
+            "href": "/nhan-vat/nguyen-phuc-chu"
+        },
+        {
+            "text": "Mạc Cửu",
+            "href": "/nhan-vat/mac-cuu"
+        },
+        {
+            "text": "Mạc Cửu",
+            "href": "/nhan-vat/mac-cuu"
+        },
+        {
+            "text": "Mạc Cửu",
+            "href": "/nhan-vat/mac-cuu"
+        },
+        {
+            "text": "Mạc Thiên Tứ",
+            "href": "/nhan-vat/mac-thien-tu"
+        },
+        {
+            "text": "Mạc Thiên Tứ",
+            "href": "/nhan-vat/mac-thien-tu"
+        },
+        {
+            "text": "Trấn Giang",
+            "href": "/dia-danh/tran-giang"
+        },
+        {
+            "text": "Mạc Thiên Tứ",
+            "href": "/nhan-vat/mac-thien-tu"
+        },
+        {
+            "text": "Mạc Thiên Tứ",
+            "href": "/nhan-vat/mac-thien-tu"
+        },
+        {
+            "text": "Mạc Cửu",
+            "href": "/nhan-vat/mac-cuu"
+        },
+        {
+            "text": "Mạc Thiên Tứ",
+            "href": "/nhan-vat/mac-thien-tu"
+        },
+        {
+            "text": "tỉnh Kampot",
+            "href": "/dia-danh/tinh-kampot"
+        },
+        {
+            "text": "Châu Đốc",
+            "href": "/dia-danh/chau-doc"
+        },
+        {
+            "text": "tỉnh Kampot",
+            "href": "/dia-danh/tinh-kampot"
+        },
+        {
+            "text": "tỉnh Kampot",
+            "href": "/dia-danh/tinh-kampot"
+        },
+        {
+            "text": "Mạc Thiên Tứ",
+            "href": "/nhan-vat/mac-thien-tu"
+        },
+        {
+            "text": "Nguyễn Phúc Khoát",
+            "href": "/nhan-vat/nguyen-phuc-khoat"
+        },
+        {
+            "text": "Nguyễn Ánh",
+            "href": "/nhan-vat/nguyen-anh"
+        },
+        {
+            "text": "Nguyễn Ánh",
+            "href": "/nhan-vat/nguyen-anh"
+        },
+        {
+            "text": "Nguyễn Ánh",
+            "href": "/nhan-vat/nguyen-anh"
+        },
+        {
+            "text": "Mạc Cửu",
+            "href": "/nhan-vat/mac-cuu"
+        },
+        {
+            "text": "đảo Phú Quốc",
+            "href": "/dia-danh/dao-phu-quoc"
+        },
+        {
+            "text": "Châu Đốc",
+            "href": "/dia-danh/chau-doc"
+        },
+        {
+            "text": "Châu Đốc",
+            "href": "/dia-danh/chau-doc"
+        },
+        {
+            "text": "tỉnh An Giang",
+            "href": "/dia-danh/tinh-an-giang"
+        },
+        {
+            "text": "Trương Đăng Quế",
+            "href": "/nhan-vat/truong-dang-que"
+        },
+        {
+            "text": "Trấn Tây Thành",
+            "href": "/dia-danh/tran-tay-thanh"
+        },
+        {
+            "text": "tỉnh An Giang",
+            "href": "/dia-danh/tinh-an-giang"
+        },
+        {
+            "text": "tỉnh An Giang",
+            "href": "/dia-danh/tinh-an-giang"
+        },
+        {
+            "text": "tỉnh An Giang",
+            "href": "/dia-danh/tinh-an-giang"
+        },
+        {
+            "text": "tỉnh Kiên Giang",
+            "href": "/dia-danh/tinh-kien-giang"
+        },
+        {
+            "text": "tỉnh Kampot",
+            "href": "/dia-danh/tinh-kampot"
+        },
+        {
+            "text": "Mạc Cửu",
+            "href": "/nhan-vat/mac-cuu"
+        },
+        {
+            "text": "tỉnh An Giang",
+            "href": "/dia-danh/tinh-an-giang"
+        },
+        {
+            "text": "tỉnh Kiên Giang",
+            "href": "/dia-danh/tinh-kien-giang"
+        },
+        {
+            "text": "Mạc Cửu",
+            "href": "/nhan-vat/mac-cuu"
+        },
+        {
+            "text": "biển Đông",
+            "href": "/dia-danh/bien-dong"
+        },
+        {
+            "text": "tỉnh An Giang",
+            "href": "/dia-danh/tinh-an-giang"
+        },
+        {
+            "text": "thành phố Long Xuyên",
+            "href": "/dia-danh/thanh-pho-long-xuyen"
+        },
+        {
+            "text": "tỉnh An Giang",
+            "href": "/dia-danh/tinh-an-giang"
+        },
+        {
+            "text": "tỉnh An Giang",
+            "href": "/dia-danh/tinh-an-giang"
+        },
+        {
+            "text": "tỉnh An Giang",
+            "href": "/dia-danh/tinh-an-giang"
+        },
+        {
+            "text": "tỉnh Kampot",
+            "href": "/dia-danh/tinh-kampot"
+        },
+        {
+            "text": "tỉnh An Giang",
+            "href": "/dia-danh/tinh-an-giang"
+        },
+        {
+            "text": "tỉnh An Giang",
+            "href": "/dia-danh/tinh-an-giang"
+        },
+        {
+            "text": "Nguyễn Văn Chương",
+            "href": "/nhan-vat/nguyen-van-chuong"
+        },
+        {
+            "text": "Nguyễn Tri Phương",
+            "href": "/nhan-vat/nguyen-tri-phuong"
+        },
+        {
+            "text": "Nguyễn Công Nhàn",
+            "href": "/nhan-vat/nguyen-cong-nhan"
+        },
+        {
+            "text": "Nguyễn Văn Chương",
+            "href": "/nhan-vat/nguyen-van-chuong"
+        },
+        {
+            "text": "Nguyễn Tri Phương",
+            "href": "/nhan-vat/nguyen-tri-phuong"
+        },
+        {
+            "text": "Nguyễn Công Nhàn",
+            "href": "/nhan-vat/nguyen-cong-nhan"
+        },
+        {
+            "text": "Nguyễn Bá Nghi",
+            "href": "/nhan-vat/nguyen-ba-nghi"
+        },
+        {
+            "text": "Huỳnh Mẫn Đạt",
+            "href": "/nhan-vat/huynh-man-dat"
+        },
+        {
+            "text": "Nguyễn Công Nhàn",
+            "href": "/nhan-vat/nguyen-cong-nhan"
+        },
+        {
+            "text": "núi Voi",
+            "href": "/dia-danh/nui-voi"
+        },
+        {
+            "text": "Châu Đốc",
+            "href": "/dia-danh/chau-doc"
+        },
+        {
+            "text": "Châu Đốc",
+            "href": "/dia-danh/chau-doc"
+        },
+        {
+            "text": "đảo Phú Quốc",
+            "href": "/dia-danh/dao-phu-quoc"
+        },
+        {
+            "text": "Châu Đốc",
+            "href": "/dia-danh/chau-doc"
+        },
+        {
+            "text": "Châu Đốc",
+            "href": "/dia-danh/chau-doc"
+        },
+        {
+            "text": "Châu Thành",
+            "href": "/dia-danh/chau-thanh"
+        },
+        {
+            "text": "Châu Thành",
+            "href": "/dia-danh/chau-thanh"
+        },
+        {
+            "text": "Châu Đốc",
+            "href": "/dia-danh/chau-doc"
+        },
+        {
+            "text": "Ngô Đình Diệm",
+            "href": "/nhan-vat/ngo-dinh-diem"
+        },
+        {
+            "text": "thành Sài Gòn",
+            "href": "/dia-danh/thanh-sai-gon"
+        },
+        {
+            "text": "thành Sài Gòn",
+            "href": "/dia-danh/thanh-sai-gon"
+        },
+        {
+            "text": "Châu Thành",
+            "href": "/dia-danh/chau-thanh"
+        },
+        {
+            "text": "tỉnh Kiên Giang",
+            "href": "/dia-danh/tinh-kien-giang"
+        },
+        {
+            "text": "tỉnh Kiên Giang",
+            "href": "/dia-danh/tinh-kien-giang"
+        },
+        {
+            "text": "Châu Thành",
+            "href": "/dia-danh/chau-thanh"
+        },
+        {
+            "text": "tỉnh Kiên Giang",
+            "href": "/dia-danh/tinh-kien-giang"
+        },
+        {
+            "text": "tỉnh Kiên Giang",
+            "href": "/dia-danh/tinh-kien-giang"
+        },
+        {
+            "text": "tỉnh An Giang",
+            "href": "/dia-danh/tinh-an-giang"
+        },
+        {
+            "text": "tỉnh An Giang",
+            "href": "/dia-danh/tinh-an-giang"
+        },
+        {
+            "text": "Châu Đốc",
+            "href": "/dia-danh/chau-doc"
+        },
+        {
+            "text": "Châu Thành",
+            "href": "/dia-danh/chau-thanh"
+        },
+        {
+            "text": "Châu Thành",
+            "href": "/dia-danh/chau-thanh"
+        },
+        {
+            "text": "huyện Vĩnh Thuận",
+            "href": "/dia-danh/huyen-vinh-thuan"
+        },
+        {
+            "text": "tỉnh Cần Thơ",
+            "href": "/dia-danh/tinh-can-tho"
+        },
+        {
+            "text": "Châu Thành",
+            "href": "/dia-danh/chau-thanh"
+        },
+        {
+            "text": "tỉnh Kiên Giang",
+            "href": "/dia-danh/tinh-kien-giang"
+        },
+        {
+            "text": "Châu Thành",
+            "href": "/dia-danh/chau-thanh"
+        },
+        {
+            "text": "tỉnh Kiên Giang",
+            "href": "/dia-danh/tinh-kien-giang"
+        },
+        {
+            "text": "tỉnh Kiên Giang",
+            "href": "/dia-danh/tinh-kien-giang"
+        },
+        {
+            "text": "tỉnh Kiên Giang",
+            "href": "/dia-danh/tinh-kien-giang"
+        },
+        {
+            "text": "tỉnh Kiên Giang",
+            "href": "/dia-danh/tinh-kien-giang"
+        },
+        {
+            "text": "huyện Giang Thành",
+            "href": "/dia-danh/huyen-giang-thanh"
+        },
+        {
+            "text": "tỉnh Kiên Giang",
+            "href": "/dia-danh/tinh-kien-giang"
+        },
+        {
+            "text": "tỉnh Kiên Giang",
+            "href": "/dia-danh/tinh-kien-giang"
+        },
+        {
+            "text": "tỉnh Kiên Giang",
+            "href": "/dia-danh/tinh-kien-giang"
+        },
+        {
+            "text": "tỉnh Kiên Giang",
+            "href": "/dia-danh/tinh-kien-giang"
+        },
+        {
+            "text": "đảo Phú Quốc",
+            "href": "/dia-danh/dao-phu-quoc"
+        },
+        {
+            "text": "đảo Phú Quốc",
+            "href": "/dia-danh/dao-phu-quoc"
+        },
+        {
+            "text": "tỉnh An Giang",
+            "href": "/dia-danh/tinh-an-giang"
+        },
+        {
+            "text": "sông Cửu Long",
+            "href": "/dia-danh/song-cuu-long"
+        },
+        {
+            "text": "tỉnh An Giang",
+            "href": "/dia-danh/tinh-an-giang"
+        },
+        {
+            "text": "tỉnh An Giang",
+            "href": "/dia-danh/tinh-an-giang"
+        },
+        {
+            "text": "tỉnh Gia Định",
+            "href": "/dia-danh/tinh-gia-dinh"
+        },
+        {
+            "text": "Bài viết trước: tỉnh Hà Tây Trước",
+            "href": "/dia-danh/tinh-ha-tay"
+        },
+        {
+            "text": "Bài viết kế tiếp: tỉnh Hà Tĩnh Tiếp tục",
+            "href": "/dia-danh/tinh-ha-tinh"
+        },
+        {
+            "text": "nước Việt",
+            "href": "/dia-danh/nuoc-viet"
+        },
+        {
+            "text": "núi Tản Viên",
+            "href": "/dia-danh/nui-tan-vien"
+        },
+        {
+            "text": "sông Đà",
+            "href": "/dia-danh/song-da"
+        },
+        {
+            "text": "sông Hát",
+            "href": "/dia-danh/song-hat"
+        },
+        {
+            "text": "chùa Kiến Sơ",
+            "href": "/dia-danh/chua-kien-so"
+        },
+        {
+            "text": "hồ Động Đình",
+            "href": "/dia-danh/ho-dong-dinh"
+        },
+        {
+            "text": "nước Quắc",
+            "href": "/dia-danh/nuoc-quac"
+        },
+        {
+            "text": "nước Trịnh",
+            "href": "/dia-danh/nuoc-trinh"
+        },
+        {
+            "text": "châu Vũ Ninh",
+            "href": "/dia-danh/chau-vu-ninh"
+        },
+        {
+            "text": "Nước Tần",
+            "href": "/dia-danh/nuoc-tan"
+        },
+        {
+            "text": "Hồng Bàng & Văn Lang",
+            "href": "/dong-lich-su/hong-bang-va-van-lang"
+        },
+        {
+            "text": "Âu Lạc & Nam Việt",
+            "href": "/dong-lich-su/au-lac-va-nam-viet"
+        },
+        {
+            "text": "Bắc thuộc lần I",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat"
+        },
+        {
+            "text": "Nhà Triệu",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat/nha-trieu"
+        },
+        {
+            "text": "Trưng Nữ Vương",
+            "href": "/dong-lich-su/trung-nu-vuong"
+        },
+        {
+            "text": "Bắc thuộc lần II",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-hai"
+        },
+        {
+            "text": "Nhà Lý & Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu"
+        },
+        {
+            "text": "Nhà Tiền Lý",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-tien-ly"
+        },
+        {
+            "text": "Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-trieu"
+        },
+        {
+            "text": "Nhà Hậu Lý",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-hau-ly"
+        },
+        {
+            "text": "Bắc thuộc lần III",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-ba"
+        },
+        {
+            "text": "Thời kỳ xây nền tự chủ",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu"
+        },
+        {
+            "text": "Họ Khúc",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu/ho-khuc"
+        },
+        {
+            "text": "Nhà Ngô",
+            "href": "/dong-lich-su/nha-ngo"
+        },
+        {
+            "text": "Nhà Đinh",
+            "href": "/dong-lich-su/nha-dinh"
+        },
+        {
+            "text": "Nhà Tiền Lê",
+            "href": "/dong-lich-su/nha-tien-le"
+        },
+        {
+            "text": "Nhà Lý",
+            "href": "/dong-lich-su/nha-ly"
+        },
+        {
+            "text": "Nhà Trần",
+            "href": "/dong-lich-su/nha-tran"
+        },
+        {
+            "text": "Nhà Hồ",
+            "href": "/dong-lich-su/nha-ho"
+        },
+        {
+            "text": "Nhà Hậu Trần",
+            "href": "/dong-lich-su/nha-hau-tran"
+        },
+        {
+            "text": "Bắc thuộc lần IV",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-tu"
+        },
+        {
+            "text": "Nhà Hậu Lê",
+            "href": "/dong-lich-su/nha-hau-le"
+        },
+        {
+            "text": "Nam Bắc Triều",
+            "href": "/dong-lich-su/nam-bac-trieu"
+        },
+        {
+            "text": "Nhà Lê Trung Hưng",
+            "href": "/dong-lich-su/nam-bac-trieu/nha-le-trung-hung"
+        },
+        {
+            "text": "Nhà Mạc",
+            "href": "/dong-lich-su/nam-bac-trieu/nha-mac"
+        },
+        {
+            "text": "Trịnh Nguyễn Phân Tranh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh"
+        },
+        {
+            "text": "Nhà Lê Trung Hưng",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/nha-le-trung-hung"
+        },
+        {
+            "text": "Chúa Trịnh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-trinh"
+        },
+        {
+            "text": "Chúa Nguyễn",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen"
+        },
+        {
+            "text": "Nhà Tây Sơn",
+            "href": "/dong-lich-su/nha-tay-son"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/nha-nguyen"
+        },
+        {
+            "text": "Pháp Thuộc",
+            "href": "/dong-lich-su/phap-thuoc"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/phap-thuoc/nha-nguyen"
+        },
+        {
+            "text": "Những cuộc khởi nghĩa chống thực dân Pháp",
+            "href": "/dong-lich-su/phap-thuoc/khoi-nghia-chong-phap"
+        },
+        {
+            "text": "Đảng Cộng Sản Việt Nam",
+            "href": "/dong-lich-su/phap-thuoc/dang-cong-san-viet-nam"
+        },
+        {
+            "text": "Việt Nam Dân Chủ Cộng Hoà",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Kháng chiến chống Pháp",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-phap"
+        },
+        {
+            "text": "Kháng chiến chống Mĩ",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-mi"
+        },
+        {
+            "text": "Cộng hoà xã hội chủ nghĩa Việt Nam",
+            "href": "/dong-lich-su/viet-nam-xhcn"
+        },
+        {
+            "text": "Trận Điện Biên Phủ trên không năm 1972",
+            "href": "/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972"
+        },
+        {
+            "text": "Chiến tranh biên giới Tây Nam năm 1975 - 1978",
+            "href": "/tu-lieu/quan-su/chien-tranh-bien-gioi-tay-nam-nam-1975-1978"
+        },
+        {
+            "text": "Chiến dịch Mùa Xuân năm 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-mua-xuan-nam-1975"
+        },
+        {
+            "text": "Hải chiến Trường Sa năm 1988",
+            "href": "/tu-lieu/quan-su/hai-chien-truong-sa-nam-1988"
+        },
+        {
+            "text": "Chiến dịch Đường 14 - Phước Long năm 1974 - 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-duong-14-phuoc-long-nam-1974-1975"
+        },
+        {
+            "text": "Chiến dịch Tây Nguyên năm 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-tay-nguyen-nam-1975"
+        },
+        {
+            "text": "Trận Mậu Thân tại Huế năm 1968",
+            "href": "/tu-lieu/quan-su/tran-mau-than-tai-hue-nam-1968"
+        },
+        {
+            "text": "Bảng đối chiếu các triều đại Việt Nam và các triều đại Trung Quốc",
+            "href": "/tu-lieu/bang-doi-chieu-cac-trieu-dai-viet-nam-va-cac-trieu-dai-trung-quoc"
+        },
+        {
+            "text": "Bình Ngô đại cáo - bản tuyên ngôn độc lập thứ hai",
+            "href": "/tu-lieu/tac-pham/binh-ngo-dai-cao-ban-tuyen-ngon-doc-lap-thu-hai"
+        },
+        {
+            "text": "Lãnh thổ Việt Nam qua từng thời kỳ",
+            "href": "/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky"
+        },
+        {
+            "text": "Trận Đồi Thịt Băm năm 1969",
+            "href": "/tu-lieu/quan-su/tran-doi-thit-bam-nam-1969"
+        },
+        {
+            "text": "Chiến dịch Đắk Tô năm 1972",
+            "href": "/tu-lieu/quan-su/chien-dich-dak-to-nam-1972"
+        },
+        {
+            "text": "Nam quốc sơn hà - Bản tuyên ngôn độc lập đầu tiên",
+            "href": "/tu-lieu/tac-pham/nam-quoc-son-ha-ban-tuyen-ngon-doc-lap-dau-tien"
+        },
+        {
+            "text": "Tuyên ngôn độc lập Việt Nam Dân chủ Cộng hòa",
+            "href": "/tu-lieu/tac-pham/tuyen-ngon-doc-lap-viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Trận Bản Đông năm 1971",
+            "href": "/tu-lieu/quan-su/tran-ban-dong-nam-1971"
+        },
+        {
+            "text": "Trận Rạch Gầm \u2013 Xoài Mút năm 1785",
+            "href": "/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785"
+        },
+        {
+            "text": "Lịch sử Chữ viết tiếng Việt",
+            "href": "/tu-lieu/lich-su-chu-viet-tieng-viet"
+        },
+        {
+            "text": "Hịch tướng sĩ - Dụ chư tỳ tướng hịch văn",
+            "href": "/tu-lieu/tac-pham/hich-tuong-si-du-chu-ty-tuong-hich-van"
+        },
+        {
+            "text": "Danh sách Trạng nguyên Việt Nam",
+            "href": "/tu-lieu/danh-sach-trang-nguyen-viet-nam"
+        },
+        {
+            "text": "Hội nghị Paris, mặt trận ngoại giao năm 1968-1972",
+            "href": "/tu-lieu/bang-giao/hoi-nghi-paris-mat-tran-ngoai-giao-nam-1968-1972"
+        },
+        {
+            "text": "thành Cổ Loa",
+            "href": "/dia-danh/thanh-co-loa"
+        },
+        {
+            "text": "Đền Phù Đổng",
+            "href": "/dia-danh/den-phu-dong"
+        },
+        {
+            "text": "Khu di tích chiến thắng Điện Biên Phủ",
+            "href": "/dia-danh/khu-di-tich-chien-thang-dien-bien-phu"
+        },
+        {
+            "text": "Đền Hùng",
+            "href": "/dia-danh/den-hung"
+        },
+        {
+            "text": "Khu di tích Chủ tịch Hồ Chí Minh tại Phủ Chủ tịch",
+            "href": "/dia-danh/khu-di-tich-chu-tich-ho-chi-minh-tai-phu-chu-tich"
+        },
+        {
+            "text": "Đền Trần (Nam Định)",
+            "href": "/dia-danh/den-tran-nam-dinh"
+        },
+        {
+            "text": "Đền Trần (Thái Bình)",
+            "href": "/dia-danh/den-tran-thai-binh"
+        },
+        {
+            "text": "Dinh Độc Lập",
+            "href": "/dia-danh/dinh-doc-lap"
+        },
+        {
+            "text": "Khu di tích Pác Bó",
+            "href": "/dia-danh/khu-di-tich-pac-bo"
+        },
+        {
+            "text": "Quần thể di tích danh thắng Yên Tử",
+            "href": "/dia-danh/quan-the-di-tich-danh-thang-yen-tu"
+        },
+        {
+            "text": "Lý Nam Đế",
+            "href": "/nhan-vat/ly-nam-de"
+        },
+        {
+            "text": "Lê Đại Hành",
+            "href": "/nhan-vat/le-dai-hanh"
+        },
+        {
+            "text": "Hùng Vương",
+            "href": "/nhan-vat/hung-vuong"
+        },
+        {
+            "text": "Đinh Tiên Hoàng",
+            "href": "/nhan-vat/dinh-tien-hoang"
+        },
+        {
+            "text": "Trần Hưng Đạo",
+            "href": "/nhan-vat/tran-hung-dao"
+        },
+        {
+            "text": "Lê Thái Tổ",
+            "href": "/nhan-vat/le-thai-to"
+        },
+        {
+            "text": "Lý Thường Kiệt",
+            "href": "/nhan-vat/ly-thuong-kiet"
+        },
+        {
+            "text": "Hồ Chí Minh",
+            "href": "/nhan-vat/ho-chi-minh"
+        },
+        {
+            "text": "Nguyễn Huệ",
+            "href": "/nhan-vat/nguyen-hue"
+        },
+        {
+            "text": "Nguyễn Trãi",
+            "href": "/nhan-vat/nguyen-trai"
+        },
+        {
+            "text": "Vấn đề biên giới Việt-Trung thời Mạc",
+            "href": "/tu-lieu/bang-giao/van-de-bien-gioi-viet-trung-thoi-mac"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Tây Sơn",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-tay-son"
+        },
+        {
+            "text": "Biểu đồ các nhân vật lịch sử theo dòng thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Danh sách Trạng nguyên Việt Nam",
+            "href": "/tu-lieu/danh-sach-trang-nguyen-viet-nam"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Nguyễn",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-nguyen"
+        },
+        {
+            "text": "Trận Điện Biên Phủ trên không năm 1972",
+            "href": "/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972"
+        },
+        {
+            "text": "Trận Ngọc Hồi - Đống Đa năm 1789",
+            "href": "/tu-lieu/quan-su/tran-ngoc-hoi-dong-da-nam-1789"
+        },
+        {
+            "text": "Trận Cẩm Sa năm 1775",
+            "href": "/tu-lieu/quan-su/tran-cam-sa-nam-1775"
+        },
+        {
+            "text": "Trận Rạch Gầm \u2013 Xoài Mút năm 1785",
+            "href": "/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785"
+        },
+        {
+            "text": "Lãnh thổ Việt Nam qua từng thời kỳ",
+            "href": "/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky"
+        },
+        {
+            "text": "Đền Trần (Nam Định)",
+            "href": "/dia-danh/den-tran-nam-dinh"
+        },
+        {
+            "text": "Quần thể di tích Cố đô Huế",
+            "href": "/dia-danh/quan-the-di-tich-co-do-hue"
+        },
+        {
+            "text": "Thành nhà Hồ",
+            "href": "/dia-danh/thanh-nha-ho"
+        },
+        {
+            "text": "Thành cổ Quảng Trị",
+            "href": "/dia-danh/thanh-co-quang-tri"
+        },
+        {
+            "text": "Khu lưu niệm Chủ tịch Tôn Đức Thắng",
+            "href": "/dia-danh/khu-luu-niem-chu-tich-ton-duc-thang"
+        },
+        {
+            "text": "chùa Phổ Minh",
+            "href": "/dia-danh/chua-pho-minh"
+        },
+        {
+            "text": "Cố đô Hoa Lư",
+            "href": "/dia-danh/co-do-hoa-lu"
+        },
+        {
+            "text": "Đền Ngọc Sơn",
+            "href": "/dia-danh/den-ngoc-son"
+        },
+        {
+            "text": "Khu di tích Pác Bó",
+            "href": "/dia-danh/khu-di-tich-pac-bo"
+        },
+        {
+            "text": "Quần thể di tích danh thắng Yên Tử",
+            "href": "/dia-danh/quan-the-di-tich-danh-thang-yen-tu"
+        },
+        {
+            "text": "Giới thiệu",
+            "href": "/gioi-thieu"
+        },
+        {
+            "text": "Quyền riêng tư",
+            "href": "/quyen-rieng-tu"
+        },
+        {
+            "text": "Liên hệ",
+            "href": "/lien-he"
+        },
+        {
+            "text": "Địa Danh",
+            "href": "/dia-danh"
+        },
+        {
+            "text": "Trang Facebook",
+            "href": "https://www.facebook.com/nguoikesu/"
+        },
+        {
+            "text": "DanhMucBDS.com",
+            "href": "https://danhmucbds.com"
+        },
+        {
+            "text": "HocTotNguVan.com",
+            "href": "https://hoctotnguvan.com"
+        }
+    ],
+    "title": "tỉnh Hà Tiên - Người Kể Sử",
+    "paragraphs": [
+        "Hà Tiên (chữ Hán:河仙) là một trong sáu tỉnh đầu tiên ở Nam Kỳ Việt Nam, thành lập năm 1832.",
+        "",
+        "",
+        "Xưa kia, đây là vùng đất của Vương quốc Phù Nam, sau thuộc Chân Lạp và Đế chế Khmer, trong tiếng Việt gọi là Mang Khảm (còn gọi là Phương Thành, Trúc Phan, hay Đồng Trụ). Từ giữa thế kỷ 17, những lưu dân người Việt và người Hoa đã đi thuyền dọc theo đường biển đến tận vùng này sinh sống. Trong lời tựa tập Hà Tiên thập vịnh, Mạc Thiên Tích đã viết: \"Trấn Hà Tiên nước An Nam, xưa là đất hoang, từ tiên quân khai sáng đến nay đã hơn 30 năm, mà dân mới được ở yên, hơi biết việc trồng trọt\".",
+        "Tuy nhiên công lao khai phá Hà Tiên thuộc về hai cha con Mạc Cửu, Mạc Thiên Tích (Mạc Thiên Tứ), biến Hà Tiên thành nơi sầm uất. Mạc Cửu là người Quảng Đông (Trung Quốc), di cư đến sau khi nhà Minh bị tiêu diệt hoàn toàn năm 1645. Vua Cao Miên đã phong cho Mạc Cửu chức Oknha (Ốc nha) để cai quản vùng đất này. Mạc Cửu gom dân lưu tán lại lập ra 7 xã: Cà Mau, Rạch Giá, Phú Quốc, Vũng Thơm (Sihanoukville), Hà Tiên,..., (dọc bờ biển Tây, từ Cà Mau đến Vũng Thơm) và tự đứng ra cai quản. Tuy nhiên, do bị quân Xiêm La thường xuyên quấy nhiễu mà Cao Miên không đủ sức mạnh quân sự để bảo vệ. Gia quyến Mạc Cửu đã bị quân Xiêm bắt đem về nước họ. Mạc Cửu trốn thoát về Trũng Kè, sau lại về Mang Khảm khôi phục sản xuất. Mạc Cửu đã thân đến Phú Xuân dâng biểu xin đem 7 xã mà mình khai phá quy phục Chúa Nguyễn. Chúa Nguyễn ưng thuận, lệnh đổi tên đất Mang Khảm thành trấn Hà Tiên, phong Mạc Cửu làm Tổng binh coi giữ.",
+        "Tên gọi Hà Tiên do Mạc Cửu đặt, vì tương truyền xưa kia có tiên xuất hiện trên sông Giang Thành.",
+        "Năm Gia Long thứ 9 (1810) nhà Nguyễn đổi 2 đạo Kiên Giang và Long Xuyên thành huyện thuộc phủ An Biên trấn Hà Tiên. Giai đoạn 1819-1825, theo Gia Định thành thông chí của Trịnh Hoài Đức thì5 : Trấn Hà Tiên trực tiếp quản lý 19 làng người Việt (trong đó 7 làng thuộc trấn thành Hà Tiên (là: Minh Hương thôn, Tân An, Tân Đông, Tiêm Hưng, Mỹ Hòa, Thuận An, Tiêm Hương) và 12 làng thuộc đảo Phú Quốc (là: Dương Cảnh Đông, An Hòa, Vĩnh Thạnh, Thái Thạnh, Phước Lộc, Phú Đông, Cảm Sơn, Phước Sơn, Minh Hương thuộc (Phú Quốc), Tân Qui, Mỹ Thạnh, Tiên Tỉnh)), 6 làng người Hoa (Minh Bột Đại phố, Minh Bột Tân phố, Minh Bột Kỳ Thọ phố (trước là Cây Cầy), Minh Bột Lư Khê sở (trước là Rạch Vượt), Minh Bột Thổ Khâu điếm (trước là Điếm Rê), và Đường Nhơn thuộc (ở Phú Quốc)), 26 làng (sóc) người Khmer (Lộc Trĩ (Lok), Cổ Cần Lộ, Sa Cà Mao, Cố Sâm (hay Cố Tham), Cố...,..., Ba Nam Rạp, Phiếm, Cò Vinh, Xoài [Tống6 ] (Svay Tong), Hấp Tra, Kiên-xà-nư Rạch Vượt, Ta Lo, Côn..., Hòn Chông, Nam Rạp, Côn-trà Vị, Cốc Tầm Lai, Cốt Trà Câu, Phun Vàng Co, Côn Đồng, Việt Trác, Cốt Trà Mục, Bài Tầm Man, Lạc Bà Già, Tầm-nặc Tà-Bẹt (Damnak trabaek)), và 1 làng người Đồ Bà7 là: Đồ Bà đội. Ngoài ra Trấn Hà Tiên còn kiêm quản 2 huyện Long Xuyên và Kiên Giang. Đảo Phú Quốc trước năm Gia Long 18 (1819) thuộc đạo (huyện) Long Xuyên, năm 1819 chuyển lệ thuộc trấn thành Hà Tiên. Năm Minh Mạng thứ 6 (1825), đặt thêm huyện Hà Tiên (sau đổi là Hà Châu) thuộc phủ An Biên trấn Hà Tiên. Ban đầu huyện Hà Tiên gồm 2 tổng Hà Nhuận và Hà Thanh.8 Huyện Hà Tiên (Hà Châu) chứa tất cả 52 làng (gồm 19 làng người Việt, 6 làng người Hoa, 26 sóc người Cao Miên và 1 làng người Đô Bà), từng trực tiếp thuộc trấn thành giai đoạn 1819-1825 kể trên.",
+        "Tháng 4 âm lịch năm 1824, Nặc Ông Chân (Ang Chan II), hiến tặng nhà Nguyễn thông qua Nguyễn Văn Thoại (để trả ơn Thoại), 3 vùng Chân Sum (còn gọi là Chân Thành hay Chân Chiêm, nằm giữa Giang Thành và Châu Đốc), Mật Luật (Ngọc Luật, cũng nằm giữa Giang Thành và Châu Đốc), Lợi Kha Bát (Prey Kabbas tỉnh Takeo). Nhà Nguyễn chỉ lấy 2 đất Chân Sum và Mật Luật. Chân Sum sau được phân vào hai huyện Hà Âm và Hà Dương từng thuộc phủ Tĩnh Biên Hà Tiên, trước khi chia về cho tỉnh An Giang.",
+        "Năm 1832, vua Minh Mạng đặt ra tỉnh Hà Tiên (một trong 6 tỉnh Nam Kỳ), gồm 1 phủ là Quan Biên (đổi tên từ phủ An Biên) thống lĩnh 8 huyện: Hà Châu (đổi tên từ huyện Hà Tiên), Long Xuyên (sau này là địa bàn Cà Mau) và Kiên Giang (sau này là địa bàn tỉnh Rạch Giá), Sài Mạt, Linh Quỳnh, Châu Sum (có thể là Chhuk, mà cũng có thể là Bảy Núi), Cần Vọt, Vũng Thơm.",
+        "Năm 1833, Lê Văn Khôi nổi loạn đánh chiếm Hà Tiên, rồi quân Xiêm theo cầu viện của Khôi cũng vào chiếm Hà Tiên, nhà Nguyễn phải điều binh đánh dẹp. Năm 1834, nhà Nguyễn đem đất Cần Vọt và Vũng Thơm xưa đặt thành 2 phủ mới là Quảng Biên (Cần Vọt cũ, khoảng đất Kampot) và Khai Biên (Vũng Thơm cũ, khoảng cảng Kampong Som), đồng thời đổi lại tên phủ Quan Biên thành phủ An Biên. Đến năm 1837 lại hạ cấp phủ Khai Biên thành huyện và lập thêm huyện Kim Trường (sau đổi thành Vĩnh Trường, cùng với huyện Khai Biên thuộc phủ Quảng Biên (Kampot)). Nhưng đến thời vua Thiệu Trị (1840-1847), phủ Quảng Biên lại bị xóa bỏ9 . Năm 1836, Trương Đăng Quế, lập địa bạ Nam Kỳ, thì huyện Hà Châu tỉnh Hà Tiên gồm 5 tổng: Hà Nhuận, Hà Thanh, Nhuận Đức10 , Thanh Di, và tổng Phú Quốc (tổng hải đảo), tất cả gồm 44 làng. Tổng Phú Quốc gồm 9 làng: Phước Lộc, An Thới, Mỹ Thạnh, Tân Lập, Cẩm Sơn, Hàm Ninh, Thới Thạnh, Dương Đông, Tiên Tỉnh. Tổng Hà Nhuận gồm 5 làng: Tiên Phước, Tiên Hưng, Tiên Hưng Tây, Tiên Long, Hoa Giáp. Tổng Nhuận Đức gồm 7 làng: Đôn Hậu, Tầm Lai, Mụ Sơn, Cổ Tham, Lộc Trĩ, Nhương Lộ, Hòa Luật. Tổng Hà Thanh gồm 11 làng: Hòa Mỹ Đông, Vi Sơn, Tiên Thới, Tiên Mỹ, Hòa Thuận, Thạnh Long, Tiên Quân, Tân Thạnh, Mỹ Đức, Bình An, Thuận An. Tổng Thanh Di gồm 12 làng: Phú Đông, Nam Hòa, Cần Thu, Nam An, Trà Câu, Tư Ngãi, Côn Văn, Trác Việt, Thuận Đức, Sa Kỳ, Mông Mậu, Dương Hòa.11",
+        "Theo Đại Nam thực lục, năm Thiệu Trị thứ nhất (1841), tháng 4 âm lịch, thổ dân Khmer ở phủ Quảng Biên (Kampot, gồm cả huyện Khai Biên (Kampong Som)) không thuận theo nhà Nguyễn, sợ hãi bỏ quê đi lưu tán hết. Quan tỉnh Hà Tiên là Hoàng Mẫn Đạt tâu về triều. Vua Thiệu Trị cho là quan quân nhà Nguyễn ở Quảng Biên đóng giữ đất không, chẳng được ích lợi gì, liền cho binh biền đóng đồn phủ Quảng Biên, cùng quan phủ huyện rút hết về tỉnh thành Hà Tiên12 . Sau đó quân Xiêm-Lạp đến lấn đất phủ Quảng Biên (gồm cả huyện Khai Biên). Từ đó, phần đất phủ Quảng Biên (Kampot, Kampong Som) không còn thuộc tỉnh Hà Tiên của nhà Nguyễn nữa.",
+        "Năm Minh Mạng 20 (1839), vua Minh Mạng lấy đất nằm hai bên bờ kênh Vĩnh Tế thuộc phủ Chân Thành (Chân Chiêm hay Châu Chiêm) của Trấn Tây Thành (vùng lãnh thổ Cao Miên do nhà Nguyễn bảo hộ) nhập vào lãnh thổ Đại Nam thuộc tỉnh Hà Tiên, lập thành phủ Tĩnh Biên gồm 2 huyện: Hà Âm (phần phía Bắc phủ Tĩnh Biên, bờ tả sông Vĩnh Tế), Hà Dương (phần phía Nam phủ Tĩnh Biên, bờ hữu sông Vĩnh Tế). Sang thời Thiệu Trị, lại tách phủ Tĩnh Biên cùng 1 huyện Hà Dương khỏi Hà Tiên để nhập vào tỉnh An Giang (năm Thiệu Trị thứ 2 (1842)), huyện Hà Âm vẫn thuộc phủ An Biên tỉnh Hà Tiên cho đến năm 1844 thì chuyển nốt cho phủ Tĩnh Biên tỉnh An Giang.13",
+        "Thời vua Tự Đức cho đến khi Pháp chiếm Hà Tiên (1847-1867), tỉnh Hà Tiên gồm 1 phủ (là phủ An Biên) với 3 huyện: Hà Châu, Kiên Giang và Long Xuyên. Các huyện trước thuộc phủ Quảng Biên (đất Cần Bột (Kampot), Vũng Thơm) trả về cho nước Cao Miên.",
+        "Phủ An Biên (thời Tự Đức), gồm:",
+        "Theo Đại Nam nhất thống chí của Quốc sử quán nhà Nguyễn thì vào thời vua Tự Đức, cương vực tỉnh Hà Tiên như sau: \"...Đông-Tây cách nhau 37 dặm, Nam-Bắc cách nhau 25 dặm, phía Đông đến địa giới huyện Hà Dương tỉnh An Giang (35 dặm), phía Tây đến biển (2 dặm), phía Nam vượt qua núi Tô Châu đến biển (5 dặm), phía Bắc đến địa giới Cao Miên (25 dặm), phía Đông Nam đến địa giới huyện Phong Thịnh tỉnh An Giang (150 dặm linh), phía Tây Nam đến biển (chừng 1 dặm), phía Đông Bắc đến địa giới Cao Miên (25 dặm), phía Tây Bắc vượt qua núi Bạch Ô đến biển (20 dặm). Từ tỉnh lỵ đi về phía Đông đến Kinh 1.325 dặm...\"",
+        "Như vậy, tỉnh Hà Tiên nhà Nguyễn nằm kéo dài bên bờ vịnh Thái Lan (biển Tây), suốt từ Cà Mau đến Hà Tiên, có thời kỳ tới tận tỉnh Kampot và thành phố Sihanoukville (Kompong Som) của Campuchia, phía Đông giáp với tỉnh An Giang nhà Nguyễn, phía Tây Bắc, phía Bắc và phía Đông Bắc tiếp giáp Cao Miên.",
+        "Trong cuốn Đất nước Việt Nam qua các đời, xem xét về các địa danh trấn Hà Tiên, Đào Duy Anh viết: \"... Chúng ta đã biết Vũng Thơm, Cần Bọt, Sài Mạt là dải đất từ lỵ sở Hà Tiên đến Sài Mít. Tức dải đất bờ biển phía tây nam nước Cao Miên. Còn Chân Sum thì Nhất thống chí (An Giang) chép là núi ở phía nam huyện Hà Âm cách 10 dặm, cách bờ sông Vĩnh Tế ở phía Nam 10 dặm. Huyện Hà Âm là huyện ở phía bắc sông Vĩnh Tế (phía âm của sông) nên gọi tên là thế, đối với huyện Hà Dương là huyện ở phía nam (phía dương của sông). Có thể đất Chân Sum là đất Sóc Sum của tỉnh KamPot. Về Linh Quỳnh thì Nhất thống chí chép rằng núi Linh Quỳnh thuộc huyện Hà Châu cách 120 dặm và ở phía bắc sông Giang Thành, sông này có hai nguồn ra từ núi Linh Quỳnh. Linh Quỳnh tức địa điểm Linh Quỳnh của tỉnh KamPot nước Cao Miên. (Xem thế thì thấy rằng năm phủ Vũng Thơm, Cần Bọt, Chân Sum, Sài Mạt, Linh Quỳnh ở đời Nguyễn còn là đất của huyện Hà Châu tỉnh Hà Tiên và của huyện Hà Âm tỉnh An Giang, đến đời Tự Đức triều Nguyễn mới trả về nước Cao Miên).\"17",
+        "Các tổng đốc An Giang-Hà Tiên của nhà Nguyễn:",
+        "Các Tuần phủ (tỉnh trưởng) tỉnh Hà Tiên nhà Nguyễn",
+        "Theo Đại Nam nhất thống chí thì cảnh vật tỉnh Hà Tiên nhà Nguyễn gồm:",
+        "Ngày 24 tháng 6 năm 1867, tỉnh thành Hà Tiên bị thực dân Pháp chiếm. Sau nhiều năm do dự và phân thiết, địa bàn Hà Tiên được phân bổ ra các đơn vị hành chánh khá phức tạp, theo từng thời điểm khác nhau.",
+        "Năm 1868, tỉnh Hà Tiên cũ được chia ra làm hai hạt Thanh tra: Hà Tiên và Rạch Giá",
+        "Năm 1874, hạt Thanh tra Phú Quốc được thành lập, nhưng vì kinh tế không phát triển được nên một năm sau phải giải thể.",
+        "Năm 1876, Pháp chia Nam Kỳ thành 4 khu vực hành chính lớn, mỗi khu vực hành chính lại chia nhỏ thành các tiểu khu hay hạt tham biện (arrondissement administratif) thì tỉnh Hà Tiên cũ bị chia thành hai hạt tham biện là Hà Tiên (chủ hạt là Chavassieux) và Rạch Giá (chủ hạt là Granier). Năm 1882, thiết lập hạt tham biện Bạc Liêu trên cơ sở tách 3 tổng Quảng Long, Quảng Xuyên và Long Hưng của hạt tham biện Rạch Giá hợp với 2 tổng Thạnh Hòa và Thạnh Hưng tách từ hạt tham biện Sóc Trăng chuyển sang. Lỵ sở Bạc Liêu thuộc địa bàn tổng Thạnh Hòa vốn trước đó thuộc hạt tham biện Sóc Trăng.",
+        "Năm 1888, Hà Tiên cho thuộc về hạt tham biện Châu Đốc - dưới quyền của Chủ tỉnh Châu Đốc lúc này là Dussol, đến cuối năm 1892 được phục hồi. Hạt tham biện Hà Tiên thuộc khu vực Bát Xắc (Bassac) chỉ còn đất huyện Hà Châu của tỉnh Hà Tiên cũ với 4 tổng: tổng Hà Thanh (có 6 thôn), tổng Thanh Gi (có 4 thôn), tổng Phú Quốc (có 4 thôn) và tổng Bình Trị (hay Bình An có 1 thôn).",
+        "Từ ngày 1 tháng 1 năm 1900 hạt tham biện Hà Tiên trở thành tỉnh Hà Tiên theo Nghị định ngày 20 tháng 12 năm 1899 của Toàn quyền Đông Dương đổi tên tất cả các hạt tham biện thành tỉnh. Chủ tỉnh lúc này là E. Lupuy. Thời chủ tỉnh Hà Tiên J. Hubert-Delisle, đảo Phú Quốc được đặt dưới quyền của đại diện chủ tỉnh Hà Tiên (năm 1903).",
+        "Từ năm 1913 đến năm 1924, tỉnh Hà Tiên được đặt dưới quyền chủ tỉnh Châu Đốc, lúc này là ông L. de Matra là chủ tỉnh. Ngày 9 tháng 2 năm 1924 - dưới thời chủ tỉnh Châu Đốc G. Striedter, Hà Tiên lại trở thành một tỉnh độc lập. Năm 1924, tỉnh Hà Tiên gồm 4 quận: Châu Thành, Giang Thành, Hòn Chông và Phú Quốc. Tỉnh lỵ Hà Tiên đặt tại làng Mỹ Đức thuộc tổng Hà Thanh, quận Châu Thành. Chủ tỉnh Hà Tiên đầu tiên là A. Klein (1924 - 1925)).",
+        "Sau Cách mạng Tháng Tám năm 1945, tỉnh Hà Tiên là một trong 21 tỉnh ở Nam Bộ.",
+        "Tháng 10 năm 1950, chính quyền Việt Nam Dân chủ Cộng hòa quyết định hợp nhất tỉnh Long Châu Hậu (bao gồm một phần tỉnh Châu Đốc và một phần tỉnh Long Xuyên trước đó) và tỉnh Hà Tiên để thành lập tỉnh Long Châu Hà. Tuy nhiên, tỉnh Long Châu Hà không được chính quyền Quốc gia Việt Nam của Bảo Đại và chính quyền Việt Nam Cộng Hòa công nhận.",
+        "Năm 1954, tỉnh Long Châu Hà bị giải thể và tỉnh Hà Tiên lại được tái lập.",
+        "Ban đầu, chính quyền Quốc gia Việt Nam và sau đó là Việt Nam Cộng hòa vẫn duy trì tên gọi tỉnh Hà Tiên như thời Pháp thuộc.",
+        "Ngày 22 tháng 10 năm 1956, Tổng thống Việt Nam Cộng hòa Ngô Đình Diệm ký Sắc lệnh 143/VN để \" thay đổi địa giới và tên Đô thành Sài Gòn \u2013 Chợ Lớn cùng các tỉnh và tỉnh lỵ tại Việt Nam\". Theo Sắc lệnh này, địa phận Nam Phần của Việt Nam Cộng Hoà gồm Đô thành Sài Gòn và 22 tỉnh. Lúc này, tỉnh Hà Tiên bị bãi bỏ và 4 quận là Châu Thành, Hòn Chông, Giang Thành, Phú Quốc được sáp nhập vào tỉnh Rạch Giá để thành lập tỉnh Kiên Giang.",
+        "Khi đó, địa bàn tỉnh Hà Tiên cũ được chuyển thành quận Hà Tiên và quận Phú Quốc cùng thuộc tỉnh Kiên Giang. Trong đó, địa bàn quận Hà Tiên bao gồm các quận Châu Thành, Giang Thành và Hòn Chông trước năm 1956.",
+        "Ngày 31 tháng 5 năm 1961, chính quyền Việt Nam Cộng hòa cho thành lập quận Kiên Lương thuộc tỉnh Kiên Giang. Quận Kiên Lương gồm 5 xã tách từ quận Kiên Thành và quận Hà Tiên là: An Bình, Bình Trị, Thổ Sơn, An Hoà, Dương Hoà. Quận lỵ đặt tại xã An Bình. Ngày 04 tháng 09 năm 1961, quận Kiên Lương thành lập mới xã Đức Phương.",
+        "Thời Việt Nam Cộng Hòa, Hà Tiên chỉ là một quận của tỉnh Kiên Giang. Quận Hà Tiên gồm 3 xã Mỹ Đức, Phú Mỹ và Thuận Yên, 15 ấp. Quận lỵ đặt tại xã Mỹ Đức.",
+        "Lúc bấy giờ, chính quyền Mặt trận dân tộc giải phóng miền Nam Việt Nam (sau này là Chính phủ Cách mạng lâm thời Cộng hòa Miền Nam Việt Nam) và Việt Nam Dân chủ Cộng hòa cũng quyết định hợp nhất tỉnh Hà Tiên và tỉnh Rạch Giá trước đó lại thành một tỉnh có tên là tỉnh Rạch Giá.",
+        "Năm 1957, chính quyền Cách mạng quyết định giải thể tỉnh Hà Tiên, chuyển thành huyện Hà Tiên và huyện Phú Quốc cùng trực thuộc tỉnh Rạch Giá.",
+        "Năm 1965, chính quyền Cách mạng giao huyện Hà Tiên và huyện Phú Quốc cho tỉnh An Giang quản lý. Đến năm 1967 lại trả hai huyện Hà Tiên và Phú Quốc về cho tỉnh Rạch Giá như trước. Tuy nhiên, năm 1971 khi Trung ương Cục miền Nam quyết định thành lập tỉnh Châu Hà, tách ra từ tỉnh An Giang và tỉnh Rạch Giá, trên phần đất tỉnh Châu Đốc và tỉnh Hà Tiên trước năm 1956 thì huyện Hà Tiên, huyện Phú Quốc cùng với huyện Châu Thành A của tỉnh Rạch Giá lại được giao về cho tỉnh Châu Hà quản lý. Đến năm 1974 ba huyện này lại cùng thuộc tỉnh Long Châu Hà.",
+        "Sau ngày 30 tháng 04 năm 1975, chính quyền quân quản Cộng hòa miền Nam Việt Nam ban đầu vẫn đặt các huyện Hà Tiên, huyện Phú Quốc và huyện Châu Thành A cùng thuộc tỉnh Long Châu Hà. Lúc này, chính quyền Cách mạng cũng bỏ danh xưng \"quận\" có từ thời Pháp thuộc và lấy danh xưng \"huyện\" (quận và phường dành cho các đơn vị hành chánh tương đương khi đã đô thị hóa).",
+        "Ngày 20 tháng 9 năm 1975, Bộ Chính trị ra Nghị quyết số 245-NQ/TW về việc bỏ khu, hợp tỉnh trong toàn quốc \"nhằm xây dựng các tỉnh thành những đơn vị kinh tế, kế hoạch và đơn vị hành chính có khả năng giải quyết đến mức cao nhất những yêu cầu về đẩy mạnh sản xuất, tổ chức đời sống vật chất, văn hóa của nhân dân, về củng cố quốc phòng, bảo vệ trị an, và có khả năng đóng góp tốt nhất vào sự nghiệp chung của cả nước\". Theo Nghị quyết này, địa bàn tỉnh Rạch Giá lúc đó (tương ứng với tỉnh Hà Tiên thời phong kiến) sẽ được chia ra vào sáp nhập vào các tỉnh mới, tên gọi tỉnh mới cùng với nơi đặt tỉnh lỵ sẽ do địa phương đề nghị lên. Cụ thể như sau:",
+        "Nhưng đến ngày 20 tháng 12 năm 1975, Bộ Chính trị lại ra Nghị quyết số 19/NQ điều chỉnh lại việc hợp nhất tỉnh ở miền Nam Việt Nam cho sát với tình hình thực tế, theo đó tỉnh Rạch Giá cũ (bao gồm cả ba huyện Hà Tiên, Phú Quốc, Châu Thành A hiện cùng thuộc tỉnh Long Châu Hà nhưng trước năm 1971 lại cũng đều thuộc tỉnh Rạch Giá) vẫn để thành một tỉnh riêng biệt.",
+        "Tháng 2 năm 1976, Chính phủ Việt Nam quyết định tái lập tỉnh Kiên Giang trên cơ sở toàn bộ diện tích tỉnh Rạch Giá và ba huyện: Châu Thành A, Hà Tiên, Phú Quốc vốn thuộc tỉnh Long Châu Hà trước đó. Từ đó, Hà Tiên lại trở thành một huyện thuộc tỉnh Kiên Giang. Địa bàn huyện Hà Tiên lúc này tương ứng với quận Hà Tiên và gần 1/2 diện tích quận Kiên Lương của tỉnh Kiên Giang thời Việt Nam Cộng hòa.",
+        "Ngày 8 tháng 7 năm 1998, Chính phủ Việt Nam ban hành Nghị định số 47/1998/NĐ-CP về việc thành lập thị xã Hà Tiên và thành lập các phường thuộc thị xã Hà Tiên, tỉnh Kiên Giang. Theo đó, thành lập thị xã Hà Tiên trên cơ sở toàn bộ diện tích và dân số của thị trấn Hà Tiên, xã Thuận Yên (trừ 2.732 ha diện tích tự nhiên và 3.302 nhân khẩu giao về xã Phú Mỹ quản lý), xã Mỹ Đức và xã Tiên Hải thuộc huyện Hà Tiên. Sau khi điều chỉnh địa giới hành chính để thành lập thị xã Hà Tiên, huyện Hà Tiên có 89.548,5 ha diện tích tự nhiên và 62.162 nhân khẩu, gồm 6 xã và 1 thị trấn.24",
+        "Ngày 21 tháng 04 năm 1999, Chính phủ Việt Nam ban hành Nghị định số 28/1999/NĐ - CP25 về việc đổi tên huyện Hà Tiên thành huyện Kiên Lương thuộc tỉnh Kiên Giang.",
+        "Ngày 29 tháng 06 năm 2009, Chính phù ban hành Nghị quyết số 29/NQ-CP về việc điều chỉnh địa giới hành chính xã, phường, thuộc các huyện, thành lập xã thuộc thị xã Hà Tiên vàv các huyện: Kiên Lương, Tân Hiệp, Giồng Riềng, Vĩnh Thuận; đồng thời điều chỉnh địa giới hành chính huyện Kiên Lương để thành lập huyện Giang Thành, tỉnh Kiên Giang.",
+        "Sau nhiều lần thay đổi hành chính, địa bàn tỉnh Hà Tiên cũ thời Pháp thuộc hiện nay tương ứng với các huyện Phú Quốc, Kiên Lương, Giang Thành và thị xã Hà Tiên cùng thuộc tỉnh Kiên Giang. Còn địa bàn tỉnh Hà Tiên thời phong kiến thì bao gồm toàn bộ các tỉnh Kiên Giang, Cà Mau và một phần các tỉnh Bạc Liêu, Hậu Giang ngày nay.",
+        "Hiện nay, địa danh \"Hà Tiên\" chỉ còn được dùng để chỉ thị xã Hà Tiên, đơn vị hành chính cấp huyện trực thuộc tỉnh Kiên Giang.",
+        "Cương vực trấn Hà Tiên (sau là tỉnh Hà Tiên) vào cuối thời chúa Nguyễn (thế kỷ 18) và đầu thời nhà Nguyễn (thế kỷ 19), cho đến trước năm 1841.",
+        "Tỉnh Hà Tiên ở Nam Kỳ giai đoạn (1844-1867).",
+        "Tỉnh Hà Tiên trong bản đồ Nam Kỳ Lục tỉnh (Basse Cochinchine).",
+        "Bản đồ 2 tỉnh An Giang và Hà Tiên của nhà Nguyễn thời kỳ độc lập.",
+        "Nam Kỳ thuộc Pháp (Basse Cochinchine Francaise) khoảng năm 188127",
+        "(Nguồn: Wikipedia)"
+    ]
+}

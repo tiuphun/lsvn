@@ -1,0 +1,936 @@
+{
+    "tables": ["<table class=\"multicol\" role=\"presentation\">\n <tbody>\n  <tr>\n   <td>\n    <div>\n     <ul>\n      <li><span id=\"CITEREFĐào_Duy_Anh2002\" class=\"citation\">Đào Duy Anh (2002), <i>Lịch sử Việt Nam từ nguồn gốc đến Thế kỷ XIX<\/i>, Nhà xuất bản Văn hóa Thông tin<\/span><span title=\"ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3ANgo%E1%BA%A1i+giao+Vi%E1%BB%87t+Nam+th%E1%BB%9Di+Nguy%E1%BB%85n&amp;rft.au=%C4%90%C3%A0o+Duy+Anh&amp;rft.aulast=%C4%90%C3%A0o+Duy+Anh&amp;rft.btitle=L%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%E1%BB%AB+ngu%E1%BB%93n+g%E1%BB%91c+%C4%91%E1%BA%BFn+Th%E1%BA%BF+k%E1%BB%B7+XIX&amp;rft.date=2002&amp;rft.genre=book&amp;rft.pub=Nh%C3%A0+xu%E1%BA%A5t+b%E1%BA%A3n+V%C4%83n+h%C3%B3a+Th%C3%B4ng+tin&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook\" class=\"Z3988\"><span>&nbsp;<\/span><\/span>.<\/li>\n     <\/ul>\n     <ul>\n      <li><span id=\"CITEREFTrần_Trọng_Kim1971\" class=\"citation\"><a class=\"annotation\" href=\"/nhan-vat/tran-trong-kim\" title=\"Trần Trọng Kim (chữ Hán: 陳仲金; 1883 \u2013 1953) là một học giả danh tiếng nhà giáo dục, nhà nghiên cứu sử học, văn học, tôn giáo Việt Nam, bút hiệu Lệ Thần (遺臣), thủ tướng của chính phủ Đế quốc Việt Nam (1945) được thành lập trong thời kỳ Đế quốc Nhật Bản chiếm đóng Việt Nam. Ông là tác giả của nhiều cuố...\" target=\"_blank\">Trần Trọng Kim<\/a> (1971), <i>[[Việt Nam sử lược]]<\/i> <b>2<\/b>, Sài Gòn: Trung tâm Học liệu Xuất bản thuộc Bộ Giáo dục<\/span><span title=\"ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3ANgo%E1%BA%A1i+giao+Vi%E1%BB%87t+Nam+th%E1%BB%9Di+Nguy%E1%BB%85n&amp;rft.au=Tr%E1%BA%A7n+Tr%E1%BB%8Dng+Kim&amp;rft.aulast=Tr%E1%BA%A7n+Tr%E1%BB%8Dng+Kim&amp;rft.btitle=Vi%E1%BB%87t+Nam+s%E1%BB%AD+l%C6%B0%E1%BB%A3c&amp;rft.date=1971&amp;rft.genre=book&amp;rft.place=S%C3%A0i+G%C3%B2n&amp;rft.pub=Trung+t%C3%A2m+H%E1%BB%8Dc+li%E1%BB%87u+Xu%E1%BA%A5t+b%E1%BA%A3n+thu%E1%BB%99c+B%E1%BB%99+Gi%C3%A1o+d%E1%BB%A5c&amp;rft.volume=2&amp;rft_id=http%3A%2F%2Fwww.songhuong.com.vn%2Fmain.php%3Fcid%3D40%2C3%26id%3D16%26case%3D2%26left%3D40%2C18%26gr%3D3%23&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook\" class=\"Z3988\"><span>&nbsp;<\/span><\/span> <span class=\"error citation-comment\">Tựa đề URL chứa liên kết wiki (trợ giúp)<\/span>.<\/li>\n     <\/ul>\n     <ul>\n      <li><span id=\"CITEREFDương_Quảng_Hàm1968\" class=\"citation\"><a class=\"annotation\" href=\"/nhan-vat/duong-quang-ham\" title=\"Dương Quảng Hàm (tiếng Trung: 楊廣涵), tự Hải Lượng (海量), là nhà nghiên cứu văn học, nhà giáo dục Việt Nam. \r\n Tác phẩm Việt Nam văn học sử yếu, do ông dày công biên soạn, được xem là cuốn văn học sử phổ thông bằng chữ quốc ngữ đầu tiên của Việt Nam....\" target=\"_blank\">Dương Quảng Hàm<\/a> (1968), <i>Việt Nam văn học sử yếu<\/i>, Sài Gòn: Trung tâm Học liệu Xuất bản thuộc Bộ Giáo dục<\/span><span title=\"ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3ANgo%E1%BA%A1i+giao+Vi%E1%BB%87t+Nam+th%E1%BB%9Di+Nguy%E1%BB%85n&amp;rft.au=D%C6%B0%C6%A1ng+Qu%E1%BA%A3ng+H%C3%A0m&amp;rft.aulast=D%C6%B0%C6%A1ng+Qu%E1%BA%A3ng+H%C3%A0m&amp;rft.btitle=Vi%E1%BB%87t+Nam+v%C4%83n+h%E1%BB%8Dc+s%E1%BB%AD+y%E1%BA%BFu&amp;rft.date=1968&amp;rft.genre=book&amp;rft.place=S%C3%A0i+G%C3%B2n&amp;rft.pub=Trung+t%C3%A2m+H%E1%BB%8Dc+li%E1%BB%87u+Xu%E1%BA%A5t+b%E1%BA%A3n+thu%E1%BB%99c+B%E1%BB%99+Gi%C3%A1o+d%E1%BB%A5c&amp;rft_id=http%3A%2F%2Fsonghuong.com.vn%2Fmain.php%3Fcid%3D40%2C3%26id%3D68%26case%3D2%26left%3D40%2C18%26gr%3D3%23&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook\" class=\"Z3988\"><span>&nbsp;<\/span><\/span>.<\/li>\n      <li><span id=\"CITEREFĐặng_Việt_ThủyĐặng_Thành_Trung2008\" class=\"citation\">Đặng Việt Thủy; Đặng Thành Trung (2008), <i>54 vị Hoàng đế Việt Nam<\/i>, Hà Nội: Nhà xuất bản Quân đội Nhân dân<\/span><span title=\"ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3ANgo%E1%BA%A1i+giao+Vi%E1%BB%87t+Nam+th%E1%BB%9Di+Nguy%E1%BB%85n&amp;rft.au=%C4%90%E1%BA%B7ng+Th%C3%A0nh+Trung&amp;rft.au=%C4%90%E1%BA%B7ng+Vi%E1%BB%87t+Th%E1%BB%A7y&amp;rft.aulast=%C4%90%E1%BA%B7ng+Vi%E1%BB%87t+Th%E1%BB%A7y&amp;rft.btitle=54+v%E1%BB%8B+Ho%C3%A0ng+%C4%91%E1%BA%BF+Vi%E1%BB%87t+Nam&amp;rft.date=2008&amp;rft.genre=book&amp;rft.place=H%C3%A0+N%E1%BB%99i&amp;rft.pub=Nh%C3%A0+xu%E1%BA%A5t+b%E1%BA%A3n+Qu%C3%A2n+%C4%91%E1%BB%99i+Nh%C3%A2n+d%C3%A2n&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook\" class=\"Z3988\"><span>&nbsp;<\/span><\/span>.<\/li>\n      <li><span id=\"CITEREFTrương_Hữu_Quýnh2005\" class=\"citation\">Trương Hữu Quýnh; nnk. (2005), <i>Đại cương Lịch sử Việt Nam-tập I<\/i>, Nhà xuất bản Giáo dục<\/span><span title=\"ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3ANgo%E1%BA%A1i+giao+Vi%E1%BB%87t+Nam+th%E1%BB%9Di+Nguy%E1%BB%85n&amp;rft.au=Tr%C6%B0%C6%A1ng+H%E1%BB%AFu+Qu%C3%BDnh&amp;rft.aulast=Tr%C6%B0%C6%A1ng+H%E1%BB%AFu+Qu%C3%BDnh&amp;rft.btitle=%C4%90%E1%BA%A1i+c%C6%B0%C6%A1ng+L%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam-t%E1%BA%ADp+I&amp;rft.date=2005&amp;rft.genre=book&amp;rft.pub=Nh%C3%A0+xu%E1%BA%A5t+b%E1%BA%A3n+Gi%C3%A1o+d%E1%BB%A5c&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook\" class=\"Z3988\"><span>&nbsp;<\/span><\/span> <span class=\"error citation-comment\">Chú thích sử dụng tham số <code>|coauthors=<\/code> bị phản đối (trợ giúp)<\/span><\/li>\n     <\/ul>\n     <ul>\n      <li><span id=\"CITEREFTrương_Hữu_Quýnh2004\" class=\"citation\">Trương Hữu Quýnh; nnk. (2004), <i>Lịch sử Việt Nam từ thế kỷ X đến 1858<\/i>, Nhà xuất bản ĐH Sư phạm<\/span><span title=\"ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3ANgo%E1%BA%A1i+giao+Vi%E1%BB%87t+Nam+th%E1%BB%9Di+Nguy%E1%BB%85n&amp;rft.au=Tr%C6%B0%C6%A1ng+H%E1%BB%AFu+Qu%C3%BDnh&amp;rft.aulast=Tr%C6%B0%C6%A1ng+H%E1%BB%AFu+Qu%C3%BDnh&amp;rft.btitle=L%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%E1%BB%AB+th%E1%BA%BF+k%E1%BB%B7+X+%C4%91%E1%BA%BFn+1858&amp;rft.date=2004&amp;rft.genre=book&amp;rft.pub=Nh%C3%A0+xu%E1%BA%A5t+b%E1%BA%A3n+%C4%90H+S%C6%B0+ph%E1%BA%A1m&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook\" class=\"Z3988\"><span>&nbsp;<\/span><\/span> <span class=\"error citation-comment\">Chú thích sử dụng tham số <code>|coauthors=<\/code> bị phản đối (trợ giúp)<\/span><\/li>\n     <\/ul>\n     <ul>\n      <li><span id=\"CITEREFĐinh_Xuân_Lâm2007\" class=\"citation\"><a class=\"annotation\" href=\"/nhan-vat/dinh-xuan-lam\" title=\"Đinh Xuân Lâm (4 tháng 2 năm 1925 - 25 tháng 1 năm 2017) là một trong những người góp công đầu xây dựng Bộ môn Lịch sử cận&amp;#160;\u2013 hiện đại Việt Nam, phó chủ tịch Hội Khoa học Lịch sử Việt Nam khóa IV, Chủ tịch Hội đồng khoa học Trung tâm UNESCO Thông tin tư liệu lịch sử và văn hóa Việt Nam ....\" target=\"_blank\">Đinh Xuân Lâm<\/a>; nnk. (2007), <i>Đại cương Lịch sử Việt Nam-tập II<\/i>, Nhà xuất bản Giáo dục<\/span><span title=\"ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3ANgo%E1%BA%A1i+giao+Vi%E1%BB%87t+Nam+th%E1%BB%9Di+Nguy%E1%BB%85n&amp;rft.au=%C4%90inh+Xu%C3%A2n+L%C3%A2m&amp;rft.aulast=%C4%90inh+Xu%C3%A2n+L%C3%A2m&amp;rft.btitle=%C4%90%E1%BA%A1i+c%C6%B0%C6%A1ng+L%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam-t%E1%BA%ADp+II&amp;rft.date=2007&amp;rft.genre=book&amp;rft.pub=Nh%C3%A0+xu%E1%BA%A5t+b%E1%BA%A3n+Gi%C3%A1o+d%E1%BB%A5c&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook\" class=\"Z3988\"><span>&nbsp;<\/span><\/span> <span class=\"error citation-comment\">Chú thích sử dụng tham số <code>|coauthors=<\/code> bị phản đối (trợ giúp)<\/span><\/li>\n      <li><span id=\"CITEREFTrần_Đức_Anh_Sơn2004\" class=\"citation\"><a class=\"annotation\" href=\"/nhan-vat/tran-duc-anh-son\" title=\"Trần Đức Anh Sơn (sinh ngày 16 tháng 9 năm 1967 tại Huế) là một nghiên cứu gia khoa học xã hội Việt Nam.  \n Trần Đức Anh Sơn được nhiều người biết đến với công trình nghiên cứu của ông về Biển Đông và chủ quyền của Việt Nam ở khu vực này. Ông được New York Times mệnh danh là &quot;Người săn bản đồ&quot; trong...\" target=\"_blank\">Trần Đức Anh Sơn<\/a> (2004), <i>HUẾ Triều Nguyễn một cái nhìn<\/i>, Nhà xuất bản Thuận Hóa<\/span><span title=\"ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3ANgo%E1%BA%A1i+giao+Vi%E1%BB%87t+Nam+th%E1%BB%9Di+Nguy%E1%BB%85n&amp;rft.au=Tr%E1%BA%A7n+%C4%90%E1%BB%A9c+Anh+S%C6%A1n&amp;rft.aulast=Tr%E1%BA%A7n+%C4%90%E1%BB%A9c+Anh+S%C6%A1n&amp;rft.btitle=HU%E1%BA%BE+Tri%E1%BB%81u+Nguy%E1%BB%85n+m%E1%BB%99t+c%C3%A1i+nh%C3%ACn&amp;rft.date=2004&amp;rft.genre=book&amp;rft.pub=Nh%C3%A0+xu%E1%BA%A5t+b%E1%BA%A3n+Thu%E1%BA%ADn+H%C3%B3a&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook\" class=\"Z3988\"><span>&nbsp;<\/span><\/span>.<\/li>\n     <\/ul>\n     <ul>\n      <li><span id=\"CITEREFNguyễn_Thị_Thạnh2008\" class=\"citation\">Nguyễn Thị Thạnh (2008), <i>The French conquest of Cochin-China, 1858-1862<\/i>, [Ph.D. Thesis], Cornell University 1982<\/span><span title=\"ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3ANgo%E1%BA%A1i+giao+Vi%E1%BB%87t+Nam+th%E1%BB%9Di+Nguy%E1%BB%85n&amp;rft.au=Nguy%E1%BB%85n+Th%E1%BB%8B+Th%E1%BA%A1nh&amp;rft.aulast=Nguy%E1%BB%85n+Th%E1%BB%8B+Th%E1%BA%A1nh&amp;rft.btitle=The+French+conquest+of+Cochin-China%2C+1858-1862&amp;rft.date=2008&amp;rft.genre=book&amp;rft.pub=%5BPh.D.+Thesis%5D%2C+Cornell+University+1982&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook\" class=\"Z3988\"><span>&nbsp;<\/span><\/span>.<\/li>\n     <\/ul>\n     <ul>\n      <li><span id=\"CITEREFUỷ_ban_Khoa_học_Xã_hội_Việt_Nam1971\" class=\"citation\">Uỷ ban Khoa học Xã hội Việt Nam (1971), <i>Lịch sử Việt Nam, tập I<\/i>, Nhà xuất bản KHXH,Hà Nội<\/span><span title=\"ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3ANgo%E1%BA%A1i+giao+Vi%E1%BB%87t+Nam+th%E1%BB%9Di+Nguy%E1%BB%85n&amp;rft.au=U%E1%BB%B7+ban+Khoa+h%E1%BB%8Dc+X%C3%A3+h%E1%BB%99i+Vi%E1%BB%87t+Nam&amp;rft.aulast=U%E1%BB%B7+ban+Khoa+h%E1%BB%8Dc+X%C3%A3+h%E1%BB%99i+Vi%E1%BB%87t+Nam&amp;rft.btitle=L%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam%2C+t%E1%BA%ADp+I&amp;rft.date=1971&amp;rft.genre=book&amp;rft.pub=Nh%C3%A0+xu%E1%BA%A5t+b%E1%BA%A3n+KHXH%2CH%C3%A0+N%E1%BB%99i&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook\" class=\"Z3988\"><span>&nbsp;<\/span><\/span>.<\/li>\n     <\/ul>\n     <p class=\"mw-empty-elt\"><\/p>\n    <\/div><\/td>\n   <td>\n    <ul>\n     <li><span id=\"CITEREFNguyễn_Thế_Anh2019\" class=\"citation\"><a class=\"annotation\" href=\"/nhan-vat/nguyen-the-anh\" title=\"Nguyễn Thế Anh có thể là:...\" target=\"_blank\">Nguyễn Thế Anh<\/a> (14 tháng 3 năm 2019), <i>Việt Nam Thời Pháp Đô Hộ<\/i>, Nhà xuất bản Văn Học, ISBN&nbsp;1107020003574<span class=\"error citation-comment\"> Kiểm tra giá trị <code>|isbn=<\/code> (trợ giúp)<\/span><\/span><span title=\"ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3ANgo%E1%BA%A1i+giao+Vi%E1%BB%87t+Nam+th%E1%BB%9Di+Nguy%E1%BB%85n&amp;rft.au=Nguy%E1%BB%85n+Th%E1%BA%BF+Anh&amp;rft.aulast=Nguy%E1%BB%85n+Th%E1%BA%BF+Anh&amp;rft.btitle=Vi%E1%BB%87t+Nam+Th%E1%BB%9Di+Ph%C3%A1p+%C4%90%C3%B4+H%E1%BB%99&amp;rft.date=14+th%C3%A1ng+3+n%C4%83m+2019&amp;rft.genre=book&amp;rft.isbn=1107020003574&amp;rft.pub=Nh%C3%A0+xu%E1%BA%A5t+b%E1%BA%A3n+V%C4%83n+H%E1%BB%8Dc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook\" class=\"Z3988\"><span>&nbsp;<\/span><\/span>.<\/li>\n     <li><span id=\"CITEREFNguyễn_Khắc_Thuần2005\" class=\"citation\"><a class=\"annotation\" href=\"/nhan-vat/nguyen-khac-thuan\" title=\"Nguyễn Khắc Thuần là nhà sử học, là một giảng viên đại học ở Việt Nam (hiện là trưởng khoa Việt Nam học Đại học Bình Dương) và là tác giả của nhiều bộ sách lịch sử, văn hóa. Ông có hai bộ sách được công nhận kỷ lục Guinness Việt Nam năm 2011....\" target=\"_blank\">Nguyễn Khắc Thuần<\/a> (2005), <i>Đại cương lịch sử cổ trung đại Việt Nam<\/i>, Nhà xuất bản Giáo dục<\/span><span title=\"ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3ANgo%E1%BA%A1i+giao+Vi%E1%BB%87t+Nam+th%E1%BB%9Di+Nguy%E1%BB%85n&amp;rft.au=Nguy%E1%BB%85n+Kh%E1%BA%AFc+Thu%E1%BA%A7n&amp;rft.aulast=Nguy%E1%BB%85n+Kh%E1%BA%AFc+Thu%E1%BA%A7n&amp;rft.btitle=%C4%90%E1%BA%A1i+c%C6%B0%C6%A1ng+l%E1%BB%8Bch+s%E1%BB%AD+c%E1%BB%95+trung+%C4%91%E1%BA%A1i+Vi%E1%BB%87t+Nam&amp;rft.date=2005&amp;rft.genre=book&amp;rft.pub=Nh%C3%A0+xu%E1%BA%A5t+b%E1%BA%A3n+Gi%C3%A1o+d%E1%BB%A5c&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook\" class=\"Z3988\"><span>&nbsp;<\/span><\/span>.<\/li>\n     <li><span id=\"CITEREFNhiều_tác_giả2007\" class=\"citation\">Nhiều tác giả (2007), <i>Những vấn đề lịch sử triều Nguyễn<\/i>, TP <a class=\"annotation\" href=\"/nhan-vat/ho-chi-minh\" title=\"Hồ Chí Minh (19 tháng 5 năm 1890 \u2013 2 tháng 9 năm 1969) tên khai sinh: Nguyễn Sinh Cung, là nhà cách mạng, người sáng lập Đảng Cộng sản Việt Nam, một trong những người đặt nền móng và lãnh đạo công cuộc đấu tranh giành độc lập, toàn vẹn lãnh thổ cho Việt Nam trong thế kỷ 20, một chiến sĩ cộng sản quố...\" target=\"_blank\">Hồ Chí Minh<\/a>: Nhà xuất bản Văn hoá Sài Gòn<\/span><span title=\"ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3ANgo%E1%BA%A1i+giao+Vi%E1%BB%87t+Nam+th%E1%BB%9Di+Nguy%E1%BB%85n&amp;rft.au=Nhi%E1%BB%81u+t%C3%A1c+gi%E1%BA%A3&amp;rft.aulast=Nhi%E1%BB%81u+t%C3%A1c+gi%E1%BA%A3&amp;rft.btitle=Nh%E1%BB%AFng+v%E1%BA%A5n+%C4%91%E1%BB%81+l%E1%BB%8Bch+s%E1%BB%AD+tri%E1%BB%81u+Nguy%E1%BB%85n&amp;rft.date=2007&amp;rft.genre=book&amp;rft.place=TP+H%E1%BB%93+Ch%C3%AD+Minh&amp;rft.pub=Nh%C3%A0+xu%E1%BA%A5t+b%E1%BA%A3n+V%C4%83n+ho%C3%A1+S%C3%A0i+G%C3%B2n&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook\" class=\"Z3988\"><span>&nbsp;<\/span><\/span>.<\/li>\n     <li><span id=\"CITEREFLê_Nguyễn2009\" class=\"citation\">Lê Nguyễn (2009), <i>Nhà Nguyễn và những vấn đề lịch sử<\/i>, Hà Nội: Nhà xuất bản Công an nhân dân<\/span><span title=\"ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3ANgo%E1%BA%A1i+giao+Vi%E1%BB%87t+Nam+th%E1%BB%9Di+Nguy%E1%BB%85n&amp;rft.au=L%C3%AA+Nguy%E1%BB%85n&amp;rft.aulast=L%C3%AA+Nguy%E1%BB%85n&amp;rft.btitle=Nh%C3%A0+Nguy%E1%BB%85n+v%C3%A0+nh%E1%BB%AFng+v%E1%BA%A5n+%C4%91%E1%BB%81+l%E1%BB%8Bch+s%E1%BB%AD&amp;rft.date=2009&amp;rft.genre=book&amp;rft.place=H%C3%A0+N%E1%BB%99i&amp;rft.pub=Nh%C3%A0+xu%E1%BA%A5t+b%E1%BA%A3n+C%C3%B4ng+an+nh%C3%A2n+d%C3%A2n&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook\" class=\"Z3988\"><span>&nbsp;<\/span><\/span><\/li>\n     <li><span id=\"CITEREFPhạm_Văn_Sơn1960\" class=\"citation\"><a class=\"annotation\" href=\"/nhan-vat/pham-van-son\" title=\"Phạm Văn Sơn (1915 - 1978) là một sử gia Việt Nam và là sĩ quan Quân lực Việt Nam Cộng hòa....\" target=\"_blank\">Phạm Văn Sơn<\/a> (1960), <i>Việt sử toàn thư<\/i><\/span><span title=\"ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3ANgo%E1%BA%A1i+giao+Vi%E1%BB%87t+Nam+th%E1%BB%9Di+Nguy%E1%BB%85n&amp;rft.au=Ph%E1%BA%A1m+V%C4%83n+S%C6%A1n&amp;rft.aulast=Ph%E1%BA%A1m+V%C4%83n+S%C6%A1n&amp;rft.btitle=Vi%E1%BB%87t+s%E1%BB%AD+to%C3%A0n+th%C6%B0&amp;rft.date=1960&amp;rft.genre=book&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook\" class=\"Z3988\"><span>&nbsp;<\/span><\/span>.<\/li>\n     <li><span id=\"CITEREFNguyễn_Phan_Quang1976\" class=\"citation\">Nguyễn Phan Quang (1976), <i>Lịch sử Việt Nam (1427-1858), quyển II, Tập 2<\/i>, Nhà xuất bản Giáo dục<\/span><span title=\"ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3ANgo%E1%BA%A1i+giao+Vi%E1%BB%87t+Nam+th%E1%BB%9Di+Nguy%E1%BB%85n&amp;rft.au=Nguy%E1%BB%85n+Phan+Quang&amp;rft.aulast=Nguy%E1%BB%85n+Phan+Quang&amp;rft.btitle=L%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+%281427-1858%29%2C+quy%E1%BB%83n+II%2C+T%E1%BA%ADp+2&amp;rft.date=1976&amp;rft.genre=book&amp;rft.pub=Nh%C3%A0+xu%E1%BA%A5t+b%E1%BA%A3n+Gi%C3%A1o+d%E1%BB%A5c&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook\" class=\"Z3988\"><span>&nbsp;<\/span><\/span>.<\/li>\n    <\/ul>\n    <ul>\n     <li><span id=\"CITEREFNguyễn_Phan_Quang1999\" class=\"citation\">Nguyễn Phan Quang (1999), <i>Việt Nam Thế kỷ XIX<\/i>, Nhà xuất bản Giáo dục Thành phố <a class=\"annotation\" href=\"/nhan-vat/ho-chi-minh\" title=\"Hồ Chí Minh (19 tháng 5 năm 1890 \u2013 2 tháng 9 năm 1969) tên khai sinh: Nguyễn Sinh Cung, là nhà cách mạng, người sáng lập Đảng Cộng sản Việt Nam, một trong những người đặt nền móng và lãnh đạo công cuộc đấu tranh giành độc lập, toàn vẹn lãnh thổ cho Việt Nam trong thế kỷ 20, một chiến sĩ cộng sản quố...\" target=\"_blank\">Hồ Chí Minh<\/a><\/span><span title=\"ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3ANgo%E1%BA%A1i+giao+Vi%E1%BB%87t+Nam+th%E1%BB%9Di+Nguy%E1%BB%85n&amp;rft.au=Nguy%E1%BB%85n+Phan+Quang&amp;rft.aulast=Nguy%E1%BB%85n+Phan+Quang&amp;rft.btitle=Vi%E1%BB%87t+Nam+Th%E1%BA%BF+k%E1%BB%B7+XIX&amp;rft.date=1999&amp;rft.genre=book&amp;rft.pub=Nh%C3%A0+xu%E1%BA%A5t+b%E1%BA%A3n+Gi%C3%A1o+d%E1%BB%A5c+Th%C3%A0nh+ph%E1%BB%91+H%E1%BB%93+Ch%C3%AD+Minh&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook\" class=\"Z3988\"><span>&nbsp;<\/span><\/span>.<\/li>\n     <li><span id=\"CITEREFNguyễn_Đình_Đầu2005\" class=\"citation\"><a class=\"annotation\" href=\"/nhan-vat/nguyen-dinh-dau\" title=\"Nguyễn Đình Đầu (sinh năm 1920) là một nhà nghiên cứu nổi tiếng trong lĩnh vực địa lý học - lịch sử Việt Nam. Ông được biết nhiều với các công trình nghiên cứu về lãnh thổ Việt Nam qua từng thời kỳ và giới nghiên cứu đánh giá là một nhà khoa học nghiêm túc, tận tụy và có nhiều cống hiến quan trọng c...\" target=\"_blank\">Nguyễn Đình Đầu<\/a> (2005), <i>Việt Nam-Quốc hiệu và Cương vực qua các thời đại<\/i>, Nhà xuất bản Trẻ<\/span><span title=\"ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3ANgo%E1%BA%A1i+giao+Vi%E1%BB%87t+Nam+th%E1%BB%9Di+Nguy%E1%BB%85n&amp;rft.au=Nguy%E1%BB%85n+%C4%90%C3%ACnh+%C4%90%E1%BA%A7u&amp;rft.aulast=Nguy%E1%BB%85n+%C4%90%C3%ACnh+%C4%90%E1%BA%A7u&amp;rft.btitle=Vi%E1%BB%87t+Nam-Qu%E1%BB%91c+hi%E1%BB%87u+v%C3%A0+C%C6%B0%C6%A1ng+v%E1%BB%B1c+qua+c%C3%A1c+th%E1%BB%9Di+%C4%91%E1%BA%A1i&amp;rft.date=2005&amp;rft.genre=book&amp;rft.pub=Nh%C3%A0+xu%E1%BA%A5t+b%E1%BA%A3n+Tr%E1%BA%BB&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook\" class=\"Z3988\"><span>&nbsp;<\/span><\/span>.<\/li>\n    <\/ul>\n    <ul>\n     <li><span id=\"CITEREFNayan_Chanda1986\" class=\"citation\">Nayan Chanda (1986), <i>Brother Enemy<\/i>, Harcourt Brace Jovanovich<\/span><span title=\"ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3ANgo%E1%BA%A1i+giao+Vi%E1%BB%87t+Nam+th%E1%BB%9Di+Nguy%E1%BB%85n&amp;rft.au=Nayan+Chanda&amp;rft.aulast=Nayan+Chanda&amp;rft.btitle=Brother+Enemy&amp;rft.date=1986&amp;rft.genre=book&amp;rft.pub=Harcourt+Brace+Jovanovich&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook\" class=\"Z3988\"><span>&nbsp;<\/span><\/span>.<\/li>\n    <\/ul>\n    <ul>\n     <li>Vu Tam Ich. \"A Historical Survey of Educational Developments in Vietnam\". <i>Bulletin of the Bureau of School Service<\/i> Vol XXXII, No 2. Lexington, KY: University of Kentucky, College of Education, 1959.<\/li>\n    <\/ul><\/td>\n  <\/tr>\n <\/tbody>\n<\/table>"],
+    "keywords": [],
+    "headings": [
+        "Ngoại giao Việt Nam thời Nguyễn",
+        "Với Trung Quốc",
+        "Với Xiêm La",
+        "Với Ai Lao",
+        "Với Chân Lạp",
+        "Với phương Tây",
+        "Xem thêm",
+        "Chú thích",
+        "Tham khảo",
+        "Bài viết cùng thư mục",
+        "CÁC THỜI KỲ LỊCH SỬ",
+        "Tư Liệu",
+        "Anh Hùng Dân Tộc Tiêu Biểu",
+        "Tư Liệu Lịch Sử",
+        "Di Tích Lịch Sử"
+    ],
+    "anchors": [
+        {
+            "text": "",
+            "href": "/"
+        },
+        {
+            "text": "Trang Chủ",
+            "href": "/"
+        },
+        {
+            "text": "Dòng Lịch Sử",
+            "href": "/dong-lich-su"
+        },
+        {
+            "text": "Hồng Bàng & Văn Lang",
+            "href": "/dong-lich-su/hong-bang-va-van-lang"
+        },
+        {
+            "text": "Âu Lạc & Nam Việt",
+            "href": "/dong-lich-su/au-lac-va-nam-viet"
+        },
+        {
+            "text": "Bắc thuộc lần I",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat"
+        },
+        {
+            "text": "Trưng Nữ Vương",
+            "href": "/dong-lich-su/trung-nu-vuong"
+        },
+        {
+            "text": "Bắc thuộc lần II",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-hai"
+        },
+        {
+            "text": "Nhà Lý & Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu"
+        },
+        {
+            "text": "Bắc thuộc lần III",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-ba"
+        },
+        {
+            "text": "Thời kỳ xây nền tự chủ",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu"
+        },
+        {
+            "text": "Nhà Ngô",
+            "href": "/dong-lich-su/nha-ngo"
+        },
+        {
+            "text": "Nhà Đinh",
+            "href": "/dong-lich-su/nha-dinh"
+        },
+        {
+            "text": "Nhà Tiền Lê",
+            "href": "/dong-lich-su/nha-tien-le"
+        },
+        {
+            "text": "Nhà Lý",
+            "href": "/dong-lich-su/nha-ly"
+        },
+        {
+            "text": "Nhà Trần",
+            "href": "/dong-lich-su/nha-tran"
+        },
+        {
+            "text": "Nhà Hồ",
+            "href": "/dong-lich-su/nha-ho"
+        },
+        {
+            "text": "Nhà Hậu Trần",
+            "href": "/dong-lich-su/nha-hau-tran"
+        },
+        {
+            "text": "Bắc thuộc lần IV",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-tu"
+        },
+        {
+            "text": "Nhà Hậu Lê",
+            "href": "/dong-lich-su/nha-hau-le"
+        },
+        {
+            "text": "Nam Bắc Triều",
+            "href": "/dong-lich-su/nam-bac-trieu"
+        },
+        {
+            "text": "Trịnh Nguyễn Phân Tranh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh"
+        },
+        {
+            "text": "Nhà Tây Sơn",
+            "href": "/dong-lich-su/nha-tay-son"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/nha-nguyen"
+        },
+        {
+            "text": "Pháp Thuộc",
+            "href": "/dong-lich-su/phap-thuoc"
+        },
+        {
+            "text": "Việt Nam Dân Chủ Cộng Hoà",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Cộng hoà xã hội chủ nghĩa Việt Nam",
+            "href": "/dong-lich-su/viet-nam-xhcn"
+        },
+        {
+            "text": "Tư Liệu",
+            "href": "/tu-lieu"
+        },
+        {
+            "text": "Quân Sự",
+            "href": "/tu-lieu/quan-su?filter_tag[0]="
+        },
+        {
+            "text": "Tác Phẩm",
+            "href": "/tu-lieu/tac-pham?filter_tag[0]="
+        },
+        {
+            "text": "Bang Giao",
+            "href": "/tu-lieu/bang-giao"
+        },
+        {
+            "text": "Biểu đồ thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Nhân Vật",
+            "href": "/nhan-vat"
+        },
+        {
+            "text": "Anh Hùng Dân Tộc",
+            "href": "/anh-hung-dan-toc?types[0]=1"
+        },
+        {
+            "text": "Danh nhân văn hóa",
+            "href": "/danh-nhan-van-hoa?types[0]=1"
+        },
+        {
+            "text": "Di Tích",
+            "href": "/di-tich-lich-su?types[0]=1"
+        },
+        {
+            "text": "Ngày Nay",
+            "href": "/thoi-su"
+        },
+        {
+            "text": "Sách",
+            "href": "/sach"
+        },
+        {
+            "text": "Video",
+            "href": "/video"
+        },
+        {
+            "text": "Q&A",
+            "href": "/hoi-dap"
+        },
+        {
+            "text": "Lịch sử lớp 12",
+            "href": "/hoi-dap/lop-12"
+        },
+        {
+            "text": "Lịch sử lớp 11",
+            "href": "/hoi-dap/lop-11"
+        },
+        {
+            "text": "Lịch sử lớp 10",
+            "href": "/hoi-dap/lop-10"
+        },
+        {
+            "text": "Lịch sử lớp 9",
+            "href": "/hoi-dap/lop-9"
+        },
+        {
+            "text": "Lịch sử lớp 8",
+            "href": "/hoi-dap/lop-8"
+        },
+        {
+            "text": "Lịch sử lớp 7",
+            "href": "/hoi-dap/lop-7"
+        },
+        {
+            "text": "Lịch sử lớp 6",
+            "href": "/hoi-dap/lop-6"
+        },
+        {
+            "text": "Trang chủ",
+            "href": "/"
+        },
+        {
+            "text": "Tư Liệu",
+            "href": "/tu-lieu"
+        },
+        {
+            "text": "Bang Giao",
+            "href": "/tu-lieu/bang-giao"
+        },
+        {
+            "text": "Bang Giao",
+            "href": "/tu-lieu/bang-giao"
+        },
+        {
+            "text": "Thu / Mở",
+            "href": "#"
+        },
+        {
+            "text": "Với Trung Quốc",
+            "href": "#voi-trung-quoc"
+        },
+        {
+            "text": "Với Xiêm La",
+            "href": "#voi-xiem-la"
+        },
+        {
+            "text": "Với Ai Lao",
+            "href": "#voi-ai-lao"
+        },
+        {
+            "text": "Với Chân Lạp",
+            "href": "#voi-chan-lap"
+        },
+        {
+            "text": "Với phương Tây",
+            "href": "#voi-phuong-tay"
+        },
+        {
+            "text": "Xem thêm",
+            "href": "#xem-them"
+        },
+        {
+            "text": "Chú thích",
+            "href": "#chu-thich"
+        },
+        {
+            "text": "Tham khảo",
+            "href": "#tham-khao"
+        },
+        {
+            "text": "Trịnh Hoài Đức",
+            "href": "/nhan-vat/trinh-hoai-duc"
+        },
+        {
+            "text": "nhà Thanh",
+            "href": "/nhan-vat/nha-thanh"
+        },
+        {
+            "text": "Lê Quang Định",
+            "href": "/nhan-vat/le-quang-dinh"
+        },
+        {
+            "text": "nhà Thanh",
+            "href": "/nhan-vat/nha-thanh"
+        },
+        {
+            "text": "nhà Thanh",
+            "href": "/nhan-vat/nha-thanh"
+        },
+        {
+            "text": "nhà Thanh",
+            "href": "/nhan-vat/nha-thanh"
+        },
+        {
+            "text": "nhà Thanh",
+            "href": "/nhan-vat/nha-thanh"
+        },
+        {
+            "text": "Lê Duy Phụng",
+            "href": "/nhan-vat/le-duy-phung"
+        },
+        {
+            "text": "Trịnh Quốc Anh",
+            "href": "/nhan-vat/trinh-quoc-anh"
+        },
+        {
+            "text": "tỉnh Battambang",
+            "href": "/dia-danh/tinh-battambang"
+        },
+        {
+            "text": "nước Xiêm",
+            "href": "/dia-danh/nuoc-xiem"
+        },
+        {
+            "text": "Nguyễn Văn Thụy",
+            "href": "/nhan-vat/nguyen-van-thuy"
+        },
+        {
+            "text": "Phan Văn Thúy",
+            "href": "/nhan-vat/phan-van-thuy"
+        },
+        {
+            "text": "Phan Văn Thúy",
+            "href": "/nhan-vat/phan-van-thuy"
+        },
+        {
+            "text": "Nguyễn Văn Xuân",
+            "href": "/nhan-vat/nguyen-van-xuan"
+        },
+        {
+            "text": "Trấn Ninh",
+            "href": "/dia-danh/tran-ninh"
+        },
+        {
+            "text": "Trấn Ninh",
+            "href": "/dia-danh/tran-ninh"
+        },
+        {
+            "text": "Phạm Văn Điển",
+            "href": "/nhan-vat/pham-van-dien"
+        },
+        {
+            "text": "Lê Đăng Doanh",
+            "href": "/nhan-vat/le-dang-doanh"
+        },
+        {
+            "text": "nước Xiêm",
+            "href": "/dia-danh/nuoc-xiem"
+        },
+        {
+            "text": "Lê Văn Khôi",
+            "href": "/nhan-vat/le-van-khoi"
+        },
+        {
+            "text": "Phạm Văn Sơn",
+            "href": "/nhan-vat/pham-van-son"
+        },
+        {
+            "text": "Trấn Ninh",
+            "href": "/dia-danh/tran-ninh"
+        },
+        {
+            "text": "tỉnh Thanh Hóa",
+            "href": "/dia-danh/tinh-thanh-hoa"
+        },
+        {
+            "text": "Trương Minh Giảng",
+            "href": "/nhan-vat/truong-minh-giang"
+        },
+        {
+            "text": "Lê Đại Cương",
+            "href": "/nhan-vat/le-dai-cuong"
+        },
+        {
+            "text": "Trương Minh Giảng",
+            "href": "/nhan-vat/truong-minh-giang"
+        },
+        {
+            "text": "Trương Minh Giảng",
+            "href": "/nhan-vat/truong-minh-giang"
+        },
+        {
+            "text": "nước Pháp",
+            "href": "/dia-danh/nuoc-phap"
+        },
+        {
+            "text": "đảo Côn Lôn",
+            "href": "/dia-danh/dao-con-lon"
+        },
+        {
+            "text": "nước Pháp",
+            "href": "/dia-danh/nuoc-phap"
+        },
+        {
+            "text": "nước Anh",
+            "href": "/dia-danh/nuoc-anh"
+        },
+        {
+            "text": "châu Âu",
+            "href": "/dia-danh/chau-au"
+        },
+        {
+            "text": "nước Pháp",
+            "href": "/dia-danh/nuoc-phap"
+        },
+        {
+            "text": "nước Mỹ",
+            "href": "/dia-danh/nuoc-my"
+        },
+        {
+            "text": "nước Anh",
+            "href": "/dia-danh/nuoc-anh"
+        },
+        {
+            "text": "Trần Trọng Kim",
+            "href": "/nhan-vat/tran-trong-kim"
+        },
+        {
+            "text": "Phạm Văn Sơn",
+            "href": "/nhan-vat/pham-van-son"
+        },
+        {
+            "text": "Phạm Văn Sơn",
+            "href": "/nhan-vat/pham-van-son"
+        },
+        {
+            "text": "Phạm Văn Sơn",
+            "href": "/nhan-vat/pham-van-son"
+        },
+        {
+            "text": "Trần Trọng Kim",
+            "href": "/nhan-vat/tran-trong-kim"
+        },
+        {
+            "text": "Trần Trọng Kim",
+            "href": "/nhan-vat/tran-trong-kim"
+        },
+        {
+            "text": "Phạm Văn Sơn",
+            "href": "/nhan-vat/pham-van-son"
+        },
+        {
+            "text": "Trần Trọng Kim",
+            "href": "/nhan-vat/tran-trong-kim"
+        },
+        {
+            "text": "Dương Quảng Hàm",
+            "href": "/nhan-vat/duong-quang-ham"
+        },
+        {
+            "text": "Đinh Xuân Lâm",
+            "href": "/nhan-vat/dinh-xuan-lam"
+        },
+        {
+            "text": "Trần Đức Anh Sơn",
+            "href": "/nhan-vat/tran-duc-anh-son"
+        },
+        {
+            "text": "Nguyễn Thế Anh",
+            "href": "/nhan-vat/nguyen-the-anh"
+        },
+        {
+            "text": "Nguyễn Khắc Thuần",
+            "href": "/nhan-vat/nguyen-khac-thuan"
+        },
+        {
+            "text": "Hồ Chí Minh",
+            "href": "/nhan-vat/ho-chi-minh"
+        },
+        {
+            "text": "Phạm Văn Sơn",
+            "href": "/nhan-vat/pham-van-son"
+        },
+        {
+            "text": "Hồ Chí Minh",
+            "href": "/nhan-vat/ho-chi-minh"
+        },
+        {
+            "text": "Nguyễn Đình Đầu",
+            "href": "/nhan-vat/nguyen-dinh-dau"
+        },
+        {
+            "text": "Bài viết trước: Ngoại giao Việt Nam thời Tây Sơn Trước",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-tay-son"
+        },
+        {
+            "text": "Bài viết kế tiếp: Quan hệ Hoa Kỳ \u2013 Việt Nam Tiếp tục",
+            "href": "/tu-lieu/bang-giao/quan-he-hoa-ky-viet-nam"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Hồng Bàng",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-hong-bang"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Tự chủ",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-tu-chu"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Ngô",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-ngo"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Đinh",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-dinh"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Tiền Lê",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-tien-le"
+        },
+        {
+            "text": "Bang giao Việt Nam thời Lý",
+            "href": "/tu-lieu/bang-giao/bang-giao-viet-nam-thoi-ly"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Trần",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-tran"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Lê sơ",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-le-so"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Mạc",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-mac"
+        },
+        {
+            "text": "Vấn đề biên giới Việt-Trung thời Mạc",
+            "href": "/tu-lieu/bang-giao/van-de-bien-gioi-viet-trung-thoi-mac"
+        },
+        {
+            "text": "Hồng Bàng & Văn Lang",
+            "href": "/dong-lich-su/hong-bang-va-van-lang"
+        },
+        {
+            "text": "Âu Lạc & Nam Việt",
+            "href": "/dong-lich-su/au-lac-va-nam-viet"
+        },
+        {
+            "text": "Bắc thuộc lần I",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat"
+        },
+        {
+            "text": "Nhà Triệu",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat/nha-trieu"
+        },
+        {
+            "text": "Trưng Nữ Vương",
+            "href": "/dong-lich-su/trung-nu-vuong"
+        },
+        {
+            "text": "Bắc thuộc lần II",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-hai"
+        },
+        {
+            "text": "Nhà Lý & Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu"
+        },
+        {
+            "text": "Nhà Tiền Lý",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-tien-ly"
+        },
+        {
+            "text": "Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-trieu"
+        },
+        {
+            "text": "Nhà Hậu Lý",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-hau-ly"
+        },
+        {
+            "text": "Bắc thuộc lần III",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-ba"
+        },
+        {
+            "text": "Thời kỳ xây nền tự chủ",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu"
+        },
+        {
+            "text": "Họ Khúc",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu/ho-khuc"
+        },
+        {
+            "text": "Nhà Ngô",
+            "href": "/dong-lich-su/nha-ngo"
+        },
+        {
+            "text": "Nhà Đinh",
+            "href": "/dong-lich-su/nha-dinh"
+        },
+        {
+            "text": "Nhà Tiền Lê",
+            "href": "/dong-lich-su/nha-tien-le"
+        },
+        {
+            "text": "Nhà Lý",
+            "href": "/dong-lich-su/nha-ly"
+        },
+        {
+            "text": "Nhà Trần",
+            "href": "/dong-lich-su/nha-tran"
+        },
+        {
+            "text": "Nhà Hồ",
+            "href": "/dong-lich-su/nha-ho"
+        },
+        {
+            "text": "Nhà Hậu Trần",
+            "href": "/dong-lich-su/nha-hau-tran"
+        },
+        {
+            "text": "Bắc thuộc lần IV",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-tu"
+        },
+        {
+            "text": "Nhà Hậu Lê",
+            "href": "/dong-lich-su/nha-hau-le"
+        },
+        {
+            "text": "Nam Bắc Triều",
+            "href": "/dong-lich-su/nam-bac-trieu"
+        },
+        {
+            "text": "Nhà Lê Trung Hưng",
+            "href": "/dong-lich-su/nam-bac-trieu/nha-le-trung-hung"
+        },
+        {
+            "text": "Nhà Mạc",
+            "href": "/dong-lich-su/nam-bac-trieu/nha-mac"
+        },
+        {
+            "text": "Trịnh Nguyễn Phân Tranh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh"
+        },
+        {
+            "text": "Nhà Lê Trung Hưng",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/nha-le-trung-hung"
+        },
+        {
+            "text": "Chúa Trịnh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-trinh"
+        },
+        {
+            "text": "Chúa Nguyễn",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen"
+        },
+        {
+            "text": "Nhà Tây Sơn",
+            "href": "/dong-lich-su/nha-tay-son"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/nha-nguyen"
+        },
+        {
+            "text": "Pháp Thuộc",
+            "href": "/dong-lich-su/phap-thuoc"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/phap-thuoc/nha-nguyen"
+        },
+        {
+            "text": "Những cuộc khởi nghĩa chống thực dân Pháp",
+            "href": "/dong-lich-su/phap-thuoc/khoi-nghia-chong-phap"
+        },
+        {
+            "text": "Đảng Cộng Sản Việt Nam",
+            "href": "/dong-lich-su/phap-thuoc/dang-cong-san-viet-nam"
+        },
+        {
+            "text": "Việt Nam Dân Chủ Cộng Hoà",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Kháng chiến chống Pháp",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-phap"
+        },
+        {
+            "text": "Kháng chiến chống Mĩ",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-mi"
+        },
+        {
+            "text": "Cộng hoà xã hội chủ nghĩa Việt Nam",
+            "href": "/dong-lich-su/viet-nam-xhcn"
+        },
+        {
+            "text": "Trận Điện Biên Phủ trên không năm 1972",
+            "href": "/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972"
+        },
+        {
+            "text": "Chiến tranh biên giới Tây Nam năm 1975 - 1978",
+            "href": "/tu-lieu/quan-su/chien-tranh-bien-gioi-tay-nam-nam-1975-1978"
+        },
+        {
+            "text": "Chiến dịch Mùa Xuân năm 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-mua-xuan-nam-1975"
+        },
+        {
+            "text": "Hải chiến Trường Sa năm 1988",
+            "href": "/tu-lieu/quan-su/hai-chien-truong-sa-nam-1988"
+        },
+        {
+            "text": "Chiến dịch Đường 14 - Phước Long năm 1974 - 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-duong-14-phuoc-long-nam-1974-1975"
+        },
+        {
+            "text": "Chiến dịch Tây Nguyên năm 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-tay-nguyen-nam-1975"
+        },
+        {
+            "text": "Trận Mậu Thân tại Huế năm 1968",
+            "href": "/tu-lieu/quan-su/tran-mau-than-tai-hue-nam-1968"
+        },
+        {
+            "text": "Bảng đối chiếu các triều đại Việt Nam và các triều đại Trung Quốc",
+            "href": "/tu-lieu/bang-doi-chieu-cac-trieu-dai-viet-nam-va-cac-trieu-dai-trung-quoc"
+        },
+        {
+            "text": "Bình Ngô đại cáo - bản tuyên ngôn độc lập thứ hai",
+            "href": "/tu-lieu/tac-pham/binh-ngo-dai-cao-ban-tuyen-ngon-doc-lap-thu-hai"
+        },
+        {
+            "text": "Lãnh thổ Việt Nam qua từng thời kỳ",
+            "href": "/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky"
+        },
+        {
+            "text": "Trận Đồi Thịt Băm năm 1969",
+            "href": "/tu-lieu/quan-su/tran-doi-thit-bam-nam-1969"
+        },
+        {
+            "text": "Chiến dịch Đắk Tô năm 1972",
+            "href": "/tu-lieu/quan-su/chien-dich-dak-to-nam-1972"
+        },
+        {
+            "text": "Nam quốc sơn hà - Bản tuyên ngôn độc lập đầu tiên",
+            "href": "/tu-lieu/tac-pham/nam-quoc-son-ha-ban-tuyen-ngon-doc-lap-dau-tien"
+        },
+        {
+            "text": "Tuyên ngôn độc lập Việt Nam Dân chủ Cộng hòa",
+            "href": "/tu-lieu/tac-pham/tuyen-ngon-doc-lap-viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Trận Bản Đông năm 1971",
+            "href": "/tu-lieu/quan-su/tran-ban-dong-nam-1971"
+        },
+        {
+            "text": "Trận Rạch Gầm \u2013 Xoài Mút năm 1785",
+            "href": "/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785"
+        },
+        {
+            "text": "Lịch sử Chữ viết tiếng Việt",
+            "href": "/tu-lieu/lich-su-chu-viet-tieng-viet"
+        },
+        {
+            "text": "Hịch tướng sĩ - Dụ chư tỳ tướng hịch văn",
+            "href": "/tu-lieu/tac-pham/hich-tuong-si-du-chu-ty-tuong-hich-van"
+        },
+        {
+            "text": "Danh sách Trạng nguyên Việt Nam",
+            "href": "/tu-lieu/danh-sach-trang-nguyen-viet-nam"
+        },
+        {
+            "text": "Hội nghị Paris, mặt trận ngoại giao năm 1968-1972",
+            "href": "/tu-lieu/bang-giao/hoi-nghi-paris-mat-tran-ngoai-giao-nam-1968-1972"
+        },
+        {
+            "text": "Lê Thái Tổ",
+            "href": "/nhan-vat/le-thai-to"
+        },
+        {
+            "text": "Lý Thường Kiệt",
+            "href": "/nhan-vat/ly-thuong-kiet"
+        },
+        {
+            "text": "Ngô Quyền",
+            "href": "/nhan-vat/ngo-quyen"
+        },
+        {
+            "text": "Trần Nhân Tông",
+            "href": "/nhan-vat/tran-nhan-tong"
+        },
+        {
+            "text": "Hồ Chí Minh",
+            "href": "/nhan-vat/ho-chi-minh"
+        },
+        {
+            "text": "Lý Thái Tổ",
+            "href": "/nhan-vat/ly-thai-to"
+        },
+        {
+            "text": "Hai Bà Trưng",
+            "href": "/nhan-vat/hai-ba-trung"
+        },
+        {
+            "text": "Hùng Vương",
+            "href": "/nhan-vat/hung-vuong"
+        },
+        {
+            "text": "Đinh Tiên Hoàng",
+            "href": "/nhan-vat/dinh-tien-hoang"
+        },
+        {
+            "text": "Lý Nam Đế",
+            "href": "/nhan-vat/ly-nam-de"
+        },
+        {
+            "text": "Vấn đề biên giới Việt-Trung thời Mạc",
+            "href": "/tu-lieu/bang-giao/van-de-bien-gioi-viet-trung-thoi-mac"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Tây Sơn",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-tay-son"
+        },
+        {
+            "text": "Biểu đồ các nhân vật lịch sử theo dòng thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Danh sách Trạng nguyên Việt Nam",
+            "href": "/tu-lieu/danh-sach-trang-nguyen-viet-nam"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Nguyễn",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-nguyen"
+        },
+        {
+            "text": "Trận Điện Biên Phủ trên không năm 1972",
+            "href": "/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972"
+        },
+        {
+            "text": "Trận Ngọc Hồi - Đống Đa năm 1789",
+            "href": "/tu-lieu/quan-su/tran-ngoc-hoi-dong-da-nam-1789"
+        },
+        {
+            "text": "Trận Cẩm Sa năm 1775",
+            "href": "/tu-lieu/quan-su/tran-cam-sa-nam-1775"
+        },
+        {
+            "text": "Trận Rạch Gầm \u2013 Xoài Mút năm 1785",
+            "href": "/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785"
+        },
+        {
+            "text": "Lãnh thổ Việt Nam qua từng thời kỳ",
+            "href": "/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky"
+        },
+        {
+            "text": "thành Cổ Loa",
+            "href": "/dia-danh/thanh-co-loa"
+        },
+        {
+            "text": "Đền Phù Đổng",
+            "href": "/dia-danh/den-phu-dong"
+        },
+        {
+            "text": "Khu di tích Chủ tịch Hồ Chí Minh tại Phủ Chủ tịch",
+            "href": "/dia-danh/khu-di-tich-chu-tich-ho-chi-minh-tai-phu-chu-tich"
+        },
+        {
+            "text": "Thành nhà Hồ",
+            "href": "/dia-danh/thanh-nha-ho"
+        },
+        {
+            "text": "Quần thể di tích danh thắng Yên Tử",
+            "href": "/dia-danh/quan-the-di-tich-danh-thang-yen-tu"
+        },
+        {
+            "text": "Khu lưu niệm Chủ tịch Tôn Đức Thắng",
+            "href": "/dia-danh/khu-luu-niem-chu-tich-ton-duc-thang"
+        },
+        {
+            "text": "chùa Thầy",
+            "href": "/dia-danh/chua-thay"
+        },
+        {
+            "text": "Chiến khu Tân Trào",
+            "href": "/dia-danh/chien-khu-tan-trao"
+        },
+        {
+            "text": "Dinh Độc Lập",
+            "href": "/dia-danh/dinh-doc-lap"
+        },
+        {
+            "text": "Khu di tích Pác Bó",
+            "href": "/dia-danh/khu-di-tich-pac-bo"
+        },
+        {
+            "text": "Giới thiệu",
+            "href": "/gioi-thieu"
+        },
+        {
+            "text": "Quyền riêng tư",
+            "href": "/quyen-rieng-tu"
+        },
+        {
+            "text": "Liên hệ",
+            "href": "/lien-he"
+        },
+        {
+            "text": "Địa Danh",
+            "href": "/dia-danh"
+        },
+        {
+            "text": "Trang Facebook",
+            "href": "https://www.facebook.com/nguoikesu/"
+        },
+        {
+            "text": "DanhMucBDS.com",
+            "href": "https://danhmucbds.com"
+        },
+        {
+            "text": "HocTotNguVan.com",
+            "href": "https://hoctotnguvan.com"
+        }
+    ],
+    "title": "Ngoại giao Việt Nam thời Nguyễn - Người Kể Sử",
+    "paragraphs": [
+        "Ngoại giao Việt Nam thời Nguyễn phản ánh những hoạt động ngoại giao giữa triều đình nhà Nguyễn với các quốc gia láng giềng và phương Tây trong thời kỳ độc lập (1802-1884).",
+        "Sau khi lấy được Bắc Hà, vua Gia Long đă cử một sứ đoàn do Trịnh Hoài Đức dẫn đầu sang nhà Thanh xin cầu phong. Sứ đoàn này chưa hồi hương thì cuối năm đó vua Gia Long tiếp tục cử Binh bộ Thượng thư là Lê Quang Định sang cầu phong vua Gia Khánh nhà Thanh đổi quốc hiệu là Nam Việt. Sau những tranh luận về tên gọi vì nhà Thanh ngại nhầm lẫn với nước Nam Việt xưa nằm ở lưỡng Quảng và cùng đồng ý đảo ngược lại thành Việt Nam,1 vua Thanh cho Tổng đốc Quảng Tây sang làm lễ tấn phong cho Gia Long là Việt Nam quốc vương, ấn định thể lệ tiến cống hai năm một lần và cứ bốn năm một lần Việt Nam sẽ phái sứ bộ sang làm lễ triều kính. Đồ cống phẩm gồm: vàng 200 lượng; bạc 1000 lượng; lụa và cấp mỗi thứ 100 cây; sừng tê giác 2 bộ; Ngà voi và quế mỗi thứ 100 cân.1",
+        "Tháng 8 năm 1809, sứ đoàn Việt Nam sang mừng thọ vua Gia Khánh 50 tuổi. Liên tục từ 1813, 1817 và 1819 việc giao thiệp giữa Gia Long và nhà Thanh được êm đẹp2 . Về sau, nhà Thanh đã nhiều lần cử người giúp triều Nguyễn trong vụ đàn áp Khởi nghĩa Lê Duy Phụng ở Bắc Kỳ những năm 1861-1865[cần dẫn nguồn].",
+        "Trong thời kỳ các chúa Nguyễn còn chiến tranh với Tây Sơn, Xiêm La đã lợi dụng cơ hội để phân chia đất Cao Miên năm 1779 dưới đời quốc vương Trịnh Quốc Anh (Phya Tak).",
+        "Năm 1794, Nặc Ấn lưu vong qua Vọng Các rồi được vua Xiêm cho một đạo quân đưa về nước nhưng hai tỉnh Battambang và Angkor phải nhượng cho nước Xiêm. Nặc Ấn mất năm 1796. Năm 1802 Miên mới có vua là Nặc Ông Chân, con Nặc Ông Ấn. Tuy đă thần phục Xiêm La, Ông Chân vẫn cử sứ đoàn ra chầu vua Gia Long tại Thăng Long. Từ năm 1805 Miên thần phục triều đình Việt nhưng năm sau lại sang Vọng Các thụ phong tiếp.",
+        "Người Xiêm không tán thành chính sách nước đôi này nên ngầm giúp Nặc Ông Nguyên, em của Ông Chân, nổi loạn. Ông Chân phải chạy sang cầu cứu triều Nguyễn. Xiêm liền tiến quân đánh thành La Bích (Lovek). Vua Gia Long cử Lê Văn Duyệt, Tổng trấn Gia Định thành dẫn 10.000 quân hộ vệ đưa Ông Chân trở về nước khiến Xiêm và Nặc Ông Nguyên phải rút lui. Lê Văn Duyệt sau đó đặt chế độ bảo hộ trên đất Miên từ đấy và xây thành Nam Vang và thành La Lem. Sau đó vua cử Nguyễn Văn Thụy đem 1.000 quân sang trấn giữ xứ này như một thuộc quốc.",
+        "Dù có xung đột nhưng việc giao thiệp giữa triều Gia Long và Xiêm La vẫn giữ được sự hòa hảo. Từ năm 1802 trở đi hai bên vẫn có sự sứ bộ qua lại trao đổi thân thiện và tặng phẩm. Tại Ai Lao, Việt và Xiêm cùng đặt ảnh hưởng, Quốc vương Ai Lao xin thần phục cả Việt lẫn Xiêm. Dân vùng Cam Lộ, dân ở các vùng Cao nguyên hai tỉnh Thanh Nghệ, người Thượng (tức người Rhadé) ở các nước Thủy Xá và Hỏa Xá cũng có cống phẩm đến để tỏ lòng tuân theo chính quyền của triều Nguyễn3 .",
+        "Năm 1827, Quân Xiêm La đánh Vạn Tượng khiến quốc vương xứ này là A Nộ chống không nổi phải sang cầu cứu triều đình Việt Nam. Vua Minh Mạng cho Thống chế Phan Văn Thúy mang viện quân sang giúp nhưng bị quân Xiêm đánh bại. Năm 1828 Phan Văn Thúy và Nguyễn Văn Xuân, Nguyễn Khoa Hào tiếp tục đem 3.000 quân và 24 con voi đưa A Nộ về Trấn Ninh, rồi tiến vào Vạn Tượng (Vientiane) nhưng đạo quân của nhà Nguyễn và A Nộ lại bị thua phải xin viện binh Nghệ An. Vua Minh Mạng chán việc này hạ lệnh bãi bỏ và chỉ còn phòng vệ vùng biên giới. Sau A Nộ chạy về Trấn Ninh bị bắt nộp cho Xiêm La4 .",
+        "Quân Xiêm được đà đánh dấn vào các miền phụ cận Quảng Trị. Thống chế Phạm Văn Điển và Tham tán Quân vụ Lê Đăng Doanh cùng với các đạo quân nhà Nguyễn ở Lào phải đi ngăn quân Xiêm, đằng khác gửi thư cho họ để trách cứ. Xiêm La trả lời khiêm nhượng rồi rút quân về. Tuy vậy họ vẫn bí mật giúp người Chân Lạp nổi lên chống lại chính quyền Đại Nam hoặc lấn lướt Vạn Tượng và các xứ quy phụ triều đình.",
+        "Cuối năm 1833, nước Xiêm mang quân vào nội địa Nam Hà và Chân Lạp theo lời kêu gọi của Lê Văn Khôi. Theo sử gia Phạm Văn Sơn thì \"Xiêm La từ khi mất quyền bảo hộ ở Chân Lạp vẫn hằn học với Việt Nam, lúc không sinh sự được với ta thì lại quay ra quấy rối Ai Lao và Chân Lạp, hoặc khi thấy có biến cố xảy ra trên đất Việt Nam liền nắm ngay cơ hội để xâm lấn\"4 .",
+        "Thời vua Minh Mạng, nhiều xứ ở Ai Lao xin thuộc quyền bảo hộ của Việt Nam. Các vùng nay là Sầm Nứa, Trấn Ninh, Cam Môn và Savannakhet giáp với các tỉnh Thanh Hóa, Nghệ An, Quảng Trị, đều xin làm nội thuộc và trở thành các châu, phủ của Việt Nam5 .",
+        "Khi Gia Định bị thất thủ, quyền bảo hộ nước Chân Lạp thuộc về nước Tiêm La. Đến năm đinh mão (1807), Nặc Ông Chân bỏ Tiêm La xin về thần phục vua Việt Nam, theo lệ cống tiến, cứ ba năm một lần. Đồ cống vật gồm: voi đực cao 5 thước hai con; sừng tê giác 2 chiếc; ngà voi hai cái; hột sa nhân 50 cân; đậu khấu 50 cân; hoàng lạp 50 cân; cánh kiến 50 cân; và sơn đen 20 lọ.6",
+        "Thời Minh Mạng, sau khi phá được quân Xiêm, Tướng Trương Minh Giảng và tham tán Lê Đại Cương lập đồn đóng quân ở gần Nam Vang để bảo hộ Chân Lạp5 .",
+        "Cuối năm Giáp Ngọ (1834), vua nước Chân Lạp là Nặc Ông Chân mất, không có con trai nối dõi, quyền bính chuyển sang cho Trà Long và Lê Kiên - hai người Chân Lạp làm quan cho người Việt. Năm sau, Trương Minh Giảng lập công chúa Angmey, con của Nặc Ông Chân, còn gọi là Ngọc Vân công chúa, làm quận chúa. Ông đổi nước Chân Lạp thành Trấn Tây thành, chia làm 32 phủ và 2 huyện, và đặt các chức quan coi sóc mọi việc quân sự và dân sự5 .",
+        "Do quan lại Đại Nam tại Chân Lạp làm nhiều điều ức hiếp, nhũng nhiễu dân Chân Lạp; do nhà Nguyễn bắt Ngọc Vân công chúa về Gia Định, đày Trà Long và Lê Kiên ra miền Bắc Việt Nam, dân chúng Chân Lạp oán giận và nổi dậy chống quân Việt Nam ở khắp nơi. Người em của Nặc Ông Chân là Nặc Ông Đôn khởi nghĩa với sự giúp đỡ của Xiêm La. Quân nhà Nguyễn đánh dẹp không nổi, đến khi vua Minh Mạng qua đời thì Trương Minh Giảng phải bỏ Trấn Tây thành rút về An Giang5 .",
+        "Ký ức của người Khmer về các cuộc nổi dậy của họ thời đầu thế kỷ 19 và về sự tàn bạo của quan quân nhà Nguyễn khi đánh dẹp đã được lưu truyền trong ca dao và truyện kể của người Khmer. Họ dùng từ \"Youn\" (trong tiếng Khmer có nghĩa là \"man rợ\") để chỉ người Việt. Các bà mẹ thường dùng chuyện \"Youn bắt\" để dọa con. Kênh Vĩnh Tế - con kênh đào dài 25 dặm được xây dựng bởi dân phu Việt và một phần người Khmer ở Thoại Sơn - đã để lại những câu chuyện về cách đối xử tàn ác của người Việt đối với người Khmer mà sau này Khmer Đỏ đã sử dụng trong các chiến dịch tuyên truyền khơi dậy lòng hận thù của người Campuchia đối với người Việt7 .",
+        "Năm 1803, Anh Quốc sai sứ là Robert sang xin cho mở cửa hàng buôn bán ở Trà Sơn, thuộc Quảng Nam. Vua Gia Long không nhận đồ, và cũng không cho mở cửa hàng. Sau người Anh còn đưa thư sang hai ba lần nữa, nhưng vẫn bị từ chối.",
+        "Đối với nước Pháp, vua Gia Long có thiện cảm hơn do khi ông còn gian truân có nhờ ông Bá Đa Lộc giúp đỡ. Khi chiến tranh kết thúc, các ông Chaigneau, Vannier và Despiau làm quan tại triều, Gia Long cho mỗi người 50 lính hầu và khi chầu thì không cần lạy Hoàng đế.",
+        "Năm 1817, chính phủ Pháp phái tới Việt Nam chiếc tàu Cybèle để thăm dò bang giao. Thuyền trưởng là Achille De Kergariou nói rằng vua Louis XVIII sai sang xin thi hành những điều ước do Bá Đa Lộc ký năm 1787 về việc nhường cửa Đà Nẵng và đảo Côn Lôn. Vua Gia Long sai quan ra trả lời rằng những điều ước ấy nước Pháp trước đã không thi hành thì nay bỏ, không nói đến nữa6 .",
+        "Tuy nhiên, sự bành trướng của Châu Âu ở Đông Nam Á khiến Gia Long e ngại, nhất là sau khi nước Anh chiếm được Singapore. Nhà vua thấy rằng cần phải giao hảo với người Tây phương nhưng không thể biệt đãi một quốc gia đặc biệt nào. Năm 1819, John White, một thương gia Hoa Kỳ tới Gia Định và được hứa hẹn sẽ dành cho mọi sự dễ dàng khi buôn bán ở Việt Nam.",
+        "Vua Minh Mạng không có cảm tình với người Pháp như thái độ chung của người Á Đông lúc đó, coi người Âu Châu là bọn man di, là quân xâm lược8 . Ngoài ra ông cũng không thích cả Công giáo của châu Âu. Trong thời kỳ Minh Mạng nắm quyền, tín đồ Công giáo bị đàn áp quyết liệt và các giáo sĩ nước ngoài đã so sánh ông với hoàng đế Nero của Đế quốc La Mã - một hoàng đế từng tàn sát hàng loạt giáo dân Công giáo.",
+        "Với những người Pháp đã từng giúp vua Gia Long, Minh Mạng tỏ thái độ lạnh nhạt nên khi Chaigneau trở lại Việt Nam không được trọng dụng nữa. Minh Mạng cho Chaigneau hay rằng không cần phải ký thương ước giữa hai chính phủ, người Việt Nam vẫn đối xử tốt đẹp với người Pháp là đủ, ông chỉ thỏa thuận mua bán với người Pháp nhưng không chấp nhận xây dựng đặt quan hệ ngoại giao chính thức với nước Pháp, quốc thư của Pháp xin cho ông Chaigneau làm Lãnh sự Pháp ở Việt Nam không được nhà vua đếm xỉa đến.",
+        "Cũng theo đường lối của hai triều Minh Mạng và Thiệu Trị, vua Tự Đức khước từ mọi việc giao thiệp với các nước ngoài, dầu việc giao thiệp chỉ nhằm phục vụ thương mại. Năm 1850 có tàu của nước Mỹ vào cửa Hàn có quốc thư xin thông thương nhưng không được tiếp nhận.",
+        "Từ năm 1855 các nước Anh, Pháp, Tây Ban Nha nhiều lần có tàu vào cửa Hàn, cửa Thị Nại và Quảng Yên xin thông thương cũng không được. Sau khi Gia Định bị người Pháp chiếm, việc ngoại giao giữa triều đình với các nước phương Tây khó khăn, Tự Đức mới thay đổi chính sách, đặt ra Bình Chuẩn Ty để lo buôn bán và Thượng Bạc Viện để giao dịch với người nước ngoài nhưng không có kết quả vì những người được ủy thác vào các việc này không được học gì về ngoại giao8 .",
+        "",
+        "(Nguồn: Wikipedia)"
+    ]
+}

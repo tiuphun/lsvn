@@ -5,6 +5,7 @@ import org.jsoup.select.Elements;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
+import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.HashSet;
@@ -28,8 +29,13 @@ public class MultiplePages {
 
         try {
             JSONObject data = scrapePage(url);
-            String filename = url.replaceAll("[^a-zA-Z0-9.-]", "_") + ".json";
-            FileWriter file = new FileWriter(filename);
+            String href = url.replace(BASE_URL, "");
+            String filename = href.replaceAll("[^a-zA-Z0-9.-]", "_") + ".json";
+            File outputDirectory = new File("out");
+            if (!outputDirectory.exists()) {
+                outputDirectory.mkdir();
+            }
+            FileWriter file = new FileWriter(new File(outputDirectory, filename));
             file.write(data.toString(4));
             file.flush();
             file.close();
@@ -37,8 +43,7 @@ public class MultiplePages {
             JSONArray anchors = data.getJSONArray("anchors");
             for (int i = 0; i < anchors.length(); i++) {
                 JSONObject anchor = anchors.getJSONObject(i);
-                String href = anchor.getString("href");
-                String nextPageUrl = BASE_URL + href;
+                String nextPageUrl = BASE_URL + anchor.getString("href");
                 if (!visitedPages.contains(nextPageUrl)) {
                     scrape(nextPageUrl);
                 }

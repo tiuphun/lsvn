@@ -1,0 +1,553 @@
+{
+    "tables": [],
+    "keywords": [],
+    "headings": [
+        "Lịch sử lớp 6",
+        "Quan sát hình 1 và 2, theo em, đó là những loại tư liệu nào?",
+        "Bài viết cùng thư mục",
+        "Mục lục",
+        "Anh Hùng Dân Tộc Tiêu Biểu",
+        "Tư Liệu Lịch Sử",
+        "Di Tích Lịch Sử"
+    ],
+    "anchors": [
+        {
+            "text": "",
+            "href": "/"
+        },
+        {
+            "text": "Trang Chủ",
+            "href": "/"
+        },
+        {
+            "text": "Dòng Lịch Sử",
+            "href": "/dong-lich-su"
+        },
+        {
+            "text": "Hồng Bàng & Văn Lang",
+            "href": "/dong-lich-su/hong-bang-va-van-lang"
+        },
+        {
+            "text": "Âu Lạc & Nam Việt",
+            "href": "/dong-lich-su/au-lac-va-nam-viet"
+        },
+        {
+            "text": "Bắc thuộc lần I",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat"
+        },
+        {
+            "text": "Trưng Nữ Vương",
+            "href": "/dong-lich-su/trung-nu-vuong"
+        },
+        {
+            "text": "Bắc thuộc lần II",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-hai"
+        },
+        {
+            "text": "Nhà Lý & Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu"
+        },
+        {
+            "text": "Bắc thuộc lần III",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-ba"
+        },
+        {
+            "text": "Thời kỳ xây nền tự chủ",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu"
+        },
+        {
+            "text": "Nhà Ngô",
+            "href": "/dong-lich-su/nha-ngo"
+        },
+        {
+            "text": "Nhà Đinh",
+            "href": "/dong-lich-su/nha-dinh"
+        },
+        {
+            "text": "Nhà Tiền Lê",
+            "href": "/dong-lich-su/nha-tien-le"
+        },
+        {
+            "text": "Nhà Lý",
+            "href": "/dong-lich-su/nha-ly"
+        },
+        {
+            "text": "Nhà Trần",
+            "href": "/dong-lich-su/nha-tran"
+        },
+        {
+            "text": "Nhà Hồ",
+            "href": "/dong-lich-su/nha-ho"
+        },
+        {
+            "text": "Nhà Hậu Trần",
+            "href": "/dong-lich-su/nha-hau-tran"
+        },
+        {
+            "text": "Bắc thuộc lần IV",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-tu"
+        },
+        {
+            "text": "Nhà Hậu Lê",
+            "href": "/dong-lich-su/nha-hau-le"
+        },
+        {
+            "text": "Nam Bắc Triều",
+            "href": "/dong-lich-su/nam-bac-trieu"
+        },
+        {
+            "text": "Trịnh Nguyễn Phân Tranh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh"
+        },
+        {
+            "text": "Nhà Tây Sơn",
+            "href": "/dong-lich-su/nha-tay-son"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/nha-nguyen"
+        },
+        {
+            "text": "Pháp Thuộc",
+            "href": "/dong-lich-su/phap-thuoc"
+        },
+        {
+            "text": "Việt Nam Dân Chủ Cộng Hoà",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Cộng hoà xã hội chủ nghĩa Việt Nam",
+            "href": "/dong-lich-su/viet-nam-xhcn"
+        },
+        {
+            "text": "Tư Liệu",
+            "href": "/tu-lieu"
+        },
+        {
+            "text": "Quân Sự",
+            "href": "/tu-lieu/quan-su?filter_tag[0]="
+        },
+        {
+            "text": "Tác Phẩm",
+            "href": "/tu-lieu/tac-pham?filter_tag[0]="
+        },
+        {
+            "text": "Bang Giao",
+            "href": "/tu-lieu/bang-giao"
+        },
+        {
+            "text": "Biểu đồ thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Nhân Vật",
+            "href": "/nhan-vat"
+        },
+        {
+            "text": "Anh Hùng Dân Tộc",
+            "href": "/anh-hung-dan-toc?types[0]=1"
+        },
+        {
+            "text": "Danh nhân văn hóa",
+            "href": "/danh-nhan-van-hoa?types[0]=1"
+        },
+        {
+            "text": "Di Tích",
+            "href": "/di-tich-lich-su?types[0]=1"
+        },
+        {
+            "text": "Ngày Nay",
+            "href": "/thoi-su"
+        },
+        {
+            "text": "Sách",
+            "href": "/sach"
+        },
+        {
+            "text": "Video",
+            "href": "/video"
+        },
+        {
+            "text": "Q&A",
+            "href": "/hoi-dap"
+        },
+        {
+            "text": "Lịch sử lớp 12",
+            "href": "/hoi-dap/lop-12"
+        },
+        {
+            "text": "Lịch sử lớp 11",
+            "href": "/hoi-dap/lop-11"
+        },
+        {
+            "text": "Lịch sử lớp 10",
+            "href": "/hoi-dap/lop-10"
+        },
+        {
+            "text": "Lịch sử lớp 9",
+            "href": "/hoi-dap/lop-9"
+        },
+        {
+            "text": "Lịch sử lớp 8",
+            "href": "/hoi-dap/lop-8"
+        },
+        {
+            "text": "Lịch sử lớp 7",
+            "href": "/hoi-dap/lop-7"
+        },
+        {
+            "text": "Lịch sử lớp 6",
+            "href": "/hoi-dap/lop-6"
+        },
+        {
+            "text": "Trang chủ",
+            "href": "/"
+        },
+        {
+            "text": "Q&A",
+            "href": "/hoi-dap"
+        },
+        {
+            "text": "Lịch sử lớp 6",
+            "href": "/hoi-dap/lop-6"
+        },
+        {
+            "text": "Bài 1: Sơ lược về môn lịch sử",
+            "href": "/hoi-dap/lop-6/bai-1"
+        },
+        {
+            "text": "Bài 1: Sơ lược về môn lịch sử",
+            "href": "/hoi-dap/lop-6/bai-1"
+        },
+        {
+            "text": "Bài viết trước: Hình 1 và 2 giúp em hiểu thêm được những gì? Trước",
+            "href": "/hoi-dap/lop-6/bai-1/hinh-1-va-2-giup-em-hieu-them-duoc-nhung-gi"
+        },
+        {
+            "text": "Bài viết kế tiếp: Thử kể những loại tư liệu truyền miệng mà em biết. Tiếp tục",
+            "href": "/hoi-dap/lop-6/bai-1/thu-ke-nhung-loai-tu-lieu-truyen-mieng-ma-em-biet"
+        },
+        {
+            "text": "Có gì khác nhau giữa lịch sử một con người và lịch sử xã hội loài người?",
+            "href": "/hoi-dap/lop-6/bai-1/co-gi-khac-nhau-giua-lich-su-mot-con-nguoi-va-lich-su-xa-hoi-loai-nguoi"
+        },
+        {
+            "text": "Nhìn lớp học ở hình 1(trang 3 SGK), em thấy khác với lớp học ở trường em như thế nào? Em có hiểu vì sao có sao có sự khác nhau đó không?",
+            "href": "/hoi-dap/lop-6/bai-1/nhin-lop-hoc-o-hinh-1-trang-3-sgk-em-thay-khac-voi-lop-hoc-o-truong-em-nhu-the-nao-em-co-hieu-vi-sao-co-sao-co-su-khac-nhau-do-khong"
+        },
+        {
+            "text": "Theo em, chúng ta có cần biết những thay đổi đó không? Tại sao lại có những thay đổi đó?",
+            "href": "/hoi-dap/lop-6/bai-1/theo-em-chung-ta-co-can-biet-nhung-thay-doi-do-khong-tai-sao-lai-co-nhung-thay-doi-do"
+        },
+        {
+            "text": "Em hãy lấy ví dụ trong cuộc sống của gia đình, quê hương em để thấy rõ sự cần thiết phải hiểu biết lịch sử.",
+            "href": "/hoi-dap/lop-6/bai-1/em-hay-lay-vi-du-trong-cuoc-song-cua-gia-dinh-que-huong-em-de-thay-ro-su-can-thiet-phai-hieu-biet-lich-su"
+        },
+        {
+            "text": "Thử kể những loại tư liệu truyền miệng mà em biết.",
+            "href": "/hoi-dap/lop-6/bai-1/thu-ke-nhung-loai-tu-lieu-truyen-mieng-ma-em-biet"
+        },
+        {
+            "text": "Quan sát hình 1 và 2, theo em, đó là những loại tư liệu nào?",
+            "href": "/hoi-dap/lop-6/bai-1/quan-sat-hinh-1-va-2-theo-em-do-la-nhung-loai-tu-lieu-nao"
+        },
+        {
+            "text": "Hình 1 và 2 giúp em hiểu thêm được những gì?",
+            "href": "/hoi-dap/lop-6/bai-1/hinh-1-va-2-giup-em-hieu-them-duoc-nhung-gi"
+        },
+        {
+            "text": "Trình bày một cách ngắn gọn lịch sử là gì?",
+            "href": "/hoi-dap/lop-6/bai-1/trinh-bay-mot-cach-ngan-gon-lich-su-la-gi"
+        },
+        {
+            "text": "Lịch sử giúp em hiểu biết những gì?",
+            "href": "/hoi-dap/lop-6/bai-1/lich-su-giup-em-hieu-biet-nhung-gi"
+        },
+        {
+            "text": "Tại sao chúng ta cần phải học lịch sử?",
+            "href": "/hoi-dap/lop-6/bai-1/tai-sao-chung-ta-can-phai-hoc-lich-su"
+        },
+        {
+            "text": "Bài 1: Sơ lược về môn lịch sử",
+            "href": "/hoi-dap/lop-6/bai-1"
+        },
+        {
+            "text": "Bài 2: Cách tính thời gian trong lịch sử",
+            "href": "/hoi-dap/lop-6/bai-2"
+        },
+        {
+            "text": "Phần 1: Khái quát lịch sử thế giới cổ đại",
+            "href": "/hoi-dap/lop-6/phan-1"
+        },
+        {
+            "text": "Bài 3: Xã hội nguyên thủy",
+            "href": "/hoi-dap/lop-6/phan-1/bai-3"
+        },
+        {
+            "text": "Bài 4: Các quốc gia cổ đại phương Đông",
+            "href": "/hoi-dap/lop-6/phan-1/bai-4"
+        },
+        {
+            "text": "Bài 5: Các quốc gia cổ đại phương Tây",
+            "href": "/hoi-dap/lop-6/phan-1/bai-5"
+        },
+        {
+            "text": "Bài 6: Văn hóa cổ đại",
+            "href": "/hoi-dap/lop-6/phan-1/bai-6"
+        },
+        {
+            "text": "Phần II: Lịch sử Việt Nam từ nguồn gốc đến thế kỉ X",
+            "href": "/hoi-dap/lop-6/phan-ii"
+        },
+        {
+            "text": "Chương I: Buổi đầu lịch sử nước ta",
+            "href": "/hoi-dap/lop-6/phan-ii/chuong-i"
+        },
+        {
+            "text": "Bài 8: Thời nguyên thủy trên đất nước ta",
+            "href": "/hoi-dap/lop-6/phan-ii/chuong-i/bai-8"
+        },
+        {
+            "text": "Bài 9: Đời sống của người nguyên thủy trên đất nước ta",
+            "href": "/hoi-dap/lop-6/phan-ii/chuong-i/bai-9"
+        },
+        {
+            "text": "Chương 2: Thời đại dựng nước: Văn Lang - Âu Lạc",
+            "href": "/hoi-dap/lop-6/phan-ii/chuong-2"
+        },
+        {
+            "text": "Bài 10: Những chuyển biến trong đời sống kinh tế",
+            "href": "/hoi-dap/lop-6/phan-ii/chuong-2/bai-10"
+        },
+        {
+            "text": "Bài 11: Những chuyển biến về xã hội",
+            "href": "/hoi-dap/lop-6/phan-ii/chuong-2/bai-11"
+        },
+        {
+            "text": "Bài 12: Nước Văn Lang",
+            "href": "/hoi-dap/lop-6/phan-ii/chuong-2/bai-12"
+        },
+        {
+            "text": "Bài 13: Đời sống vật chất và tinh thần của cư dân Văn Lang",
+            "href": "/hoi-dap/lop-6/phan-ii/chuong-2/bai-13"
+        },
+        {
+            "text": "Bài 14: Nước Âu Lạc",
+            "href": "/hoi-dap/lop-6/phan-ii/chuong-2/bai-14"
+        },
+        {
+            "text": "Bài 15: Nươc Âu Lạc (tiếp theo)",
+            "href": "/hoi-dap/lop-6/phan-ii/chuong-2/bai-15"
+        },
+        {
+            "text": "Chương 3: Thời kì Bắc thuộc và đấu tranh giành độc lập",
+            "href": "/hoi-dap/lop-6/phan-ii/chuong-3"
+        },
+        {
+            "text": "Bài 17: Cuộc khởi nghĩa Hai Bà Trưng (năm 40)",
+            "href": "/hoi-dap/lop-6/phan-ii/chuong-3/bai-17"
+        },
+        {
+            "text": "Bài 18: Trưng Vương và cuộc kháng chiến chống quân xâm lược Hán",
+            "href": "/hoi-dap/lop-6/phan-ii/chuong-3/bai-18"
+        },
+        {
+            "text": "Bài 19: Từ sau Trưng Vương đến trước Lý Nam Đế (Giữa thế kỉ I - Giữa thế kỉ VI)",
+            "href": "/hoi-dap/lop-6/phan-ii/chuong-3/bai-19"
+        },
+        {
+            "text": "Bài 20: Từ sau Trưng Vương đến trước Lý Nam Đế (Giữa thế kỉ I - Giữa thế kỉ VI) (tiếp theo)",
+            "href": "/hoi-dap/lop-6/phan-ii/chuong-3/bai-20"
+        },
+        {
+            "text": "Bài 21: Khởi nghĩa Lý Bí. Nước Vạn Xuân",
+            "href": "/hoi-dap/lop-6/phan-ii/chuong-3/bai-21"
+        },
+        {
+            "text": "Bài 22: Khởi nghĩa Lý Bí. Nước Vạn Xuân (tiếp theo)",
+            "href": "/hoi-dap/lop-6/phan-ii/chuong-3/bai-22"
+        },
+        {
+            "text": "Bài 23: Những cuộc khởi nghĩa lớn trong các thế kỉ VII - IX",
+            "href": "/hoi-dap/lop-6/phan-ii/chuong-3/bai-23"
+        },
+        {
+            "text": "Bài 24: Nước Cham-pa từ thế kỉ II đến thế kỉ IX",
+            "href": "/hoi-dap/lop-6/phan-ii/chuong-3/bai-24"
+        },
+        {
+            "text": "Bài 25: Ôn tập chương III",
+            "href": "/hoi-dap/lop-6/phan-ii/chuong-3/bai-25"
+        },
+        {
+            "text": "Chương 4: Bước ngoặt lịch sử ở đầu thế kỉ X",
+            "href": "/hoi-dap/lop-6/phan-ii/chuong-4"
+        },
+        {
+            "text": "Bài 26: Cuộc đấu tranh giành quyền tự chủ của họ Khúc, họ Dương",
+            "href": "/hoi-dap/lop-6/phan-ii/chuong-4/bai-26"
+        },
+        {
+            "text": "Bài 27: Ngô Quền và chiến thắng Bạch Đằng năm 938",
+            "href": "/hoi-dap/lop-6/phan-ii/chuong-4/bai-27"
+        },
+        {
+            "text": "Bài 28: Ôn tập",
+            "href": "/hoi-dap/lop-6/phan-ii/chuong-4/bai-28"
+        },
+        {
+            "text": "Đinh Tiên Hoàng",
+            "href": "/nhan-vat/dinh-tien-hoang"
+        },
+        {
+            "text": "Nguyễn Huệ",
+            "href": "/nhan-vat/nguyen-hue"
+        },
+        {
+            "text": "Lý Nam Đế",
+            "href": "/nhan-vat/ly-nam-de"
+        },
+        {
+            "text": "Ngô Quyền",
+            "href": "/nhan-vat/ngo-quyen"
+        },
+        {
+            "text": "Lý Thường Kiệt",
+            "href": "/nhan-vat/ly-thuong-kiet"
+        },
+        {
+            "text": "Lê Thái Tổ",
+            "href": "/nhan-vat/le-thai-to"
+        },
+        {
+            "text": "Lê Đại Hành",
+            "href": "/nhan-vat/le-dai-hanh"
+        },
+        {
+            "text": "Hai Bà Trưng",
+            "href": "/nhan-vat/hai-ba-trung"
+        },
+        {
+            "text": "Lý Thái Tổ",
+            "href": "/nhan-vat/ly-thai-to"
+        },
+        {
+            "text": "Trần Hưng Đạo",
+            "href": "/nhan-vat/tran-hung-dao"
+        },
+        {
+            "text": "Vấn đề biên giới Việt-Trung thời Mạc",
+            "href": "/tu-lieu/bang-giao/van-de-bien-gioi-viet-trung-thoi-mac"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Tây Sơn",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-tay-son"
+        },
+        {
+            "text": "Biểu đồ các nhân vật lịch sử theo dòng thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Danh sách Trạng nguyên Việt Nam",
+            "href": "/tu-lieu/danh-sach-trang-nguyen-viet-nam"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Nguyễn",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-nguyen"
+        },
+        {
+            "text": "Trận Điện Biên Phủ trên không năm 1972",
+            "href": "/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972"
+        },
+        {
+            "text": "Trận Ngọc Hồi - Đống Đa năm 1789",
+            "href": "/tu-lieu/quan-su/tran-ngoc-hoi-dong-da-nam-1789"
+        },
+        {
+            "text": "Trận Cẩm Sa năm 1775",
+            "href": "/tu-lieu/quan-su/tran-cam-sa-nam-1775"
+        },
+        {
+            "text": "Trận Rạch Gầm \u2013 Xoài Mút năm 1785",
+            "href": "/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785"
+        },
+        {
+            "text": "Lãnh thổ Việt Nam qua từng thời kỳ",
+            "href": "/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky"
+        },
+        {
+            "text": "Đền Trần (Nam Định)",
+            "href": "/dia-danh/den-tran-nam-dinh"
+        },
+        {
+            "text": "Dinh Độc Lập",
+            "href": "/dia-danh/dinh-doc-lap"
+        },
+        {
+            "text": "Khu di tích Chủ tịch Hồ Chí Minh tại Phủ Chủ tịch",
+            "href": "/dia-danh/khu-di-tich-chu-tich-ho-chi-minh-tai-phu-chu-tich"
+        },
+        {
+            "text": "Đền Phù Đổng",
+            "href": "/dia-danh/den-phu-dong"
+        },
+        {
+            "text": "Văn Miếu - Quốc Tử Giám",
+            "href": "/dia-danh/van-mieu-quoc-tu-giam"
+        },
+        {
+            "text": "Đền Hùng",
+            "href": "/dia-danh/den-hung"
+        },
+        {
+            "text": "Thành cổ Quảng Trị",
+            "href": "/dia-danh/thanh-co-quang-tri"
+        },
+        {
+            "text": "thành Cổ Loa",
+            "href": "/dia-danh/thanh-co-loa"
+        },
+        {
+            "text": "Khu di tích Pác Bó",
+            "href": "/dia-danh/khu-di-tich-pac-bo"
+        },
+        {
+            "text": "Đền Ngọc Sơn",
+            "href": "/dia-danh/den-ngoc-son"
+        },
+        {
+            "text": "Giới thiệu",
+            "href": "/gioi-thieu"
+        },
+        {
+            "text": "Quyền riêng tư",
+            "href": "/quyen-rieng-tu"
+        },
+        {
+            "text": "Liên hệ",
+            "href": "/lien-he"
+        },
+        {
+            "text": "Địa Danh",
+            "href": "/dia-danh"
+        },
+        {
+            "text": "Trang Facebook",
+            "href": "https://www.facebook.com/nguoikesu/"
+        },
+        {
+            "text": "DanhMucBDS.com",
+            "href": "https://danhmucbds.com"
+        },
+        {
+            "text": "HocTotNguVan.com",
+            "href": "https://hoctotnguvan.com"
+        }
+    ],
+    "title": "Quan sát hình 1 và 2, theo em, đó là những loại tư liệu nào? - Người Kể Sử",
+    "paragraphs": [
+        "- Hình 1: Đó là tư liệu hiện vật ( bàn ghế cổ, thầy trò, nhà cửa..,)",
+        "- Hình 2: Đó là bia đá, bia tiến sĩ.",
+        "(Nguồn: trang 5 sgk Lịch Sử 6:)"
+    ]
+}

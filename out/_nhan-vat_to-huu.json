@@ -1,0 +1,917 @@
+{
+    "tables": [
+        "<table class=\"infobox vcard\">\n <tbody>\n  <tr>\n   <th colspan=\"2\" class=\"fn\">Tố Hữu<\/th>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\"><img class=\"jch-lazyload\" alt=\"\" src=\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDAiIGhlaWdodD0iMjc0Ij48L3N2Zz4=\" data-src=\"/images/wiki/to-huu/053a7869cc3205f5d9eb1f7c492bbf86.jpg\" width=\"200\" height=\"274\" data-file-width=\"200\" data-file-height=\"274\">\n    <noscript>\n     <img alt=\"\" src=\"/images/wiki/to-huu/053a7869cc3205f5d9eb1f7c492bbf86.jpg\" width=\"200\" height=\"274\" data-file-width=\"200\" data-file-height=\"274\">\n    <\/noscript>\n    <div>\n     Tố Hữu\n    <\/div><\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Bút danh<\/th>\n   <td class=\"nickname\"><b>Tố Hữu<\/b>, <b>Lê Tư Lành<\/b><\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Công việc<\/th>\n   <td class=\"role\">Nhà thơ, chính trị<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Ngôn ngữ<\/th>\n   <td>Tiếng Việt<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Quốc gia<\/th>\n   <td class=\"category\">Việt Nam<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Dân tộc<\/th>\n   <td>Kinh<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Quốc tịch<\/th>\n   <td>Việt Nam<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Học vấn<\/th>\n   <td>Trường Quốc học Huế<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Giai đoạn sáng tác<\/th>\n   <td>1946-1999<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Thể loại<\/th>\n   <td class=\"category\">Thơ cách mạng<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Chủ đề<\/th>\n   <td>Cách mạng<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Trào lưu<\/th>\n   <td>Thơ cách mạng<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Tác phẩm nổi bật<\/th>\n   <td>Từ ấy<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Giải thưởng nổi bật<\/th>\n   <td>Giải thưởng <a class=\"annotation\" href=\"/nhan-vat/ho-chi-minh\" title=\"Hồ Chí Minh (19 tháng 5 năm 1890 \u2013 2 tháng 9 năm 1969) tên khai sinh: Nguyễn Sinh Cung, là nhà cách mạng, người sáng lập Đảng Cộng sản Việt Nam, một trong những người đặt nền móng và lãnh đạo công cuộc đấu tranh giành độc lập, toàn vẹn lãnh thổ cho Việt Nam trong thế kỷ 20, một chiến sĩ cộng sản quố...\" target=\"_blank\">Hồ Chí Minh<\/a> về Văn học nghệ thuật (năm 1996)<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Vợ/chồng<\/th>\n   <td>Vũ Thị Thanh<\/td>\n  <\/tr>\n <\/tbody>\n<\/table>",
+        "<table class=\" table table-striped\">\n <tbody>\n  <tr>\n   <td valign=\"top\">\n    <ul>\n     <li>Bác ơi<\/li>\n     <li>Bà má Hậu Giang<\/li>\n     <li>Bài ca xuân 1961<\/li>\n     <li>Bài ca quê hương<\/li>\n     <li>Bầm ơi!<\/li>\n     <li>Con cá chột nưa<\/li>\n     <li>Có thể nào yên?<\/li>\n     <li>Đi đi em!<\/li>\n     <li>Đời đời nhớ Ông<\/li>\n     <li>Đợi anh về (tập thơ dịch, 1998)<\/li>\n     <li>Em ơi... Ba Lan<\/li>\n     <li>Gặp anh Hồ Giáo<\/li>\n     <li>Hai đứa trẻ<\/li>\n     <li><a class=\"annotation\" href=\"/nhan-vat/ho-chi-minh\" title=\"Hồ Chí Minh (19 tháng 5 năm 1890 \u2013 2 tháng 9 năm 1969) tên khai sinh: Nguyễn Sinh Cung, là nhà cách mạng, người sáng lập Đảng Cộng sản Việt Nam, một trong những người đặt nền móng và lãnh đạo công cuộc đấu tranh giành độc lập, toàn vẹn lãnh thổ cho Việt Nam trong thế kỷ 20, một chiến sĩ cộng sản quố...\" target=\"_blank\">Hồ Chí Minh<\/a><\/li>\n     <li>Hãy nhớ lấy lời tôi<\/li>\n     <li>Hoa tím<\/li>\n    <\/ul><\/td>\n   <td valign=\"top\">\n    <ul>\n     <li>Hoan hô chiến sĩ <a class=\"annotation\" href=\"/dia-danh/dien-bien\" title=\"Điện Biên là một tỉnh biên giới miền núi thuộc vùng Tây Bắc của Việt Nam, có tọa độ địa lý 20°54\u2019 \u2013 22°33\u2019 vĩ độ Bắc và 102°10\u2019 \u2013 103°36\u2019 kinh độ Đông. Nằm cách Thủ đô Hà Nội 504&amp;#160;km về phía Tây, phía Đông và Đông nam giáp tỉnh Sơn La, phía Bắc giáp tỉnh Lai Châu, phía Tây Bắc giáp tỉnh Vân Nam ...\" target=\"_blank\">Điện Biên<\/a><\/li>\n     <li>Kính gửi cụ Nguyễn Du<\/li>\n     <li>Khi con tu hú<\/li>\n     <li>Lao Bảo<\/li>\n     <li>Lạ chưa<\/li>\n     <li>Lượm<\/li>\n     <li>Mẹ Suốt<\/li>\n     <li>Mẹ Tơm<\/li>\n     <li>Mồ côi<\/li>\n     <li>Một tiếng đờn<\/li>\n     <li>Miền Nam<\/li>\n     <li>Mưa rơi<\/li>\n     <li>Năm xưa<\/li>\n     <li>Sáng tháng Năm<\/li>\n     <li>Stalin! Stalin!<sup class=\"annotation badge\" title=\"^ \u201cThơ của Tố Hữu về Joseph Stalin\u201d. BBC tiếng Việt. 31 tháng 10 năm 2007.&amp;#160;\">4<\/sup><\/li>\n     <li>Emily, con ơi<\/li>\n    <\/ul><\/td>\n   <td valign=\"top\">\n    <ul>\n     <li>Ta đi tới<\/li>\n     <li>Ta với ta<\/li>\n     <li>Từ ấy<\/li>\n     <li>Tâm tư trong tù<\/li>\n     <li>Tương tri<\/li>\n     <li>Theo chân Bác<\/li>\n     <li>Tiếng chổi tre<\/li>\n     <li>Tiếng hát <a class=\"annotation\" href=\"/dia-danh/song-huong\" title=\"Sông Hương hay Hương Giang (Hán Nôm 香江) là con sông chảy qua thành phố Huế và các huyện, thị xã: Hương Trà, Hương Thủy, Phú Vang đều thuộc tỉnh Thừa Thiên-Huế, miền Trung Việt Nam....\" target=\"_blank\">sông Hương<\/a><\/li>\n     <li>Tiếng ru<\/li>\n     <li>Với Lênin<\/li>\n     <li>Vườn nhà<\/li>\n     <li>Việt Bắc (thơ, 1954)<\/li>\n     <li>Việt Nam máu và hoa<\/li>\n     <li>Xuân đang ở đâu...<\/li>\n     <li>Xuân đấy<\/li>\n    <\/ul><\/td>\n  <\/tr>\n <\/tbody>\n<\/table>",
+        "<table class=\"cquote table table-striped\" role=\"presentation\">\n <tbody>\n  <tr>\n   <td>\u201c<\/td>\n   <td><i>\"Chưa bao giờ Ông Cụ<sup class=\"annotation badge\" title=\"^ Tức Bác Hồ\">7<\/sup> khen thơ tôi\"<\/i><\/td>\n   <td>\u201d<\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"3\" class=\"cquotecite\"><cite>\u2014\u2009Chân dung và đối thoại- <a class=\"annotation\" href=\"/nhan-vat/tran-dang-khoa\" title=\"Trần Đăng Khoa có thể là tên của một trong số những người sau:...\" target=\"_blank\">Trần Đăng Khoa<\/a><\/cite><\/td>\n  <\/tr>\n <\/tbody>\n<\/table>",
+        "<table class=\"cquote table table-striped\" role=\"presentation\">\n <tbody>\n  <tr>\n   <td>\u201c<\/td>\n   <td><i>\"Tôi chỉ biết ông là nhà thơ có nhiều bạn đọc nhất trong thời đại của ông. Tôi chỉ biết rằng ông đã sinh ra đúng thời. Giọng nói của ông là giọng nói của thời đại ấy. Có hai người làm thơ sinh đúng thời nhất: Tố Hữu và <a class=\"annotation\" href=\"/nhan-vat/tran-dang-khoa\" title=\"Trần Đăng Khoa có thể là tên của một trong số những người sau:...\" target=\"_blank\">Trần Đăng Khoa<\/a>. Tôi không hiểu nếu những năm tháng này, Tố Hữu đang 20 tuổi trai trẻ và <a class=\"annotation\" href=\"/nhan-vat/tran-dang-khoa\" title=\"Trần Đăng Khoa có thể là tên của một trong số những người sau:...\" target=\"_blank\">Trần Đăng Khoa<\/a> đang 8 tuổi ấu thơ thì giọng nói của họ sẽ vang lên như thế nào. Họ có tài và họ sẽ làm thơ. Nhưng họ sẽ viết những câu thơ ra sao? Tôi luôn luôn nghĩ Tố Hữu là người nghệ sĩ nhân dân. Thơ ông là bài ca vui bất tận. Khi thơ ông bước vào cái tuổi sung sức nhất lại chính là lúc dân tộc Việt Nam sau bao năm làm thân phận nô lệ đã thành người tự do. Ai sống trong thời đại ấy cũng sẽ quên đi những nỗi buồn cá nhân để cất cao tiếng hát của mình trong bài ca độc lập của dân tộc.\"<\/i><\/td>\n   <td>\u201d<\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"3\" class=\"cquotecite\"><cite>\u2014\u2009Tố Hữu và ngọn đèn đã tắt- Nguyễn Quang Thiều<\/cite><\/td>\n  <\/tr>\n <\/tbody>\n<\/table>",
+        "<table class=\"cquote table table-striped\" role=\"presentation\">\n <tbody>\n  <tr>\n   <td>\u201c<\/td>\n   <td><i>\"Tố Hữu là một nhà thơ lớn. Nói đúng hơn, ông là nhà thơ lãng mạn cách mạng. Cả cuộc đời ông gắn bó với cách mạng. Thơ với đời là một. Trước sau đều nhất quán. Tố Hữu nhìn cách mạng bằng con mắt lãng mạn của một thi sĩ. Thơ ông dường như chỉ có một giọng. Đó là giọng hát tưng bừng ca ngợi cách mạng. Đọc ông trong bất cứ hoàn cảnh và tâm trạng nào, ta cũng thấy phấn chấn, náo nức như đi trẩy hội. Đến đâu cũng nghe vang tiếng trống, tiếng kèn. Mà thơ ông đâu chỉ có trống phách linh đình như một đám rước, ông còn bắn cả 21 phát đại bác vang trời. Cho đến nay, chỉ có ông là nhà thơ Việt Nam duy nhất đã bắn đại bác trang trọng như thế.\"<\/i><\/td>\n   <td>\u201d<\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"3\" class=\"cquotecite\"><cite>\u2014\u2009Chân dung và đối thoại- <a class=\"annotation\" href=\"/nhan-vat/tran-dang-khoa\" title=\"Trần Đăng Khoa có thể là tên của một trong số những người sau:...\" target=\"_blank\">Trần Đăng Khoa<\/a><\/cite><\/td>\n  <\/tr>\n <\/tbody>\n<\/table>",
+        "<table class=\"cquote table table-striped\" role=\"presentation\">\n <tbody>\n  <tr>\n   <td>\u201c<\/td>\n   <td><i>\"Cuối cùng, như mọi kiếp người, ông đã giã từ đời sống về nơi cát bụi trong một ngày mùa đông giá rét. Ông không còn được lưu lại trên thế gian để đón thêm một mùa xuân nữa. Từ đây, những câu thơ viết về mùa xuân của ông mà có thời rất nhiều người đọc Việt Nam chờ đợi khi xuân tới sẽ chẳng bao giờ sinh ra. Một lần, tôi gặp ông trong một cuộc hội thảo, ông bảo tôi: \"Hôm nào tới nhà mình chơi, mình kể cho ông mấy chuyện hay lắm. ông có khả năng viết tư liệu đấy.\" Nhưng cuộc trò chuyện ấy không bao giờ có được. Có thể sau này, khi tôi cũng thành người thiên cổ và gặp ông ở cõi vĩnh hằng thì có thể tôi sẽ được ông kể cho nghe. Nhưng tôi nghĩ trong cõi vĩnh hằng, những chuyện dở, chuyện hay chẳng còn quan trọng gì nữa. Vì nơi ấy, mọi đau khổ đều được chữa chạy, mọi tăm tối đều được chiếu sáng, mọi lầm lỗi đều được tha thứ, mọi sợ hãi đều được che chở, mọi tuyệt vọng đều được cứu vớt... Giờ đây, linh hồn ông đang mỉm cười hay đang suy ngẫm, thở phào nhẹ nhõm hay dằn vặt khổ đau -\"<\/i><\/td>\n   <td>\u201d<\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"3\" class=\"cquotecite\"><cite>\u2014\u2009Tố Hữu và ngọn đèn đã tắt- Nguyễn Quang Thiều<sup class=\"annotation badge\" title=\"^ \u201cTố Hữu và ngọn đèn cô đơn đã tắt\u201d. Truy cập 14 tháng 9 năm 2008.&amp;#160; Kiểm tra giá trị ngày tháng trong: |accessdate= (trợ giúp)\">8<\/sup> <\/cite><\/td>\n  <\/tr>\n <\/tbody>\n<\/table>",
+        "<table class=\"cquote table table-striped\" role=\"presentation\">\n <tbody>\n  <tr>\n   <td>\u201c<\/td>\n   <td><i>\" Thời đại ta đã may mắn có được nhà thơ Tố Hữu\"<\/i><\/td>\n   <td>\u201d<\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"3\" class=\"cquotecite\"><cite>\u2014\u2009Hoài Thanh<sup class=\"annotation badge\" title=\"^ [1] Nhà phê bình văn học Hoài Thanh: Nỗi oan không khó gỡ\">9<\/sup> <\/cite><\/td>\n  <\/tr>\n <\/tbody>\n<\/table>"
+    ],
+    "keywords": [],
+    "headings": [
+        "Nhân Vật Lịch Sử",
+        "Tố Hữu",
+        "Nguồn gốc bút danh Tố Hữu",
+        "Tiểu sử",
+        "Thiếu niên",
+        "Hoạt động trong đảng Cộng sản",
+        "Quan điểm chính trị",
+        "Đóng góp văn học",
+        "Các tác phẩm",
+        "Bài thơ tiêu biểu",
+        "Bài thơ cuối cùng",
+        "Phong tặng và Giải thưởng văn học chính",
+        "Sự kiện rắc rối sau khi ông mất",
+        "Câu nói",
+        "Tố Hữu và vụ Nhân văn Giai phẩm",
+        "Nhận định",
+        "Gia đình",
+        "Vinh danh",
+        "Chú thích",
+        "Bài viết cùng thư mục",
+        "CÁC THỜI KỲ LỊCH SỬ",
+        "Tư Liệu",
+        "Anh Hùng Dân Tộc Tiêu Biểu",
+        "Anh Hùng Dân Tộc Tiêu Biểu",
+        "Tư Liệu Lịch Sử",
+        "Di Tích Lịch Sử"
+    ],
+    "anchors": [
+        {
+            "text": "",
+            "href": "/"
+        },
+        {
+            "text": "Trang Chủ",
+            "href": "/"
+        },
+        {
+            "text": "Dòng Lịch Sử",
+            "href": "/dong-lich-su"
+        },
+        {
+            "text": "Hồng Bàng & Văn Lang",
+            "href": "/dong-lich-su/hong-bang-va-van-lang"
+        },
+        {
+            "text": "Âu Lạc & Nam Việt",
+            "href": "/dong-lich-su/au-lac-va-nam-viet"
+        },
+        {
+            "text": "Bắc thuộc lần I",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat"
+        },
+        {
+            "text": "Trưng Nữ Vương",
+            "href": "/dong-lich-su/trung-nu-vuong"
+        },
+        {
+            "text": "Bắc thuộc lần II",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-hai"
+        },
+        {
+            "text": "Nhà Lý & Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu"
+        },
+        {
+            "text": "Bắc thuộc lần III",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-ba"
+        },
+        {
+            "text": "Thời kỳ xây nền tự chủ",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu"
+        },
+        {
+            "text": "Nhà Ngô",
+            "href": "/dong-lich-su/nha-ngo"
+        },
+        {
+            "text": "Nhà Đinh",
+            "href": "/dong-lich-su/nha-dinh"
+        },
+        {
+            "text": "Nhà Tiền Lê",
+            "href": "/dong-lich-su/nha-tien-le"
+        },
+        {
+            "text": "Nhà Lý",
+            "href": "/dong-lich-su/nha-ly"
+        },
+        {
+            "text": "Nhà Trần",
+            "href": "/dong-lich-su/nha-tran"
+        },
+        {
+            "text": "Nhà Hồ",
+            "href": "/dong-lich-su/nha-ho"
+        },
+        {
+            "text": "Nhà Hậu Trần",
+            "href": "/dong-lich-su/nha-hau-tran"
+        },
+        {
+            "text": "Bắc thuộc lần IV",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-tu"
+        },
+        {
+            "text": "Nhà Hậu Lê",
+            "href": "/dong-lich-su/nha-hau-le"
+        },
+        {
+            "text": "Nam Bắc Triều",
+            "href": "/dong-lich-su/nam-bac-trieu"
+        },
+        {
+            "text": "Trịnh Nguyễn Phân Tranh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh"
+        },
+        {
+            "text": "Nhà Tây Sơn",
+            "href": "/dong-lich-su/nha-tay-son"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/nha-nguyen"
+        },
+        {
+            "text": "Pháp Thuộc",
+            "href": "/dong-lich-su/phap-thuoc"
+        },
+        {
+            "text": "Việt Nam Dân Chủ Cộng Hoà",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Cộng hoà xã hội chủ nghĩa Việt Nam",
+            "href": "/dong-lich-su/viet-nam-xhcn"
+        },
+        {
+            "text": "Tư Liệu",
+            "href": "/tu-lieu"
+        },
+        {
+            "text": "Quân Sự",
+            "href": "/tu-lieu/quan-su?filter_tag[0]="
+        },
+        {
+            "text": "Tác Phẩm",
+            "href": "/tu-lieu/tac-pham?filter_tag[0]="
+        },
+        {
+            "text": "Bang Giao",
+            "href": "/tu-lieu/bang-giao"
+        },
+        {
+            "text": "Biểu đồ thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Nhân Vật",
+            "href": "/nhan-vat"
+        },
+        {
+            "text": "Anh Hùng Dân Tộc",
+            "href": "/anh-hung-dan-toc?types[0]=1"
+        },
+        {
+            "text": "Danh nhân văn hóa",
+            "href": "/danh-nhan-van-hoa?types[0]=1"
+        },
+        {
+            "text": "Di Tích",
+            "href": "/di-tich-lich-su?types[0]=1"
+        },
+        {
+            "text": "Ngày Nay",
+            "href": "/thoi-su"
+        },
+        {
+            "text": "Sách",
+            "href": "/sach"
+        },
+        {
+            "text": "Video",
+            "href": "/video"
+        },
+        {
+            "text": "Q&A",
+            "href": "/hoi-dap"
+        },
+        {
+            "text": "Lịch sử lớp 12",
+            "href": "/hoi-dap/lop-12"
+        },
+        {
+            "text": "Lịch sử lớp 11",
+            "href": "/hoi-dap/lop-11"
+        },
+        {
+            "text": "Lịch sử lớp 10",
+            "href": "/hoi-dap/lop-10"
+        },
+        {
+            "text": "Lịch sử lớp 9",
+            "href": "/hoi-dap/lop-9"
+        },
+        {
+            "text": "Lịch sử lớp 8",
+            "href": "/hoi-dap/lop-8"
+        },
+        {
+            "text": "Lịch sử lớp 7",
+            "href": "/hoi-dap/lop-7"
+        },
+        {
+            "text": "Lịch sử lớp 6",
+            "href": "/hoi-dap/lop-6"
+        },
+        {
+            "text": "Trang chủ",
+            "href": "/"
+        },
+        {
+            "text": "Nhân Vật",
+            "href": "/nhan-vat"
+        },
+        {
+            "text": "Nhân Vật Lịch Sử",
+            "href": "/nhan-vat"
+        },
+        {
+            "text": "Thu / Mở",
+            "href": "#"
+        },
+        {
+            "text": "Nguồn gốc bút danh Tố Hữu",
+            "href": "#nguon-goc-but-danh-to-huu"
+        },
+        {
+            "text": "Tiểu sử",
+            "href": "#tieu-su"
+        },
+        {
+            "text": "Thiếu niên",
+            "href": "#thieu-nien"
+        },
+        {
+            "text": "Hoạt động trong đảng Cộng sản",
+            "href": "#hoat-dong-trong-dang-cong-san"
+        },
+        {
+            "text": "Quan điểm chính trị",
+            "href": "#quan-diem-chinh-tri"
+        },
+        {
+            "text": "Đóng góp văn học",
+            "href": "#dong-gop-van-hoc"
+        },
+        {
+            "text": "Các tác phẩm",
+            "href": "#cac-tac-pham"
+        },
+        {
+            "text": "Bài thơ tiêu biểu",
+            "href": "#bai-tho-tieu-bieu"
+        },
+        {
+            "text": "Bài thơ cuối cùng",
+            "href": "#bai-tho-cuoi-cung"
+        },
+        {
+            "text": "Phong tặng và Giải thưởng văn học chính",
+            "href": "#phong-tang-va-giai-thuong-van-hoc-chinh"
+        },
+        {
+            "text": "Sự kiện rắc rối sau khi ông mất",
+            "href": "#su-kien-rac-roi-sau-khi-ong-mat"
+        },
+        {
+            "text": "Câu nói",
+            "href": "#cau-noi"
+        },
+        {
+            "text": "Tố Hữu và vụ Nhân văn Giai phẩm",
+            "href": "#to-huu-va-vu-nhan-van-giai-pham"
+        },
+        {
+            "text": "Nhận định",
+            "href": "#nhan-dinh"
+        },
+        {
+            "text": "Gia đình",
+            "href": "#gia-dinh"
+        },
+        {
+            "text": "Vinh danh",
+            "href": "#vinh-danh"
+        },
+        {
+            "text": "Chú thích",
+            "href": "#chu-thich"
+        },
+        {
+            "text": "Hồ Chí Minh",
+            "href": "/nhan-vat/ho-chi-minh"
+        },
+        {
+            "text": "tỉnh Quảng Nam",
+            "href": "/dia-danh/tinh-quang-nam"
+        },
+        {
+            "text": "Lê Duẩn",
+            "href": "/nhan-vat/le-duan"
+        },
+        {
+            "text": "huyện Hà Trung",
+            "href": "/dia-danh/huyen-ha-trung"
+        },
+        {
+            "text": "Hồ Chí Minh",
+            "href": "/nhan-vat/ho-chi-minh"
+        },
+        {
+            "text": "Nguyễn Ái Quốc",
+            "href": "/nhan-vat/nguyen-ai-quoc"
+        },
+        {
+            "text": "Lê Duẩn",
+            "href": "/nhan-vat/le-duan"
+        },
+        {
+            "text": "Hồ Chí Minh",
+            "href": "/nhan-vat/ho-chi-minh"
+        },
+        {
+            "text": "Hồ Chí Minh",
+            "href": "/nhan-vat/ho-chi-minh"
+        },
+        {
+            "text": "Điện Biên",
+            "href": "/dia-danh/dien-bien"
+        },
+        {
+            "text": "sông Hương",
+            "href": "/dia-danh/song-huong"
+        },
+        {
+            "text": "Hồ Chí Minh",
+            "href": "/nhan-vat/ho-chi-minh"
+        },
+        {
+            "text": "Phan Đình Phùng",
+            "href": "/nhan-vat/phan-dinh-phung"
+        },
+        {
+            "text": "Điện Biên",
+            "href": "/dia-danh/dien-bien"
+        },
+        {
+            "text": "Trần Đăng Khoa",
+            "href": "/nhan-vat/tran-dang-khoa"
+        },
+        {
+            "text": "Lê Đạt",
+            "href": "/nhan-vat/le-dat"
+        },
+        {
+            "text": "Trần Đăng Khoa",
+            "href": "/nhan-vat/tran-dang-khoa"
+        },
+        {
+            "text": "Trần Đăng Khoa",
+            "href": "/nhan-vat/tran-dang-khoa"
+        },
+        {
+            "text": "Trần Đăng Khoa",
+            "href": "/nhan-vat/tran-dang-khoa"
+        },
+        {
+            "text": "Lê Văn Lương",
+            "href": "/nhan-vat/le-van-luong"
+        },
+        {
+            "text": "Triệu Khuông Dận",
+            "href": "/nhan-vat/trieu-khuong-dan"
+        },
+        {
+            "text": "Bài viết trước: Tô Hiến Thành Trước",
+            "href": "/nhan-vat/to-hien-thanh"
+        },
+        {
+            "text": "Bài viết kế tiếp: Tôn Dật Tiên Tiếp tục",
+            "href": "/nhan-vat/ton-dat-tien"
+        },
+        {
+            "text": "Kinh Dương Vương",
+            "href": "/nhan-vat/kinh-duong-vuong"
+        },
+        {
+            "text": "Lạc Long Quân",
+            "href": "/nhan-vat/lac-long-quan"
+        },
+        {
+            "text": "nhà Chu",
+            "href": "/nhan-vat/nha-chu"
+        },
+        {
+            "text": "Ngô Sĩ Liên",
+            "href": "/nhan-vat/ngo-si-lien"
+        },
+        {
+            "text": "Lý Thái Tổ",
+            "href": "/nhan-vat/ly-thai-to"
+        },
+        {
+            "text": "nhà Thương",
+            "href": "/nhan-vat/nha-thuong"
+        },
+        {
+            "text": "nhà Đường",
+            "href": "/nhan-vat/nha-duong"
+        },
+        {
+            "text": "Triệu Việt Vương",
+            "href": "/nhan-vat/trieu-viet-vuong"
+        },
+        {
+            "text": "nhà Tần",
+            "href": "/nhan-vat/nha-tan"
+        },
+        {
+            "text": "Triệu Đà",
+            "href": "/nhan-vat/trieu-da"
+        },
+        {
+            "text": "Hồng Bàng & Văn Lang",
+            "href": "/dong-lich-su/hong-bang-va-van-lang"
+        },
+        {
+            "text": "Âu Lạc & Nam Việt",
+            "href": "/dong-lich-su/au-lac-va-nam-viet"
+        },
+        {
+            "text": "Bắc thuộc lần I",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat"
+        },
+        {
+            "text": "Nhà Triệu",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat/nha-trieu"
+        },
+        {
+            "text": "Trưng Nữ Vương",
+            "href": "/dong-lich-su/trung-nu-vuong"
+        },
+        {
+            "text": "Bắc thuộc lần II",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-hai"
+        },
+        {
+            "text": "Nhà Lý & Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu"
+        },
+        {
+            "text": "Nhà Tiền Lý",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-tien-ly"
+        },
+        {
+            "text": "Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-trieu"
+        },
+        {
+            "text": "Nhà Hậu Lý",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-hau-ly"
+        },
+        {
+            "text": "Bắc thuộc lần III",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-ba"
+        },
+        {
+            "text": "Thời kỳ xây nền tự chủ",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu"
+        },
+        {
+            "text": "Họ Khúc",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu/ho-khuc"
+        },
+        {
+            "text": "Nhà Ngô",
+            "href": "/dong-lich-su/nha-ngo"
+        },
+        {
+            "text": "Nhà Đinh",
+            "href": "/dong-lich-su/nha-dinh"
+        },
+        {
+            "text": "Nhà Tiền Lê",
+            "href": "/dong-lich-su/nha-tien-le"
+        },
+        {
+            "text": "Nhà Lý",
+            "href": "/dong-lich-su/nha-ly"
+        },
+        {
+            "text": "Nhà Trần",
+            "href": "/dong-lich-su/nha-tran"
+        },
+        {
+            "text": "Nhà Hồ",
+            "href": "/dong-lich-su/nha-ho"
+        },
+        {
+            "text": "Nhà Hậu Trần",
+            "href": "/dong-lich-su/nha-hau-tran"
+        },
+        {
+            "text": "Bắc thuộc lần IV",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-tu"
+        },
+        {
+            "text": "Nhà Hậu Lê",
+            "href": "/dong-lich-su/nha-hau-le"
+        },
+        {
+            "text": "Nam Bắc Triều",
+            "href": "/dong-lich-su/nam-bac-trieu"
+        },
+        {
+            "text": "Nhà Lê Trung Hưng",
+            "href": "/dong-lich-su/nam-bac-trieu/nha-le-trung-hung"
+        },
+        {
+            "text": "Nhà Mạc",
+            "href": "/dong-lich-su/nam-bac-trieu/nha-mac"
+        },
+        {
+            "text": "Trịnh Nguyễn Phân Tranh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh"
+        },
+        {
+            "text": "Nhà Lê Trung Hưng",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/nha-le-trung-hung"
+        },
+        {
+            "text": "Chúa Trịnh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-trinh"
+        },
+        {
+            "text": "Chúa Nguyễn",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen"
+        },
+        {
+            "text": "Nhà Tây Sơn",
+            "href": "/dong-lich-su/nha-tay-son"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/nha-nguyen"
+        },
+        {
+            "text": "Pháp Thuộc",
+            "href": "/dong-lich-su/phap-thuoc"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/phap-thuoc/nha-nguyen"
+        },
+        {
+            "text": "Những cuộc khởi nghĩa chống thực dân Pháp",
+            "href": "/dong-lich-su/phap-thuoc/khoi-nghia-chong-phap"
+        },
+        {
+            "text": "Đảng Cộng Sản Việt Nam",
+            "href": "/dong-lich-su/phap-thuoc/dang-cong-san-viet-nam"
+        },
+        {
+            "text": "Việt Nam Dân Chủ Cộng Hoà",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Kháng chiến chống Pháp",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-phap"
+        },
+        {
+            "text": "Kháng chiến chống Mĩ",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-mi"
+        },
+        {
+            "text": "Cộng hoà xã hội chủ nghĩa Việt Nam",
+            "href": "/dong-lich-su/viet-nam-xhcn"
+        },
+        {
+            "text": "Trận Điện Biên Phủ trên không năm 1972",
+            "href": "/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972"
+        },
+        {
+            "text": "Chiến tranh biên giới Tây Nam năm 1975 - 1978",
+            "href": "/tu-lieu/quan-su/chien-tranh-bien-gioi-tay-nam-nam-1975-1978"
+        },
+        {
+            "text": "Chiến dịch Mùa Xuân năm 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-mua-xuan-nam-1975"
+        },
+        {
+            "text": "Hải chiến Trường Sa năm 1988",
+            "href": "/tu-lieu/quan-su/hai-chien-truong-sa-nam-1988"
+        },
+        {
+            "text": "Chiến dịch Đường 14 - Phước Long năm 1974 - 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-duong-14-phuoc-long-nam-1974-1975"
+        },
+        {
+            "text": "Chiến dịch Tây Nguyên năm 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-tay-nguyen-nam-1975"
+        },
+        {
+            "text": "Trận Mậu Thân tại Huế năm 1968",
+            "href": "/tu-lieu/quan-su/tran-mau-than-tai-hue-nam-1968"
+        },
+        {
+            "text": "Bảng đối chiếu các triều đại Việt Nam và các triều đại Trung Quốc",
+            "href": "/tu-lieu/bang-doi-chieu-cac-trieu-dai-viet-nam-va-cac-trieu-dai-trung-quoc"
+        },
+        {
+            "text": "Bình Ngô đại cáo - bản tuyên ngôn độc lập thứ hai",
+            "href": "/tu-lieu/tac-pham/binh-ngo-dai-cao-ban-tuyen-ngon-doc-lap-thu-hai"
+        },
+        {
+            "text": "Lãnh thổ Việt Nam qua từng thời kỳ",
+            "href": "/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky"
+        },
+        {
+            "text": "Trận Đồi Thịt Băm năm 1969",
+            "href": "/tu-lieu/quan-su/tran-doi-thit-bam-nam-1969"
+        },
+        {
+            "text": "Chiến dịch Đắk Tô năm 1972",
+            "href": "/tu-lieu/quan-su/chien-dich-dak-to-nam-1972"
+        },
+        {
+            "text": "Nam quốc sơn hà - Bản tuyên ngôn độc lập đầu tiên",
+            "href": "/tu-lieu/tac-pham/nam-quoc-son-ha-ban-tuyen-ngon-doc-lap-dau-tien"
+        },
+        {
+            "text": "Tuyên ngôn độc lập Việt Nam Dân chủ Cộng hòa",
+            "href": "/tu-lieu/tac-pham/tuyen-ngon-doc-lap-viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Trận Bản Đông năm 1971",
+            "href": "/tu-lieu/quan-su/tran-ban-dong-nam-1971"
+        },
+        {
+            "text": "Trận Rạch Gầm \u2013 Xoài Mút năm 1785",
+            "href": "/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785"
+        },
+        {
+            "text": "Lịch sử Chữ viết tiếng Việt",
+            "href": "/tu-lieu/lich-su-chu-viet-tieng-viet"
+        },
+        {
+            "text": "Hịch tướng sĩ - Dụ chư tỳ tướng hịch văn",
+            "href": "/tu-lieu/tac-pham/hich-tuong-si-du-chu-ty-tuong-hich-van"
+        },
+        {
+            "text": "Danh sách Trạng nguyên Việt Nam",
+            "href": "/tu-lieu/danh-sach-trang-nguyen-viet-nam"
+        },
+        {
+            "text": "Hội nghị Paris, mặt trận ngoại giao năm 1968-1972",
+            "href": "/tu-lieu/bang-giao/hoi-nghi-paris-mat-tran-ngoai-giao-nam-1968-1972"
+        },
+        {
+            "text": "Trần Hưng Đạo",
+            "href": "/nhan-vat/tran-hung-dao"
+        },
+        {
+            "text": "Hai Bà Trưng",
+            "href": "/nhan-vat/hai-ba-trung"
+        },
+        {
+            "text": "Lý Nam Đế",
+            "href": "/nhan-vat/ly-nam-de"
+        },
+        {
+            "text": "Lý Thái Tổ",
+            "href": "/nhan-vat/ly-thai-to"
+        },
+        {
+            "text": "Trần Nhân Tông",
+            "href": "/nhan-vat/tran-nhan-tong"
+        },
+        {
+            "text": "Ngô Quyền",
+            "href": "/nhan-vat/ngo-quyen"
+        },
+        {
+            "text": "Lê Thái Tổ",
+            "href": "/nhan-vat/le-thai-to"
+        },
+        {
+            "text": "Nguyễn Trãi",
+            "href": "/nhan-vat/nguyen-trai"
+        },
+        {
+            "text": "Hùng Vương",
+            "href": "/nhan-vat/hung-vuong"
+        },
+        {
+            "text": "Lê Đại Hành",
+            "href": "/nhan-vat/le-dai-hanh"
+        },
+        {
+            "text": "Nguyễn Huệ",
+            "href": "/nhan-vat/nguyen-hue"
+        },
+        {
+            "text": "Hồ Chí Minh",
+            "href": "/nhan-vat/ho-chi-minh"
+        },
+        {
+            "text": "Lý Thường Kiệt",
+            "href": "/nhan-vat/ly-thuong-kiet"
+        },
+        {
+            "text": "Đinh Tiên Hoàng",
+            "href": "/nhan-vat/dinh-tien-hoang"
+        },
+        {
+            "text": "Trần Nhân Tông",
+            "href": "/nhan-vat/tran-nhan-tong"
+        },
+        {
+            "text": "Lê Đại Hành",
+            "href": "/nhan-vat/le-dai-hanh"
+        },
+        {
+            "text": "Lý Thái Tổ",
+            "href": "/nhan-vat/ly-thai-to"
+        },
+        {
+            "text": "Nguyễn Huệ",
+            "href": "/nhan-vat/nguyen-hue"
+        },
+        {
+            "text": "Lý Thường Kiệt",
+            "href": "/nhan-vat/ly-thuong-kiet"
+        },
+        {
+            "text": "Đinh Tiên Hoàng",
+            "href": "/nhan-vat/dinh-tien-hoang"
+        },
+        {
+            "text": "Hai Bà Trưng",
+            "href": "/nhan-vat/hai-ba-trung"
+        },
+        {
+            "text": "Hùng Vương",
+            "href": "/nhan-vat/hung-vuong"
+        },
+        {
+            "text": "Lê Thái Tổ",
+            "href": "/nhan-vat/le-thai-to"
+        },
+        {
+            "text": "Lý Nam Đế",
+            "href": "/nhan-vat/ly-nam-de"
+        },
+        {
+            "text": "Vấn đề biên giới Việt-Trung thời Mạc",
+            "href": "/tu-lieu/bang-giao/van-de-bien-gioi-viet-trung-thoi-mac"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Tây Sơn",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-tay-son"
+        },
+        {
+            "text": "Biểu đồ các nhân vật lịch sử theo dòng thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Danh sách Trạng nguyên Việt Nam",
+            "href": "/tu-lieu/danh-sach-trang-nguyen-viet-nam"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Nguyễn",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-nguyen"
+        },
+        {
+            "text": "Trận Điện Biên Phủ trên không năm 1972",
+            "href": "/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972"
+        },
+        {
+            "text": "Trận Ngọc Hồi - Đống Đa năm 1789",
+            "href": "/tu-lieu/quan-su/tran-ngoc-hoi-dong-da-nam-1789"
+        },
+        {
+            "text": "Trận Cẩm Sa năm 1775",
+            "href": "/tu-lieu/quan-su/tran-cam-sa-nam-1775"
+        },
+        {
+            "text": "Trận Rạch Gầm \u2013 Xoài Mút năm 1785",
+            "href": "/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785"
+        },
+        {
+            "text": "Lãnh thổ Việt Nam qua từng thời kỳ",
+            "href": "/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky"
+        },
+        {
+            "text": "Quần thể di tích danh thắng Yên Tử",
+            "href": "/dia-danh/quan-the-di-tich-danh-thang-yen-tu"
+        },
+        {
+            "text": "thành Cổ Loa",
+            "href": "/dia-danh/thanh-co-loa"
+        },
+        {
+            "text": "Văn Miếu - Quốc Tử Giám",
+            "href": "/dia-danh/van-mieu-quoc-tu-giam"
+        },
+        {
+            "text": "Quần thể di tích Cố đô Huế",
+            "href": "/dia-danh/quan-the-di-tich-co-do-hue"
+        },
+        {
+            "text": "Thành nhà Hồ",
+            "href": "/dia-danh/thanh-nha-ho"
+        },
+        {
+            "text": "Khu lăng mộ và đền thờ các vị vua triều Lý",
+            "href": "/dia-danh/khu-lang-mo-va-den-tho-cac-vi-vua-trieu-ly"
+        },
+        {
+            "text": "Khu di tích Chủ tịch Hồ Chí Minh tại Phủ Chủ tịch",
+            "href": "/dia-danh/khu-di-tich-chu-tich-ho-chi-minh-tai-phu-chu-tich"
+        },
+        {
+            "text": "Đền Trần (Nam Định)",
+            "href": "/dia-danh/den-tran-nam-dinh"
+        },
+        {
+            "text": "Đền Hùng",
+            "href": "/dia-danh/den-hung"
+        },
+        {
+            "text": "Khu di tích Pác Bó",
+            "href": "/dia-danh/khu-di-tich-pac-bo"
+        },
+        {
+            "text": "Giới thiệu",
+            "href": "/gioi-thieu"
+        },
+        {
+            "text": "Quyền riêng tư",
+            "href": "/quyen-rieng-tu"
+        },
+        {
+            "text": "Liên hệ",
+            "href": "/lien-he"
+        },
+        {
+            "text": "Địa Danh",
+            "href": "/dia-danh"
+        },
+        {
+            "text": "Trang Facebook",
+            "href": "https://www.facebook.com/nguoikesu/"
+        },
+        {
+            "text": "DanhMucBDS.com",
+            "href": "https://danhmucbds.com"
+        },
+        {
+            "text": "HocTotNguVan.com",
+            "href": "https://hoctotnguvan.com"
+        }
+    ],
+    "title": "Tố Hữu - Người Kể Sử",
+    "paragraphs": [
+        "Tố Hữu, tên thật là Nguyễn Kim Thành (4 tháng 10 năm 1920 \u2013 9 tháng 12 năm 2002), quê gốc ở làng Phù Lai, nay thuộc xã Quảng Thọ, huyện Quảng Điền, tỉnh Thừa Thiên-Huế.",
+        "Ông là một nhà thơ tiêu biểu của thơ cách mạng Việt Nam, đồng thời là một chính trị gia. Ông đã từng giữ các chức vụ quan trọng trong hệ thống chính trị của Việt Nam như Ủy viên Bộ Chính trị, Bí thư Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam, Phó Chủ tịch thứ Nhất Hội đồng Bộ trưởng nước Cộng hòa Xã hội Chủ nghĩa Việt Nam.",
+        "",
+        "",
+        "Theo lời Tố Hữu tự giải thích về bút danh của mình1 thì năm 1938 ông sang Lào thăm một người anh. Ở đây ông gặp một cụ đồ người Quảng Bình. Cụ đồ đã đặt cho ông bút danh \"Tố Hữu\" (chữ Hán: 素有), lấy từ câu nói của Đỗ Thị2 \"Ngô nhi tố hữu đại chí\" 吾兒素有大志. Tố Hữu 素有 có nghĩa là \"sẵn có, ý chỉ khí phách tiềm ẩn trong người\". Tố Hữu nhận tên gọi này nhưng hiểu theo nghĩa là \"người bạn trong trắng\", viết bằng chữ Hán là \"素友\", khác với tên do cụ đồ đặt ở chữ \"hữu\".",
+        "Nguyễn Kim Thành sinh ngày 4 tháng 10 năm 1920 tại Thành phố Hội An, tỉnh Quảng Nam. Đến năm 9 tuổi, ông cùng cha trở về sống tại làng Phù Lai, nay thuộc xã Quảng Thọ, huyện Quảng Điền, tỉnh Thừa Thiên Huế. Cha ông - nhà báo Hải Triều - là một nhà nho nghèo, không đỗ đạt và phải kiếm sống rất chật vật nhưng lại thích thơ, thích sưu tập ca dao tục ngữ. Ông đã dạy Tố Hữu làm thơ cổ. Mẹ ông cũng là con của một nhà nho, thuộc nhiều ca dao dân ca Huế và rất thương con. Cha mẹ đã góp phần nuôi dưỡng tâm hồn thơ Tố Hữu.2",
+        "Mẹ ông mất vào năm ông lên 12 tuổi. Năm 13 tuổi, ông vào trường Quốc học Huế. Tại đây, được trực tiếp tiếp xúc với tư tưởng của Karl Marx, Friedrich Engels, Vladimir Ilyich Lenin, Maxim Gorky,... qua sách báo, kết hợp với sự vận động của các đảng viên của Đảng Cộng sản Việt Nam bấy giờ (Lê Duẩn, Phan Đăng Lưu, Nguyễn Chí Diểu), Nguyễn Kim Thành sớm tiếp cận với lý tưởng cộng sản. Năm 1936 ông gia nhập Đoàn thanh niên Dân chủ Đông Dương.",
+        "Năm 1938 ông được kết nạp vào Đảng Cộng sản Đông Dương. Tháng 4/1939, ông bị bắt, bị tra tấn dã man và đày đi nhà lao Thừa Phủ (Huế) rồi chuyển sang nhà tù Lao Bảo (Quảng Trị) và nhiều nhà tù khác ở Tây Nguyên. Tháng 3-1942, ông vượt ngục Đắc Lay (nay thuộc Kon Tum) rồi tìm ra Thanh Hóa, bắt liên lạc với Đảng (về hoạt động bí mật ở huyện Hậu Lộc và thôn Tâm Quy, xã Hà Tân, huyện Hà Trung, Thanh Hóa). Đến năm 1945, khi Cách mạng tháng Tám bùng nổ, ông được bầu làm Chủ tịch Ủy ban Khởi nghĩa Thừa Thiên - Huế.",
+        "Năm 1946, ông là Bí thư Tỉnh ủy Thanh Hóa. Cuối 1947, ông lên Việt Bắc làm công tác văn nghệ, tuyên huấn. Từ đó, ông được giao những chức vụ quan trọng trong công tác văn nghệ, trong bộ máy lãnh đạo Đảng và nhà nước:",
+        "Năm 1996, ông được Nhà nước phong tặng Giải thưởng Hồ Chí Minh về Văn học nghệ thuật (đợt 1).",
+        "Ông từng đảm nhiệm nhiều chức vụ khác như Hiệu trưởng Trường Nguyễn Ái Quốc, Trưởng ban Thống nhất Trung ương, Trưởng ban Tuyên huấn Trung ương, Trưởng ban Khoa giáo Trung ương. Ông còn là Đại biểu Quốc hội khoá II và VII.",
+        "Trong thời gian phụ trách mảng văn nghệ, ông là người đã phê phán quyết liệt phong trào Nhân văn - Giai phẩm (1958). Nhiều ý kiến coi ông là tác giả chính của vụ án Văn nghệ - Chính trị này3 . Sau khi Lê Duẩn mất, có sự thay đổi mạnh mẽ tiến tới đổi mới nhằm thoát khỏi khủng hoảng kinh tế toàn diện. Ông bị mất uy tín chính trị vì phải chịu trách nhiệm trong những vụ khủng hoảng tiền tệ những năm 1980 nên bị miễn nhiệm các chức vụ quản lý, chỉ còn giữ một chức danh nghiên cứu mang tính học thuật.",
+        "Ông mất lúc 9 giờ 15 phút 7 giây, ngày 9 tháng 12 năm 2002 tại Bệnh viện 108.",
+        "Ở Tố Hữu có sự thống nhất đẹp đẽ giữa cuộc đời cách mạng và cuộc đời thơ. Chặng đường thơ của Tố Hữu là chặng đường lịch sử của cả một dân tộc. Ông được coi là lá cờ đầu của thơ ca cách mạng và kháng chiến.",
+        "Nguyễn Huy Tưởng đã dành cho Tố Hữu những dòng bày tỏ sự yêu quý, kính trọng, như: \u201cTố Hữu vững chắc quá, được toàn thể anh em văn nghệ sĩ kính phục\u201d (trích nhật ký ngày 28 tháng 9 năm 1949); \u201cNghĩ đến Tố Hữu, rực rỡ như vàng, như ánh sáng\u201d (trích nhật ký tháng 12-1949); \u201cHôm nay lại tranh thủ ý kiến Tố Hữu. ý kiến hay...\u201d (trích nhật ký ngày 28 tháng 4 năm 1959); \u201cLên chơi Tố Hữu. Thoải mái. Nói chuyện sắp đi Vĩnh Linh. Tố Hữu tán thành. Cần phải đi cho biết rộng\u201d (trích nhật ký ngày 8 tháng 8 năm 1959); \u201cLên gặp Tố Hữu. Nhắc chuyện 1956, một dự định kịch và tiểu thuyết của ta cái hồi ấy...Tố Hữu đã góp cho nhiều ý kiến về vấn đề này\u201d. Qua buổi gặp đó, Nguyễn Huy Tưởng thấy \u201cyêu Đảng, yêu cách mạng\u201d (trích nhật ký ngày 11 tháng 10 năm 1959)",
+        "",
+        "Tạm biệt đời ta yêu quý nhất",
+        "Còn mấy dòng thơ, một nắm tro.",
+        "Thơ gửi bạn đường. Tro bón đất",
+        "Sống là cho. Chết cũng là cho.5",
+        "Bài phỏng vấn Tố Hữu với tựa đề: \"Gặp Tố Hữu tại biệt thự 76 Phan Đình Phùng\" của Nhật Hoa Khanh được công bố sau khi ông mất đã gặp phải sự phản kháng từ gia đình ông. Vào tháng 4 năm 2004, tài liệu này bắt đầu được phổ biến trong giới văn nghệ, báo chí tại Việt Nam. Vào tháng 5 năm 2004, báo Quân đội Nhân dân trích đăng 3 kì từ tài liệu này với nhan đề \"Tố Hữu\" và \"Hoan hô chiến sĩ Điện Biên\", (kì số 3 vào ngày 7 tháng 5 năm 2004). Ngoài ra bài này cũng được đăng thành nhiều phần nhỏ trong các báo khác như Nhân dân, Tiền Phong Chủ Nhật, Người Hà Nội,... Nội dung bài phỏng vấn có nhắc tới các sự kiện văn hóa trước đây như Nhân văn-Giai phẩm và các nhà văn nạn nhân..., ông Tố Hữu có những lời ca ngợi các người này.",
+        "Bài phỏng vấn được thực hiện năm 1997, nhưng đến khi phổ biến thì bị bà Vũ Thị Thanh, vợ của Tố Hữu, phủ nhận và cho đó là những tài liệu giả mạo \"pha chế nhiều ý kiến riêng, mượn danh Tố Hữu, biến Tố Hữu thành người phát ngôn cho ý mình\". Bà yêu cầu cơ quan chức năng vào cuộc để điều tra làm rõ sự giả mạo của tài liệu này, nhưng ông Nhật Hoa Khanh nói có đầy đủ băng ghi âm ghi lại cuộc nói chuyện của ông với Tố Hữu.",
+        "Thực hay giả, đúng hay sai, nhưng thực tế nó đã được các tờ báo chính thống ở Việt Nam phổ biến. Sau đó sự kiện này không được các cơ quan báo chí, văn nghệ nhắc tới nữa6 .",
+        "Tố Hữu, khi ấy là Ủy viên Trung ương Đảng Lao động Việt Nam, phụ trách về công tác văn hóa văn nghệ, tuyên truyền được coi là người dập tắt phong trào Nhân Văn\u2013Giai Phẩm. Trong cuốn Qua cuộc đấu tranh chống nhóm phá hoại \"Nhân Văn - Giai Phẩm\" trên mặt trận văn nghệ, nhà xuất bản Văn Hoá, 1958, mà ông là tác giả, Tố Hữu đã nhận định về phong trào này và những người bị coi là dính líu như sau:",
+        "Lật bộ áo \"Nhân Văn - Giai Phẩm\" thối tha, người ta thấy ra cả một ổ phản động toàn những gián điệp, mật thám, lưu manh, trốt-kít, địa chủ tư sản phản động, quần tụ trong những tổ quỷ với những gái điếm, bàn đèn, sách báo chống cộng, phim ảnh khiêu dâm; (trg 9. Sđd). Trong cái công ty phản động \"Nhân Văn - Giai Phẩm\" ấy thật sự đủ mặt các loại \"biệt tính\": từ bọn Phan Khôi, Trần Duy mật thám cũ của thực dân Pháp đến bọn gián điệp Thụy An, từ bọn trốt-kít Trương Tửu, Trần Đức Thảo đến bọn phản Đảng Nguyễn Hữu Đang, Trần Dần, Lê Đạt. Một đặc điểm chung là hầu hết bọn chúng đều là những phần tử thuộc giai cấp địa chủ và tư sản phản động, và đều ngoan cố giữ lập trường quyền lợi giai cấp cũ của mình, cố tình chống lại cách mạng và chế độ;. (trg 17. Sđd). Báo cáo tổng kết vụ \"Nhân Văn - Giai Phẩm\" cũng do Tố Hữu viết có kết luận về tư tưởng chính trị và quan điểm văn nghệ của phong trào Nhân Văn\u2013Giai Phẩm như sau:",
+        "Những tư tưởng chính trị thù địch Kích thích chủ nghĩa cá nhân tư sản, bôi nhọ chủ nghĩa cộng sản. Xuyên tạc mâu thuẫn xã hội, khiêu khích nhân dân chống lại chế độ và Đảng lãnh đạo. Chống lại chuyên chính dân chủ nhân dân, chống lại cách mạng xã hội chủ nghĩa. Gieo rắc chủ nghĩa dân tộc tư sản, gãi vào đầu óc sô-vanh chống lại chủ nghĩa quốc tế vô sản. Những quan điểm văn nghệ phản động Nhóm \"Nhân Văn - Giai Phẩm\" phản đối văn nghệ phục vụ chính trị, thực tế là phản đối văn nghệ phục vụ đường lối chính trị cách mạng của giai cấp công nhân. Chúng đòi \"tự do, độc lập\" của văn nghệ, rêu rao \"sứ mạng chống đối\" của văn nghệ, thực ra chúng muốn lái văn nghệ sang đường lối chính trị phản động. Nhóm \"Nhân Văn - Giai Phẩm\" phản đối văn nghệ phục vụ công nông binh, nêu lên \"con người\" trừu tượng, thực ra chúng đòi văn nghệ trở về chủ nghĩa cá nhân tư sản đồi trụy. Nhóm \"Nhân Văn - Giai Phẩm\" hằn học đả kích nền văn nghệ xã hội chủ nghĩa, nhất là văn nghệ Liên Xô, đả kích nền văn nghệ kháng chiến của ta. Thực ra, chúng phản đối chế độ xã hội chủ nghĩa, chúng đòi đi theo chế độ tư bản chủ nghĩa. Nhóm \"Nhân Văn - Giai Phẩm\" phản đối sự lãnh đạo của Đảng đối với văn nghệ, chúng đòi \"trả văn nghệ cho văn nghệ sĩ\", thực ra chúng đòi đưa quyền lãnh đạo văn nghệ vào tay bọn phản cách mạng.",
+        "Nhà văn Nguyễn Huy Tưởng, trong nhật ký của mình, sau khi nhắc tới tên một số người trong nhóm Nhân văn - Giai phẩm cũng đã cho hay: \u201cBọn họ có người nói: Đừng viết nữa, để dành cho trẻ viết. Vô luận một bài, một sáng tác nào của anh em mà họ gọi là \u201ccây đa cây đề\u201d, họ đều gạt đi, cho là tồi. Trong khi đó thì họ tâng bốc những bài của họ mà phần lớn là không ngửi được!\u201d (trích nhật ký ngày 23 tháng 1 năm 1956).",
+        "(Nguồn: Wikipedia)"
+    ]
+}

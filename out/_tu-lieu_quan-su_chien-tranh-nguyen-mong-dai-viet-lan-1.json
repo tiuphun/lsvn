@@ -1,0 +1,966 @@
+{
+    "tables": [
+        "<table cellspacing=\"3\" cellpadding=\"2\" width=\"320\" class=\" table table-striped\">\n <tbody>\n  <tr>\n   <td>\n    <table cellspacing=\"2\" cellpadding=\"2\" width=\"100%\">\n     <tbody>\n      <tr>\n       <td colspan=\"2\">\n        <table cellpadding=\"1\" cellspacing=\"0\" width=\"100%\" align=\"center\">\n         <tbody>\n          <tr>\n           <td><span><b>Kháng chiến chống Nguyên Mông lần thứ nhất<\/b><\/span><\/td>\n          <\/tr>\n         <\/tbody>\n        <\/table><\/td>\n      <\/tr>\n      <tr>\n       <td colspan=\"2\">.<\/td>\n      <\/tr>\n      <tr>\n       <td colspan=\"2\">\n        <table cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n         <tbody>\n          <tr>\n           <td valign=\"top\"><b>Thời&nbsp;gian<\/b><\/td>\n           <td valign=\"top\">Năm 1258<\/td>\n          <\/tr>\n          <tr>\n           <td valign=\"top\"><b>Địa&nbsp;điểm<\/b><\/td>\n           <td valign=\"top\">Bắc Bộ Việt Nam<\/td>\n          <\/tr>\n          <tr>\n           <td valign=\"top\"><b>Nguyên&nbsp;nhân bùng&nbsp;nổ<\/b><\/td>\n           <td valign=\"top\">Mông Cổ muốn biến Đại Việt thành bàn đạp đánh vào châu Ung, Quế của Nam Tống<\/td>\n          <\/tr>\n          <tr>\n           <td valign=\"top\"><b>Kết&nbsp;quả<\/b><\/td>\n           <td valign=\"top\">Đại Việt chiến thắng;<br>\n             Quân Mông Cổ rút về Vân Nam<\/td>\n          <\/tr>\n         <\/tbody>\n        <\/table><\/td>\n      <\/tr>\n      <tr>\n       <th colspan=\"2\">Tham chiến<\/th>\n      <\/tr>\n      <tr valign=\"top\">\n       <td width=\"50%\">Nhà Trần Đại Việt<\/td>\n       <td width=\"50%\">Đế quốc Mông Cổ<\/td>\n      <\/tr>\n      <tr>\n       <th colspan=\"2\">Chỉ huy<\/th>\n      <\/tr>\n      <tr valign=\"top\">\n       <td width=\"50%\"><a class=\"annotation\" href=\"/nhan-vat/tran-thai-tong\" title=\"Trần Thái Tông (chữ Hán: 陳太宗; 9 tháng 7 năm 1218 \u2013 5 tháng 5 năm 1277), là vị hoàng đế đầu tiên của nhà Trần trong lịch sử Việt Nam. Ông ở ngôi từ năm 1225 tới năm 1258, sau đó làm Thái thượng hoàng cho đến khi qua đời. \n Trần Cảnh sinh ra vào thời Lý, quê ở làng Tức Mặc (Thiên Trường). Lên 7 tuổi, ...\" target=\"_blank\">Trần Thái Tông<\/a><br><a class=\"annotation\" href=\"/nhan-vat/tran-thanh-tong\" title=\"Trần Thánh Tông (chữ Hán: 陳聖宗; 12 tháng 10 năm 1240 \u2013 3 tháng 7 năm 1290) là vị hoàng đế thứ hai của nhà Trần trong lịch sử Việt Nam, ở ngôi từ tháng 3 năm 1258 đến tháng 11 năm 1278. Sau đó, ông làm Thái thượng hoàng từ cuối năm 1278 cho đến khi qua đời. Ông được sử sách ca ngợi là một vị vua nhân ...\" target=\"_blank\">Trần Thánh Tông<\/a><br><a class=\"annotation\" href=\"/nhan-vat/tran-thu-do\" title=\"Trần Thủ Độ (chữ Hán: 陳守度, 1194 - 1264), cũng gọi Trung Vũ đại vương (忠武大王), là một nhà chính trị Đại Việt thời cuối Lý đầu Trần. Ông đóng vai trò quan trọng trong các sự kiện lật đổ nhà Lý, lập nên nhà Trần, thu phục các thế lực người Man làm phản loạn và trong cuộc chiến kháng quân Nguyên lần thứ ...\" target=\"_blank\">Trần Thủ Độ<\/a><br>\n         Linh Từ quốc mẫu<br>\n         Lê Phụ Trần<br>\n         Hà Bổng<\/td>\n       <td width=\"50%\">Uriyangqatai (Ngột Lương Hợp Thai)<br>\n         Aju (A Truật)<br>\n         Cacakdu (Triệt Triệt Đô)<br>\n         Quaidu (Hoài Đô)<br>\n         Abiska<\/td>\n      <\/tr>\n      <tr>\n       <td><\/td>\n       <td><\/td>\n      <\/tr>\n      <tr>\n       <th colspan=\"2\">Lực lượng<\/th>\n      <\/tr>\n      <tr valign=\"top\">\n       <td width=\"50%\">&nbsp;<\/td>\n       <td width=\"50%\">40.000-55.000 quân<\/td>\n      <\/tr>\n      <tr>\n       <th colspan=\"2\">Tổn thất<\/th>\n      <\/tr>\n      <tr valign=\"top\">\n       <td width=\"50%\">&nbsp;<\/td>\n       <td width=\"50%\">2/3 tử trận hoặc bị bắt (tính từ lúc Uriyangqatai rời Đại Lý lần đầu cho tới khi hội quân với Hốt Tất Liệt ở Ngạc Châu)<\/td>\n      <\/tr>\n      <tr>\n       <td colspan=\"2\">.<\/td>\n      <\/tr>\n     <\/tbody>\n    <\/table><\/td>\n  <\/tr>\n <\/tbody>\n<\/table>",
+        "<table cellspacing=\"2\" cellpadding=\"2\" width=\"100%\">\n <tbody>\n  <tr>\n   <td colspan=\"2\">\n    <table cellpadding=\"1\" cellspacing=\"0\" width=\"100%\" align=\"center\">\n     <tbody>\n      <tr>\n       <td><span><b>Kháng chiến chống Nguyên Mông lần thứ nhất<\/b><\/span><\/td>\n      <\/tr>\n     <\/tbody>\n    <\/table><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\">.<\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\">\n    <table cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n     <tbody>\n      <tr>\n       <td valign=\"top\"><b>Thời&nbsp;gian<\/b><\/td>\n       <td valign=\"top\">Năm 1258<\/td>\n      <\/tr>\n      <tr>\n       <td valign=\"top\"><b>Địa&nbsp;điểm<\/b><\/td>\n       <td valign=\"top\">Bắc Bộ Việt Nam<\/td>\n      <\/tr>\n      <tr>\n       <td valign=\"top\"><b>Nguyên&nbsp;nhân bùng&nbsp;nổ<\/b><\/td>\n       <td valign=\"top\">Mông Cổ muốn biến Đại Việt thành bàn đạp đánh vào châu Ung, Quế của Nam Tống<\/td>\n      <\/tr>\n      <tr>\n       <td valign=\"top\"><b>Kết&nbsp;quả<\/b><\/td>\n       <td valign=\"top\">Đại Việt chiến thắng;<br>\n         Quân Mông Cổ rút về Vân Nam<\/td>\n      <\/tr>\n     <\/tbody>\n    <\/table><\/td>\n  <\/tr>\n  <tr>\n   <th colspan=\"2\">Tham chiến<\/th>\n  <\/tr>\n  <tr valign=\"top\">\n   <td width=\"50%\">Nhà Trần Đại Việt<\/td>\n   <td width=\"50%\">Đế quốc Mông Cổ<\/td>\n  <\/tr>\n  <tr>\n   <th colspan=\"2\">Chỉ huy<\/th>\n  <\/tr>\n  <tr valign=\"top\">\n   <td width=\"50%\"><a class=\"annotation\" href=\"/nhan-vat/tran-thai-tong\" title=\"Trần Thái Tông (chữ Hán: 陳太宗; 9 tháng 7 năm 1218 \u2013 5 tháng 5 năm 1277), là vị hoàng đế đầu tiên của nhà Trần trong lịch sử Việt Nam. Ông ở ngôi từ năm 1225 tới năm 1258, sau đó làm Thái thượng hoàng cho đến khi qua đời. \n Trần Cảnh sinh ra vào thời Lý, quê ở làng Tức Mặc (Thiên Trường). Lên 7 tuổi, ...\" target=\"_blank\">Trần Thái Tông<\/a><br><a class=\"annotation\" href=\"/nhan-vat/tran-thanh-tong\" title=\"Trần Thánh Tông (chữ Hán: 陳聖宗; 12 tháng 10 năm 1240 \u2013 3 tháng 7 năm 1290) là vị hoàng đế thứ hai của nhà Trần trong lịch sử Việt Nam, ở ngôi từ tháng 3 năm 1258 đến tháng 11 năm 1278. Sau đó, ông làm Thái thượng hoàng từ cuối năm 1278 cho đến khi qua đời. Ông được sử sách ca ngợi là một vị vua nhân ...\" target=\"_blank\">Trần Thánh Tông<\/a><br><a class=\"annotation\" href=\"/nhan-vat/tran-thu-do\" title=\"Trần Thủ Độ (chữ Hán: 陳守度, 1194 - 1264), cũng gọi Trung Vũ đại vương (忠武大王), là một nhà chính trị Đại Việt thời cuối Lý đầu Trần. Ông đóng vai trò quan trọng trong các sự kiện lật đổ nhà Lý, lập nên nhà Trần, thu phục các thế lực người Man làm phản loạn và trong cuộc chiến kháng quân Nguyên lần thứ ...\" target=\"_blank\">Trần Thủ Độ<\/a><br>\n     Linh Từ quốc mẫu<br>\n     Lê Phụ Trần<br>\n     Hà Bổng<\/td>\n   <td width=\"50%\">Uriyangqatai (Ngột Lương Hợp Thai)<br>\n     Aju (A Truật)<br>\n     Cacakdu (Triệt Triệt Đô)<br>\n     Quaidu (Hoài Đô)<br>\n     Abiska<\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <th colspan=\"2\">Lực lượng<\/th>\n  <\/tr>\n  <tr valign=\"top\">\n   <td width=\"50%\">&nbsp;<\/td>\n   <td width=\"50%\">40.000-55.000 quân<\/td>\n  <\/tr>\n  <tr>\n   <th colspan=\"2\">Tổn thất<\/th>\n  <\/tr>\n  <tr valign=\"top\">\n   <td width=\"50%\">&nbsp;<\/td>\n   <td width=\"50%\">2/3 tử trận hoặc bị bắt (tính từ lúc Uriyangqatai rời Đại Lý lần đầu cho tới khi hội quân với Hốt Tất Liệt ở Ngạc Châu)<\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\">.<\/td>\n  <\/tr>\n <\/tbody>\n<\/table>",
+        "<table cellpadding=\"1\" cellspacing=\"0\" width=\"100%\" align=\"center\">\n <tbody>\n  <tr>\n   <td><span><b>Kháng chiến chống Nguyên Mông lần thứ nhất<\/b><\/span><\/td>\n  <\/tr>\n <\/tbody>\n<\/table>",
+        "<table cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n <tbody>\n  <tr>\n   <td valign=\"top\"><b>Thời&nbsp;gian<\/b><\/td>\n   <td valign=\"top\">Năm 1258<\/td>\n  <\/tr>\n  <tr>\n   <td valign=\"top\"><b>Địa&nbsp;điểm<\/b><\/td>\n   <td valign=\"top\">Bắc Bộ Việt Nam<\/td>\n  <\/tr>\n  <tr>\n   <td valign=\"top\"><b>Nguyên&nbsp;nhân bùng&nbsp;nổ<\/b><\/td>\n   <td valign=\"top\">Mông Cổ muốn biến Đại Việt thành bàn đạp đánh vào châu Ung, Quế của Nam Tống<\/td>\n  <\/tr>\n  <tr>\n   <td valign=\"top\"><b>Kết&nbsp;quả<\/b><\/td>\n   <td valign=\"top\">Đại Việt chiến thắng;<br>\n     Quân Mông Cổ rút về Vân Nam<\/td>\n  <\/tr>\n <\/tbody>\n<\/table>",
+        "<table class=\"cquote table table-striped\" role=\"presentation\">\n <tbody>\n  <tr>\n   <td>\u201c<\/td>\n   <td>...<i>...hãn còn phái năm mươi chư vương... trong số con cháu của Sát Hợp Đài (con thứ hai của <a class=\"annotation\" href=\"/nhan-vat/thanh-cat-tu-han\" title=\"Thành Cát Tư Hãn (tên tiếng Mông Cổ: Чингис хаан, Çingis hán; tiếng Mông Cổ:&amp;#160;[tʃiŋɡɪs xaːŋ]&amp;#160;(nghe); phiên âm Hán: 成吉思汗; 1162-1227) là một Khả hãn Mông Cổ và là người sáng lập ra Đế quốc Mông Cổ sau khi hợp nhất các bộ lạc độc lập ở vùng đông bắc châu Á năm 1206. \n Ông là một nhà quân sự lỗ...\" target=\"_blank\">Thành Cát Tư Hãn<\/a>) có một người tên là An-bi-ska (Abiska).<\/i><\/td>\n   <td>\u201d<\/td>\n  <\/tr>\n <\/tbody>\n<\/table>",
+        "<table class=\"cquote table table-striped\" role=\"presentation\">\n <tbody>\n  <tr>\n   <td>\u201c<\/td>\n   <td>...\"<i>...khi đã sang sông, đừng đánh chúng vội, chúng tất chống lại...phò mã...cắt hậu quân của chúng,... Cacakdu cướp lấy thuyền. Man quân nếu tan... chạy ra bờ sông không có thuyền... tất bị ta bắt.<\/i>\"<\/td>\n   <td>\u201d<\/td>\n  <\/tr>\n <\/tbody>\n<\/table>",
+        "<table class=\"cquote table table-striped\" role=\"presentation\">\n <tbody>\n  <tr>\n   <td>\u201c<\/td>\n   <td><i>Đầu thần chưa rơi xuống đất, Bệ hạ đừng lo gì khác.<\/i><\/td>\n   <td>\u201d<\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"3\" class=\"cquotecite\"><cite>\u2014\u2009<a class=\"annotation\" href=\"/nhan-vat/tran-thu-do\" title=\"Trần Thủ Độ (chữ Hán: 陳守度, 1194 - 1264), cũng gọi Trung Vũ đại vương (忠武大王), là một nhà chính trị Đại Việt thời cuối Lý đầu Trần. Ông đóng vai trò quan trọng trong các sự kiện lật đổ nhà Lý, lập nên nhà Trần, thu phục các thế lực người Man làm phản loạn và trong cuộc chiến kháng quân Nguyên lần thứ ...\" target=\"_blank\">Trần Thủ Độ<\/a><\/cite><\/td>\n  <\/tr>\n <\/tbody>\n<\/table>",
+        "<table class=\"cquote table table-striped\" role=\"presentation\">\n <tbody>\n  <tr>\n   <td>\u201c<\/td>\n   <td><i>Các bộ sử Việt ca ngợi các sự kiện năm 1258 là một đại thắng, nhưng Nguyên sử và An Nam chí lược cho là người Mông Cổ đã thắng, vì họ đã chiếm được Thăng Long. Cuối năm đó, Đại hãn Mông Kha gửi một lá thư cho vua Trần, có nói đến việc ông ta [vua Trần] đuổi hai sứ Mông Cổ, và yêu cầu triều đình Trần thần phục. Điều đó có nghĩa là <a class=\"annotation\" href=\"/nhan-vat/nha-tran\" title=\"Nhà Trần hoặc Trần triều (Hán-Nôm: 家陳 ・陳朝, nhà Trần &amp;#160;\u2022  Trần triều) là triều đại quân chủ chuyên chế trong lịch sử Việt Nam, bắt đầu khi Trần Cảnh lên ngôi vào năm 1225, sau khi được Lý Chiêu Hoàng truyền ngôi. Những năm đầu tiên, Trần Cảnh còn nhỏ tuổi, toàn bộ quyền hành của nhà Trần đều do m...\" target=\"_blank\">nhà Trần<\/a> đã không thần phục từ trước. Điều đó cũng có nghĩa là thanh danh bất khả chiến bại của người Mông Cổ đã bị tan vỡ tại thời điểm này. Nguyên sử, An Nam chí lược và các bộ sử biên niên Việt chỉ viết sơ sài về cuộc chiến năm 1258, nhưng thật ra đây là một bước ngoặt trong lịch sử thế giới, vì đây là bước lùi đầu tiên của quân Mông Cổ tại châu Á và trong chiến dịch chinh phục thế giới của họ. Nó được nối tiếp bằng thất bại được biết đến nhiều hơn của họ trong tay người Mamluk tại Ain Jalut tháng 9 nắm 1260.<\/i><\/td>\n   <td>\u201d<\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"3\" class=\"cquotecite\"><cite>\u2014\u2009Petrer Sharrock &amp; Vũ Hồng liên<\/cite><\/td>\n  <\/tr>\n <\/tbody>\n<\/table>"
+    ],
+    "keywords": [],
+    "headings": [
+        "Chiến tranh Nguyên Mông - Đại Việt lần 1",
+        "Chiến lược tổng thể",
+        "Lực lượng",
+        "Diễn biến",
+        "Quân Mông Cổ tiến vào Thăng Long",
+        "Quân Trần phản công",
+        "Tổn thất",
+        "Nhận định",
+        "Tham khảo",
+        "Bài viết cùng thư mục",
+        "CÁC THỜI KỲ LỊCH SỬ",
+        "Tư Liệu",
+        "Anh Hùng Dân Tộc Tiêu Biểu",
+        "Di Tích Lịch Sử",
+        "Anh Hùng Dân Tộc Tiêu Biểu",
+        "Tư Liệu Lịch Sử",
+        "Di Tích Lịch Sử"
+    ],
+    "anchors": [
+        {
+            "text": "",
+            "href": "/"
+        },
+        {
+            "text": "Trang Chủ",
+            "href": "/"
+        },
+        {
+            "text": "Dòng Lịch Sử",
+            "href": "/dong-lich-su"
+        },
+        {
+            "text": "Hồng Bàng & Văn Lang",
+            "href": "/dong-lich-su/hong-bang-va-van-lang"
+        },
+        {
+            "text": "Âu Lạc & Nam Việt",
+            "href": "/dong-lich-su/au-lac-va-nam-viet"
+        },
+        {
+            "text": "Bắc thuộc lần I",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat"
+        },
+        {
+            "text": "Trưng Nữ Vương",
+            "href": "/dong-lich-su/trung-nu-vuong"
+        },
+        {
+            "text": "Bắc thuộc lần II",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-hai"
+        },
+        {
+            "text": "Nhà Lý & Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu"
+        },
+        {
+            "text": "Bắc thuộc lần III",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-ba"
+        },
+        {
+            "text": "Thời kỳ xây nền tự chủ",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu"
+        },
+        {
+            "text": "Nhà Ngô",
+            "href": "/dong-lich-su/nha-ngo"
+        },
+        {
+            "text": "Nhà Đinh",
+            "href": "/dong-lich-su/nha-dinh"
+        },
+        {
+            "text": "Nhà Tiền Lê",
+            "href": "/dong-lich-su/nha-tien-le"
+        },
+        {
+            "text": "Nhà Lý",
+            "href": "/dong-lich-su/nha-ly"
+        },
+        {
+            "text": "Nhà Trần",
+            "href": "/dong-lich-su/nha-tran"
+        },
+        {
+            "text": "Nhà Hồ",
+            "href": "/dong-lich-su/nha-ho"
+        },
+        {
+            "text": "Nhà Hậu Trần",
+            "href": "/dong-lich-su/nha-hau-tran"
+        },
+        {
+            "text": "Bắc thuộc lần IV",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-tu"
+        },
+        {
+            "text": "Nhà Hậu Lê",
+            "href": "/dong-lich-su/nha-hau-le"
+        },
+        {
+            "text": "Nam Bắc Triều",
+            "href": "/dong-lich-su/nam-bac-trieu"
+        },
+        {
+            "text": "Trịnh Nguyễn Phân Tranh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh"
+        },
+        {
+            "text": "Nhà Tây Sơn",
+            "href": "/dong-lich-su/nha-tay-son"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/nha-nguyen"
+        },
+        {
+            "text": "Pháp Thuộc",
+            "href": "/dong-lich-su/phap-thuoc"
+        },
+        {
+            "text": "Việt Nam Dân Chủ Cộng Hoà",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Cộng hoà xã hội chủ nghĩa Việt Nam",
+            "href": "/dong-lich-su/viet-nam-xhcn"
+        },
+        {
+            "text": "Tư Liệu",
+            "href": "/tu-lieu"
+        },
+        {
+            "text": "Quân Sự",
+            "href": "/tu-lieu/quan-su?filter_tag[0]="
+        },
+        {
+            "text": "Tác Phẩm",
+            "href": "/tu-lieu/tac-pham?filter_tag[0]="
+        },
+        {
+            "text": "Bang Giao",
+            "href": "/tu-lieu/bang-giao"
+        },
+        {
+            "text": "Biểu đồ thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Nhân Vật",
+            "href": "/nhan-vat"
+        },
+        {
+            "text": "Anh Hùng Dân Tộc",
+            "href": "/anh-hung-dan-toc?types[0]=1"
+        },
+        {
+            "text": "Danh nhân văn hóa",
+            "href": "/danh-nhan-van-hoa?types[0]=1"
+        },
+        {
+            "text": "Di Tích",
+            "href": "/di-tich-lich-su?types[0]=1"
+        },
+        {
+            "text": "Ngày Nay",
+            "href": "/thoi-su"
+        },
+        {
+            "text": "Sách",
+            "href": "/sach"
+        },
+        {
+            "text": "Video",
+            "href": "/video"
+        },
+        {
+            "text": "Q&A",
+            "href": "/hoi-dap"
+        },
+        {
+            "text": "Lịch sử lớp 12",
+            "href": "/hoi-dap/lop-12"
+        },
+        {
+            "text": "Lịch sử lớp 11",
+            "href": "/hoi-dap/lop-11"
+        },
+        {
+            "text": "Lịch sử lớp 10",
+            "href": "/hoi-dap/lop-10"
+        },
+        {
+            "text": "Lịch sử lớp 9",
+            "href": "/hoi-dap/lop-9"
+        },
+        {
+            "text": "Lịch sử lớp 8",
+            "href": "/hoi-dap/lop-8"
+        },
+        {
+            "text": "Lịch sử lớp 7",
+            "href": "/hoi-dap/lop-7"
+        },
+        {
+            "text": "Lịch sử lớp 6",
+            "href": "/hoi-dap/lop-6"
+        },
+        {
+            "text": "Trang chủ",
+            "href": "/"
+        },
+        {
+            "text": "Tư Liệu",
+            "href": "/tu-lieu"
+        },
+        {
+            "text": "Quân Sự",
+            "href": "/tu-lieu/quan-su?filter_tag[0]="
+        },
+        {
+            "text": "Quân Sự",
+            "href": "/tu-lieu/quan-su"
+        },
+        {
+            "text": "Thu / Mở",
+            "href": "#"
+        },
+        {
+            "text": "Chiến lược tổng thể",
+            "href": "#chien-luoc-tong-the"
+        },
+        {
+            "text": "Lực lượng",
+            "href": "#luc-luong"
+        },
+        {
+            "text": "Diễn biến",
+            "href": "#dien-bien"
+        },
+        {
+            "text": "Quân Mông Cổ tiến vào Thăng Long",
+            "href": "#quan-mong-co-tien-vao-thang-long"
+        },
+        {
+            "text": "Quân Trần phản công",
+            "href": "#quan-tran-phan-cong"
+        },
+        {
+            "text": "Tổn thất",
+            "href": "#ton-that"
+        },
+        {
+            "text": "Nhận định",
+            "href": "#nhan-dinh"
+        },
+        {
+            "text": "Tham khảo",
+            "href": "#tham-khao"
+        },
+        {
+            "text": "Trần Thái Tông",
+            "href": "/nhan-vat/tran-thai-tong"
+        },
+        {
+            "text": "Trần Thánh Tông",
+            "href": "/nhan-vat/tran-thanh-tong"
+        },
+        {
+            "text": "Trần Thủ Độ",
+            "href": "/nhan-vat/tran-thu-do"
+        },
+        {
+            "text": "Trần Thái Tông",
+            "href": "/nhan-vat/tran-thai-tong"
+        },
+        {
+            "text": "nhà Trần",
+            "href": "/nhan-vat/nha-tran"
+        },
+        {
+            "text": "thành Thăng Long",
+            "href": "/dia-danh/thanh-thang-long"
+        },
+        {
+            "text": "nhà Trần",
+            "href": "/nhan-vat/nha-tran"
+        },
+        {
+            "text": "nhà Kim",
+            "href": "/nhan-vat/nha-kim"
+        },
+        {
+            "text": "Thành Cát Tư Hãn",
+            "href": "/nhan-vat/thanh-cat-tu-han"
+        },
+        {
+            "text": "Trần Quốc Tuấn",
+            "href": "/nhan-vat/tran-quoc-tuan"
+        },
+        {
+            "text": "sông Chảy",
+            "href": "/dia-danh/song-chay"
+        },
+        {
+            "text": "Trần Thái Tông",
+            "href": "/nhan-vat/tran-thai-tong"
+        },
+        {
+            "text": "Trần Cảnh",
+            "href": "/nhan-vat/tran-canh"
+        },
+        {
+            "text": "tỉnh Vĩnh Phúc",
+            "href": "/dia-danh/tinh-vinh-phuc"
+        },
+        {
+            "text": "nhà Trần",
+            "href": "/nhan-vat/nha-tran"
+        },
+        {
+            "text": "sông Hồng",
+            "href": "/dia-danh/song-hong"
+        },
+        {
+            "text": "Trần Thái Tông",
+            "href": "/nhan-vat/tran-thai-tong"
+        },
+        {
+            "text": "Trần Thái Tông",
+            "href": "/nhan-vat/tran-thai-tong"
+        },
+        {
+            "text": "Lê Tân",
+            "href": "/nhan-vat/le-tan"
+        },
+        {
+            "text": "nhà Trần",
+            "href": "/nhan-vat/nha-tran"
+        },
+        {
+            "text": "sông Cà Lồ",
+            "href": "/dia-danh/song-ca-lo"
+        },
+        {
+            "text": "Trần Thái Tông",
+            "href": "/nhan-vat/tran-thai-tong"
+        },
+        {
+            "text": "Trần Thủ Độ",
+            "href": "/nhan-vat/tran-thu-do"
+        },
+        {
+            "text": "Trần Thủ Độ",
+            "href": "/nhan-vat/tran-thu-do"
+        },
+        {
+            "text": "Trần Thái Tông",
+            "href": "/nhan-vat/tran-thai-tong"
+        },
+        {
+            "text": "Trần Thánh Tông",
+            "href": "/nhan-vat/tran-thanh-tong"
+        },
+        {
+            "text": "nhà Trần",
+            "href": "/nhan-vat/nha-tran"
+        },
+        {
+            "text": "nhà Trần",
+            "href": "/nhan-vat/nha-tran"
+        },
+        {
+            "text": "Lê Tắc",
+            "href": "/nhan-vat/le-tac"
+        },
+        {
+            "text": "nước Tống",
+            "href": "/dia-danh/nuoc-tong"
+        },
+        {
+            "text": "Trần Thái Tông",
+            "href": "/nhan-vat/tran-thai-tong"
+        },
+        {
+            "text": "Trần Nhân Tông",
+            "href": "/nhan-vat/tran-nhan-tong"
+        },
+        {
+            "text": "nhà Trần",
+            "href": "/nhan-vat/nha-tran"
+        },
+        {
+            "text": "Bài viết trước: Chiến tranh biên giới Việt\u2013Trung 1979 Trước",
+            "href": "/tu-lieu/quan-su/chien-tranh-bien-gioi-viet-trung-1979"
+        },
+        {
+            "text": "Bài viết kế tiếp: Chiến tranh Nguyên Mông - Đại Việt lần 2 Tiếp tục",
+            "href": "/tu-lieu/quan-su/chien-tranh-nguyen-mong-dai-viet-lan-2"
+        },
+        {
+            "text": "Trận Bạch Đằng lần thứ nhất năm 938",
+            "href": "/tu-lieu/quan-su/tran-bach-dang-lan-thu-nhat-nam-938"
+        },
+        {
+            "text": "Trận Bạch Đằng lần thứ hai năm 981",
+            "href": "/tu-lieu/quan-su/tran-bach-dang-lan-thu-hai-nam-981"
+        },
+        {
+            "text": "Trận Bạch Đằng lần thứ ba năm 1288",
+            "href": "/tu-lieu/quan-su/tran-bach-dang-lan-thu-ba-nam-1288"
+        },
+        {
+            "text": "Chiến tranh Nguyên Mông - Đại Việt lần 1",
+            "href": "/tu-lieu/quan-su/chien-tranh-nguyen-mong-dai-viet-lan-1"
+        },
+        {
+            "text": "Chiến tranh Nguyên Mông - Đại Việt lần 2",
+            "href": "/tu-lieu/quan-su/chien-tranh-nguyen-mong-dai-viet-lan-2"
+        },
+        {
+            "text": "Chiến tranh Nguyên Mông - Đại Việt lần 3",
+            "href": "/tu-lieu/quan-su/chien-tranh-nguyen-mong-dai-viet-lan-3"
+        },
+        {
+            "text": "Chiến tranh Tống-Việt, 1075-1077",
+            "href": "/tu-lieu/quan-su/chien-tranh-tong-viet-1075-1077"
+        },
+        {
+            "text": "Trận Như Nguyệt năm 1077",
+            "href": "/tu-lieu/quan-su/tran-nhu-nguyet-nam-1077"
+        },
+        {
+            "text": "Khởi nghĩa Lam Sơn (1418 - 1427)",
+            "href": "/tu-lieu/quan-su/khoi-nghia-lam-son"
+        },
+        {
+            "text": "Trận Tốt Động \u2013 Chúc Động năm 1426",
+            "href": "/tu-lieu/quan-su/tran-tot-dong-chuc-dong"
+        },
+        {
+            "text": "Hồng Bàng & Văn Lang",
+            "href": "/dong-lich-su/hong-bang-va-van-lang"
+        },
+        {
+            "text": "Âu Lạc & Nam Việt",
+            "href": "/dong-lich-su/au-lac-va-nam-viet"
+        },
+        {
+            "text": "Bắc thuộc lần I",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat"
+        },
+        {
+            "text": "Nhà Triệu",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat/nha-trieu"
+        },
+        {
+            "text": "Trưng Nữ Vương",
+            "href": "/dong-lich-su/trung-nu-vuong"
+        },
+        {
+            "text": "Bắc thuộc lần II",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-hai"
+        },
+        {
+            "text": "Nhà Lý & Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu"
+        },
+        {
+            "text": "Nhà Tiền Lý",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-tien-ly"
+        },
+        {
+            "text": "Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-trieu"
+        },
+        {
+            "text": "Nhà Hậu Lý",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-hau-ly"
+        },
+        {
+            "text": "Bắc thuộc lần III",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-ba"
+        },
+        {
+            "text": "Thời kỳ xây nền tự chủ",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu"
+        },
+        {
+            "text": "Họ Khúc",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu/ho-khuc"
+        },
+        {
+            "text": "Nhà Ngô",
+            "href": "/dong-lich-su/nha-ngo"
+        },
+        {
+            "text": "Nhà Đinh",
+            "href": "/dong-lich-su/nha-dinh"
+        },
+        {
+            "text": "Nhà Tiền Lê",
+            "href": "/dong-lich-su/nha-tien-le"
+        },
+        {
+            "text": "Nhà Lý",
+            "href": "/dong-lich-su/nha-ly"
+        },
+        {
+            "text": "Nhà Trần",
+            "href": "/dong-lich-su/nha-tran"
+        },
+        {
+            "text": "Nhà Hồ",
+            "href": "/dong-lich-su/nha-ho"
+        },
+        {
+            "text": "Nhà Hậu Trần",
+            "href": "/dong-lich-su/nha-hau-tran"
+        },
+        {
+            "text": "Bắc thuộc lần IV",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-tu"
+        },
+        {
+            "text": "Nhà Hậu Lê",
+            "href": "/dong-lich-su/nha-hau-le"
+        },
+        {
+            "text": "Nam Bắc Triều",
+            "href": "/dong-lich-su/nam-bac-trieu"
+        },
+        {
+            "text": "Nhà Lê Trung Hưng",
+            "href": "/dong-lich-su/nam-bac-trieu/nha-le-trung-hung"
+        },
+        {
+            "text": "Nhà Mạc",
+            "href": "/dong-lich-su/nam-bac-trieu/nha-mac"
+        },
+        {
+            "text": "Trịnh Nguyễn Phân Tranh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh"
+        },
+        {
+            "text": "Nhà Lê Trung Hưng",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/nha-le-trung-hung"
+        },
+        {
+            "text": "Chúa Trịnh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-trinh"
+        },
+        {
+            "text": "Chúa Nguyễn",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen"
+        },
+        {
+            "text": "Nhà Tây Sơn",
+            "href": "/dong-lich-su/nha-tay-son"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/nha-nguyen"
+        },
+        {
+            "text": "Pháp Thuộc",
+            "href": "/dong-lich-su/phap-thuoc"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/phap-thuoc/nha-nguyen"
+        },
+        {
+            "text": "Những cuộc khởi nghĩa chống thực dân Pháp",
+            "href": "/dong-lich-su/phap-thuoc/khoi-nghia-chong-phap"
+        },
+        {
+            "text": "Đảng Cộng Sản Việt Nam",
+            "href": "/dong-lich-su/phap-thuoc/dang-cong-san-viet-nam"
+        },
+        {
+            "text": "Việt Nam Dân Chủ Cộng Hoà",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Kháng chiến chống Pháp",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-phap"
+        },
+        {
+            "text": "Kháng chiến chống Mĩ",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-mi"
+        },
+        {
+            "text": "Cộng hoà xã hội chủ nghĩa Việt Nam",
+            "href": "/dong-lich-su/viet-nam-xhcn"
+        },
+        {
+            "text": "Trận Điện Biên Phủ trên không năm 1972",
+            "href": "/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972"
+        },
+        {
+            "text": "Chiến tranh biên giới Tây Nam năm 1975 - 1978",
+            "href": "/tu-lieu/quan-su/chien-tranh-bien-gioi-tay-nam-nam-1975-1978"
+        },
+        {
+            "text": "Chiến dịch Mùa Xuân năm 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-mua-xuan-nam-1975"
+        },
+        {
+            "text": "Hải chiến Trường Sa năm 1988",
+            "href": "/tu-lieu/quan-su/hai-chien-truong-sa-nam-1988"
+        },
+        {
+            "text": "Chiến dịch Đường 14 - Phước Long năm 1974 - 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-duong-14-phuoc-long-nam-1974-1975"
+        },
+        {
+            "text": "Chiến dịch Tây Nguyên năm 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-tay-nguyen-nam-1975"
+        },
+        {
+            "text": "Trận Mậu Thân tại Huế năm 1968",
+            "href": "/tu-lieu/quan-su/tran-mau-than-tai-hue-nam-1968"
+        },
+        {
+            "text": "Bảng đối chiếu các triều đại Việt Nam và các triều đại Trung Quốc",
+            "href": "/tu-lieu/bang-doi-chieu-cac-trieu-dai-viet-nam-va-cac-trieu-dai-trung-quoc"
+        },
+        {
+            "text": "Bình Ngô đại cáo - bản tuyên ngôn độc lập thứ hai",
+            "href": "/tu-lieu/tac-pham/binh-ngo-dai-cao-ban-tuyen-ngon-doc-lap-thu-hai"
+        },
+        {
+            "text": "Lãnh thổ Việt Nam qua từng thời kỳ",
+            "href": "/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky"
+        },
+        {
+            "text": "Trận Đồi Thịt Băm năm 1969",
+            "href": "/tu-lieu/quan-su/tran-doi-thit-bam-nam-1969"
+        },
+        {
+            "text": "Chiến dịch Đắk Tô năm 1972",
+            "href": "/tu-lieu/quan-su/chien-dich-dak-to-nam-1972"
+        },
+        {
+            "text": "Nam quốc sơn hà - Bản tuyên ngôn độc lập đầu tiên",
+            "href": "/tu-lieu/tac-pham/nam-quoc-son-ha-ban-tuyen-ngon-doc-lap-dau-tien"
+        },
+        {
+            "text": "Tuyên ngôn độc lập Việt Nam Dân chủ Cộng hòa",
+            "href": "/tu-lieu/tac-pham/tuyen-ngon-doc-lap-viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Trận Bản Đông năm 1971",
+            "href": "/tu-lieu/quan-su/tran-ban-dong-nam-1971"
+        },
+        {
+            "text": "Trận Rạch Gầm \u2013 Xoài Mút năm 1785",
+            "href": "/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785"
+        },
+        {
+            "text": "Lịch sử Chữ viết tiếng Việt",
+            "href": "/tu-lieu/lich-su-chu-viet-tieng-viet"
+        },
+        {
+            "text": "Hịch tướng sĩ - Dụ chư tỳ tướng hịch văn",
+            "href": "/tu-lieu/tac-pham/hich-tuong-si-du-chu-ty-tuong-hich-van"
+        },
+        {
+            "text": "Danh sách Trạng nguyên Việt Nam",
+            "href": "/tu-lieu/danh-sach-trang-nguyen-viet-nam"
+        },
+        {
+            "text": "Hội nghị Paris, mặt trận ngoại giao năm 1968-1972",
+            "href": "/tu-lieu/bang-giao/hoi-nghi-paris-mat-tran-ngoai-giao-nam-1968-1972"
+        },
+        {
+            "text": "Lê Đại Hành",
+            "href": "/nhan-vat/le-dai-hanh"
+        },
+        {
+            "text": "Ngô Quyền",
+            "href": "/nhan-vat/ngo-quyen"
+        },
+        {
+            "text": "Lý Nam Đế",
+            "href": "/nhan-vat/ly-nam-de"
+        },
+        {
+            "text": "Nguyễn Huệ",
+            "href": "/nhan-vat/nguyen-hue"
+        },
+        {
+            "text": "Lê Thái Tổ",
+            "href": "/nhan-vat/le-thai-to"
+        },
+        {
+            "text": "Trần Hưng Đạo",
+            "href": "/nhan-vat/tran-hung-dao"
+        },
+        {
+            "text": "Trần Nhân Tông",
+            "href": "/nhan-vat/tran-nhan-tong"
+        },
+        {
+            "text": "Hùng Vương",
+            "href": "/nhan-vat/hung-vuong"
+        },
+        {
+            "text": "Hồ Chí Minh",
+            "href": "/nhan-vat/ho-chi-minh"
+        },
+        {
+            "text": "Lý Thường Kiệt",
+            "href": "/nhan-vat/ly-thuong-kiet"
+        },
+        {
+            "text": "Nguyễn Trãi",
+            "href": "/nhan-vat/nguyen-trai"
+        },
+        {
+            "text": "Lý Thái Tổ",
+            "href": "/nhan-vat/ly-thai-to"
+        },
+        {
+            "text": "Hai Bà Trưng",
+            "href": "/nhan-vat/hai-ba-trung"
+        },
+        {
+            "text": "Đinh Tiên Hoàng",
+            "href": "/nhan-vat/dinh-tien-hoang"
+        },
+        {
+            "text": "Khu lưu niệm Chủ tịch Tôn Đức Thắng",
+            "href": "/dia-danh/khu-luu-niem-chu-tich-ton-duc-thang"
+        },
+        {
+            "text": "Đền Hùng",
+            "href": "/dia-danh/den-hung"
+        },
+        {
+            "text": "Đền Trần (Thái Bình)",
+            "href": "/dia-danh/den-tran-thai-binh"
+        },
+        {
+            "text": "Quần thể di tích Cố đô Huế",
+            "href": "/dia-danh/quan-the-di-tich-co-do-hue"
+        },
+        {
+            "text": "Hồ Hoàn Kiếm",
+            "href": "/dia-danh/ho-hoan-kiem"
+        },
+        {
+            "text": "thành Cổ Loa",
+            "href": "/dia-danh/thanh-co-loa"
+        },
+        {
+            "text": "Chiến khu Tân Trào",
+            "href": "/dia-danh/chien-khu-tan-trao"
+        },
+        {
+            "text": "chùa Thầy",
+            "href": "/dia-danh/chua-thay"
+        },
+        {
+            "text": "Dinh Độc Lập",
+            "href": "/dia-danh/dinh-doc-lap"
+        },
+        {
+            "text": "chùa Phổ Minh",
+            "href": "/dia-danh/chua-pho-minh"
+        },
+        {
+            "text": "Lê Thái Tổ",
+            "href": "/nhan-vat/le-thai-to"
+        },
+        {
+            "text": "Nguyễn Trãi",
+            "href": "/nhan-vat/nguyen-trai"
+        },
+        {
+            "text": "Lê Đại Hành",
+            "href": "/nhan-vat/le-dai-hanh"
+        },
+        {
+            "text": "Nguyễn Huệ",
+            "href": "/nhan-vat/nguyen-hue"
+        },
+        {
+            "text": "Đinh Tiên Hoàng",
+            "href": "/nhan-vat/dinh-tien-hoang"
+        },
+        {
+            "text": "Hai Bà Trưng",
+            "href": "/nhan-vat/hai-ba-trung"
+        },
+        {
+            "text": "Lý Thái Tổ",
+            "href": "/nhan-vat/ly-thai-to"
+        },
+        {
+            "text": "Hồ Chí Minh",
+            "href": "/nhan-vat/ho-chi-minh"
+        },
+        {
+            "text": "Ngô Quyền",
+            "href": "/nhan-vat/ngo-quyen"
+        },
+        {
+            "text": "Trần Hưng Đạo",
+            "href": "/nhan-vat/tran-hung-dao"
+        },
+        {
+            "text": "Vấn đề biên giới Việt-Trung thời Mạc",
+            "href": "/tu-lieu/bang-giao/van-de-bien-gioi-viet-trung-thoi-mac"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Tây Sơn",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-tay-son"
+        },
+        {
+            "text": "Biểu đồ các nhân vật lịch sử theo dòng thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Danh sách Trạng nguyên Việt Nam",
+            "href": "/tu-lieu/danh-sach-trang-nguyen-viet-nam"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Nguyễn",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-nguyen"
+        },
+        {
+            "text": "Trận Điện Biên Phủ trên không năm 1972",
+            "href": "/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972"
+        },
+        {
+            "text": "Trận Ngọc Hồi - Đống Đa năm 1789",
+            "href": "/tu-lieu/quan-su/tran-ngoc-hoi-dong-da-nam-1789"
+        },
+        {
+            "text": "Trận Cẩm Sa năm 1775",
+            "href": "/tu-lieu/quan-su/tran-cam-sa-nam-1775"
+        },
+        {
+            "text": "Trận Rạch Gầm \u2013 Xoài Mút năm 1785",
+            "href": "/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785"
+        },
+        {
+            "text": "Lãnh thổ Việt Nam qua từng thời kỳ",
+            "href": "/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky"
+        },
+        {
+            "text": "Khu di tích Chủ tịch Hồ Chí Minh tại Phủ Chủ tịch",
+            "href": "/dia-danh/khu-di-tich-chu-tich-ho-chi-minh-tai-phu-chu-tich"
+        },
+        {
+            "text": "Văn Miếu - Quốc Tử Giám",
+            "href": "/dia-danh/van-mieu-quoc-tu-giam"
+        },
+        {
+            "text": "chùa Thầy",
+            "href": "/dia-danh/chua-thay"
+        },
+        {
+            "text": "Đền Trần (Nam Định)",
+            "href": "/dia-danh/den-tran-nam-dinh"
+        },
+        {
+            "text": "Thành nhà Hồ",
+            "href": "/dia-danh/thanh-nha-ho"
+        },
+        {
+            "text": "Hồ Hoàn Kiếm",
+            "href": "/dia-danh/ho-hoan-kiem"
+        },
+        {
+            "text": "Chiến khu Tân Trào",
+            "href": "/dia-danh/chien-khu-tan-trao"
+        },
+        {
+            "text": "Cố đô Hoa Lư",
+            "href": "/dia-danh/co-do-hoa-lu"
+        },
+        {
+            "text": "Đền Hùng",
+            "href": "/dia-danh/den-hung"
+        },
+        {
+            "text": "Khu di tích chiến thắng Điện Biên Phủ",
+            "href": "/dia-danh/khu-di-tich-chien-thang-dien-bien-phu"
+        },
+        {
+            "text": "Giới thiệu",
+            "href": "/gioi-thieu"
+        },
+        {
+            "text": "Quyền riêng tư",
+            "href": "/quyen-rieng-tu"
+        },
+        {
+            "text": "Liên hệ",
+            "href": "/lien-he"
+        },
+        {
+            "text": "Địa Danh",
+            "href": "/dia-danh"
+        },
+        {
+            "text": "Trang Facebook",
+            "href": "https://www.facebook.com/nguoikesu/"
+        },
+        {
+            "text": "DanhMucBDS.com",
+            "href": "https://danhmucbds.com"
+        },
+        {
+            "text": "HocTotNguVan.com",
+            "href": "https://hoctotnguvan.com"
+        }
+    ],
+    "title": "Chiến tranh Nguyên Mông - Đại Việt lần 1 - Người Kể Sử",
+    "paragraphs": [
+        "Chiến tranh Nguyên Mông-Đại Việt lần thứ nhất hay Kháng chiến chống Nguyên Mông lần thứ nhất là cách người Việt Nam gọi cuốc chiến đấu của quân dân Đại Việt chống lại quân đội của đế quốc Mông Cổ do Uriyangqatai (Ngột Lương Hợp Thai) chỉ huy vào trong khoảng thời gian nửa tháng cuối tháng 1 năm 1258 (hay năm Nguyên Phong thứ 7). Cuộc chiến mở đầu với thất bại của quân Đại Việt trong trận Bình Lệ Nguyên, nhưng cuối cùng họ đã đại phá quân Nguyên trong trận Đông Bộ Đầu. Cuộc chiến này đã kết thúc với chiến thắng của nước Đại Việt, ghi dấu công lao của vua Trần Thái Tông trong việc lãnh đạo quân dân chiến đấu chống quân xâm lược.",
+        "",
+        "Đạo quân của Ngột Lương Hợp Thai không thật đông nếu nhìn về số lượng tuyệt đối, họ chỉ bằng 1/2 quân số nhà Trần. Tuy vậy, quân Mông Cổ, như đã được chứng minh qua quá trình tác chiến của mình, hầu như luôn thua sút về quân số so với đối phương của họ, ít nhất là theo tỷ lệ 1:2, tức là nhiều ra thì số quân nhân của họ cũng chỉ bằng nửa so với đối phương. Tuy ít hơn về số lượng song quân Mông Cổ có lợi thế là rất giỏi về kỵ binh, có tính cơ động hơn hẳn đối phương, cho phép họ nhanh chóng tập trung lực lượng đánh vào chỗ mỏng yếu của đối phương, hoặc sẽ rút lui nhanh nếu thấy bất lợi. Kỵ binh Mông Cổ cũng rất giỏi bắn cung trên lưng ngựa, họ có thể phi ngựa rồi bắn đối phương từ xa mà không sợ bị đánh trả. Vì vậy, có những trận đánh quân Mông Cổ chỉ đông bằng 1/4 đối phương mà vẫn chiến thắng như Trận sông Kalka, hoặc như Chiến tranh Mông-Kim, Mông Cổ chỉ có khoảng 12 vạn quân mà đã đánh bại quân đội gần 1 triệu người của nhà Kim. Vì vậy, các tướng Mông Cổ cho rằng với nước nhỏ như Đại Việt thì chỉ cần 5 vạn quân cũng là đủ để chinh phạt rồi.",
+        "Một đặc điểm nữa của đạo quân này là trong thành phần lãnh đạo, nó quy tụ tới 50 chư vương của triều đình Mông Cổ và phò mã Mông Cổ tên là Quaidu. Đây là những sĩ quan có liên hệ huyết thống hoặc hôn nhân với gia đình thống trị của vương triều Mông Cổ. Nhà sử học cổ trung đại người Ba Tư là Rasid ud-Din chép:",
+        "Cuối tháng 9 năm 1257, chủ trại Quy Hóa là Hà Khuất báo tin có sứ Nguyên sang. Vua Trần không nghe lời dụ hàng, xuống chiếu ra lệnh đem quân thủy bộ ra ngăn giữ biên giới, theo sự tiết chế của Trần Quốc Tuấn và truyền cả nước sắm sửa vũ khí.",
+        "Sau khi nhận được tin cấp báo, quân Mông Cổ đã vượt biên giới, vua Trần lập tức thân đem sáu quân đi chống giặc (Đế thân xuất lục sứ ngự khẩu)",
+        "Quân Mông Cổ tiến vào Đại Việt theo một đội hình cắt khúc và đều là bộ binh. Đội quân đi đầu được chia làm 2 cánh: một cánh tiến dọc sông Thao và một cánh tiến dọc sông Chảy. Cánh tiến theo hữu ngạn sông Thao do Triệu Ngột Lương chỉ huy. Mỗi cánh gồm 1000 người. Theo sau là quân của Hồ Lã Trừng. Đạo quân có khối lượng lớn nhất và tiến cuối cùng do Quỳ Hợp Thai chỉ huy.",
+        "Quân Mông Cổ giáp trận quân Đại Việt do đích thân Trần Thái Tông (Trần Cảnh) chỉ huy tại Bình Lệ Nguyên (nay là huyện Bình Xuyên tỉnh Vĩnh Phúc). Đó là ngày 17 tháng 1 năm 1258.",
+        "Quân đội nhà Trần bày trận bên bờ sông Hồng đợi giặc. Quân Mông Cổ là những người sang sông. Quỳ Hợp Thai dặn Quỳ Thủ Soạn và viên tiên phong là Triệu Ngột Lương:",
+        "Đó là một phương án tiến hành trận đánh nguy hiểm, với ý định làm đối phương vỡ trận, bị dồn ra bờ sông và bị kẹp chặt lại từ hai phía.",
+        "Nhưng Triệu Ngột Lương vừa qua sông đã ập lại đánh ngay. Trần Thái Tông sai tượng binh tiến ra giao chiến. Con Quỳ Hợp Thai là A Truật (18 tuổi) cho kỵ binh bắn tên vào mắt voi, khiến voi hoảng sợ, quay lại dày xéo đội hình quân Trần. Quân Trần thất lợi nhưng chủ động rút lui. Trần Thái Tông và tướng Lê Tân lui tới sách Cụ Bản, gặp tướng Phạm Cự Chích đem viện binh tới cứu. Quân Mông Cổ giết được Phạm Cự Chích, nhưng vua Trần đã chạy thoát ra bến Lãnh Mỹ, rồi xuôi thuyền về Phù Lỗ. Không bắt được bộ chỉ huy nhà Trần, Quỳ Hợp Thai nổi giận. Triệu Ngột Lương uống thuốc độc tự sát.",
+        "Ngay ngày hôm sau, ngày 18 tháng 1 năm 1258, hai bên chạm trán một lần nữa tại Phù Lỗ. Hai bên đối mặt nhau qua một con sông (sông Cà Lồ) mà bày trận, quân Mông Cổ vẫn là người qua sông phá trận. Quân Trần vẫn tiếp tục thất lợi, nhưng một lần nữa, họ lại chủ động rút lui. Tuy vậy, cả hai trận này đều là những trận đánh lớn và khốc liệt. Ở trận thứ nhất, Trần Thái Tông chỉ chịu rút sau khi nghe lời khuyên của Lê Tần. Vừa khi vua xuống thuyền thì quân Mông Cổ ở trên bờ bắn tên xuống tới tấp, Lê Tần phải lấy ván thuyền che cho vua và bảo vệ vua chạy thoát. Sau đó, quân Trần lại chủ động rút khỏi Thăng Long.",
+        "Khi vua Thái Tông triệt binh về sông Thiên Mạc, Lê Tần đã thảo luận với ông về những chuyện cơ mật, không mấy người biết tới. Khi ấy, Thái Tông cũng ngự thuyền nhỏ tới thuyền của em là Thái úy Trần Nhật Hiệu để hỏi ý Nhật Hiệu về kiến về kế sách giữ nước. Nhật Hiệu ngồi dựa vào mạn thuyền, không thể nào đứng lên được và đưa ngón tay xuống chấm nước rồi ghi hai chữ \"nhập Tống\" trên mạn thuyền (tức là nên chạy sang lánh ở đất Nam Tống). Thái Tông bèn hỏi về tình hình của quân Tinh Cương dưới quyền Nhật Hiệu, thì Nhật Hiệu đáp lại: \"Không gọi được chúng đến\". Thế rồi, nhà vua lại ngự thuyền đến chỗ Thái sư Trần Thủ Độ. Khi nghe câu hỏi của nhà vua, Thủ Độ tâu:",
+        "Chiếm được kinh đô chỉ sau hai trận đánh, nhưng kho tàng trống rỗng là vấn đề lớn đối với đội quân xâm lược. Những cuộc cướp bóc để kiếm lương ở vùng ngoại vi và phụ cận không có nhiều kết quả, chẳng những thế, những đám quân đi ăn cướp tài sản này còn hay bị chặn đánh.",
+        "Nửa đêm ngày 28 tháng 1 năm 1258, từ nơi trú quân là Hoàng Giang, Trần Thái Tông cùng Thái tử Trần Thánh Tông ngự lâu thuyền ngược sông, bất ngờ đánh thẳng vào quân Mông Cổ. Quân Mông Cổ cho rằng lực lượng quân Trần đã kiệt quệ sau trận thua đầu nên rất chủ quan, do đó khi bị tập kích đã không kịp trở tay, bị thua to. Sau khi bị phá tan tại Đông Bộ Đầu, quân Mông Cổ không giữ nổi Thăng Long nữa. Họ đồng loạt tháo chạy thẳng về Vân Nam.",
+        "Như khi mới tiến quân vào, quân Mông Cổ rút chạy theo dọc sông Thao, nhưng theo con đường bộ ở phía tả ngạn. Quân Mông rút lui quá nhanh, ngoài cả dự tính của nhà Trần khiến vua Trần chưa kịp bố trí lực lượng đón đánh. Tuy nhiên khi đến Quy Hóa (vùng Lào Cai, Yên Bái), quân Mông bị chủ trại là Hà Bổng \u2013 một thổ quan người Tày - tập kích kịch liệt. Trong số quân của Hà Bổng có những người Thái chạy từ nước Đại Lý vừa bị Mông Cổ diệt sang theo Đại Việt, muốn trả thù người Mông Cổ nên đã đánh rất hăng khiến quân Mông Cổ khốn đốn; chỉ vì số quân của Hà Bổng ít người nên thiệt hại của quân Mông Cổ không lớn. Trên đường rút về, do sợ bị quân Trần truy đuổi đằng sau, quân Mông Cổ cố rút nhanh và không cướp phá dân chúng, do đó người Việt mỉa mai gọi là \"giặc Bụt\". Sử liệu Trung Quốc thời Nguyên, Minh đã quy kết nguyên nhân thất bại của quân Mông Cổ cho thời tiết nóng nực của Đại Việt. Trong Nguyên văn loại, quyển 41, Kinh thế đại điển tự lục (bản Thương vụ ấn thư quán 1958, trang 563) chép rằng: \"[Quân Mông Cổ] ở lại chín ngày, vì nóng nực, rút quân về\". Còn Nguyên sử trong quyển 209, An Nam truyện cũng viết là \"Quân ở lại chín ngày, vì khí hậu uất nhiệt bèn rút quân về\". Thực tế, quân Mông Cổ đánh Đại Việt vào tháng 1, đúng vào lúc giữa mùa đông ở miền Bắc Việt Nam, do vậy không thể có chuyện \"khí hậu nóng nực nên rút quân về\" như Nguyên sử và Kinh thế đại điển tự lục chép được.",
+        "Tuy nhiên, Ngột Lương Hợp Thai truyện của Nguyên sử và Kinh thế đại điển tự lục cũng phải thừa nhận rằng sau khi bỏ Thăng Long, người Mông Cổ đã lui về thành Áp Xích, trên đất của 37 bộ Quỷ Phương (Đại Lý), và điều này có nghĩa là Mông Cổ đã không đạt được mục tiêu là mượn đường Đại Việt để đánh vào lưng Nam Tống. Ngột Lương Hợp Thai truyện cũng cho biết, Uriyangqatai tháo chạy về Áp Xích, sau khi có lệnh của Mông Kha thì mới đi theo đường trại Hoành Sơn để tiến vào châu Ngạc của Tống và hội quân với Hốt Tất Liệt.",
+        "Thiệt hại của quân Mông Cổ, tùy theo nguồn tài liệu mà chênh lệch từ già nửa cho tới khoảng 4 phần 5:",
+        "Các tác giả của Nguyên sử, phần Hiến Tông bản kỷ, đã ghi nhận:",
+        "Trong Đại Việt sử ký toàn thư, Kỷ nhà Trần, phần Thái Tông hoàng đế, có bình luận:",
+        "Đó có lẽ là nhận định dựa theo việc quân Đại Việt thắng Mông Cổ quá chóng vánh mà ra. Nhưng trên thực tế, chính Nguyên sử đã ghi:",
+        "Ngoài ra các sử gia trong đế quốc Mông Cổ như Rasid-ud Din và Lê Tắc (tác giả An Nam chí lược) cũng thừa nhận rằng Mông Kha muốn chiếm Đại Việt làm bàn đạp để đánh thọc vào châu Ung, châu Quế phía nam nước Tống.",
+        "Quy mô đạo quân của Ngột Lương Hợp Thai có thể nói là không lớn, chỉ cỡ 4-5 vạn. Nhưng xét về hậu quả của thất bại đối với toàn thể chiến lược xâm lăng đất Tống theo bốn con đường cũng như sự thất bại quá chóng vánh, sử gia Hà Văn Tấn có nhận định rằng:",
+        "Trần Xuân Sinh cho rằng: Ngột Lương Hợp Thai là tướng giỏi, khi thấy không giữ nổi Thăng Long đã rút sớm về Vân Nam để bảo toàn lực lượng là thượng sách.",
+        "Chiến thắng của quân dân Đại Việt trong cuộc kháng chiến chống Nguyên Mông lần thứ nhất đã ghi dấu công lao của vua Trần Thái Tông. Sau này vua Trần Nhân Tông đã ghi lại dư âm của chiến thắng năm 1258 trong niên hiệu Nguyên Phong bằng mấy câu thơ:",
+        "Dịch:",
+        "Các tác giả phương Tây Peter D. Sharrock và Vũ Hồng Liên (người Anh gốc Việt) đã nhận xét về kết quả cuộc chiến năm 1258:",
+        "",
+        "(Nguồn: Wikipedia)"
+    ]
+}

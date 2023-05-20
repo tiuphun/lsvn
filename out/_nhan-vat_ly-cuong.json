@@ -1,0 +1,809 @@
+{
+    "tables": [
+        "<table class=\" table table-striped\">\n <tbody>\n  <tr>\n   <td>\n    <dl>\n     <dd>\n      Nguyên tác: <b>病牛<\/b>\n     <\/dd>\n     <dd>\n      耕犁千畝實千箱，\n     <\/dd>\n     <dd>\n      力盡筋疲誰復傷？\n     <\/dd>\n     <dd>\n      但得眾生皆得飽，\n     <\/dd>\n     <dd>\n      不辭羸病臥殘陽。\n     <\/dd>\n    <\/dl><\/td>\n   <td>\n    <dl>\n     <dd>\n      Hán Việt: <b>Bệnh ngưu<\/b>\n     <\/dd>\n     <dd>\n      <i>Canh lê thiên mẫu thực thiên tương,<\/i>\n     <\/dd>\n     <dd>\n      <i>Lực tận cân bì thuỳ phục thương?<\/i>\n     <\/dd>\n     <dd>\n      <i>Đãn đắc chúng sinh giai đắc bão,<\/i>\n     <\/dd>\n     <dd>\n      <i>Bất từ luy bệnh ngoạ tàn dương.<\/i>\n     <\/dd>\n    <\/dl><\/td>\n   <td>\n    <dl>\n     <dd>\n      Dịch thơ: <b>Con trâu ốm<\/b> (Người dịch: Nguyễn Bích Ngô)\n     <\/dd>\n     <dd>\n      Ruộng cày nghìn mẫu thóc nghìn kho\n     <\/dd>\n     <dd>\n      Sức kiệt thân mòn ai biết cho\n     <\/dd>\n     <dd>\n      Chỉ muốn người đời no đủ cả\n     <\/dd>\n     <dd>\n      Chiều tàn chẳng quản ốm nằm xo.\n     <\/dd>\n    <\/dl><\/td>\n  <\/tr>\n <\/tbody>\n<\/table>",
+        "<table class=\"nowraplinks mw-collapsible mw-collapsed navbox-inner\">\n <tbody>\n  <tr>\n   <th scope=\"col\" class=\"navbox-title\" colspan=\"2\">\n    <div class=\"plainlinks hlist navbar mini\">\n     <ul>\n      <li class=\"nv-xem\"><abbr title=\"Xem bản mẫu này\">x<\/abbr><\/li>\n      <li class=\"nv-thảo luận\"><abbr title=\"Thảo luận bản mẫu này\">t<\/abbr><\/li>\n      <li class=\"nv-sửa\"><abbr title=\"Sửa bản mẫu này\">s<\/abbr><\/li>\n     <\/ul>\n    <\/div>\n    <div id=\"Chiến_tranh_Kim\u2013Tống\">\n     Chiến tranh Kim\u2013Tống\n    <\/div><\/th>\n  <\/tr>\n  <tr>\n   <th scope=\"row\" class=\"navbox-group\">Nhà<br>\n    cai trị<\/th>\n   <td class=\"navbox-list navbox-odd\">\n    <div><\/div>\n    <table class=\"nowraplinks navbox-subgroup\">\n     <tbody>\n      <tr>\n       <th scope=\"row\" class=\"navbox-group\">Nam Tống<\/th>\n       <td class=\"navbox-list navbox-odd\">\n        <div>\n         Tống Huy Tông&nbsp;\u2022 Tống Khâm Tông&nbsp;\u2022 Tống Cao Tông&nbsp;\u2022 Tống Hiếu Tông&nbsp;\u2022 Tống Ninh Tông&nbsp;\u2022 Tống Lý Tông\n        <\/div><\/td>\n      <\/tr>\n      <tr>\n       <th scope=\"row\" class=\"navbox-group\">Kim<\/th>\n       <td class=\"navbox-list navbox-even\">\n        <div>\n         Kim Thái Tông&nbsp;\u2022 Kim Hải Lăng vương&nbsp;\u2022 Kim Thế Tông&nbsp;\u2022 Kim Chương Tông&nbsp;\u2022 Kim Tuyên Tông&nbsp;\u2022 Kim Ai Tông\n        <\/div><\/td>\n      <\/tr>\n     <\/tbody>\n    <\/table>\n    <div><\/div><\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\" class=\"navbox-group\">Văn thần-Tướng lĩnh<\/th>\n   <td class=\"navbox-list navbox-odd\">\n    <div><\/div>\n    <table class=\"nowraplinks navbox-subgroup\">\n     <tbody>\n      <tr>\n       <th scope=\"row\" class=\"navbox-group\">Nam Tống<\/th>\n       <td class=\"navbox-list navbox-odd\">\n        <div>\n         Lý Cương&nbsp;\u2022 Chủng Sư Đạo&nbsp;\u2022 Chủng Sư Trung&nbsp;\u2022 Trương Thúc Dạ&nbsp;\u2022 Tông Trạch&nbsp;\u2022 Nhạc Phi&nbsp;\u2022 Trương Tuấn&nbsp;\u2022 Hàn Thế Trung&nbsp;\u2022 Ngô Giới&nbsp;\u2022 Lưu Quang Thế&nbsp;\u2022 Diêu Bình Trọng&nbsp;\u2022 Tần Cối&nbsp;\u2022 Triệu Lập&nbsp;\u2022 Lưu Kỹ&nbsp;\u2022 Vương Quý&nbsp;\u2022 Dương Tồn Trung&nbsp;\u2022 Trương Tuấn&nbsp;\u2022 Lưu Tử Vũ&nbsp;\u2022 Vương Ngạn&nbsp;\u2022 Đỗ Sung&nbsp;\u2022 Lã Chỉ&nbsp;\u2022 Ngô Lân&nbsp;\u2022 Ngưu Cao&nbsp;\u2022 Trương Hiến&nbsp;\u2022 Nhạc Vân&nbsp;\u2022 Vương Đức&nbsp;\u2022 Vương Luân&nbsp;\u2022 Triệu Đỉnh&nbsp;\u2022 Lương Hồng Ngọc&nbsp;\u2022 Lưu Thế Tương&nbsp;\u2022 Dương Tái Hưng&nbsp;\u2022 Dương Nghi Trung&nbsp;\u2022 Dương Chính&nbsp;\u2022 Sử Hạo&nbsp;\u2022 Trần Khang Bá&nbsp;\u2022 Ngu Doãn Văn&nbsp;\u2022 Vương Hữu Trực&nbsp;\u2022 Vương Cương Trung&nbsp;\u2022 Ngụy Thắng&nbsp;\u2022 Lý Bảo&nbsp;\u2022 Lý Hiển Trung&nbsp;\u2022 Lý Hoành&nbsp;\u2022 Vương Quyền&nbsp;\u2022 Thiệu Hoành Uyên&nbsp;\u2022 Thang Tư Thoái&nbsp;\u2022 Tân Khí Tật&nbsp;\u2022 Đặng Hữu Long&nbsp;\u2022 Hoàng Phủ Bân&nbsp;\u2022 Khâu Sùng&nbsp;\u2022 Ngô Đĩnh&nbsp;\u2022 Phương Tín Nhụ&nbsp;\u2022 Hàn Thác Trụ&nbsp;\u2022 Trình Tùng&nbsp;\u2022 Lý Hảo Nghĩa&nbsp;\u2022 An Bính&nbsp;\u2022 Triệu Phương&nbsp;\u2022 Mạnh Tông Chính&nbsp;\u2022 Hỗ Tái Hưng&nbsp;\u2022 Giả Thiệp&nbsp;\u2022 Triệu Phạm&nbsp;\u2022 Triệu Quỳ&nbsp;\u2022 Sử Di Viễn&nbsp;\u2022 Hứa Quốc&nbsp;\u2022 Sử Tung Chi&nbsp;\u2022 Tất Tái Ngộ&nbsp;\u2022 Mạnh Củng\n        <\/div><\/td>\n      <\/tr>\n      <tr>\n       <th scope=\"row\" class=\"navbox-group\">Kim<\/th>\n       <td class=\"navbox-list navbox-even\">\n        <div>\n         Niêm Một Hát&nbsp;\u2022 Oát Ly Bất&nbsp;\u2022 Ngoa Lý Đóa&nbsp;\u2022 Ngột Truật&nbsp;\u2022 Thát Lại&nbsp;\u2022 Hàn Thường&nbsp;\u2022 Đỗ Sung&nbsp;\u2022 Chân Châu&nbsp;\u2022 Ngân Thuật Khả&nbsp;\u2022 Thát Lại&nbsp;\u2022 Triệt Ly Hát&nbsp;\u2022 A Lý Bồ Lư Hòn&nbsp;\u2022 Tát Ly Hát&nbsp;\u2022 Lâu Bảo&nbsp;\u2022 Lâu Thất&nbsp;\u2022 Bôn Đổ&nbsp;\u2022 Lưu Ngạn Tông&nbsp;\u2022 Khổng Ngạn Chu&nbsp;\u2022 Cao Trung Kiến&nbsp;\u2022 Lương Hán Thần&nbsp;\u2022 Đồ Đan Hợp Hỉ&nbsp;\u2022 Đồ Đan Trinh&nbsp;\u2022 Hoàn Nhan Trịnh Gia Nô&nbsp;\u2022 Ngột Thạch Liệt Lương Bật&nbsp;\u2022 Lý Thông&nbsp;\u2022 Mộng Hoạt&nbsp;\u2022 Gia Luật Nguyên Nghi&nbsp;\u2022 Bộc Tán Trung Nghĩa&nbsp;\u2022 Ngột Thạch Liệt Chí Ninh&nbsp;\u2022 Bồ Sát Đồ Mục&nbsp;\u2022 Bột Triệt&nbsp;\u2022 Bộc Tán Quỹ&nbsp;\u2022 Hoàn Nhan Sùng Hạo&nbsp;\u2022 Ngột Thạch Liệt Hồ Sa Hổ&nbsp;\u2022 Thuật Hổ Cao Kỳ&nbsp;\u2022 Ngột Thạch Liệt Tử Nhân&nbsp;\u2022 Hoàn Nhan Khuông&nbsp;\u2022 Vương Thế An&nbsp;\u2022 Ô Khố Luân Khánh Thọ&nbsp;\u2022 Hoàn Nhan Trại Bất&nbsp;\u2022 Đồ Hải&nbsp;\u2022 Bộc Tán An Trinh&nbsp;\u2022 Lã Tử Vũ&nbsp;\u2022 Ngột Thạch Liệt Nha Ngô Đáp&nbsp;\u2022 Hoàn Nhan Nguyên Nô&nbsp;\u2022 Hoàn Nhan Ngoa&nbsp;\u2022 Hoàn Nhan Thừa Dụ&nbsp;\u2022 Thì Toàn&nbsp;\u2022 Hoàn Nhan Hốt Tà Hổ&nbsp;\u2022 Hoàn Nhan Thừa Lân&nbsp;\u2022 Trương Thiên Cương\n        <\/div><\/td>\n      <\/tr>\n     <\/tbody>\n    <\/table>\n    <div><\/div><\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\" class=\"navbox-group\">Nhân vật khác<\/th>\n   <td class=\"navbox-list navbox-odd\">\n    <div>\n     Trương Giác&nbsp;\u2022 Trương Bang Xương&nbsp;\u2022 Lưu Dự&nbsp;\u2022 Lưu Lân&nbsp;\u2022 Nguyên Ý thái tử&nbsp;\u2022 Miêu Phó&nbsp;\u2022 Lưu Chính Ngạn&nbsp;\u2022 Tang Trọng&nbsp;\u2022 Dương Ma&nbsp;\u2022 Lịch Quỳnh&nbsp;\u2022 Lý Thành&nbsp;\u2022 Ngô Hy&nbsp;\u2022 Lý Toàn&nbsp;\u2022 Từ Văn&nbsp;\u2022 Hạ Toàn&nbsp;\u2022 Lý Phúc&nbsp;\u2022 Dương Diệu Chân&nbsp;\u2022 Mộc Hoa Lê\n    <\/div><\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\" class=\"navbox-group\">Sự kiện liên quan<\/th>\n   <td class=\"navbox-list navbox-even\">\n    <div>\n     Sự biến Tĩnh Khang&nbsp;\u2022 Miêu Lưu binh biến&nbsp;\u2022 Kim quân nam phạt&nbsp;\u2022 Xuyên Thiểm tranh đoạt chiến&nbsp;\u2022 Trận Yển Thành&nbsp;\u2022 Trận Phú Bình&nbsp;\u2022 Trận Hoàng Thiên Đãng&nbsp;\u2022 Cuộc bao vây Đức An&nbsp;\u2022 Nhạc Phi bắt phạt lần thứ nhất&nbsp;\u2022 Nhạc Phi bắt phạt lần thứ hai&nbsp;\u2022 Nhạc Phi bắt phạt lần thứ ba&nbsp;\u2022 Nhạc Phi bắt phạt lần thứ tư&nbsp;\u2022 Trận Thái Thạch&nbsp;\u2022 Trận Thái châu lần thứ nhất&nbsp;\u2022 Long Hưng bắc phạt&nbsp;\u2022 Sự kiện Phù Li&nbsp;\u2022 Hòa ước Long Hưng&nbsp;\u2022 Khai Hi bắc phạt&nbsp;\u2022 Hòa ước Gia Định &nbsp;\u2022 Khởi nghĩa Hồng áo tặc&nbsp;\u2022 Ba đạo quân Kim đánh Tống&nbsp;\u2022 Khởi nghĩa Hồng áo tặc&nbsp;\u2022 Trận Thái Châu lần thứ hai\n    <\/div><\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\" class=\"navbox-group\">Hiệp ước<\/th>\n   <td class=\"navbox-list navbox-odd\">\n    <div>\n     Liên minh trên biển&nbsp;\u2022 Hiệp ước Thiệu Hưng\n    <\/div><\/td>\n  <\/tr>\n <\/tbody>\n<\/table>",
+        "<table class=\"nowraplinks navbox-subgroup\">\n <tbody>\n  <tr>\n   <th scope=\"row\" class=\"navbox-group\">Nam Tống<\/th>\n   <td class=\"navbox-list navbox-odd\">\n    <div>\n     Tống Huy Tông&nbsp;\u2022 Tống Khâm Tông&nbsp;\u2022 Tống Cao Tông&nbsp;\u2022 Tống Hiếu Tông&nbsp;\u2022 Tống Ninh Tông&nbsp;\u2022 Tống Lý Tông\n    <\/div><\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\" class=\"navbox-group\">Kim<\/th>\n   <td class=\"navbox-list navbox-even\">\n    <div>\n     Kim Thái Tông&nbsp;\u2022 Kim Hải Lăng vương&nbsp;\u2022 Kim Thế Tông&nbsp;\u2022 Kim Chương Tông&nbsp;\u2022 Kim Tuyên Tông&nbsp;\u2022 Kim Ai Tông\n    <\/div><\/td>\n  <\/tr>\n <\/tbody>\n<\/table>",
+        "<table class=\"nowraplinks navbox-subgroup\">\n <tbody>\n  <tr>\n   <th scope=\"row\" class=\"navbox-group\">Nam Tống<\/th>\n   <td class=\"navbox-list navbox-odd\">\n    <div>\n     Lý Cương&nbsp;\u2022 Chủng Sư Đạo&nbsp;\u2022 Chủng Sư Trung&nbsp;\u2022 Trương Thúc Dạ&nbsp;\u2022 Tông Trạch&nbsp;\u2022 Nhạc Phi&nbsp;\u2022 Trương Tuấn&nbsp;\u2022 Hàn Thế Trung&nbsp;\u2022 Ngô Giới&nbsp;\u2022 Lưu Quang Thế&nbsp;\u2022 Diêu Bình Trọng&nbsp;\u2022 Tần Cối&nbsp;\u2022 Triệu Lập&nbsp;\u2022 Lưu Kỹ&nbsp;\u2022 Vương Quý&nbsp;\u2022 Dương Tồn Trung&nbsp;\u2022 Trương Tuấn&nbsp;\u2022 Lưu Tử Vũ&nbsp;\u2022 Vương Ngạn&nbsp;\u2022 Đỗ Sung&nbsp;\u2022 Lã Chỉ&nbsp;\u2022 Ngô Lân&nbsp;\u2022 Ngưu Cao&nbsp;\u2022 Trương Hiến&nbsp;\u2022 Nhạc Vân&nbsp;\u2022 Vương Đức&nbsp;\u2022 Vương Luân&nbsp;\u2022 Triệu Đỉnh&nbsp;\u2022 Lương Hồng Ngọc&nbsp;\u2022 Lưu Thế Tương&nbsp;\u2022 Dương Tái Hưng&nbsp;\u2022 Dương Nghi Trung&nbsp;\u2022 Dương Chính&nbsp;\u2022 Sử Hạo&nbsp;\u2022 Trần Khang Bá&nbsp;\u2022 Ngu Doãn Văn&nbsp;\u2022 Vương Hữu Trực&nbsp;\u2022 Vương Cương Trung&nbsp;\u2022 Ngụy Thắng&nbsp;\u2022 Lý Bảo&nbsp;\u2022 Lý Hiển Trung&nbsp;\u2022 Lý Hoành&nbsp;\u2022 Vương Quyền&nbsp;\u2022 Thiệu Hoành Uyên&nbsp;\u2022 Thang Tư Thoái&nbsp;\u2022 Tân Khí Tật&nbsp;\u2022 Đặng Hữu Long&nbsp;\u2022 Hoàng Phủ Bân&nbsp;\u2022 Khâu Sùng&nbsp;\u2022 Ngô Đĩnh&nbsp;\u2022 Phương Tín Nhụ&nbsp;\u2022 Hàn Thác Trụ&nbsp;\u2022 Trình Tùng&nbsp;\u2022 Lý Hảo Nghĩa&nbsp;\u2022 An Bính&nbsp;\u2022 Triệu Phương&nbsp;\u2022 Mạnh Tông Chính&nbsp;\u2022 Hỗ Tái Hưng&nbsp;\u2022 Giả Thiệp&nbsp;\u2022 Triệu Phạm&nbsp;\u2022 Triệu Quỳ&nbsp;\u2022 Sử Di Viễn&nbsp;\u2022 Hứa Quốc&nbsp;\u2022 Sử Tung Chi&nbsp;\u2022 Tất Tái Ngộ&nbsp;\u2022 Mạnh Củng\n    <\/div><\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\" class=\"navbox-group\">Kim<\/th>\n   <td class=\"navbox-list navbox-even\">\n    <div>\n     Niêm Một Hát&nbsp;\u2022 Oát Ly Bất&nbsp;\u2022 Ngoa Lý Đóa&nbsp;\u2022 Ngột Truật&nbsp;\u2022 Thát Lại&nbsp;\u2022 Hàn Thường&nbsp;\u2022 Đỗ Sung&nbsp;\u2022 Chân Châu&nbsp;\u2022 Ngân Thuật Khả&nbsp;\u2022 Thát Lại&nbsp;\u2022 Triệt Ly Hát&nbsp;\u2022 A Lý Bồ Lư Hòn&nbsp;\u2022 Tát Ly Hát&nbsp;\u2022 Lâu Bảo&nbsp;\u2022 Lâu Thất&nbsp;\u2022 Bôn Đổ&nbsp;\u2022 Lưu Ngạn Tông&nbsp;\u2022 Khổng Ngạn Chu&nbsp;\u2022 Cao Trung Kiến&nbsp;\u2022 Lương Hán Thần&nbsp;\u2022 Đồ Đan Hợp Hỉ&nbsp;\u2022 Đồ Đan Trinh&nbsp;\u2022 Hoàn Nhan Trịnh Gia Nô&nbsp;\u2022 Ngột Thạch Liệt Lương Bật&nbsp;\u2022 Lý Thông&nbsp;\u2022 Mộng Hoạt&nbsp;\u2022 Gia Luật Nguyên Nghi&nbsp;\u2022 Bộc Tán Trung Nghĩa&nbsp;\u2022 Ngột Thạch Liệt Chí Ninh&nbsp;\u2022 Bồ Sát Đồ Mục&nbsp;\u2022 Bột Triệt&nbsp;\u2022 Bộc Tán Quỹ&nbsp;\u2022 Hoàn Nhan Sùng Hạo&nbsp;\u2022 Ngột Thạch Liệt Hồ Sa Hổ&nbsp;\u2022 Thuật Hổ Cao Kỳ&nbsp;\u2022 Ngột Thạch Liệt Tử Nhân&nbsp;\u2022 Hoàn Nhan Khuông&nbsp;\u2022 Vương Thế An&nbsp;\u2022 Ô Khố Luân Khánh Thọ&nbsp;\u2022 Hoàn Nhan Trại Bất&nbsp;\u2022 Đồ Hải&nbsp;\u2022 Bộc Tán An Trinh&nbsp;\u2022 Lã Tử Vũ&nbsp;\u2022 Ngột Thạch Liệt Nha Ngô Đáp&nbsp;\u2022 Hoàn Nhan Nguyên Nô&nbsp;\u2022 Hoàn Nhan Ngoa&nbsp;\u2022 Hoàn Nhan Thừa Dụ&nbsp;\u2022 Thì Toàn&nbsp;\u2022 Hoàn Nhan Hốt Tà Hổ&nbsp;\u2022 Hoàn Nhan Thừa Lân&nbsp;\u2022 Trương Thiên Cương\n    <\/div><\/td>\n  <\/tr>\n <\/tbody>\n<\/table>"
+    ],
+    "keywords": [],
+    "headings": [
+        "Nhân Vật Lịch Sử",
+        "Lý Cương",
+        "Thiếu thời",
+        "Phòng ngự Khai Phong",
+        "Biến cố Tĩnh Khang",
+        "Chống đỡ Nam Tống",
+        "Cuối đời",
+        "Trước tác",
+        "Tác phẩm tiêu biểu: Bệnh Ngưu",
+        "Đánh giá",
+        "Giai thoại: Biển nhục Tây Thi",
+        "Tham khảo",
+        "Chú thích",
+        "Bài viết cùng thư mục",
+        "CÁC THỜI KỲ LỊCH SỬ",
+        "Tư Liệu",
+        "Anh Hùng Dân Tộc Tiêu Biểu",
+        "Anh Hùng Dân Tộc Tiêu Biểu",
+        "Tư Liệu Lịch Sử",
+        "Di Tích Lịch Sử"
+    ],
+    "anchors": [
+        {
+            "text": "",
+            "href": "/"
+        },
+        {
+            "text": "Trang Chủ",
+            "href": "/"
+        },
+        {
+            "text": "Dòng Lịch Sử",
+            "href": "/dong-lich-su"
+        },
+        {
+            "text": "Hồng Bàng & Văn Lang",
+            "href": "/dong-lich-su/hong-bang-va-van-lang"
+        },
+        {
+            "text": "Âu Lạc & Nam Việt",
+            "href": "/dong-lich-su/au-lac-va-nam-viet"
+        },
+        {
+            "text": "Bắc thuộc lần I",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat"
+        },
+        {
+            "text": "Trưng Nữ Vương",
+            "href": "/dong-lich-su/trung-nu-vuong"
+        },
+        {
+            "text": "Bắc thuộc lần II",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-hai"
+        },
+        {
+            "text": "Nhà Lý & Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu"
+        },
+        {
+            "text": "Bắc thuộc lần III",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-ba"
+        },
+        {
+            "text": "Thời kỳ xây nền tự chủ",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu"
+        },
+        {
+            "text": "Nhà Ngô",
+            "href": "/dong-lich-su/nha-ngo"
+        },
+        {
+            "text": "Nhà Đinh",
+            "href": "/dong-lich-su/nha-dinh"
+        },
+        {
+            "text": "Nhà Tiền Lê",
+            "href": "/dong-lich-su/nha-tien-le"
+        },
+        {
+            "text": "Nhà Lý",
+            "href": "/dong-lich-su/nha-ly"
+        },
+        {
+            "text": "Nhà Trần",
+            "href": "/dong-lich-su/nha-tran"
+        },
+        {
+            "text": "Nhà Hồ",
+            "href": "/dong-lich-su/nha-ho"
+        },
+        {
+            "text": "Nhà Hậu Trần",
+            "href": "/dong-lich-su/nha-hau-tran"
+        },
+        {
+            "text": "Bắc thuộc lần IV",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-tu"
+        },
+        {
+            "text": "Nhà Hậu Lê",
+            "href": "/dong-lich-su/nha-hau-le"
+        },
+        {
+            "text": "Nam Bắc Triều",
+            "href": "/dong-lich-su/nam-bac-trieu"
+        },
+        {
+            "text": "Trịnh Nguyễn Phân Tranh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh"
+        },
+        {
+            "text": "Nhà Tây Sơn",
+            "href": "/dong-lich-su/nha-tay-son"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/nha-nguyen"
+        },
+        {
+            "text": "Pháp Thuộc",
+            "href": "/dong-lich-su/phap-thuoc"
+        },
+        {
+            "text": "Việt Nam Dân Chủ Cộng Hoà",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Cộng hoà xã hội chủ nghĩa Việt Nam",
+            "href": "/dong-lich-su/viet-nam-xhcn"
+        },
+        {
+            "text": "Tư Liệu",
+            "href": "/tu-lieu"
+        },
+        {
+            "text": "Quân Sự",
+            "href": "/tu-lieu/quan-su?filter_tag[0]="
+        },
+        {
+            "text": "Tác Phẩm",
+            "href": "/tu-lieu/tac-pham?filter_tag[0]="
+        },
+        {
+            "text": "Bang Giao",
+            "href": "/tu-lieu/bang-giao"
+        },
+        {
+            "text": "Biểu đồ thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Nhân Vật",
+            "href": "/nhan-vat"
+        },
+        {
+            "text": "Anh Hùng Dân Tộc",
+            "href": "/anh-hung-dan-toc?types[0]=1"
+        },
+        {
+            "text": "Danh nhân văn hóa",
+            "href": "/danh-nhan-van-hoa?types[0]=1"
+        },
+        {
+            "text": "Di Tích",
+            "href": "/di-tich-lich-su?types[0]=1"
+        },
+        {
+            "text": "Ngày Nay",
+            "href": "/thoi-su"
+        },
+        {
+            "text": "Sách",
+            "href": "/sach"
+        },
+        {
+            "text": "Video",
+            "href": "/video"
+        },
+        {
+            "text": "Q&A",
+            "href": "/hoi-dap"
+        },
+        {
+            "text": "Lịch sử lớp 12",
+            "href": "/hoi-dap/lop-12"
+        },
+        {
+            "text": "Lịch sử lớp 11",
+            "href": "/hoi-dap/lop-11"
+        },
+        {
+            "text": "Lịch sử lớp 10",
+            "href": "/hoi-dap/lop-10"
+        },
+        {
+            "text": "Lịch sử lớp 9",
+            "href": "/hoi-dap/lop-9"
+        },
+        {
+            "text": "Lịch sử lớp 8",
+            "href": "/hoi-dap/lop-8"
+        },
+        {
+            "text": "Lịch sử lớp 7",
+            "href": "/hoi-dap/lop-7"
+        },
+        {
+            "text": "Lịch sử lớp 6",
+            "href": "/hoi-dap/lop-6"
+        },
+        {
+            "text": "Trang chủ",
+            "href": "/"
+        },
+        {
+            "text": "Nhân Vật",
+            "href": "/nhan-vat"
+        },
+        {
+            "text": "Nhân Vật Lịch Sử",
+            "href": "/nhan-vat"
+        },
+        {
+            "text": "Thu / Mở",
+            "href": "#"
+        },
+        {
+            "text": "Thiếu thời",
+            "href": "#thieu-thoi"
+        },
+        {
+            "text": "Phòng ngự Khai Phong",
+            "href": "#phong-ngu-khai-phong"
+        },
+        {
+            "text": "Biến cố Tĩnh Khang",
+            "href": "#bien-co-tinh-khang"
+        },
+        {
+            "text": "Chống đỡ Nam Tống",
+            "href": "#chong-do-nam-tong"
+        },
+        {
+            "text": "Cuối đời",
+            "href": "#cuoi-doi"
+        },
+        {
+            "text": "Trước tác",
+            "href": "#truoc-tac"
+        },
+        {
+            "text": "Tác phẩm tiêu biểu: Bệnh Ngưu",
+            "href": "#tac-pham-tieu-bieu-benh-nguu"
+        },
+        {
+            "text": "Đánh giá",
+            "href": "#danh-gia"
+        },
+        {
+            "text": "Giai thoại: Biển nhục Tây Thi",
+            "href": "#giai-thoai-bien-nhuc-tay-thi"
+        },
+        {
+            "text": "Tham khảo",
+            "href": "#tham-khao"
+        },
+        {
+            "text": "Chú thích",
+            "href": "#chu-thich"
+        },
+        {
+            "text": "Bài viết trước: Lý Công Uẩn Trước",
+            "href": "/nhan-vat/ly-cong-uan"
+        },
+        {
+            "text": "Bài viết kế tiếp: Lý Dương Hoán Tiếp tục",
+            "href": "/nhan-vat/ly-duong-hoan"
+        },
+        {
+            "text": "Kinh Dương Vương",
+            "href": "/nhan-vat/kinh-duong-vuong"
+        },
+        {
+            "text": "Lạc Long Quân",
+            "href": "/nhan-vat/lac-long-quan"
+        },
+        {
+            "text": "nhà Chu",
+            "href": "/nhan-vat/nha-chu"
+        },
+        {
+            "text": "Ngô Sĩ Liên",
+            "href": "/nhan-vat/ngo-si-lien"
+        },
+        {
+            "text": "Lý Thái Tổ",
+            "href": "/nhan-vat/ly-thai-to"
+        },
+        {
+            "text": "nhà Thương",
+            "href": "/nhan-vat/nha-thuong"
+        },
+        {
+            "text": "nhà Đường",
+            "href": "/nhan-vat/nha-duong"
+        },
+        {
+            "text": "Triệu Việt Vương",
+            "href": "/nhan-vat/trieu-viet-vuong"
+        },
+        {
+            "text": "nhà Tần",
+            "href": "/nhan-vat/nha-tan"
+        },
+        {
+            "text": "Triệu Đà",
+            "href": "/nhan-vat/trieu-da"
+        },
+        {
+            "text": "Hồng Bàng & Văn Lang",
+            "href": "/dong-lich-su/hong-bang-va-van-lang"
+        },
+        {
+            "text": "Âu Lạc & Nam Việt",
+            "href": "/dong-lich-su/au-lac-va-nam-viet"
+        },
+        {
+            "text": "Bắc thuộc lần I",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat"
+        },
+        {
+            "text": "Nhà Triệu",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat/nha-trieu"
+        },
+        {
+            "text": "Trưng Nữ Vương",
+            "href": "/dong-lich-su/trung-nu-vuong"
+        },
+        {
+            "text": "Bắc thuộc lần II",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-hai"
+        },
+        {
+            "text": "Nhà Lý & Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu"
+        },
+        {
+            "text": "Nhà Tiền Lý",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-tien-ly"
+        },
+        {
+            "text": "Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-trieu"
+        },
+        {
+            "text": "Nhà Hậu Lý",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-hau-ly"
+        },
+        {
+            "text": "Bắc thuộc lần III",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-ba"
+        },
+        {
+            "text": "Thời kỳ xây nền tự chủ",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu"
+        },
+        {
+            "text": "Họ Khúc",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu/ho-khuc"
+        },
+        {
+            "text": "Nhà Ngô",
+            "href": "/dong-lich-su/nha-ngo"
+        },
+        {
+            "text": "Nhà Đinh",
+            "href": "/dong-lich-su/nha-dinh"
+        },
+        {
+            "text": "Nhà Tiền Lê",
+            "href": "/dong-lich-su/nha-tien-le"
+        },
+        {
+            "text": "Nhà Lý",
+            "href": "/dong-lich-su/nha-ly"
+        },
+        {
+            "text": "Nhà Trần",
+            "href": "/dong-lich-su/nha-tran"
+        },
+        {
+            "text": "Nhà Hồ",
+            "href": "/dong-lich-su/nha-ho"
+        },
+        {
+            "text": "Nhà Hậu Trần",
+            "href": "/dong-lich-su/nha-hau-tran"
+        },
+        {
+            "text": "Bắc thuộc lần IV",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-tu"
+        },
+        {
+            "text": "Nhà Hậu Lê",
+            "href": "/dong-lich-su/nha-hau-le"
+        },
+        {
+            "text": "Nam Bắc Triều",
+            "href": "/dong-lich-su/nam-bac-trieu"
+        },
+        {
+            "text": "Nhà Lê Trung Hưng",
+            "href": "/dong-lich-su/nam-bac-trieu/nha-le-trung-hung"
+        },
+        {
+            "text": "Nhà Mạc",
+            "href": "/dong-lich-su/nam-bac-trieu/nha-mac"
+        },
+        {
+            "text": "Trịnh Nguyễn Phân Tranh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh"
+        },
+        {
+            "text": "Nhà Lê Trung Hưng",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/nha-le-trung-hung"
+        },
+        {
+            "text": "Chúa Trịnh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-trinh"
+        },
+        {
+            "text": "Chúa Nguyễn",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen"
+        },
+        {
+            "text": "Nhà Tây Sơn",
+            "href": "/dong-lich-su/nha-tay-son"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/nha-nguyen"
+        },
+        {
+            "text": "Pháp Thuộc",
+            "href": "/dong-lich-su/phap-thuoc"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/phap-thuoc/nha-nguyen"
+        },
+        {
+            "text": "Những cuộc khởi nghĩa chống thực dân Pháp",
+            "href": "/dong-lich-su/phap-thuoc/khoi-nghia-chong-phap"
+        },
+        {
+            "text": "Đảng Cộng Sản Việt Nam",
+            "href": "/dong-lich-su/phap-thuoc/dang-cong-san-viet-nam"
+        },
+        {
+            "text": "Việt Nam Dân Chủ Cộng Hoà",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Kháng chiến chống Pháp",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-phap"
+        },
+        {
+            "text": "Kháng chiến chống Mĩ",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-mi"
+        },
+        {
+            "text": "Cộng hoà xã hội chủ nghĩa Việt Nam",
+            "href": "/dong-lich-su/viet-nam-xhcn"
+        },
+        {
+            "text": "Trận Điện Biên Phủ trên không năm 1972",
+            "href": "/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972"
+        },
+        {
+            "text": "Chiến tranh biên giới Tây Nam năm 1975 - 1978",
+            "href": "/tu-lieu/quan-su/chien-tranh-bien-gioi-tay-nam-nam-1975-1978"
+        },
+        {
+            "text": "Chiến dịch Mùa Xuân năm 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-mua-xuan-nam-1975"
+        },
+        {
+            "text": "Hải chiến Trường Sa năm 1988",
+            "href": "/tu-lieu/quan-su/hai-chien-truong-sa-nam-1988"
+        },
+        {
+            "text": "Chiến dịch Đường 14 - Phước Long năm 1974 - 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-duong-14-phuoc-long-nam-1974-1975"
+        },
+        {
+            "text": "Chiến dịch Tây Nguyên năm 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-tay-nguyen-nam-1975"
+        },
+        {
+            "text": "Trận Mậu Thân tại Huế năm 1968",
+            "href": "/tu-lieu/quan-su/tran-mau-than-tai-hue-nam-1968"
+        },
+        {
+            "text": "Bảng đối chiếu các triều đại Việt Nam và các triều đại Trung Quốc",
+            "href": "/tu-lieu/bang-doi-chieu-cac-trieu-dai-viet-nam-va-cac-trieu-dai-trung-quoc"
+        },
+        {
+            "text": "Bình Ngô đại cáo - bản tuyên ngôn độc lập thứ hai",
+            "href": "/tu-lieu/tac-pham/binh-ngo-dai-cao-ban-tuyen-ngon-doc-lap-thu-hai"
+        },
+        {
+            "text": "Lãnh thổ Việt Nam qua từng thời kỳ",
+            "href": "/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky"
+        },
+        {
+            "text": "Trận Đồi Thịt Băm năm 1969",
+            "href": "/tu-lieu/quan-su/tran-doi-thit-bam-nam-1969"
+        },
+        {
+            "text": "Chiến dịch Đắk Tô năm 1972",
+            "href": "/tu-lieu/quan-su/chien-dich-dak-to-nam-1972"
+        },
+        {
+            "text": "Nam quốc sơn hà - Bản tuyên ngôn độc lập đầu tiên",
+            "href": "/tu-lieu/tac-pham/nam-quoc-son-ha-ban-tuyen-ngon-doc-lap-dau-tien"
+        },
+        {
+            "text": "Tuyên ngôn độc lập Việt Nam Dân chủ Cộng hòa",
+            "href": "/tu-lieu/tac-pham/tuyen-ngon-doc-lap-viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Trận Bản Đông năm 1971",
+            "href": "/tu-lieu/quan-su/tran-ban-dong-nam-1971"
+        },
+        {
+            "text": "Trận Rạch Gầm \u2013 Xoài Mút năm 1785",
+            "href": "/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785"
+        },
+        {
+            "text": "Lịch sử Chữ viết tiếng Việt",
+            "href": "/tu-lieu/lich-su-chu-viet-tieng-viet"
+        },
+        {
+            "text": "Hịch tướng sĩ - Dụ chư tỳ tướng hịch văn",
+            "href": "/tu-lieu/tac-pham/hich-tuong-si-du-chu-ty-tuong-hich-van"
+        },
+        {
+            "text": "Danh sách Trạng nguyên Việt Nam",
+            "href": "/tu-lieu/danh-sach-trang-nguyen-viet-nam"
+        },
+        {
+            "text": "Hội nghị Paris, mặt trận ngoại giao năm 1968-1972",
+            "href": "/tu-lieu/bang-giao/hoi-nghi-paris-mat-tran-ngoai-giao-nam-1968-1972"
+        },
+        {
+            "text": "Trần Nhân Tông",
+            "href": "/nhan-vat/tran-nhan-tong"
+        },
+        {
+            "text": "Lê Đại Hành",
+            "href": "/nhan-vat/le-dai-hanh"
+        },
+        {
+            "text": "Lý Thái Tổ",
+            "href": "/nhan-vat/ly-thai-to"
+        },
+        {
+            "text": "Hùng Vương",
+            "href": "/nhan-vat/hung-vuong"
+        },
+        {
+            "text": "Trần Hưng Đạo",
+            "href": "/nhan-vat/tran-hung-dao"
+        },
+        {
+            "text": "Lê Thái Tổ",
+            "href": "/nhan-vat/le-thai-to"
+        },
+        {
+            "text": "Lý Thường Kiệt",
+            "href": "/nhan-vat/ly-thuong-kiet"
+        },
+        {
+            "text": "Hồ Chí Minh",
+            "href": "/nhan-vat/ho-chi-minh"
+        },
+        {
+            "text": "Ngô Quyền",
+            "href": "/nhan-vat/ngo-quyen"
+        },
+        {
+            "text": "Nguyễn Trãi",
+            "href": "/nhan-vat/nguyen-trai"
+        },
+        {
+            "text": "Lý Nam Đế",
+            "href": "/nhan-vat/ly-nam-de"
+        },
+        {
+            "text": "Hai Bà Trưng",
+            "href": "/nhan-vat/hai-ba-trung"
+        },
+        {
+            "text": "Đinh Tiên Hoàng",
+            "href": "/nhan-vat/dinh-tien-hoang"
+        },
+        {
+            "text": "Nguyễn Huệ",
+            "href": "/nhan-vat/nguyen-hue"
+        },
+        {
+            "text": "Hai Bà Trưng",
+            "href": "/nhan-vat/hai-ba-trung"
+        },
+        {
+            "text": "Lê Thái Tổ",
+            "href": "/nhan-vat/le-thai-to"
+        },
+        {
+            "text": "Nguyễn Trãi",
+            "href": "/nhan-vat/nguyen-trai"
+        },
+        {
+            "text": "Trần Nhân Tông",
+            "href": "/nhan-vat/tran-nhan-tong"
+        },
+        {
+            "text": "Lý Thường Kiệt",
+            "href": "/nhan-vat/ly-thuong-kiet"
+        },
+        {
+            "text": "Trần Hưng Đạo",
+            "href": "/nhan-vat/tran-hung-dao"
+        },
+        {
+            "text": "Lý Nam Đế",
+            "href": "/nhan-vat/ly-nam-de"
+        },
+        {
+            "text": "Ngô Quyền",
+            "href": "/nhan-vat/ngo-quyen"
+        },
+        {
+            "text": "Hùng Vương",
+            "href": "/nhan-vat/hung-vuong"
+        },
+        {
+            "text": "Nguyễn Huệ",
+            "href": "/nhan-vat/nguyen-hue"
+        },
+        {
+            "text": "Vấn đề biên giới Việt-Trung thời Mạc",
+            "href": "/tu-lieu/bang-giao/van-de-bien-gioi-viet-trung-thoi-mac"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Tây Sơn",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-tay-son"
+        },
+        {
+            "text": "Biểu đồ các nhân vật lịch sử theo dòng thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Danh sách Trạng nguyên Việt Nam",
+            "href": "/tu-lieu/danh-sach-trang-nguyen-viet-nam"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Nguyễn",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-nguyen"
+        },
+        {
+            "text": "Trận Điện Biên Phủ trên không năm 1972",
+            "href": "/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972"
+        },
+        {
+            "text": "Trận Ngọc Hồi - Đống Đa năm 1789",
+            "href": "/tu-lieu/quan-su/tran-ngoc-hoi-dong-da-nam-1789"
+        },
+        {
+            "text": "Trận Cẩm Sa năm 1775",
+            "href": "/tu-lieu/quan-su/tran-cam-sa-nam-1775"
+        },
+        {
+            "text": "Trận Rạch Gầm \u2013 Xoài Mút năm 1785",
+            "href": "/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785"
+        },
+        {
+            "text": "Lãnh thổ Việt Nam qua từng thời kỳ",
+            "href": "/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky"
+        },
+        {
+            "text": "Khu di tích Pác Bó",
+            "href": "/dia-danh/khu-di-tich-pac-bo"
+        },
+        {
+            "text": "chùa Thầy",
+            "href": "/dia-danh/chua-thay"
+        },
+        {
+            "text": "Văn Miếu - Quốc Tử Giám",
+            "href": "/dia-danh/van-mieu-quoc-tu-giam"
+        },
+        {
+            "text": "Đền Trần (Thái Bình)",
+            "href": "/dia-danh/den-tran-thai-binh"
+        },
+        {
+            "text": "Dinh Độc Lập",
+            "href": "/dia-danh/dinh-doc-lap"
+        },
+        {
+            "text": "Thành cổ Quảng Trị",
+            "href": "/dia-danh/thanh-co-quang-tri"
+        },
+        {
+            "text": "thành Cổ Loa",
+            "href": "/dia-danh/thanh-co-loa"
+        },
+        {
+            "text": "chùa Phổ Minh",
+            "href": "/dia-danh/chua-pho-minh"
+        },
+        {
+            "text": "Khu di tích chiến thắng Điện Biên Phủ",
+            "href": "/dia-danh/khu-di-tich-chien-thang-dien-bien-phu"
+        },
+        {
+            "text": "Cố đô Hoa Lư",
+            "href": "/dia-danh/co-do-hoa-lu"
+        },
+        {
+            "text": "Giới thiệu",
+            "href": "/gioi-thieu"
+        },
+        {
+            "text": "Quyền riêng tư",
+            "href": "/quyen-rieng-tu"
+        },
+        {
+            "text": "Liên hệ",
+            "href": "/lien-he"
+        },
+        {
+            "text": "Địa Danh",
+            "href": "/dia-danh"
+        },
+        {
+            "text": "Trang Facebook",
+            "href": "https://www.facebook.com/nguoikesu/"
+        },
+        {
+            "text": "DanhMucBDS.com",
+            "href": "https://danhmucbds.com"
+        },
+        {
+            "text": "HocTotNguVan.com",
+            "href": "https://hoctotnguvan.com"
+        }
+    ],
+    "title": "Lý Cương - Người Kể Sử",
+    "paragraphs": [
+        "Lý Cương (giản thể: 李纲; phồn thể: 李綱; bính âm: Lǐ Gāng, 1083 - 1140), tên tự là Bá Kỷ, người Thiệu Vũ quân[1], tể tướng nhà Tống, lãnh tụ phái kháng Kim, anh hùng dân tộc Trung Quốc.",
+        "Cùng với Nhạc Phi, Triệu Đỉnh, Hàn Thế Trung, Văn Thiên Tường, ông là 1 trong 5 vị quan trong thời Nam Tống được thờ tại Đế vương miếu (历代帝王庙) được nhà Minh, nhà Thanh xây dựng, trong đó thờ những vị quan văn, võ tướng được đánh giá là tài năng và tận trung nhất qua các triều đại.",
+        "Tổ tiên của Lý Cương không thể khảo cứu được, ông tự xưng mình là hậu nhân còn sống của hoàng đế cuối cùng triều Đường Lý Chúc, theo chi của một người con tên Lý Hy Chiếu(李熙照). Cha là Lý Quỳ, làm đến Long Đồ các đãi chế. Năm 1112, Lý Cương đỗ tiến sĩ.",
+        "Năm 1115, Lý Cương nhiệm chức Giám sát ngự sử kiêm quyền Điện trung thị ngự sử, không lâu sau vì nghị luận triều chính không hợp ý bề trên, bị đổi làm Bỉ bộ viên ngoại lang, rồi được thăng làm Khởi cư lang.",
+        "Năm 1119, Biện Kinh có lụt lớn, ông dâng sớ yêu cầu triều đình chú ý các vấn đề nội ưu ngoại hoạn, triều đình ghét lời ấy, biếm làm Giám thuế vụ ở huyện Sa [2] thuộc Nam Kiếm Châu.",
+        "Tháng 7 năm 1125, Lý Cương được về triều, nhiệm chức Thái thường Thiếu khanh.",
+        "Mùa đông năm ấy, 2 lộ quân Kim đánh Tống, Hoàn Nhan Tông Vọng soái Đông lộ quân nhằm thẳng vào đô thành Khai Phong. Triều đình nhà Tống trải qua một phen hoảng loạn, thông qua Ngô Mẫn, Lý Cương đề xuất với Tống Huy Tông truyền vị cho thái tử Triệu Hoàn, để hiệu triệu quân dân kháng Kim. Sau khi Triệu Hoàn lên ngôi, là Tống Khâm Tông, Ngô Mẫn nhiệm chức Môn hạ thị lang (dân gian gọi là Phó tướng), Lý Cương nhiệm chức Binh bộ thị lang.",
+        "Tháng giêng năm 1126, triều đình lấy Ngô Mẫn làm Hành doanh phó sứ, Lý Cương làm Tham mưu quan. Quân Kim áp sát Khai Phong, bọn Bạch Thì Trung, Lý Bang Ngạn muốn đưa Tống Khâm Tông chạy về nam, ông kiên quyết phản đối, cho rằng kế của ngày nay, không bằng chỉnh đốn binh mã, lớn tiếng đòi đánh, cố kết lòng dân, cùng nhau kiên thủ, để đợi quân cần vương, Khâm Tông quyết định ở lại, thăng Lý Cương làm Thượng thư Hữu thừa.",
+        "Nhưng Khâm Tông lại theo lời bọn đại thần, thay đổi chủ ý, chuẩn bị xa giá để cùng hậu cung, triều đình dời về nam, ông rơi nước mắt can ngăn, Khâm Tông không theo. Lý Cương chạy ra ngoài kêu gọi Cấm vệ quân tỏ lòng trung thành, mọi người hô lớn: Nguyện tử thủ! Ông trở vào, nhận xét gia quyến của Cấm vệ quân đều ở kinh thành, một khi rời khỏi thì lòng người ly tán, giữa đường chẳng may có biến thì khó thoát khỏi kỵ binh của Kim. Khâm Tông mới quyết định ở lại.",
+        "Lý Cương được nhiệm chức Thân chinh hành doanh sứ, phụ trách phòng ngự Khai Phong. Ông soái quân dân Khai Phong trong vài ngày kịp thời hoàn thành tổ chức phòng ngự, tự lên thành đốc chiến, đẩy lui quân Kim. Kim soái Hoàn Nhan Tông Vọng thấy khó lòng đánh hạ Khai Phong, chuyển sang thi hành kế dụ hàng, triều đình nhà Tống tỏ ý chịu khuất phục. Lý Cương vì kiên quyết phản đối cắt đất cầu hòa, lại thêm Diêu Bình Trọng tập kích doanh trại Kim thất bại, bọn Lý Bang Ngạn đẩy hết trách nhiệm cho ông, nên bị bãi quan. Hơn 10 vạn quân dân Khai Phong phẫn nộ, tập trung trước cửa cung hò hét, Tống Khâm Tông đành thu hồi mệnh lệnh, Lý Cương mới được dùng trở lại.",
+        "Tháng 2, quân Kim rút lui, Lý Cương đổi nhiệm chức Tri Khu mật viện sự.",
+        "Tháng 6, triều đình mượn lý do giải vây Thái Nguyên, đẩy Lý Cương ra ngoài làm Hà Bắc, Hà Đông lộ Tuyên phủ sứ. Các quan chức Tuyên phủ phó sứ, Chế trí phó sứ, Sát phóng sứ đều nghe lệnh trực tiếp từ triều đình, ông chưa từng nắm được chút binh quyền nào, nhiều lần dâng sớ trình bày nhưng không có kết quả, vì vậy cuộc chiến giải vây chẳng có chút tiến triển gì!.",
+        "Tháng 8, triều đình nghị hòa, một loạt thành viên phái chủ chiến là Từ Xử Nhân, Ngô Mẫn, Hứa Hàn, Trần Quá Đình, Lý Hồi,\u2026 bị đày ra ngoài. Lý Cương nghe tin, than rằng: \"Việc lớn không thể làm được rồi!\" rồi dâng sớ xin bãi chức. Triều đình lấy Chủng Sư Đạo làm Tuyên phủ sứ thay cho Lý Cương, triệu ông về kinh.",
+        "Tháng 9, Lý Cương bị bãi Tri Xu Mật viện sự, nhận hàm Quan Văn điện học sĩ, ra nhiệm chức Tri Dương Châu, ông dâng sớ xin miễn chức. Không lâu sau, bị gán cho tội danh \"chuyên bàn việc đánh, thiệt quân phí của\" mà chịu bãi chức, đổi nhận hư hàm Đề cử Bạc Châu Minh Đạo cung.",
+        "Tháng 10, lại bị biếm thụ chức Bảo Tĩnh quân Tiết độ phó sứ, an trí ở Kiến Xương quân [3], rồi lại bị đày đến Ninh Giang [4].",
+        "Tháng 11, quân Kim lần nữa chia 2 đường nam hạ, bao vây Khai Phong. Tống Khâm Tông lại muốn khởi dụng Lý Cương. Ông đang từ Kiến Xương đi Ninh Giang, ở Trường Sa nhận chiếu, lập tức soái quân \"Cần vương\" Hồ Nam cứu viện, được nửa đường thì đô thành bị hãm, Bắc Tống diệt vong.",
+        "Tháng 5 năm 1127, Khang vương Triệu Cấu tại Ứng Thiên phủ [5] thuộc Nam Kinh lên ngôi, là Tống Cao Tông, đổi niên hiệu là Kiếm Viêm, sử gọi là nhà Nam Tống. Vì muốn mượn danh vọng của Lý Cương, khởi dụng ông làm Thượng thư Tả bộc xạ (Tả tướng) kiêm Trung thư thị lang. Phái chủ hòa cực lực chỉ trích Lý Cương.",
+        "Tháng 6, ông cho rằng những việc cấp bách lúc này là nghị Quốc thị (bàn về Phương châm chính trị), nghị Tuần hạnh (bàn về việc Hoàng đế tuần du), nghị Xá hạnh (bàn về việc Hoàng đế tha tội), nghị Tiếm nghịch (bàn về việc Bề tôi cướp ngôi), nghị Ngụy mệnh (bàn về Mệnh lệnh của chính quyền ngụy), nghị Chiến (bàn về việc Đánh), nghị Thủ (bàn về việc Thủ), nghị Bản chính (bàn về Chính lệnh của triều đình), nghị Trách thành (bàn về Trách nhiệm), nghị Tu đức (bàn về việc Sửa đức). Lý Cương phản đối nghị hòa, yêu cầu biểu dương những người tử tiết vì kháng Kim, dời đô về Khai Phong, chấn chỉnh quân vụ. Ông mạnh mẽ yêu cầu nghiêm khắc trừng trị những quan lại hàng Kim, trong biểu có viết: Bề tôi không thể phụng sự hai nước, nên dùng hốt mà đánh chúng.",
+        "Lý Cương tích cực tổ chức quân dân Lưỡng Hà kháng Kim, bổ nhiệm Trương Sở làm Hà Bắc chiêu phủ sứ, Phó Lượng làm Hà Đông kinh chế phó sứ, Tông Trạch làm Tri Khai Phong phủ. Ông cho rằng chỉ có trên dưới đồng lòng kháng Kim, \"trong thời gian 3 năm, quân đội \u2013 chính trị được tăng cường \u2013 sửa sang, binh giáp \u2013 chiến xa được chuẩn bị đầy đủ, về sau có thể cất đại quân chinh thảo, báo mối thù không đội chung trời, rửa cái nhục xưa chưa từng có\". Nhờ vào nỗ lực xoay xở của Lý Cương, cục diện Nam Tống dần dần ổn định.",
+        "Tuy nhiên, Tống Cao Tông cùng bọn Uông Bá Ngạn, Hoàng Tiềm Thiện của phái chủ hòa đã khiến cho hành động kháng Kim của ông gặp nhiều trở ngại. Đầu tiên, điều Lý Cương nhiệm chức Thượng thư tả bộc xạ kiêm Môn hạ thị lang (Tả tướng), lấy Hoàng Tiềm Thiện thay làm Hữu tướng, nhằm kiềm chế ông. Sau đó bãi chức của Trương Sở, Phó Lượng, phế bỏ Hà Bắc chiêu phủ tư và Hà Đông kinh chế tư. Lý Cương hết sức biện hộ cho Trương Sở, Phó Lượng, lại phản đối Cao Tông tiếp tục chạy về nam. Tháng 8, ông bị gán cho tội danh lấp liếm ngôn luận, chuyên quyền triều chính, đổi làm Quan Văn điện đại học sĩ, Đề cử Động Tiêu cung.",
+        "Tháng 10 cùng năm đến năm 1129, Tống Cao Tông tiếp tục chạy về nam, quận huyện Lưỡng Hà nối nhau thất thủ. Trong thời gian này, Lý Cương chịu thêm một phen chỉ trích, đầu tiên bị bãi chức Quan Văn điện Đại học sĩ, đày đi Ngạc Châu [6], rồi bị biếm làm Đan Châu đoàn luyện phó sứ, đày đi Vạn An quân [7], đến mùa đông mới được phép tự do cư trú.",
+        "Tháng 2 năm 1132, Lý Cương được khởi dụng làm Hồ Quảng tuyên phủ sứ kiêm Tri Đàm Châu, kiến nghị triều đình tại một dải Kinh Hồ đồn trú trọng binh để mưu tính đoạt lại Trung Nguyên. Tấu nghị còn chưa lên đường, ông lại tiếp tục chịu đàn hặc, bị bãi chức, nhận hàm Đề cử Tây Kinh Sùng Phúc cung, tức là bị đày đi Phúc Châu.",
+        "Năm 1134, được trở về Thiệu Vũ cư trú. Liên quân Kim, Lưu Tề tiến đánh Nam Tống, ông lại trình lên kế sách phòng ngự, đề xuất tập kích Dĩnh Xương [8] ở sau lưng quân địch.",
+        "Năm 1135), Lý Cương lại dâng lên một bản tấu dài trần thuật đại kế Trung hưng, chỉ ra sự yếu đuối của triều đình Nam Tống là do trên dưới cầu an, không phải là kế lâu dài; sách lược lui tránh \"chỉ tạm mà không lâu dài, chỉ một mà không lặp lại, lui 1 bước thì mất 1 bước, lui 1 thước thì mất 1 thước\", răn đe Cao Tông \"chớ lấy địch lui mà làm vui, phải lấy mối thù chưa báo được mà căm giận. Chớ lấy đông nam mà an tâm, phải lấy Trung Nguyên chưa giành lại, Xích Huyện Thần Châu [9] mất cho nước địch mà hổ thẹn; chớ lấy chư tướng nhiều lần báo tiệp mà lơi tay, phải lấy quân \u2013 chánh chưa sửa sang, sĩ khí chưa chấn hưng trong khi cường địch vẫn còn đấy mà lo lắng\". Ông kiến nghị triều đình trước tiên liệu lý Hoài Nam, Kinh Tương làm bình phong của đông nam, ở đông tây Lưỡng Hoài cùng Kinh Tương đặt 3 viên đại soái, đều lãnh trọng binh để mưu tính khôi phục. Triều đình có chiếu an ủi.",
+        "Tháng 10 cùng năm, Lý Cương đổi nhiệm chức Chế trí đại sứ kiêm Tri Hồng Châu.",
+        "Năm 1138, Vương Luân đi sứ nước Kim trở về, ông dâng tấu can ngăn không nên chấp thuận những yêu cầu của người Kim. Bản tấu lại chịu nhiều chỉ trích, Cao Tông nói: Đại thần nên như thế này!",
+        "Tháng 2 năm 1139, Lý Cương được khởi dụng làm Hồ Nam lộ an phủ đại sứ kiêm Tri châu Đàm Châu, dâng sớ từ chối.",
+        "Tháng giêng năm sau (1140), ông mất ở Phúc Châu, hưởng thọ 58 tuổi. Triều đình sai sứ phúng tặng, thăm hỏi gia quyến, cấp chi phí tang lễ. Được tặng hàm Thiếu sư, họ hàng gần có đến 10 người làm quan.",
+        "Ông được táng ở chân phía nam núi Đại Gia, thôn Quang Minh, trấn Kinh Khê, huyện Mân Hầu, thành phố Phúc Châu.",
+        "Năm 1189, Lý Cương được ban thụy là Trung Định.",
+        "Lý Cương đáp ứng sự kỳ vọng của cả nước, xả thân vì xã tắc và nhân dân. Tuy không được dùng, hoặc dùng không được lâu, nhưng nghĩa khí trung thành của ông vẫn lẫm liệt khiến cho người ta cảm động. Mỗi lần sứ giả Nam Tống đến Yên Sơn (tức Yên Kinh, đô thành cũ của nước Liêu), đều nhận được những lời thăm hỏi tình hình của Lý Cương, cho thấy uy vọng của ông là như thế nào!",
+        "Văn Thiên Tường, \"Trung Định công tán\": Đạo của ông thì tốt, vận của ông thì xấu. Ôi, không hay ở chỗ nào, mà trời xanh mấy lần không chọn!",
+        "Chu Hi bình giá: Cương biết đến vua cha mà không biết đến mình, biết an nguy của thiên hạ mà không biết bệnh tật của mình, tuy bị gian thần chỉ trích, mấy lần suýt chết, mà cái chí yêu nước lo vua rốt cục vẫn không mất, có thể xem là vĩ nhân một thời vậy!",
+        "Năm 1119, Lý Cương bị đày đến huyện Sa. Ông ngụ ở nhà khách mé tây chùa Hưng Quốc tại cửa Đông. Chỉ là một viên quan bị biếm chức, công việc chẳng có gì nhiều, phần lớn thời gian là rảnh rỗi, Lý Cương cùng bọn danh sĩ Đặng Túc vui chơi tiệc tùng, làm thơ hát xướng.",
+        "Hằng ngày ông đến một quán thức ăn nhẹ (chữ Hán: 小吃, tiểu cật) [10] ở mé đông chùa Hưng Quốc để dùng bữa sáng. Chủ quán là La Phát Thổ, lớn tuổi, tính thật thà không khéo ăn nói. Vợ La là Nhạc Tú Cơ, dung mạo xinh xắn, da dẻ trắng đều, tính thông minh giỏi giang, lại giỏi làm các thức ăn nhẹ là Biển nhục [11], Thiêu mại (xíu mại), Ngư hoàn (cá viên), Bàn cao (bánh bò)\u2026 Hai vợ chồng tuy nhiều khác biệt nhưng rất hòa hợp; còn với người ngoài, thức ăn nhẹ của họ là ngon nhất vùng. Có người nhân đó gọi Nhạc Tú Cơ là Biển nhục Tây Thi, dù món ăn ngon nhất của quán lại là Thiêu mại. Thiêu mại của Biển nhục Tây Thi có một lớp vỏ mỏng, hấp chín xong thì trong suốt như ngọc, chấm với nước tương rồi cho vào miệng, cảm thấy ngọt ngào giòn tan, răng ngập trong mùi vị tươi ngon. Biển nhục Tây Thi tuy không học hành, nhưng rất biết đại thể, đối với Lý Cương vô cùng kính trọng, mỗi khi ông đến, không chỉ các món ăn được làm một cách đặc biệt, mà còn phục vụ chén lớn hơn hẳn của người khác.",
+        "Một ngày nọ, Lý Cương có hẹn với bọn Đặng Túc đi chơi núi Thất Đóa. Sau khi ăn sáng, ông dặn dò La Phát Thổ vào giữa trưa đưa thức ăn đến gác Ngưng Thúy. Không ngờ trong lúc Phát Thổ đưa thức ăn, Biển nhục Tây Thi ở nhà bị một đám lưu manh vũ nhục. Buổi chiều, Lý Cương về nhà khách, Phát Thổ đến trình bày tình cảnh của vợ mình. Ông nổi giận, lập tức lên ngựa đưa Phát Thổ đến gặp Tri huyện báo án. Tri huyện không dám chậm trễ, trong đêm phái đi 4 tổ Lệ bộ, mỗi tổ 8 người, lùng bắt đám lưu manh. Giữa trưa ngày thứ 2 thì bắt được bọn chúng đưa về huyện phủ. Đám lưu manh này thường ngày làm nhiều việc xấu xa, dân chúng rất căm phẫn, vì thế khi Tri huyện hỏi cách xử trí, Lý Cương đề nghị nghiêm trừng làm gương. Sau đó, huyện Sa trở nên thái bình vô sự, mọi người yên ổn làm ăn, vợ chồng La Phát Thổ sinh được 1 trai 1 gái, rất đỗi cảm kích ông.",
+        "(Nguồn: Wikipedia)"
+    ]
+}

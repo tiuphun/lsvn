@@ -1,0 +1,850 @@
+{
+    "tables": [
+        "<table class=\"infobox\">\n <tbody>\n  <tr>\n   <th colspan=\"2\">Triệu Minh Vương<br><font size=\"2\">趙明王<\/font><\/th>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\">Vua Nam Việt <small>(chi tiết...)<\/small><\/td>\n  <\/tr>\n  <tr>\n   <th colspan=\"2\">Hoàng đế Nam Việt<\/th>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Trị vì<\/th>\n   <td>125 TCN \u2013 113 TCN<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Tiền nhiệm<\/th>\n   <td>Triệu Văn Đế<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Kế nhiệm<\/th>\n   <td><a class=\"annotation\" href=\"/nhan-vat/trieu-ai-vuong\" title=\"Triệu Ai Vương (chữ Hán: 趙哀王; 117 TCN-112 TCN) tên thật là Triệu Hưng (趙興), là vua thứ 4 nhà Triệu nước Nam Việt, trị vì từ năm 113 TCN - 112 TCN, tức chỉ 1 năm. \n Triệu Ai Vương là con thứ hai của vua Triệu Minh Vương và Cù hậu - người Hàm Đan (Trung Quốc). Khi lên nối ngôi, Triệu Hưng mới 4 tuổi....\" target=\"_blank\">Triệu Ai Vương<\/a><\/td>\n  <\/tr>\n  <tr>\n   <th colspan=\"2\">Thông tin chung<\/th>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Vương hậu<\/th>\n   <td>\n    <table width=\"100%\" class=\"collapsible collapsed\" cellpadding=\"0\" cellspacing=\"0\">\n     <tbody>\n      <tr>\n       <th>Vương hậu<\/th>\n      <\/tr>\n      <tr>\n       <td>Cù thị<\/td>\n      <\/tr>\n     <\/tbody>\n    <\/table><\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Hậu duệ<\/th>\n   <td>\n    <table width=\"100%\" class=\"collapsible collapsed\" cellpadding=\"0\" cellspacing=\"0\">\n     <tbody>\n      <tr>\n       <th>Hậu duệ<\/th>\n      <\/tr>\n      <tr>\n       <td><a class=\"annotation\" href=\"/nhan-vat/trieu-kien-duc\" title=\"Triệu Dương Vương (趙陽王), hay Triệu Thuật Dương Vương (趙術陽王), Triệu Vệ Dương Vương (趙衛陽王), tên họ thật là Triệu Kiến Đức (趙建德), trị vì từ năm 112 TCN - 111 TCN, là vị vua cuối cùng của nhà Triệu nước Nam Việt trong lịch sử Việt Nam. \n Khi còn là Vương tử, tư dinh của ông được đặt tại vị trí nay là ch...\" target=\"_blank\">Triệu Kiến Đức<\/a><br>\n         Thứ Công (次公)<br><a class=\"annotation\" href=\"/nhan-vat/trieu-hung\" title=\"Triệu Ai Vương (chữ Hán: 趙哀王; 117 TCN-112 TCN) tên thật là Triệu Hưng (趙興), là vua thứ 4 nhà Triệu nước Nam Việt, trị vì từ năm 113 TCN - 112 TCN, tức chỉ 1 năm. \n Triệu Ai Vương là con thứ hai của vua Triệu Minh Vương và Cù hậu - người Hàm Đan (Trung Quốc). Khi lên nối ngôi, Triệu Hưng mới 4 tuổi....\" target=\"_blank\">Triệu Hưng<\/a><\/td>\n      <\/tr>\n     <\/tbody>\n    <\/table><\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Tên húy<\/th>\n   <td><a class=\"annotation\" href=\"/nhan-vat/trieu-anh-te\" title=\"Triệu Minh Vương (趙明王), húy Triệu Anh Tề (趙嬰齊) là vị vua thứ ba nhà Triệu nước Nam Việt, ở ngôi từ năm 125 TCN đến 113 TCN....\" target=\"_blank\">Triệu Anh Tề<\/a> (趙嬰齊)<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Triều đại<\/th>\n   <td>Nhà Triệu<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Thân phụ<\/th>\n   <td>Triệu Văn Đế<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Mất<\/th>\n   <td>113 TCN<br>\n     Nam Việt<\/td>\n  <\/tr>\n <\/tbody>\n<\/table>",
+        "<table width=\"100%\" class=\"collapsible collapsed\" cellpadding=\"0\" cellspacing=\"0\">\n <tbody>\n  <tr>\n   <th>Vương hậu<\/th>\n  <\/tr>\n  <tr>\n   <td>Cù thị<\/td>\n  <\/tr>\n <\/tbody>\n<\/table>",
+        "<table width=\"100%\" class=\"collapsible collapsed\" cellpadding=\"0\" cellspacing=\"0\">\n <tbody>\n  <tr>\n   <th>Hậu duệ<\/th>\n  <\/tr>\n  <tr>\n   <td><a class=\"annotation\" href=\"/nhan-vat/trieu-kien-duc\" title=\"Triệu Dương Vương (趙陽王), hay Triệu Thuật Dương Vương (趙術陽王), Triệu Vệ Dương Vương (趙衛陽王), tên họ thật là Triệu Kiến Đức (趙建德), trị vì từ năm 112 TCN - 111 TCN, là vị vua cuối cùng của nhà Triệu nước Nam Việt trong lịch sử Việt Nam. \n Khi còn là Vương tử, tư dinh của ông được đặt tại vị trí nay là ch...\" target=\"_blank\">Triệu Kiến Đức<\/a><br>\n     Thứ Công (次公)<br><a class=\"annotation\" href=\"/nhan-vat/trieu-hung\" title=\"Triệu Ai Vương (chữ Hán: 趙哀王; 117 TCN-112 TCN) tên thật là Triệu Hưng (趙興), là vua thứ 4 nhà Triệu nước Nam Việt, trị vì từ năm 113 TCN - 112 TCN, tức chỉ 1 năm. \n Triệu Ai Vương là con thứ hai của vua Triệu Minh Vương và Cù hậu - người Hàm Đan (Trung Quốc). Khi lên nối ngôi, Triệu Hưng mới 4 tuổi....\" target=\"_blank\">Triệu Hưng<\/a><\/td>\n  <\/tr>\n <\/tbody>\n<\/table>",
+        "<table width=\"100%\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" class=\" table table-striped\">\n <tbody>\n  <tr valign=\"top\">\n   <td width=\"50%\">\n    <div>\n     <table width=\"100%\" rules=\"none\" border=\"0\" cellspacing=\"0\" cellpadding=\"2\">\n      <tbody>\n       <tr>\n        <td valign=\"middle\"><img class=\"jch-lazyload\" alt=\"Castle 02.svg\" src=\"/images/wiki/trieu-minh-vuong/f6c379c3826156d91f7c1e8c1bcbdbb4.png\" width=\"18\" height=\"24\" srcset=\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIyNCI+PC9zdmc+\" data-srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Castle_02.svg/28px-Castle_02.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Castle_02.svg/37px-Castle_02.svg.png 2x\" data-file-width=\"389\" data-file-height=\"502\">\n         <noscript>\n          <img alt=\"Castle 02.svg\" src=\"/images/wiki/trieu-minh-vuong/f6c379c3826156d91f7c1e8c1bcbdbb4.png\" width=\"18\" height=\"24\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Castle_02.svg/28px-Castle_02.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Castle_02.svg/37px-Castle_02.svg.png 2x\" data-file-width=\"389\" data-file-height=\"502\">\n         <\/noscript><\/td>\n        <td width=\"100%\"><b>Chủ đề Lịch sử<\/b><\/td>\n       <\/tr>\n      <\/tbody>\n     <\/table>\n    <\/div><\/td>\n   <td width=\"8\"><\/td>\n   <td width=\"50%\">\n    <div>\n     <table width=\"100%\" rules=\"none\" border=\"0\" cellspacing=\"0\" cellpadding=\"2\">\n      <tbody>\n       <tr>\n        <td valign=\"middle\"><img class=\"jch-lazyload\" alt=\"LocationofVietnam 3.png\" src=\"/images/wiki/trieu-minh-vuong/052c33d2fac3af7203c43f824c1f556c.png\" width=\"31\" height=\"24\" srcset=\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMSIgaGVpZ2h0PSIyNCI+PC9zdmc+\" data-srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/LocationofVietnam_3.png/47px-LocationofVietnam_3.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f0/LocationofVietnam_3.png/62px-LocationofVietnam_3.png 2x\" data-file-width=\"357\" data-file-height=\"277\">\n         <noscript>\n          <img alt=\"LocationofVietnam 3.png\" src=\"/images/wiki/trieu-minh-vuong/052c33d2fac3af7203c43f824c1f556c.png\" width=\"31\" height=\"24\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/LocationofVietnam_3.png/47px-LocationofVietnam_3.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f0/LocationofVietnam_3.png/62px-LocationofVietnam_3.png 2x\" data-file-width=\"357\" data-file-height=\"277\">\n         <\/noscript><\/td>\n        <td width=\"100%\"><b>Chủ đề Việt Nam<\/b><\/td>\n       <\/tr>\n      <\/tbody>\n     <\/table>\n    <\/div><\/td>\n  <\/tr>\n <\/tbody>\n<\/table>",
+        "<table width=\"100%\" rules=\"none\" border=\"0\" cellspacing=\"0\" cellpadding=\"2\">\n <tbody>\n  <tr>\n   <td valign=\"middle\"><img class=\"jch-lazyload\" alt=\"Castle 02.svg\" src=\"/images/wiki/trieu-minh-vuong/f6c379c3826156d91f7c1e8c1bcbdbb4.png\" width=\"18\" height=\"24\" srcset=\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIyNCI+PC9zdmc+\" data-srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Castle_02.svg/28px-Castle_02.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Castle_02.svg/37px-Castle_02.svg.png 2x\" data-file-width=\"389\" data-file-height=\"502\">\n    <noscript>\n     <img alt=\"Castle 02.svg\" src=\"/images/wiki/trieu-minh-vuong/f6c379c3826156d91f7c1e8c1bcbdbb4.png\" width=\"18\" height=\"24\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Castle_02.svg/28px-Castle_02.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Castle_02.svg/37px-Castle_02.svg.png 2x\" data-file-width=\"389\" data-file-height=\"502\">\n    <\/noscript><\/td>\n   <td width=\"100%\"><b>Chủ đề Lịch sử<\/b><\/td>\n  <\/tr>\n <\/tbody>\n<\/table>",
+        "<table width=\"100%\" rules=\"none\" border=\"0\" cellspacing=\"0\" cellpadding=\"2\">\n <tbody>\n  <tr>\n   <td valign=\"middle\"><img class=\"jch-lazyload\" alt=\"LocationofVietnam 3.png\" src=\"/images/wiki/trieu-minh-vuong/052c33d2fac3af7203c43f824c1f556c.png\" width=\"31\" height=\"24\" srcset=\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMSIgaGVpZ2h0PSIyNCI+PC9zdmc+\" data-srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/LocationofVietnam_3.png/47px-LocationofVietnam_3.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f0/LocationofVietnam_3.png/62px-LocationofVietnam_3.png 2x\" data-file-width=\"357\" data-file-height=\"277\">\n    <noscript>\n     <img alt=\"LocationofVietnam 3.png\" src=\"/images/wiki/trieu-minh-vuong/052c33d2fac3af7203c43f824c1f556c.png\" width=\"31\" height=\"24\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/LocationofVietnam_3.png/47px-LocationofVietnam_3.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f0/LocationofVietnam_3.png/62px-LocationofVietnam_3.png 2x\" data-file-width=\"357\" data-file-height=\"277\">\n    <\/noscript><\/td>\n   <td width=\"100%\"><b>Chủ đề Việt Nam<\/b><\/td>\n  <\/tr>\n <\/tbody>\n<\/table>"
+    ],
+    "keywords": [],
+    "headings": [
+        "Nhân Vật Lịch Sử",
+        "Triệu Minh Vương",
+        "Tiểu sử",
+        "Xem thêm",
+        "Chú thích",
+        "Tham khảo",
+        "Bài viết cùng thư mục",
+        "CÁC THỜI KỲ LỊCH SỬ",
+        "Tư Liệu",
+        "Anh Hùng Dân Tộc Tiêu Biểu",
+        "Anh Hùng Dân Tộc Tiêu Biểu",
+        "Tư Liệu Lịch Sử",
+        "Di Tích Lịch Sử"
+    ],
+    "anchors": [
+        {
+            "text": "",
+            "href": "/"
+        },
+        {
+            "text": "Trang Chủ",
+            "href": "/"
+        },
+        {
+            "text": "Dòng Lịch Sử",
+            "href": "/dong-lich-su"
+        },
+        {
+            "text": "Hồng Bàng & Văn Lang",
+            "href": "/dong-lich-su/hong-bang-va-van-lang"
+        },
+        {
+            "text": "Âu Lạc & Nam Việt",
+            "href": "/dong-lich-su/au-lac-va-nam-viet"
+        },
+        {
+            "text": "Bắc thuộc lần I",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat"
+        },
+        {
+            "text": "Trưng Nữ Vương",
+            "href": "/dong-lich-su/trung-nu-vuong"
+        },
+        {
+            "text": "Bắc thuộc lần II",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-hai"
+        },
+        {
+            "text": "Nhà Lý & Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu"
+        },
+        {
+            "text": "Bắc thuộc lần III",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-ba"
+        },
+        {
+            "text": "Thời kỳ xây nền tự chủ",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu"
+        },
+        {
+            "text": "Nhà Ngô",
+            "href": "/dong-lich-su/nha-ngo"
+        },
+        {
+            "text": "Nhà Đinh",
+            "href": "/dong-lich-su/nha-dinh"
+        },
+        {
+            "text": "Nhà Tiền Lê",
+            "href": "/dong-lich-su/nha-tien-le"
+        },
+        {
+            "text": "Nhà Lý",
+            "href": "/dong-lich-su/nha-ly"
+        },
+        {
+            "text": "Nhà Trần",
+            "href": "/dong-lich-su/nha-tran"
+        },
+        {
+            "text": "Nhà Hồ",
+            "href": "/dong-lich-su/nha-ho"
+        },
+        {
+            "text": "Nhà Hậu Trần",
+            "href": "/dong-lich-su/nha-hau-tran"
+        },
+        {
+            "text": "Bắc thuộc lần IV",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-tu"
+        },
+        {
+            "text": "Nhà Hậu Lê",
+            "href": "/dong-lich-su/nha-hau-le"
+        },
+        {
+            "text": "Nam Bắc Triều",
+            "href": "/dong-lich-su/nam-bac-trieu"
+        },
+        {
+            "text": "Trịnh Nguyễn Phân Tranh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh"
+        },
+        {
+            "text": "Nhà Tây Sơn",
+            "href": "/dong-lich-su/nha-tay-son"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/nha-nguyen"
+        },
+        {
+            "text": "Pháp Thuộc",
+            "href": "/dong-lich-su/phap-thuoc"
+        },
+        {
+            "text": "Việt Nam Dân Chủ Cộng Hoà",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Cộng hoà xã hội chủ nghĩa Việt Nam",
+            "href": "/dong-lich-su/viet-nam-xhcn"
+        },
+        {
+            "text": "Tư Liệu",
+            "href": "/tu-lieu"
+        },
+        {
+            "text": "Quân Sự",
+            "href": "/tu-lieu/quan-su?filter_tag[0]="
+        },
+        {
+            "text": "Tác Phẩm",
+            "href": "/tu-lieu/tac-pham?filter_tag[0]="
+        },
+        {
+            "text": "Bang Giao",
+            "href": "/tu-lieu/bang-giao"
+        },
+        {
+            "text": "Biểu đồ thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Nhân Vật",
+            "href": "/nhan-vat"
+        },
+        {
+            "text": "Anh Hùng Dân Tộc",
+            "href": "/anh-hung-dan-toc?types[0]=1"
+        },
+        {
+            "text": "Danh nhân văn hóa",
+            "href": "/danh-nhan-van-hoa?types[0]=1"
+        },
+        {
+            "text": "Di Tích",
+            "href": "/di-tich-lich-su?types[0]=1"
+        },
+        {
+            "text": "Ngày Nay",
+            "href": "/thoi-su"
+        },
+        {
+            "text": "Sách",
+            "href": "/sach"
+        },
+        {
+            "text": "Video",
+            "href": "/video"
+        },
+        {
+            "text": "Q&A",
+            "href": "/hoi-dap"
+        },
+        {
+            "text": "Lịch sử lớp 12",
+            "href": "/hoi-dap/lop-12"
+        },
+        {
+            "text": "Lịch sử lớp 11",
+            "href": "/hoi-dap/lop-11"
+        },
+        {
+            "text": "Lịch sử lớp 10",
+            "href": "/hoi-dap/lop-10"
+        },
+        {
+            "text": "Lịch sử lớp 9",
+            "href": "/hoi-dap/lop-9"
+        },
+        {
+            "text": "Lịch sử lớp 8",
+            "href": "/hoi-dap/lop-8"
+        },
+        {
+            "text": "Lịch sử lớp 7",
+            "href": "/hoi-dap/lop-7"
+        },
+        {
+            "text": "Lịch sử lớp 6",
+            "href": "/hoi-dap/lop-6"
+        },
+        {
+            "text": "Trang chủ",
+            "href": "/"
+        },
+        {
+            "text": "Nhân Vật",
+            "href": "/nhan-vat"
+        },
+        {
+            "text": "Nhân Vật Lịch Sử",
+            "href": "/nhan-vat"
+        },
+        {
+            "text": "Thu / Mở",
+            "href": "#"
+        },
+        {
+            "text": "Tiểu sử",
+            "href": "#tieu-su"
+        },
+        {
+            "text": "Xem thêm",
+            "href": "#xem-them"
+        },
+        {
+            "text": "Chú thích",
+            "href": "#chu-thich"
+        },
+        {
+            "text": "Tham khảo",
+            "href": "#tham-khao"
+        },
+        {
+            "text": "Triệu Ai Vương",
+            "href": "/nhan-vat/trieu-ai-vuong"
+        },
+        {
+            "text": "Triệu Kiến Đức",
+            "href": "/nhan-vat/trieu-kien-duc"
+        },
+        {
+            "text": "Triệu Hưng",
+            "href": "/nhan-vat/trieu-hung"
+        },
+        {
+            "text": "Triệu Anh Tề",
+            "href": "/nhan-vat/trieu-anh-te"
+        },
+        {
+            "text": "Triệu Anh Tề",
+            "href": "/nhan-vat/trieu-anh-te"
+        },
+        {
+            "text": "nhà Triệu",
+            "href": "/nhan-vat/nha-trieu"
+        },
+        {
+            "text": "Triệu Anh Tề",
+            "href": "/nhan-vat/trieu-anh-te"
+        },
+        {
+            "text": "nhà Hán",
+            "href": "/nhan-vat/nha-han"
+        },
+        {
+            "text": "nhà Hán",
+            "href": "/nhan-vat/nha-han"
+        },
+        {
+            "text": "Triệu Vũ Đế",
+            "href": "/nhan-vat/trieu-vu-de"
+        },
+        {
+            "text": "Triệu Hưng",
+            "href": "/nhan-vat/trieu-hung"
+        },
+        {
+            "text": "Triệu Hưng",
+            "href": "/nhan-vat/trieu-hung"
+        },
+        {
+            "text": "Triệu Kiến Đức",
+            "href": "/nhan-vat/trieu-kien-duc"
+        },
+        {
+            "text": "Triệu Hưng",
+            "href": "/nhan-vat/trieu-hung"
+        },
+        {
+            "text": "Vũ Đế",
+            "href": "/nhan-vat/vu-de"
+        },
+        {
+            "text": "nhà Hán",
+            "href": "/nhan-vat/nha-han"
+        },
+        {
+            "text": "Triệu Hưng",
+            "href": "/nhan-vat/trieu-hung"
+        },
+        {
+            "text": "Triệu Ai Vương",
+            "href": "/nhan-vat/trieu-ai-vuong"
+        },
+        {
+            "text": "Triệu Ai Vương",
+            "href": "/nhan-vat/trieu-ai-vuong"
+        },
+        {
+            "text": "nhà Triệu",
+            "href": "/nhan-vat/nha-trieu"
+        },
+        {
+            "text": "nhà Triệu",
+            "href": "/nhan-vat/nha-trieu"
+        },
+        {
+            "text": "nhà Hán",
+            "href": "/nhan-vat/nha-han"
+        },
+        {
+            "text": "nhà Hán",
+            "href": "/nhan-vat/nha-han"
+        },
+        {
+            "text": "Trần Trọng Kim",
+            "href": "/nhan-vat/tran-trong-kim"
+        },
+        {
+            "text": "nhà Triệu",
+            "href": "/nhan-vat/nha-trieu"
+        },
+        {
+            "text": "Bài viết trước: Triệu Kiến Đức Trước",
+            "href": "/nhan-vat/trieu-kien-duc"
+        },
+        {
+            "text": "Bài viết kế tiếp: Triệu Nguyên Tiếp tục",
+            "href": "/nhan-vat/trieu-nguyen"
+        },
+        {
+            "text": "Kinh Dương Vương",
+            "href": "/nhan-vat/kinh-duong-vuong"
+        },
+        {
+            "text": "Lạc Long Quân",
+            "href": "/nhan-vat/lac-long-quan"
+        },
+        {
+            "text": "nhà Chu",
+            "href": "/nhan-vat/nha-chu"
+        },
+        {
+            "text": "Ngô Sĩ Liên",
+            "href": "/nhan-vat/ngo-si-lien"
+        },
+        {
+            "text": "Lý Thái Tổ",
+            "href": "/nhan-vat/ly-thai-to"
+        },
+        {
+            "text": "nhà Thương",
+            "href": "/nhan-vat/nha-thuong"
+        },
+        {
+            "text": "nhà Đường",
+            "href": "/nhan-vat/nha-duong"
+        },
+        {
+            "text": "Triệu Việt Vương",
+            "href": "/nhan-vat/trieu-viet-vuong"
+        },
+        {
+            "text": "nhà Tần",
+            "href": "/nhan-vat/nha-tan"
+        },
+        {
+            "text": "Triệu Đà",
+            "href": "/nhan-vat/trieu-da"
+        },
+        {
+            "text": "Hồng Bàng & Văn Lang",
+            "href": "/dong-lich-su/hong-bang-va-van-lang"
+        },
+        {
+            "text": "Âu Lạc & Nam Việt",
+            "href": "/dong-lich-su/au-lac-va-nam-viet"
+        },
+        {
+            "text": "Bắc thuộc lần I",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat"
+        },
+        {
+            "text": "Nhà Triệu",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat/nha-trieu"
+        },
+        {
+            "text": "Trưng Nữ Vương",
+            "href": "/dong-lich-su/trung-nu-vuong"
+        },
+        {
+            "text": "Bắc thuộc lần II",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-hai"
+        },
+        {
+            "text": "Nhà Lý & Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu"
+        },
+        {
+            "text": "Nhà Tiền Lý",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-tien-ly"
+        },
+        {
+            "text": "Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-trieu"
+        },
+        {
+            "text": "Nhà Hậu Lý",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-hau-ly"
+        },
+        {
+            "text": "Bắc thuộc lần III",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-ba"
+        },
+        {
+            "text": "Thời kỳ xây nền tự chủ",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu"
+        },
+        {
+            "text": "Họ Khúc",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu/ho-khuc"
+        },
+        {
+            "text": "Nhà Ngô",
+            "href": "/dong-lich-su/nha-ngo"
+        },
+        {
+            "text": "Nhà Đinh",
+            "href": "/dong-lich-su/nha-dinh"
+        },
+        {
+            "text": "Nhà Tiền Lê",
+            "href": "/dong-lich-su/nha-tien-le"
+        },
+        {
+            "text": "Nhà Lý",
+            "href": "/dong-lich-su/nha-ly"
+        },
+        {
+            "text": "Nhà Trần",
+            "href": "/dong-lich-su/nha-tran"
+        },
+        {
+            "text": "Nhà Hồ",
+            "href": "/dong-lich-su/nha-ho"
+        },
+        {
+            "text": "Nhà Hậu Trần",
+            "href": "/dong-lich-su/nha-hau-tran"
+        },
+        {
+            "text": "Bắc thuộc lần IV",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-tu"
+        },
+        {
+            "text": "Nhà Hậu Lê",
+            "href": "/dong-lich-su/nha-hau-le"
+        },
+        {
+            "text": "Nam Bắc Triều",
+            "href": "/dong-lich-su/nam-bac-trieu"
+        },
+        {
+            "text": "Nhà Lê Trung Hưng",
+            "href": "/dong-lich-su/nam-bac-trieu/nha-le-trung-hung"
+        },
+        {
+            "text": "Nhà Mạc",
+            "href": "/dong-lich-su/nam-bac-trieu/nha-mac"
+        },
+        {
+            "text": "Trịnh Nguyễn Phân Tranh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh"
+        },
+        {
+            "text": "Nhà Lê Trung Hưng",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/nha-le-trung-hung"
+        },
+        {
+            "text": "Chúa Trịnh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-trinh"
+        },
+        {
+            "text": "Chúa Nguyễn",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen"
+        },
+        {
+            "text": "Nhà Tây Sơn",
+            "href": "/dong-lich-su/nha-tay-son"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/nha-nguyen"
+        },
+        {
+            "text": "Pháp Thuộc",
+            "href": "/dong-lich-su/phap-thuoc"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/phap-thuoc/nha-nguyen"
+        },
+        {
+            "text": "Những cuộc khởi nghĩa chống thực dân Pháp",
+            "href": "/dong-lich-su/phap-thuoc/khoi-nghia-chong-phap"
+        },
+        {
+            "text": "Đảng Cộng Sản Việt Nam",
+            "href": "/dong-lich-su/phap-thuoc/dang-cong-san-viet-nam"
+        },
+        {
+            "text": "Việt Nam Dân Chủ Cộng Hoà",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Kháng chiến chống Pháp",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-phap"
+        },
+        {
+            "text": "Kháng chiến chống Mĩ",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-mi"
+        },
+        {
+            "text": "Cộng hoà xã hội chủ nghĩa Việt Nam",
+            "href": "/dong-lich-su/viet-nam-xhcn"
+        },
+        {
+            "text": "Trận Điện Biên Phủ trên không năm 1972",
+            "href": "/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972"
+        },
+        {
+            "text": "Chiến tranh biên giới Tây Nam năm 1975 - 1978",
+            "href": "/tu-lieu/quan-su/chien-tranh-bien-gioi-tay-nam-nam-1975-1978"
+        },
+        {
+            "text": "Chiến dịch Mùa Xuân năm 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-mua-xuan-nam-1975"
+        },
+        {
+            "text": "Hải chiến Trường Sa năm 1988",
+            "href": "/tu-lieu/quan-su/hai-chien-truong-sa-nam-1988"
+        },
+        {
+            "text": "Chiến dịch Đường 14 - Phước Long năm 1974 - 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-duong-14-phuoc-long-nam-1974-1975"
+        },
+        {
+            "text": "Chiến dịch Tây Nguyên năm 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-tay-nguyen-nam-1975"
+        },
+        {
+            "text": "Trận Mậu Thân tại Huế năm 1968",
+            "href": "/tu-lieu/quan-su/tran-mau-than-tai-hue-nam-1968"
+        },
+        {
+            "text": "Bảng đối chiếu các triều đại Việt Nam và các triều đại Trung Quốc",
+            "href": "/tu-lieu/bang-doi-chieu-cac-trieu-dai-viet-nam-va-cac-trieu-dai-trung-quoc"
+        },
+        {
+            "text": "Bình Ngô đại cáo - bản tuyên ngôn độc lập thứ hai",
+            "href": "/tu-lieu/tac-pham/binh-ngo-dai-cao-ban-tuyen-ngon-doc-lap-thu-hai"
+        },
+        {
+            "text": "Lãnh thổ Việt Nam qua từng thời kỳ",
+            "href": "/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky"
+        },
+        {
+            "text": "Trận Đồi Thịt Băm năm 1969",
+            "href": "/tu-lieu/quan-su/tran-doi-thit-bam-nam-1969"
+        },
+        {
+            "text": "Chiến dịch Đắk Tô năm 1972",
+            "href": "/tu-lieu/quan-su/chien-dich-dak-to-nam-1972"
+        },
+        {
+            "text": "Nam quốc sơn hà - Bản tuyên ngôn độc lập đầu tiên",
+            "href": "/tu-lieu/tac-pham/nam-quoc-son-ha-ban-tuyen-ngon-doc-lap-dau-tien"
+        },
+        {
+            "text": "Tuyên ngôn độc lập Việt Nam Dân chủ Cộng hòa",
+            "href": "/tu-lieu/tac-pham/tuyen-ngon-doc-lap-viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Trận Bản Đông năm 1971",
+            "href": "/tu-lieu/quan-su/tran-ban-dong-nam-1971"
+        },
+        {
+            "text": "Trận Rạch Gầm \u2013 Xoài Mút năm 1785",
+            "href": "/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785"
+        },
+        {
+            "text": "Lịch sử Chữ viết tiếng Việt",
+            "href": "/tu-lieu/lich-su-chu-viet-tieng-viet"
+        },
+        {
+            "text": "Hịch tướng sĩ - Dụ chư tỳ tướng hịch văn",
+            "href": "/tu-lieu/tac-pham/hich-tuong-si-du-chu-ty-tuong-hich-van"
+        },
+        {
+            "text": "Danh sách Trạng nguyên Việt Nam",
+            "href": "/tu-lieu/danh-sach-trang-nguyen-viet-nam"
+        },
+        {
+            "text": "Hội nghị Paris, mặt trận ngoại giao năm 1968-1972",
+            "href": "/tu-lieu/bang-giao/hoi-nghi-paris-mat-tran-ngoai-giao-nam-1968-1972"
+        },
+        {
+            "text": "Lý Thái Tổ",
+            "href": "/nhan-vat/ly-thai-to"
+        },
+        {
+            "text": "Lê Thái Tổ",
+            "href": "/nhan-vat/le-thai-to"
+        },
+        {
+            "text": "Hai Bà Trưng",
+            "href": "/nhan-vat/hai-ba-trung"
+        },
+        {
+            "text": "Lý Thường Kiệt",
+            "href": "/nhan-vat/ly-thuong-kiet"
+        },
+        {
+            "text": "Lê Đại Hành",
+            "href": "/nhan-vat/le-dai-hanh"
+        },
+        {
+            "text": "Trần Hưng Đạo",
+            "href": "/nhan-vat/tran-hung-dao"
+        },
+        {
+            "text": "Ngô Quyền",
+            "href": "/nhan-vat/ngo-quyen"
+        },
+        {
+            "text": "Lý Nam Đế",
+            "href": "/nhan-vat/ly-nam-de"
+        },
+        {
+            "text": "Hồ Chí Minh",
+            "href": "/nhan-vat/ho-chi-minh"
+        },
+        {
+            "text": "Trần Nhân Tông",
+            "href": "/nhan-vat/tran-nhan-tong"
+        },
+        {
+            "text": "Hùng Vương",
+            "href": "/nhan-vat/hung-vuong"
+        },
+        {
+            "text": "Đinh Tiên Hoàng",
+            "href": "/nhan-vat/dinh-tien-hoang"
+        },
+        {
+            "text": "Nguyễn Huệ",
+            "href": "/nhan-vat/nguyen-hue"
+        },
+        {
+            "text": "Nguyễn Trãi",
+            "href": "/nhan-vat/nguyen-trai"
+        },
+        {
+            "text": "Đinh Tiên Hoàng",
+            "href": "/nhan-vat/dinh-tien-hoang"
+        },
+        {
+            "text": "Nguyễn Trãi",
+            "href": "/nhan-vat/nguyen-trai"
+        },
+        {
+            "text": "Lý Nam Đế",
+            "href": "/nhan-vat/ly-nam-de"
+        },
+        {
+            "text": "Hùng Vương",
+            "href": "/nhan-vat/hung-vuong"
+        },
+        {
+            "text": "Ngô Quyền",
+            "href": "/nhan-vat/ngo-quyen"
+        },
+        {
+            "text": "Hồ Chí Minh",
+            "href": "/nhan-vat/ho-chi-minh"
+        },
+        {
+            "text": "Lý Thái Tổ",
+            "href": "/nhan-vat/ly-thai-to"
+        },
+        {
+            "text": "Hai Bà Trưng",
+            "href": "/nhan-vat/hai-ba-trung"
+        },
+        {
+            "text": "Lê Đại Hành",
+            "href": "/nhan-vat/le-dai-hanh"
+        },
+        {
+            "text": "Trần Hưng Đạo",
+            "href": "/nhan-vat/tran-hung-dao"
+        },
+        {
+            "text": "Vấn đề biên giới Việt-Trung thời Mạc",
+            "href": "/tu-lieu/bang-giao/van-de-bien-gioi-viet-trung-thoi-mac"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Tây Sơn",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-tay-son"
+        },
+        {
+            "text": "Biểu đồ các nhân vật lịch sử theo dòng thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Danh sách Trạng nguyên Việt Nam",
+            "href": "/tu-lieu/danh-sach-trang-nguyen-viet-nam"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Nguyễn",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-nguyen"
+        },
+        {
+            "text": "Trận Điện Biên Phủ trên không năm 1972",
+            "href": "/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972"
+        },
+        {
+            "text": "Trận Ngọc Hồi - Đống Đa năm 1789",
+            "href": "/tu-lieu/quan-su/tran-ngoc-hoi-dong-da-nam-1789"
+        },
+        {
+            "text": "Trận Cẩm Sa năm 1775",
+            "href": "/tu-lieu/quan-su/tran-cam-sa-nam-1775"
+        },
+        {
+            "text": "Trận Rạch Gầm \u2013 Xoài Mút năm 1785",
+            "href": "/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785"
+        },
+        {
+            "text": "Lãnh thổ Việt Nam qua từng thời kỳ",
+            "href": "/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky"
+        },
+        {
+            "text": "Dinh Độc Lập",
+            "href": "/dia-danh/dinh-doc-lap"
+        },
+        {
+            "text": "Đền Trần (Thái Bình)",
+            "href": "/dia-danh/den-tran-thai-binh"
+        },
+        {
+            "text": "Khu lưu niệm Chủ tịch Tôn Đức Thắng",
+            "href": "/dia-danh/khu-luu-niem-chu-tich-ton-duc-thang"
+        },
+        {
+            "text": "Quần thể di tích danh thắng Yên Tử",
+            "href": "/dia-danh/quan-the-di-tich-danh-thang-yen-tu"
+        },
+        {
+            "text": "Khu di tích Pác Bó",
+            "href": "/dia-danh/khu-di-tich-pac-bo"
+        },
+        {
+            "text": "Khu di tích Chủ tịch Hồ Chí Minh tại Phủ Chủ tịch",
+            "href": "/dia-danh/khu-di-tich-chu-tich-ho-chi-minh-tai-phu-chu-tich"
+        },
+        {
+            "text": "chùa Phổ Minh",
+            "href": "/dia-danh/chua-pho-minh"
+        },
+        {
+            "text": "Thành nhà Hồ",
+            "href": "/dia-danh/thanh-nha-ho"
+        },
+        {
+            "text": "chùa Thầy",
+            "href": "/dia-danh/chua-thay"
+        },
+        {
+            "text": "thành Cổ Loa",
+            "href": "/dia-danh/thanh-co-loa"
+        },
+        {
+            "text": "Giới thiệu",
+            "href": "/gioi-thieu"
+        },
+        {
+            "text": "Quyền riêng tư",
+            "href": "/quyen-rieng-tu"
+        },
+        {
+            "text": "Liên hệ",
+            "href": "/lien-he"
+        },
+        {
+            "text": "Địa Danh",
+            "href": "/dia-danh"
+        },
+        {
+            "text": "Trang Facebook",
+            "href": "https://www.facebook.com/nguoikesu/"
+        },
+        {
+            "text": "DanhMucBDS.com",
+            "href": "https://danhmucbds.com"
+        },
+        {
+            "text": "HocTotNguVan.com",
+            "href": "https://hoctotnguvan.com"
+        }
+    ],
+    "title": "Triệu Minh Vương - Người Kể Sử",
+    "paragraphs": [
+        "Triệu Minh Vương (趙明王), húy Triệu Anh Tề (趙嬰齊) là vị vua thứ ba nhà Triệu nước Nam Việt, ở ngôi từ năm 125 TCN đến 113 TCN.",
+        "",
+        "",
+        "Triệu Anh Tề là con trưởng của Triệu Văn Đế.",
+        "Sau khi giúp Văn Đế đánh bại quân Mân Việt, vua nhà Hán sai Trang Trợ sang Nam Việt dụ Văn Vương (tức Triệu Văn Đế) vào chầu, nhưng đình thần xin vua đừng đi, bèn cho thái tử Anh Tề đi thay.",
+        "Anh Tề làm lính túc vệ ở kinh thành Trường An nhà Hán. Ông yêu và lấy người con gái họ Cù ở Hàm Đan.",
+        "Anh Tề ở đất Hán 10 năm. Đến năm 125 TCN, vua cha là Triệu Văn Đế mất, Anh Tề được về nước để nối ngôi, tức là vua Triệu Minh Vương.",
+        "Khi lên ngôi, ông bèn cất giấu ấn của Tiên đế (tức Triệu Vũ Đế), bỏ tiếm hiệu (không xưng Đế nữa)1 và lập Cù thị làm Vương hậu và trọng dụng Lữ Gia, thăng làm chức Thái phó. Sau đó ông sinh được con trai là Triệu Hưng và lập làm thế tử. Ngoài Cù thị và Triệu Hưng, ông còn có một bà vợ người Việt, sinh con là Triệu Kiến Đức và một người con khác là Thứ Công (次公). Cả Kiến Đức và Thứ Công đều lớn tuổi hơn Triệu Hưng.",
+        "Hán Vũ Đế mấy lần sai sứ giả sang dụ ông vào chầu. Triệu Minh Vương sợ vào yết kiến phải theo pháp độ nhà Hán ngang với các chư hầu ở trong triều, nên cố ý cáo ốm không đi và sai con là Thứ Công vào làm con tin.",
+        "Năm 113 TCN hoặc 115 TCN [cần dẫn nguồn], Triệu Minh Vương qua đời, ở ngôi tất cả 12 năm. Thế tử Triệu Hưng lên ngôi, tức là Triệu Ai Vương.",
+        "(Nguồn: Wikipedia)"
+    ]
+}

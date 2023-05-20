@@ -1,0 +1,777 @@
+{
+    "tables": ["<table class=\"infobox vcard\">\n <tbody>\n  <tr>\n   <th colspan=\"2\" class=\"fn\">Trần Đức Anh Sơn<\/th>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Sinh<\/th>\n   <td>16 tháng 9, 1967<br>\n    Huế, Việt Nam Cộng hòa<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Bút danh<\/th>\n   <td class=\"nickname\"><i>Người Nước Huệ<\/i>, <i>Quởng Nôm Quấc Nhân<\/i>, <i>Đà Thành Tử<\/i>, <i>Anh Son Tran Duc<\/i>, <i>TDAS<\/i><\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Công việc<\/th>\n   <td class=\"role\">Nghiên cứu gia, văn sĩ, blogger<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Dân tộc<\/th>\n   <td>Kinh<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Quốc tịch<\/th>\n   <td><img class=\"jch-lazyload\" alt=\"Cộng hòa xã hội chủ nghĩa Việt Nam\" src=\"/images/wiki/tran-duc-anh-son/f015bbd8d34e4f28933ca79adf565f31.png\" decoding=\"async\" width=\"22\" height=\"15\" srcset=\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMiIgaGVpZ2h0PSIxNSI+PC9zdmc+\" data-srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/33px-Flag_of_Vietnam.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/44px-Flag_of_Vietnam.svg.png 2x\" data-file-width=\"900\" data-file-height=\"600\">\n    <noscript>\n     <img alt=\"Cộng hòa xã hội chủ nghĩa Việt Nam\" src=\"/images/wiki/tran-duc-anh-son/f015bbd8d34e4f28933ca79adf565f31.png\" decoding=\"async\" width=\"22\" height=\"15\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/33px-Flag_of_Vietnam.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/44px-Flag_of_Vietnam.svg.png 2x\" data-file-width=\"900\" data-file-height=\"600\">\n    <\/noscript>Việt Nam<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Học vấn<\/th>\n   <td>Cao học<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Bằng cấp<\/th>\n   <td>Tiến sĩ sử học<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Thể loại<\/th>\n   <td class=\"category\">Khoa học xã hội<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Tác phẩm nổi bật<\/th>\n   <td><i>Kiểu Huế<\/i><\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Giải thưởng nổi bật<\/th>\n   <td>Giải thưởng Sử học Phạm Thận Duật<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Con cái<\/th>\n   <td>2<\/td>\n  <\/tr>\n <\/tbody>\n<\/table>"],
+    "keywords": [],
+    "headings": [
+        "Nhân Vật Lịch Sử",
+        "Trần Đức Anh Sơn",
+        "Lịch sử",
+        "Nghi án tiết lộ bí mật quốc gia",
+        "Nghi án đạo văn",
+        "Vụ khiển trách ngôn luận",
+        "Khai trừ khỏi Đảng",
+        "Tác phẩm",
+        "Tạp ký",
+        "Ấn bản",
+        "Vinh danh",
+        "Tham khảo",
+        "Bài viết cùng thư mục",
+        "CÁC THỜI KỲ LỊCH SỬ",
+        "Tư Liệu",
+        "Anh Hùng Dân Tộc Tiêu Biểu",
+        "Anh Hùng Dân Tộc Tiêu Biểu",
+        "Tư Liệu Lịch Sử",
+        "Di Tích Lịch Sử"
+    ],
+    "anchors": [
+        {
+            "text": "",
+            "href": "/"
+        },
+        {
+            "text": "Trang Chủ",
+            "href": "/"
+        },
+        {
+            "text": "Dòng Lịch Sử",
+            "href": "/dong-lich-su"
+        },
+        {
+            "text": "Hồng Bàng & Văn Lang",
+            "href": "/dong-lich-su/hong-bang-va-van-lang"
+        },
+        {
+            "text": "Âu Lạc & Nam Việt",
+            "href": "/dong-lich-su/au-lac-va-nam-viet"
+        },
+        {
+            "text": "Bắc thuộc lần I",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat"
+        },
+        {
+            "text": "Trưng Nữ Vương",
+            "href": "/dong-lich-su/trung-nu-vuong"
+        },
+        {
+            "text": "Bắc thuộc lần II",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-hai"
+        },
+        {
+            "text": "Nhà Lý & Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu"
+        },
+        {
+            "text": "Bắc thuộc lần III",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-ba"
+        },
+        {
+            "text": "Thời kỳ xây nền tự chủ",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu"
+        },
+        {
+            "text": "Nhà Ngô",
+            "href": "/dong-lich-su/nha-ngo"
+        },
+        {
+            "text": "Nhà Đinh",
+            "href": "/dong-lich-su/nha-dinh"
+        },
+        {
+            "text": "Nhà Tiền Lê",
+            "href": "/dong-lich-su/nha-tien-le"
+        },
+        {
+            "text": "Nhà Lý",
+            "href": "/dong-lich-su/nha-ly"
+        },
+        {
+            "text": "Nhà Trần",
+            "href": "/dong-lich-su/nha-tran"
+        },
+        {
+            "text": "Nhà Hồ",
+            "href": "/dong-lich-su/nha-ho"
+        },
+        {
+            "text": "Nhà Hậu Trần",
+            "href": "/dong-lich-su/nha-hau-tran"
+        },
+        {
+            "text": "Bắc thuộc lần IV",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-tu"
+        },
+        {
+            "text": "Nhà Hậu Lê",
+            "href": "/dong-lich-su/nha-hau-le"
+        },
+        {
+            "text": "Nam Bắc Triều",
+            "href": "/dong-lich-su/nam-bac-trieu"
+        },
+        {
+            "text": "Trịnh Nguyễn Phân Tranh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh"
+        },
+        {
+            "text": "Nhà Tây Sơn",
+            "href": "/dong-lich-su/nha-tay-son"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/nha-nguyen"
+        },
+        {
+            "text": "Pháp Thuộc",
+            "href": "/dong-lich-su/phap-thuoc"
+        },
+        {
+            "text": "Việt Nam Dân Chủ Cộng Hoà",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Cộng hoà xã hội chủ nghĩa Việt Nam",
+            "href": "/dong-lich-su/viet-nam-xhcn"
+        },
+        {
+            "text": "Tư Liệu",
+            "href": "/tu-lieu"
+        },
+        {
+            "text": "Quân Sự",
+            "href": "/tu-lieu/quan-su?filter_tag[0]="
+        },
+        {
+            "text": "Tác Phẩm",
+            "href": "/tu-lieu/tac-pham?filter_tag[0]="
+        },
+        {
+            "text": "Bang Giao",
+            "href": "/tu-lieu/bang-giao"
+        },
+        {
+            "text": "Biểu đồ thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Nhân Vật",
+            "href": "/nhan-vat"
+        },
+        {
+            "text": "Anh Hùng Dân Tộc",
+            "href": "/anh-hung-dan-toc?types[0]=1"
+        },
+        {
+            "text": "Danh nhân văn hóa",
+            "href": "/danh-nhan-van-hoa?types[0]=1"
+        },
+        {
+            "text": "Di Tích",
+            "href": "/di-tich-lich-su?types[0]=1"
+        },
+        {
+            "text": "Ngày Nay",
+            "href": "/thoi-su"
+        },
+        {
+            "text": "Sách",
+            "href": "/sach"
+        },
+        {
+            "text": "Video",
+            "href": "/video"
+        },
+        {
+            "text": "Q&A",
+            "href": "/hoi-dap"
+        },
+        {
+            "text": "Lịch sử lớp 12",
+            "href": "/hoi-dap/lop-12"
+        },
+        {
+            "text": "Lịch sử lớp 11",
+            "href": "/hoi-dap/lop-11"
+        },
+        {
+            "text": "Lịch sử lớp 10",
+            "href": "/hoi-dap/lop-10"
+        },
+        {
+            "text": "Lịch sử lớp 9",
+            "href": "/hoi-dap/lop-9"
+        },
+        {
+            "text": "Lịch sử lớp 8",
+            "href": "/hoi-dap/lop-8"
+        },
+        {
+            "text": "Lịch sử lớp 7",
+            "href": "/hoi-dap/lop-7"
+        },
+        {
+            "text": "Lịch sử lớp 6",
+            "href": "/hoi-dap/lop-6"
+        },
+        {
+            "text": "Trang chủ",
+            "href": "/"
+        },
+        {
+            "text": "Nhân Vật",
+            "href": "/nhan-vat"
+        },
+        {
+            "text": "Nhân Vật Lịch Sử",
+            "href": "/nhan-vat"
+        },
+        {
+            "text": "Thu / Mở",
+            "href": "#"
+        },
+        {
+            "text": "Lịch sử",
+            "href": "#lich-su"
+        },
+        {
+            "text": "Nghi án tiết lộ bí mật quốc gia",
+            "href": "#nghi-an-tiet-lo-bi-mat-quoc-gia"
+        },
+        {
+            "text": "Nghi án đạo văn",
+            "href": "#nghi-an-dao-van"
+        },
+        {
+            "text": "Vụ khiển trách ngôn luận",
+            "href": "#vu-khien-trach-ngon-luan"
+        },
+        {
+            "text": "Khai trừ khỏi Đảng",
+            "href": "#khai-tru-khoi-dang"
+        },
+        {
+            "text": "Tác phẩm",
+            "href": "#tac-pham"
+        },
+        {
+            "text": "Tạp ký",
+            "href": "#tap-ky"
+        },
+        {
+            "text": "Ấn bản",
+            "href": "#an-ban"
+        },
+        {
+            "text": "Vinh danh",
+            "href": "#vinh-danh"
+        },
+        {
+            "text": "Tham khảo",
+            "href": "#tham-khao"
+        },
+        {
+            "text": "Bài viết trước: Trần Đông Phong Trước",
+            "href": "/nhan-vat/tran-dong-phong"
+        },
+        {
+            "text": "Bài viết kế tiếp: Trần Đức Lương Tiếp tục",
+            "href": "/nhan-vat/tran-duc-luong"
+        },
+        {
+            "text": "Kinh Dương Vương",
+            "href": "/nhan-vat/kinh-duong-vuong"
+        },
+        {
+            "text": "Lạc Long Quân",
+            "href": "/nhan-vat/lac-long-quan"
+        },
+        {
+            "text": "nhà Chu",
+            "href": "/nhan-vat/nha-chu"
+        },
+        {
+            "text": "Ngô Sĩ Liên",
+            "href": "/nhan-vat/ngo-si-lien"
+        },
+        {
+            "text": "Lý Thái Tổ",
+            "href": "/nhan-vat/ly-thai-to"
+        },
+        {
+            "text": "nhà Thương",
+            "href": "/nhan-vat/nha-thuong"
+        },
+        {
+            "text": "nhà Đường",
+            "href": "/nhan-vat/nha-duong"
+        },
+        {
+            "text": "Triệu Việt Vương",
+            "href": "/nhan-vat/trieu-viet-vuong"
+        },
+        {
+            "text": "nhà Tần",
+            "href": "/nhan-vat/nha-tan"
+        },
+        {
+            "text": "Triệu Đà",
+            "href": "/nhan-vat/trieu-da"
+        },
+        {
+            "text": "Hồng Bàng & Văn Lang",
+            "href": "/dong-lich-su/hong-bang-va-van-lang"
+        },
+        {
+            "text": "Âu Lạc & Nam Việt",
+            "href": "/dong-lich-su/au-lac-va-nam-viet"
+        },
+        {
+            "text": "Bắc thuộc lần I",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat"
+        },
+        {
+            "text": "Nhà Triệu",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat/nha-trieu"
+        },
+        {
+            "text": "Trưng Nữ Vương",
+            "href": "/dong-lich-su/trung-nu-vuong"
+        },
+        {
+            "text": "Bắc thuộc lần II",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-hai"
+        },
+        {
+            "text": "Nhà Lý & Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu"
+        },
+        {
+            "text": "Nhà Tiền Lý",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-tien-ly"
+        },
+        {
+            "text": "Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-trieu"
+        },
+        {
+            "text": "Nhà Hậu Lý",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-hau-ly"
+        },
+        {
+            "text": "Bắc thuộc lần III",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-ba"
+        },
+        {
+            "text": "Thời kỳ xây nền tự chủ",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu"
+        },
+        {
+            "text": "Họ Khúc",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu/ho-khuc"
+        },
+        {
+            "text": "Nhà Ngô",
+            "href": "/dong-lich-su/nha-ngo"
+        },
+        {
+            "text": "Nhà Đinh",
+            "href": "/dong-lich-su/nha-dinh"
+        },
+        {
+            "text": "Nhà Tiền Lê",
+            "href": "/dong-lich-su/nha-tien-le"
+        },
+        {
+            "text": "Nhà Lý",
+            "href": "/dong-lich-su/nha-ly"
+        },
+        {
+            "text": "Nhà Trần",
+            "href": "/dong-lich-su/nha-tran"
+        },
+        {
+            "text": "Nhà Hồ",
+            "href": "/dong-lich-su/nha-ho"
+        },
+        {
+            "text": "Nhà Hậu Trần",
+            "href": "/dong-lich-su/nha-hau-tran"
+        },
+        {
+            "text": "Bắc thuộc lần IV",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-tu"
+        },
+        {
+            "text": "Nhà Hậu Lê",
+            "href": "/dong-lich-su/nha-hau-le"
+        },
+        {
+            "text": "Nam Bắc Triều",
+            "href": "/dong-lich-su/nam-bac-trieu"
+        },
+        {
+            "text": "Nhà Lê Trung Hưng",
+            "href": "/dong-lich-su/nam-bac-trieu/nha-le-trung-hung"
+        },
+        {
+            "text": "Nhà Mạc",
+            "href": "/dong-lich-su/nam-bac-trieu/nha-mac"
+        },
+        {
+            "text": "Trịnh Nguyễn Phân Tranh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh"
+        },
+        {
+            "text": "Nhà Lê Trung Hưng",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/nha-le-trung-hung"
+        },
+        {
+            "text": "Chúa Trịnh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-trinh"
+        },
+        {
+            "text": "Chúa Nguyễn",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen"
+        },
+        {
+            "text": "Nhà Tây Sơn",
+            "href": "/dong-lich-su/nha-tay-son"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/nha-nguyen"
+        },
+        {
+            "text": "Pháp Thuộc",
+            "href": "/dong-lich-su/phap-thuoc"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/phap-thuoc/nha-nguyen"
+        },
+        {
+            "text": "Những cuộc khởi nghĩa chống thực dân Pháp",
+            "href": "/dong-lich-su/phap-thuoc/khoi-nghia-chong-phap"
+        },
+        {
+            "text": "Đảng Cộng Sản Việt Nam",
+            "href": "/dong-lich-su/phap-thuoc/dang-cong-san-viet-nam"
+        },
+        {
+            "text": "Việt Nam Dân Chủ Cộng Hoà",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Kháng chiến chống Pháp",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-phap"
+        },
+        {
+            "text": "Kháng chiến chống Mĩ",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-mi"
+        },
+        {
+            "text": "Cộng hoà xã hội chủ nghĩa Việt Nam",
+            "href": "/dong-lich-su/viet-nam-xhcn"
+        },
+        {
+            "text": "Trận Điện Biên Phủ trên không năm 1972",
+            "href": "/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972"
+        },
+        {
+            "text": "Chiến tranh biên giới Tây Nam năm 1975 - 1978",
+            "href": "/tu-lieu/quan-su/chien-tranh-bien-gioi-tay-nam-nam-1975-1978"
+        },
+        {
+            "text": "Chiến dịch Mùa Xuân năm 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-mua-xuan-nam-1975"
+        },
+        {
+            "text": "Hải chiến Trường Sa năm 1988",
+            "href": "/tu-lieu/quan-su/hai-chien-truong-sa-nam-1988"
+        },
+        {
+            "text": "Chiến dịch Đường 14 - Phước Long năm 1974 - 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-duong-14-phuoc-long-nam-1974-1975"
+        },
+        {
+            "text": "Chiến dịch Tây Nguyên năm 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-tay-nguyen-nam-1975"
+        },
+        {
+            "text": "Trận Mậu Thân tại Huế năm 1968",
+            "href": "/tu-lieu/quan-su/tran-mau-than-tai-hue-nam-1968"
+        },
+        {
+            "text": "Bảng đối chiếu các triều đại Việt Nam và các triều đại Trung Quốc",
+            "href": "/tu-lieu/bang-doi-chieu-cac-trieu-dai-viet-nam-va-cac-trieu-dai-trung-quoc"
+        },
+        {
+            "text": "Bình Ngô đại cáo - bản tuyên ngôn độc lập thứ hai",
+            "href": "/tu-lieu/tac-pham/binh-ngo-dai-cao-ban-tuyen-ngon-doc-lap-thu-hai"
+        },
+        {
+            "text": "Lãnh thổ Việt Nam qua từng thời kỳ",
+            "href": "/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky"
+        },
+        {
+            "text": "Trận Đồi Thịt Băm năm 1969",
+            "href": "/tu-lieu/quan-su/tran-doi-thit-bam-nam-1969"
+        },
+        {
+            "text": "Chiến dịch Đắk Tô năm 1972",
+            "href": "/tu-lieu/quan-su/chien-dich-dak-to-nam-1972"
+        },
+        {
+            "text": "Nam quốc sơn hà - Bản tuyên ngôn độc lập đầu tiên",
+            "href": "/tu-lieu/tac-pham/nam-quoc-son-ha-ban-tuyen-ngon-doc-lap-dau-tien"
+        },
+        {
+            "text": "Tuyên ngôn độc lập Việt Nam Dân chủ Cộng hòa",
+            "href": "/tu-lieu/tac-pham/tuyen-ngon-doc-lap-viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Trận Bản Đông năm 1971",
+            "href": "/tu-lieu/quan-su/tran-ban-dong-nam-1971"
+        },
+        {
+            "text": "Trận Rạch Gầm \u2013 Xoài Mút năm 1785",
+            "href": "/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785"
+        },
+        {
+            "text": "Lịch sử Chữ viết tiếng Việt",
+            "href": "/tu-lieu/lich-su-chu-viet-tieng-viet"
+        },
+        {
+            "text": "Hịch tướng sĩ - Dụ chư tỳ tướng hịch văn",
+            "href": "/tu-lieu/tac-pham/hich-tuong-si-du-chu-ty-tuong-hich-van"
+        },
+        {
+            "text": "Danh sách Trạng nguyên Việt Nam",
+            "href": "/tu-lieu/danh-sach-trang-nguyen-viet-nam"
+        },
+        {
+            "text": "Hội nghị Paris, mặt trận ngoại giao năm 1968-1972",
+            "href": "/tu-lieu/bang-giao/hoi-nghi-paris-mat-tran-ngoai-giao-nam-1968-1972"
+        },
+        {
+            "text": "Lý Nam Đế",
+            "href": "/nhan-vat/ly-nam-de"
+        },
+        {
+            "text": "Trần Nhân Tông",
+            "href": "/nhan-vat/tran-nhan-tong"
+        },
+        {
+            "text": "Lý Thường Kiệt",
+            "href": "/nhan-vat/ly-thuong-kiet"
+        },
+        {
+            "text": "Hùng Vương",
+            "href": "/nhan-vat/hung-vuong"
+        },
+        {
+            "text": "Hồ Chí Minh",
+            "href": "/nhan-vat/ho-chi-minh"
+        },
+        {
+            "text": "Nguyễn Trãi",
+            "href": "/nhan-vat/nguyen-trai"
+        },
+        {
+            "text": "Lê Thái Tổ",
+            "href": "/nhan-vat/le-thai-to"
+        },
+        {
+            "text": "Ngô Quyền",
+            "href": "/nhan-vat/ngo-quyen"
+        },
+        {
+            "text": "Lý Thái Tổ",
+            "href": "/nhan-vat/ly-thai-to"
+        },
+        {
+            "text": "Hai Bà Trưng",
+            "href": "/nhan-vat/hai-ba-trung"
+        },
+        {
+            "text": "Nguyễn Huệ",
+            "href": "/nhan-vat/nguyen-hue"
+        },
+        {
+            "text": "Đinh Tiên Hoàng",
+            "href": "/nhan-vat/dinh-tien-hoang"
+        },
+        {
+            "text": "Trần Hưng Đạo",
+            "href": "/nhan-vat/tran-hung-dao"
+        },
+        {
+            "text": "Lê Đại Hành",
+            "href": "/nhan-vat/le-dai-hanh"
+        },
+        {
+            "text": "Lê Thái Tổ",
+            "href": "/nhan-vat/le-thai-to"
+        },
+        {
+            "text": "Lý Thường Kiệt",
+            "href": "/nhan-vat/ly-thuong-kiet"
+        },
+        {
+            "text": "Ngô Quyền",
+            "href": "/nhan-vat/ngo-quyen"
+        },
+        {
+            "text": "Lý Thái Tổ",
+            "href": "/nhan-vat/ly-thai-to"
+        },
+        {
+            "text": "Đinh Tiên Hoàng",
+            "href": "/nhan-vat/dinh-tien-hoang"
+        },
+        {
+            "text": "Hai Bà Trưng",
+            "href": "/nhan-vat/hai-ba-trung"
+        },
+        {
+            "text": "Hồ Chí Minh",
+            "href": "/nhan-vat/ho-chi-minh"
+        },
+        {
+            "text": "Lý Nam Đế",
+            "href": "/nhan-vat/ly-nam-de"
+        },
+        {
+            "text": "Trần Nhân Tông",
+            "href": "/nhan-vat/tran-nhan-tong"
+        },
+        {
+            "text": "Lê Đại Hành",
+            "href": "/nhan-vat/le-dai-hanh"
+        },
+        {
+            "text": "Vấn đề biên giới Việt-Trung thời Mạc",
+            "href": "/tu-lieu/bang-giao/van-de-bien-gioi-viet-trung-thoi-mac"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Tây Sơn",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-tay-son"
+        },
+        {
+            "text": "Biểu đồ các nhân vật lịch sử theo dòng thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Danh sách Trạng nguyên Việt Nam",
+            "href": "/tu-lieu/danh-sach-trang-nguyen-viet-nam"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Nguyễn",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-nguyen"
+        },
+        {
+            "text": "Trận Điện Biên Phủ trên không năm 1972",
+            "href": "/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972"
+        },
+        {
+            "text": "Trận Ngọc Hồi - Đống Đa năm 1789",
+            "href": "/tu-lieu/quan-su/tran-ngoc-hoi-dong-da-nam-1789"
+        },
+        {
+            "text": "Trận Cẩm Sa năm 1775",
+            "href": "/tu-lieu/quan-su/tran-cam-sa-nam-1775"
+        },
+        {
+            "text": "Trận Rạch Gầm \u2013 Xoài Mút năm 1785",
+            "href": "/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785"
+        },
+        {
+            "text": "Lãnh thổ Việt Nam qua từng thời kỳ",
+            "href": "/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky"
+        },
+        {
+            "text": "Khu di tích Pác Bó",
+            "href": "/dia-danh/khu-di-tich-pac-bo"
+        },
+        {
+            "text": "Văn Miếu - Quốc Tử Giám",
+            "href": "/dia-danh/van-mieu-quoc-tu-giam"
+        },
+        {
+            "text": "Đền Ngọc Sơn",
+            "href": "/dia-danh/den-ngoc-son"
+        },
+        {
+            "text": "Chiến khu Tân Trào",
+            "href": "/dia-danh/chien-khu-tan-trao"
+        },
+        {
+            "text": "Đền Phù Đổng",
+            "href": "/dia-danh/den-phu-dong"
+        },
+        {
+            "text": "Dinh Độc Lập",
+            "href": "/dia-danh/dinh-doc-lap"
+        },
+        {
+            "text": "Đền Hùng",
+            "href": "/dia-danh/den-hung"
+        },
+        {
+            "text": "Quần thể di tích Cố đô Huế",
+            "href": "/dia-danh/quan-the-di-tich-co-do-hue"
+        },
+        {
+            "text": "chùa Phổ Minh",
+            "href": "/dia-danh/chua-pho-minh"
+        },
+        {
+            "text": "Khu di tích Chủ tịch Hồ Chí Minh tại Phủ Chủ tịch",
+            "href": "/dia-danh/khu-di-tich-chu-tich-ho-chi-minh-tai-phu-chu-tich"
+        },
+        {
+            "text": "Giới thiệu",
+            "href": "/gioi-thieu"
+        },
+        {
+            "text": "Quyền riêng tư",
+            "href": "/quyen-rieng-tu"
+        },
+        {
+            "text": "Liên hệ",
+            "href": "/lien-he"
+        },
+        {
+            "text": "Địa Danh",
+            "href": "/dia-danh"
+        },
+        {
+            "text": "Trang Facebook",
+            "href": "https://www.facebook.com/nguoikesu/"
+        },
+        {
+            "text": "DanhMucBDS.com",
+            "href": "https://danhmucbds.com"
+        },
+        {
+            "text": "HocTotNguVan.com",
+            "href": "https://hoctotnguvan.com"
+        }
+    ],
+    "title": "Trần Đức Anh Sơn - Người Kể Sử",
+    "paragraphs": [
+        "Trần Đức Anh Sơn (sinh ngày 16 tháng 9 năm 1967 tại Huế) là một nghiên cứu gia khoa học xã hội Việt Nam.",
+        "Trần Đức Anh Sơn được nhiều người biết đến với công trình nghiên cứu của ông về Biển Đông và chủ quyền của Việt Nam ở khu vực này. Ông được New York Times mệnh danh là \"Người săn bản đồ\" trong một phỏng vấn năm 2017.[1]",
+        "Tháng 9 năm 2019, ông bị khai trừ Đảng do đăng bài trên Facebook mà chính quyền Việt Nam cáo buộc là sai sự thật nghiêm trọng, không đúng với quan điểm của Đảng, tạo ra dư luận tiêu cực trong cán bộ Đảng viên và nhân dân.",
+        "Ông Trần Đức Anh Sơn sinh ngày 16 tháng 9 năm 1967 tại huyện Phong Điền, tỉnh Thừa Thiên, Miền Trung Việt Nam. Ông là độc đinh trong gia đình có đàng ngoại thuộc hoàng phái (tôn nữ).",
+        "Sau khi tốt nghiệp cử nhân Lịch sử chuyên ngành Dân tộc học trường Đại học Tổng hợp Huế năm 1989, ông được giữ lại trường làm giảng viên một thời gian. Năm 2002, ông tốt nghiệp bằng tiến sĩ Lịch sử chuyên ngành Khảo cổ học trường Đại học Khoa học Xã hội & Nhân văn Quốc gia - Hà Nội. Sau đó, ông du học Nhật Bản và lại đạt bằng tiến sĩ sử học; khi sắp du học, ông đã kinh qua các cương vị: Giám đốc Bảo tàng Mĩ thuật Cung đình Huế, trưởng khoa Việt Nam học trường Đại học Phan Châu Trinh, viện phó Viện Nghiên cứu Phát triển Kinh tế - Xã hội Đà Nẵng (từ 2009)[2], cơ quan tham mưu các vấn đề chính sách văn hóa cho chính quyền Đà Nẵng.",
+        "Ông được dư luận biết nhiều vì mối quan tâm của mình tới chủ quyền biển đảo Việt Nam thông qua việc sưu tầm cổ văn hoặc dư đồ ngoại quốc thể hiện rằng hai quần đảo Hoàng Sa - Trường Sa không những chưa từng thuộc lãnh hải Trung Quốc mà các triều đại An Nam đã nhiều lần phái người tới quản sóc. Năm 2015, ông đã trải qua 10 tháng làm nghiên cứu sinh tại Đại học Yale mà trọng tâm là các tư liệu liên đới An Nam trung đại và chủ quyền lĩnh hải của các chính thể từng tồn tại trên đất Việt Nam ngày nay[3].",
+        "Ngoài ra, ông cũng xuất bản khá nhiều tài liệu khảo cứu gốm sứ cung đình Nguyễn cùng vài khía cạnh văn hóa của người cố đô. Trong các bài biên khảo về phong hóa xứ Quảng Nam hoặc mối quan hệ Quảng Nam - Nhật Bản, ông thường đề danh \"Quởng Nôm Quấc Nhân\", đôi khi chú thêm \"Đà thành, Quởng Nôm quấc\".",
+        "Trên Facebook cá nhân có gần 18.000 người theo dõi, ông Anh Sơn cũng thường xuyên chia sẻ các bài viết bày tỏ chính kiến quanh các vấn đề chính trị xã hội của đất nước.[1]",
+        "Năm 2002, chừng 4 tháng sau khi công bố luận văn tiến sĩ Đồ sứ Việt Nam ký kiểu tại Trung Hoa từ 1804 đến 1924 hiện tàng trữ tại Bảo tàng Mỹ thuật Cung đình Huế, ông Trần Đức Anh Sơn bị nhiều người tố cáo \"tiết lộ bí mật quốc gia\" (lời ông Sơn). Ủy ban Nhân dân tỉnh Thừa Thiên gửi công văn yêu cầu giám đốc Trung tâm Bảo tồn Di tích Cố đô Huế khuyến nghị ông giải trình sự việc trong vòng 3 ngày. Tuy nhiên, sang năm 2003, luận án được trao hạng nhì (không có hạng nhất) Giải thưởng Sử học Phạm Thận Duật tại di tích Văn Miếu (Hà Nội); sự kiện này khiến mọi nghi vấn tiêu tan.",
+        "Năm 2015, một nhóm người đề danh \"các nhà nghiên cứu trẻ hiện công tác tại Viện Nghiên cứu Hán Nôm\" thông qua các tiến sĩ Hán Nôm Nguyễn Tô Lan và Nguyễn Xuân Diện đã nêu những bằng cớ rằng ông Trần Đức Anh Sơn đạo văn với việc đem in sách Tư liệu về chủ quyền của Việt Nam đối với quần đảo Hoàng Sa (Nhà xuất bản Văn Hóa - Văn Nghệ ấn hành năm 2014) mà chép cả lỗi sai từ bản dịch của các tác giả Viện Nghiên cứu Hán Nôm từng công bố trước đó. Đáp lại, ông ngỏ lời cảm ơn bà Nguyễn Tô Lan qua facebook[4].",
+        "Ngày 29 tháng 1 năm 2018, Ủy ban Kiểm tra Thành ủy Đà Nẵng đã họp thi hành kỷ luật đối với ông Trần Đức Anh Sơn vì \"viết và đăng tin bài trên mạng xã hội có nội dung sai sự thật, bịa đặt, không đúng với quan điểm của Đảng, pháp luật của Nhà nước\" (lời ông Sơn) với hình thức \"cảnh cáo\". Sau sự kiện này, ông tạm khóa trang facebook riêng 3 tháng[5].",
+        "Trên Facebook cá nhân, ông Anh Sơn đã đăng tải bài viết 'Đôi lời muốn nói' sau khi nhận quyết định kỷ luật. Trong bài viết này, ông Sơn không nói rõ bị kỷ luật vì những bài viết cụ thể nào nhưng cho hay \"nhận được yêu cầu giải trình\" về những gì ông \"viết trên Facebook trong ba năm qua\", từ \"giữa tháng 11/2017\".[6]",
+        "Ngày 5 tháng 3 năm 2019, Thành ủy Đà Nẵng quyết định khai trừ Đảng đối với ông Trần Đức Anh Sơn, với lý do: ông Sơn đã viết, đăng tin, bài sai sự thật, không đúng với quan điểm của Đảng, chính sách, pháp luật của Nhà nước trên mạng xã hội, vi phạm Điều 3, 4, Quy định số 47 của Ban chấp hành trung ương khóa XI về những điều đảng viên không được làm; vi phạm Quy định 5946 của Ban Thường vụ Thành ủy Đà Nẵng về trách nhiệm nêu gương của cán bộ, đảng viên, nhất là cán bộ lãnh đạo chủ chốt, người đứng đầu các cấp.[7][8]",
+        "Trả lời bạn bè trên Facebook, ông Sơn coi đây là \"giây phút hạnh phúc\".[1]",
+        "(Nguồn: Wikipedia)"
+    ]
+}

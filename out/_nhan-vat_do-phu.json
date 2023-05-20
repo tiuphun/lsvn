@@ -1,0 +1,898 @@
+{
+    "tables": [
+        "<table cellpadding=\"3px\" cellspacing=\"0px\" bgcolor=\"#F7F8FF\" class=\" table table-striped\">\n <tbody>\n  <tr>\n   <th colspan=\"2\">Đỗ Phủ<\/th>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" align=\"center\"><img class=\"jch-lazyload\" alt=\"Đỗ Phủ\" src=\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxIiBoZWlnaHQ9IjEiPjwvc3ZnPg==\" data-src=\"/images/wiki/do-phu/dede514b70069606de44e3536371f923.jpg\">\n    <noscript>\n     <img alt=\"Đỗ Phủ\" src=\"/images/wiki/do-phu/dede514b70069606de44e3536371f923.jpg\">\n    <\/noscript><\/td>\n  <\/tr>\n  <tr>\n   <td align=\"right\">Tiếng Trung:<\/td>\n   <td>杜甫<\/td>\n  <\/tr>\n  <tr>\n   <td align=\"right\">Bính âm:<\/td>\n   <td><b>Du Fu<\/b> hay <b>Tu Fu<\/b><\/td>\n  <\/tr>\n  <tr>\n   <td align=\"right\">Kana:<\/td>\n   <td>と ほ<\/td>\n  <\/tr>\n  <tr>\n   <td align=\"right\">Tự:<\/td>\n   <td>Tử Mỹ (子美)<\/td>\n  <\/tr>\n  <tr>\n   <td align=\"right\">Hiệu:<\/td>\n   <td>Thiếu Lăng dã lão (少陵野老)<br>\n     Đỗ Lăng dã khách (杜陵野客)<br>\n     Đỗ Lăng bố y (杜陵布衣)<\/td>\n  <\/tr>\n <\/tbody>\n<\/table>",
+        "<table class=\"cquote table table-striped\" role=\"presentation\">\n <tbody>\n  <tr>\n   <td>\u201c<\/td>\n   <td><i><b>Nhân sinh Thất thập cổ lai hy<\/b><\/i>. (Nghĩa là Người ngoài 70 xưa nay hiếm)<\/td>\n   <td>\u201d<\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"3\" class=\"cquotecite\">\n    <div>\n     <cite>\u2014\u2009<b>Đỗ Phủ<\/b><\/cite>\n    <\/div><\/td>\n  <\/tr>\n <\/tbody>\n<\/table>"
+    ],
+    "keywords": [],
+    "headings": [
+        "Nhân Vật Lịch Sử",
+        "Đỗ Phủ",
+        "Cuộc đời",
+        "Những năm đầu tiên",
+        "Chiến tranh",
+        "Thành Đô",
+        "Những năm sau này",
+        "Tư tưởng và tác phẩm",
+        "Lịch sử",
+        "Đạo đức",
+        "Kỹ thuật",
+        "Ảnh hưởng",
+        "Trích dẫn tiêu biểu",
+        "Xem thêm",
+        "Tham khảo",
+        "Bài viết cùng thư mục",
+        "CÁC THỜI KỲ LỊCH SỬ",
+        "Tư Liệu",
+        "Anh Hùng Dân Tộc Tiêu Biểu",
+        "Anh Hùng Dân Tộc Tiêu Biểu",
+        "Tư Liệu Lịch Sử",
+        "Di Tích Lịch Sử"
+    ],
+    "anchors": [
+        {
+            "text": "",
+            "href": "/"
+        },
+        {
+            "text": "Trang Chủ",
+            "href": "/"
+        },
+        {
+            "text": "Dòng Lịch Sử",
+            "href": "/dong-lich-su"
+        },
+        {
+            "text": "Hồng Bàng & Văn Lang",
+            "href": "/dong-lich-su/hong-bang-va-van-lang"
+        },
+        {
+            "text": "Âu Lạc & Nam Việt",
+            "href": "/dong-lich-su/au-lac-va-nam-viet"
+        },
+        {
+            "text": "Bắc thuộc lần I",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat"
+        },
+        {
+            "text": "Trưng Nữ Vương",
+            "href": "/dong-lich-su/trung-nu-vuong"
+        },
+        {
+            "text": "Bắc thuộc lần II",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-hai"
+        },
+        {
+            "text": "Nhà Lý & Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu"
+        },
+        {
+            "text": "Bắc thuộc lần III",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-ba"
+        },
+        {
+            "text": "Thời kỳ xây nền tự chủ",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu"
+        },
+        {
+            "text": "Nhà Ngô",
+            "href": "/dong-lich-su/nha-ngo"
+        },
+        {
+            "text": "Nhà Đinh",
+            "href": "/dong-lich-su/nha-dinh"
+        },
+        {
+            "text": "Nhà Tiền Lê",
+            "href": "/dong-lich-su/nha-tien-le"
+        },
+        {
+            "text": "Nhà Lý",
+            "href": "/dong-lich-su/nha-ly"
+        },
+        {
+            "text": "Nhà Trần",
+            "href": "/dong-lich-su/nha-tran"
+        },
+        {
+            "text": "Nhà Hồ",
+            "href": "/dong-lich-su/nha-ho"
+        },
+        {
+            "text": "Nhà Hậu Trần",
+            "href": "/dong-lich-su/nha-hau-tran"
+        },
+        {
+            "text": "Bắc thuộc lần IV",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-tu"
+        },
+        {
+            "text": "Nhà Hậu Lê",
+            "href": "/dong-lich-su/nha-hau-le"
+        },
+        {
+            "text": "Nam Bắc Triều",
+            "href": "/dong-lich-su/nam-bac-trieu"
+        },
+        {
+            "text": "Trịnh Nguyễn Phân Tranh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh"
+        },
+        {
+            "text": "Nhà Tây Sơn",
+            "href": "/dong-lich-su/nha-tay-son"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/nha-nguyen"
+        },
+        {
+            "text": "Pháp Thuộc",
+            "href": "/dong-lich-su/phap-thuoc"
+        },
+        {
+            "text": "Việt Nam Dân Chủ Cộng Hoà",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Cộng hoà xã hội chủ nghĩa Việt Nam",
+            "href": "/dong-lich-su/viet-nam-xhcn"
+        },
+        {
+            "text": "Tư Liệu",
+            "href": "/tu-lieu"
+        },
+        {
+            "text": "Quân Sự",
+            "href": "/tu-lieu/quan-su?filter_tag[0]="
+        },
+        {
+            "text": "Tác Phẩm",
+            "href": "/tu-lieu/tac-pham?filter_tag[0]="
+        },
+        {
+            "text": "Bang Giao",
+            "href": "/tu-lieu/bang-giao"
+        },
+        {
+            "text": "Biểu đồ thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Nhân Vật",
+            "href": "/nhan-vat"
+        },
+        {
+            "text": "Anh Hùng Dân Tộc",
+            "href": "/anh-hung-dan-toc?types[0]=1"
+        },
+        {
+            "text": "Danh nhân văn hóa",
+            "href": "/danh-nhan-van-hoa?types[0]=1"
+        },
+        {
+            "text": "Di Tích",
+            "href": "/di-tich-lich-su?types[0]=1"
+        },
+        {
+            "text": "Ngày Nay",
+            "href": "/thoi-su"
+        },
+        {
+            "text": "Sách",
+            "href": "/sach"
+        },
+        {
+            "text": "Video",
+            "href": "/video"
+        },
+        {
+            "text": "Q&A",
+            "href": "/hoi-dap"
+        },
+        {
+            "text": "Lịch sử lớp 12",
+            "href": "/hoi-dap/lop-12"
+        },
+        {
+            "text": "Lịch sử lớp 11",
+            "href": "/hoi-dap/lop-11"
+        },
+        {
+            "text": "Lịch sử lớp 10",
+            "href": "/hoi-dap/lop-10"
+        },
+        {
+            "text": "Lịch sử lớp 9",
+            "href": "/hoi-dap/lop-9"
+        },
+        {
+            "text": "Lịch sử lớp 8",
+            "href": "/hoi-dap/lop-8"
+        },
+        {
+            "text": "Lịch sử lớp 7",
+            "href": "/hoi-dap/lop-7"
+        },
+        {
+            "text": "Lịch sử lớp 6",
+            "href": "/hoi-dap/lop-6"
+        },
+        {
+            "text": "Trang chủ",
+            "href": "/"
+        },
+        {
+            "text": "Nhân Vật",
+            "href": "/nhan-vat"
+        },
+        {
+            "text": "Nhân Vật Lịch Sử",
+            "href": "/nhan-vat"
+        },
+        {
+            "text": "Thu / Mở",
+            "href": "#"
+        },
+        {
+            "text": "Cuộc đời",
+            "href": "#cuoc-doi"
+        },
+        {
+            "text": "Những năm đầu tiên",
+            "href": "#nhung-nam-dau-tien"
+        },
+        {
+            "text": "Chiến tranh",
+            "href": "#chien-tranh"
+        },
+        {
+            "text": "Thành Đô",
+            "href": "#thanh-do"
+        },
+        {
+            "text": "Những năm sau này",
+            "href": "#nhung-nam-sau-nay"
+        },
+        {
+            "text": "Tư tưởng và tác phẩm",
+            "href": "#tu-tuong-va-tac-pham"
+        },
+        {
+            "text": "Lịch sử",
+            "href": "#lich-su"
+        },
+        {
+            "text": "Đạo đức",
+            "href": "#dao-duc"
+        },
+        {
+            "text": "Kỹ thuật",
+            "href": "#ky-thuat"
+        },
+        {
+            "text": "Ảnh hưởng",
+            "href": "#anh-huong"
+        },
+        {
+            "text": "Trích dẫn tiêu biểu",
+            "href": "#trich-dan-tieu-bieu"
+        },
+        {
+            "text": "Xem thêm",
+            "href": "#xem-them"
+        },
+        {
+            "text": "Tham khảo",
+            "href": "#tham-khao"
+        },
+        {
+            "text": "nhà Đường",
+            "href": "/nhan-vat/nha-duong"
+        },
+        {
+            "text": "Lý Bạch",
+            "href": "/nhan-vat/ly-bach"
+        },
+        {
+            "text": "Lý Bạch",
+            "href": "/nhan-vat/ly-bach"
+        },
+        {
+            "text": "Đỗ Mục",
+            "href": "/nhan-vat/do-muc"
+        },
+        {
+            "text": "Lý Bạch",
+            "href": "/nhan-vat/ly-bach"
+        },
+        {
+            "text": "nhà Thanh",
+            "href": "/nhan-vat/nha-thanh"
+        },
+        {
+            "text": "Đỗ Mục",
+            "href": "/nhan-vat/do-muc"
+        },
+        {
+            "text": "tỉnh Hà Nam",
+            "href": "/dia-danh/tinh-ha-nam"
+        },
+        {
+            "text": "Lý Bạch",
+            "href": "/nhan-vat/ly-bach"
+        },
+        {
+            "text": "Lý Bạch",
+            "href": "/nhan-vat/ly-bach"
+        },
+        {
+            "text": "Thành Đô",
+            "href": "/dia-danh/thanh-do"
+        },
+        {
+            "text": "Thành Đô",
+            "href": "/dia-danh/thanh-do"
+        },
+        {
+            "text": "Thành Đô",
+            "href": "/dia-danh/thanh-do"
+        },
+        {
+            "text": "sông Dương Tử",
+            "href": "/dia-danh/song-duong-tu"
+        },
+        {
+            "text": "tỉnh Hồ Nam",
+            "href": "/dia-danh/tinh-ho-nam"
+        },
+        {
+            "text": "nhà Tống",
+            "href": "/nhan-vat/nha-tong"
+        },
+        {
+            "text": "Thành Đô",
+            "href": "/dia-danh/thanh-do"
+        },
+        {
+            "text": "Lý Bạch",
+            "href": "/nhan-vat/ly-bach"
+        },
+        {
+            "text": "Lý Bạch",
+            "href": "/nhan-vat/ly-bach"
+        },
+        {
+            "text": "nhà Đường",
+            "href": "/nhan-vat/nha-duong"
+        },
+        {
+            "text": "Lý Bạch",
+            "href": "/nhan-vat/ly-bach"
+        },
+        {
+            "text": "Bài viết trước: Đỗ Pháp Thuận Trước",
+            "href": "/nhan-vat/do-phap-thuan"
+        },
+        {
+            "text": "Bài viết kế tiếp: Đỗ Thanh Nhân Tiếp tục",
+            "href": "/nhan-vat/do-thanh-nhan"
+        },
+        {
+            "text": "Kinh Dương Vương",
+            "href": "/nhan-vat/kinh-duong-vuong"
+        },
+        {
+            "text": "Lạc Long Quân",
+            "href": "/nhan-vat/lac-long-quan"
+        },
+        {
+            "text": "nhà Chu",
+            "href": "/nhan-vat/nha-chu"
+        },
+        {
+            "text": "Ngô Sĩ Liên",
+            "href": "/nhan-vat/ngo-si-lien"
+        },
+        {
+            "text": "Lý Thái Tổ",
+            "href": "/nhan-vat/ly-thai-to"
+        },
+        {
+            "text": "nhà Thương",
+            "href": "/nhan-vat/nha-thuong"
+        },
+        {
+            "text": "nhà Đường",
+            "href": "/nhan-vat/nha-duong"
+        },
+        {
+            "text": "Triệu Việt Vương",
+            "href": "/nhan-vat/trieu-viet-vuong"
+        },
+        {
+            "text": "nhà Tần",
+            "href": "/nhan-vat/nha-tan"
+        },
+        {
+            "text": "Triệu Đà",
+            "href": "/nhan-vat/trieu-da"
+        },
+        {
+            "text": "Hồng Bàng & Văn Lang",
+            "href": "/dong-lich-su/hong-bang-va-van-lang"
+        },
+        {
+            "text": "Âu Lạc & Nam Việt",
+            "href": "/dong-lich-su/au-lac-va-nam-viet"
+        },
+        {
+            "text": "Bắc thuộc lần I",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat"
+        },
+        {
+            "text": "Nhà Triệu",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat/nha-trieu"
+        },
+        {
+            "text": "Trưng Nữ Vương",
+            "href": "/dong-lich-su/trung-nu-vuong"
+        },
+        {
+            "text": "Bắc thuộc lần II",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-hai"
+        },
+        {
+            "text": "Nhà Lý & Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu"
+        },
+        {
+            "text": "Nhà Tiền Lý",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-tien-ly"
+        },
+        {
+            "text": "Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-trieu"
+        },
+        {
+            "text": "Nhà Hậu Lý",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-hau-ly"
+        },
+        {
+            "text": "Bắc thuộc lần III",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-ba"
+        },
+        {
+            "text": "Thời kỳ xây nền tự chủ",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu"
+        },
+        {
+            "text": "Họ Khúc",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu/ho-khuc"
+        },
+        {
+            "text": "Nhà Ngô",
+            "href": "/dong-lich-su/nha-ngo"
+        },
+        {
+            "text": "Nhà Đinh",
+            "href": "/dong-lich-su/nha-dinh"
+        },
+        {
+            "text": "Nhà Tiền Lê",
+            "href": "/dong-lich-su/nha-tien-le"
+        },
+        {
+            "text": "Nhà Lý",
+            "href": "/dong-lich-su/nha-ly"
+        },
+        {
+            "text": "Nhà Trần",
+            "href": "/dong-lich-su/nha-tran"
+        },
+        {
+            "text": "Nhà Hồ",
+            "href": "/dong-lich-su/nha-ho"
+        },
+        {
+            "text": "Nhà Hậu Trần",
+            "href": "/dong-lich-su/nha-hau-tran"
+        },
+        {
+            "text": "Bắc thuộc lần IV",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-tu"
+        },
+        {
+            "text": "Nhà Hậu Lê",
+            "href": "/dong-lich-su/nha-hau-le"
+        },
+        {
+            "text": "Nam Bắc Triều",
+            "href": "/dong-lich-su/nam-bac-trieu"
+        },
+        {
+            "text": "Nhà Lê Trung Hưng",
+            "href": "/dong-lich-su/nam-bac-trieu/nha-le-trung-hung"
+        },
+        {
+            "text": "Nhà Mạc",
+            "href": "/dong-lich-su/nam-bac-trieu/nha-mac"
+        },
+        {
+            "text": "Trịnh Nguyễn Phân Tranh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh"
+        },
+        {
+            "text": "Nhà Lê Trung Hưng",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/nha-le-trung-hung"
+        },
+        {
+            "text": "Chúa Trịnh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-trinh"
+        },
+        {
+            "text": "Chúa Nguyễn",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen"
+        },
+        {
+            "text": "Nhà Tây Sơn",
+            "href": "/dong-lich-su/nha-tay-son"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/nha-nguyen"
+        },
+        {
+            "text": "Pháp Thuộc",
+            "href": "/dong-lich-su/phap-thuoc"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/phap-thuoc/nha-nguyen"
+        },
+        {
+            "text": "Những cuộc khởi nghĩa chống thực dân Pháp",
+            "href": "/dong-lich-su/phap-thuoc/khoi-nghia-chong-phap"
+        },
+        {
+            "text": "Đảng Cộng Sản Việt Nam",
+            "href": "/dong-lich-su/phap-thuoc/dang-cong-san-viet-nam"
+        },
+        {
+            "text": "Việt Nam Dân Chủ Cộng Hoà",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Kháng chiến chống Pháp",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-phap"
+        },
+        {
+            "text": "Kháng chiến chống Mĩ",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-mi"
+        },
+        {
+            "text": "Cộng hoà xã hội chủ nghĩa Việt Nam",
+            "href": "/dong-lich-su/viet-nam-xhcn"
+        },
+        {
+            "text": "Trận Điện Biên Phủ trên không năm 1972",
+            "href": "/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972"
+        },
+        {
+            "text": "Chiến tranh biên giới Tây Nam năm 1975 - 1978",
+            "href": "/tu-lieu/quan-su/chien-tranh-bien-gioi-tay-nam-nam-1975-1978"
+        },
+        {
+            "text": "Chiến dịch Mùa Xuân năm 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-mua-xuan-nam-1975"
+        },
+        {
+            "text": "Hải chiến Trường Sa năm 1988",
+            "href": "/tu-lieu/quan-su/hai-chien-truong-sa-nam-1988"
+        },
+        {
+            "text": "Chiến dịch Đường 14 - Phước Long năm 1974 - 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-duong-14-phuoc-long-nam-1974-1975"
+        },
+        {
+            "text": "Chiến dịch Tây Nguyên năm 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-tay-nguyen-nam-1975"
+        },
+        {
+            "text": "Trận Mậu Thân tại Huế năm 1968",
+            "href": "/tu-lieu/quan-su/tran-mau-than-tai-hue-nam-1968"
+        },
+        {
+            "text": "Bảng đối chiếu các triều đại Việt Nam và các triều đại Trung Quốc",
+            "href": "/tu-lieu/bang-doi-chieu-cac-trieu-dai-viet-nam-va-cac-trieu-dai-trung-quoc"
+        },
+        {
+            "text": "Bình Ngô đại cáo - bản tuyên ngôn độc lập thứ hai",
+            "href": "/tu-lieu/tac-pham/binh-ngo-dai-cao-ban-tuyen-ngon-doc-lap-thu-hai"
+        },
+        {
+            "text": "Lãnh thổ Việt Nam qua từng thời kỳ",
+            "href": "/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky"
+        },
+        {
+            "text": "Trận Đồi Thịt Băm năm 1969",
+            "href": "/tu-lieu/quan-su/tran-doi-thit-bam-nam-1969"
+        },
+        {
+            "text": "Chiến dịch Đắk Tô năm 1972",
+            "href": "/tu-lieu/quan-su/chien-dich-dak-to-nam-1972"
+        },
+        {
+            "text": "Nam quốc sơn hà - Bản tuyên ngôn độc lập đầu tiên",
+            "href": "/tu-lieu/tac-pham/nam-quoc-son-ha-ban-tuyen-ngon-doc-lap-dau-tien"
+        },
+        {
+            "text": "Tuyên ngôn độc lập Việt Nam Dân chủ Cộng hòa",
+            "href": "/tu-lieu/tac-pham/tuyen-ngon-doc-lap-viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Trận Bản Đông năm 1971",
+            "href": "/tu-lieu/quan-su/tran-ban-dong-nam-1971"
+        },
+        {
+            "text": "Trận Rạch Gầm \u2013 Xoài Mút năm 1785",
+            "href": "/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785"
+        },
+        {
+            "text": "Lịch sử Chữ viết tiếng Việt",
+            "href": "/tu-lieu/lich-su-chu-viet-tieng-viet"
+        },
+        {
+            "text": "Hịch tướng sĩ - Dụ chư tỳ tướng hịch văn",
+            "href": "/tu-lieu/tac-pham/hich-tuong-si-du-chu-ty-tuong-hich-van"
+        },
+        {
+            "text": "Danh sách Trạng nguyên Việt Nam",
+            "href": "/tu-lieu/danh-sach-trang-nguyen-viet-nam"
+        },
+        {
+            "text": "Hội nghị Paris, mặt trận ngoại giao năm 1968-1972",
+            "href": "/tu-lieu/bang-giao/hoi-nghi-paris-mat-tran-ngoai-giao-nam-1968-1972"
+        },
+        {
+            "text": "Nguyễn Huệ",
+            "href": "/nhan-vat/nguyen-hue"
+        },
+        {
+            "text": "Lý Nam Đế",
+            "href": "/nhan-vat/ly-nam-de"
+        },
+        {
+            "text": "Nguyễn Trãi",
+            "href": "/nhan-vat/nguyen-trai"
+        },
+        {
+            "text": "Ngô Quyền",
+            "href": "/nhan-vat/ngo-quyen"
+        },
+        {
+            "text": "Lý Thường Kiệt",
+            "href": "/nhan-vat/ly-thuong-kiet"
+        },
+        {
+            "text": "Trần Hưng Đạo",
+            "href": "/nhan-vat/tran-hung-dao"
+        },
+        {
+            "text": "Đinh Tiên Hoàng",
+            "href": "/nhan-vat/dinh-tien-hoang"
+        },
+        {
+            "text": "Hùng Vương",
+            "href": "/nhan-vat/hung-vuong"
+        },
+        {
+            "text": "Lê Thái Tổ",
+            "href": "/nhan-vat/le-thai-to"
+        },
+        {
+            "text": "Trần Nhân Tông",
+            "href": "/nhan-vat/tran-nhan-tong"
+        },
+        {
+            "text": "Lê Đại Hành",
+            "href": "/nhan-vat/le-dai-hanh"
+        },
+        {
+            "text": "Hai Bà Trưng",
+            "href": "/nhan-vat/hai-ba-trung"
+        },
+        {
+            "text": "Hồ Chí Minh",
+            "href": "/nhan-vat/ho-chi-minh"
+        },
+        {
+            "text": "Lý Thái Tổ",
+            "href": "/nhan-vat/ly-thai-to"
+        },
+        {
+            "text": "Lê Thái Tổ",
+            "href": "/nhan-vat/le-thai-to"
+        },
+        {
+            "text": "Ngô Quyền",
+            "href": "/nhan-vat/ngo-quyen"
+        },
+        {
+            "text": "Nguyễn Trãi",
+            "href": "/nhan-vat/nguyen-trai"
+        },
+        {
+            "text": "Trần Nhân Tông",
+            "href": "/nhan-vat/tran-nhan-tong"
+        },
+        {
+            "text": "Đinh Tiên Hoàng",
+            "href": "/nhan-vat/dinh-tien-hoang"
+        },
+        {
+            "text": "Nguyễn Huệ",
+            "href": "/nhan-vat/nguyen-hue"
+        },
+        {
+            "text": "Hai Bà Trưng",
+            "href": "/nhan-vat/hai-ba-trung"
+        },
+        {
+            "text": "Hồ Chí Minh",
+            "href": "/nhan-vat/ho-chi-minh"
+        },
+        {
+            "text": "Lý Nam Đế",
+            "href": "/nhan-vat/ly-nam-de"
+        },
+        {
+            "text": "Hùng Vương",
+            "href": "/nhan-vat/hung-vuong"
+        },
+        {
+            "text": "Vấn đề biên giới Việt-Trung thời Mạc",
+            "href": "/tu-lieu/bang-giao/van-de-bien-gioi-viet-trung-thoi-mac"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Tây Sơn",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-tay-son"
+        },
+        {
+            "text": "Biểu đồ các nhân vật lịch sử theo dòng thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Danh sách Trạng nguyên Việt Nam",
+            "href": "/tu-lieu/danh-sach-trang-nguyen-viet-nam"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Nguyễn",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-nguyen"
+        },
+        {
+            "text": "Trận Điện Biên Phủ trên không năm 1972",
+            "href": "/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972"
+        },
+        {
+            "text": "Trận Ngọc Hồi - Đống Đa năm 1789",
+            "href": "/tu-lieu/quan-su/tran-ngoc-hoi-dong-da-nam-1789"
+        },
+        {
+            "text": "Trận Cẩm Sa năm 1775",
+            "href": "/tu-lieu/quan-su/tran-cam-sa-nam-1775"
+        },
+        {
+            "text": "Trận Rạch Gầm \u2013 Xoài Mút năm 1785",
+            "href": "/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785"
+        },
+        {
+            "text": "Lãnh thổ Việt Nam qua từng thời kỳ",
+            "href": "/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky"
+        },
+        {
+            "text": "chùa Phổ Minh",
+            "href": "/dia-danh/chua-pho-minh"
+        },
+        {
+            "text": "Đền Phù Đổng",
+            "href": "/dia-danh/den-phu-dong"
+        },
+        {
+            "text": "Chiến khu Tân Trào",
+            "href": "/dia-danh/chien-khu-tan-trao"
+        },
+        {
+            "text": "thành Cổ Loa",
+            "href": "/dia-danh/thanh-co-loa"
+        },
+        {
+            "text": "Thành cổ Quảng Trị",
+            "href": "/dia-danh/thanh-co-quang-tri"
+        },
+        {
+            "text": "Khu di tích Pác Bó",
+            "href": "/dia-danh/khu-di-tich-pac-bo"
+        },
+        {
+            "text": "Đền Trần (Nam Định)",
+            "href": "/dia-danh/den-tran-nam-dinh"
+        },
+        {
+            "text": "Khu di tích chiến thắng Điện Biên Phủ",
+            "href": "/dia-danh/khu-di-tich-chien-thang-dien-bien-phu"
+        },
+        {
+            "text": "Hồ Hoàn Kiếm",
+            "href": "/dia-danh/ho-hoan-kiem"
+        },
+        {
+            "text": "Quần thể di tích Cố đô Huế",
+            "href": "/dia-danh/quan-the-di-tich-co-do-hue"
+        },
+        {
+            "text": "Giới thiệu",
+            "href": "/gioi-thieu"
+        },
+        {
+            "text": "Quyền riêng tư",
+            "href": "/quyen-rieng-tu"
+        },
+        {
+            "text": "Liên hệ",
+            "href": "/lien-he"
+        },
+        {
+            "text": "Địa Danh",
+            "href": "/dia-danh"
+        },
+        {
+            "text": "Trang Facebook",
+            "href": "https://www.facebook.com/nguoikesu/"
+        },
+        {
+            "text": "DanhMucBDS.com",
+            "href": "https://danhmucbds.com"
+        },
+        {
+            "text": "HocTotNguVan.com",
+            "href": "https://hoctotnguvan.com"
+        }
+    ],
+    "title": "Đỗ Phủ - Người Kể Sử",
+    "paragraphs": [
+        "Đỗ Phủ (chữ Hán: 杜甫; 712 \u2013 770), biểu tự Tử Mỹ (子美), hiệu Thiếu Lăng dã lão (少陵野老), Đỗ Lăng dã khách (杜陵野客) hay Đỗ Lăng bố y (杜陵布衣), là một nhà thơ Trung Quốc nổi bật thời kì nhà Đường. Cùng với Lý Bạch, ông được coi là một trong hai nhà thơ vĩ đại nhất của lịch sử văn học Trung Quốc. Ông tài năng tuyệt vời và đức độ cao thượng nên từng được các nhà phê bình Trung Quốc gọi là Thi Sử (诗史) và Thi Thánh (诗圣).",
+        "Trong suốt cuộc đời của mình, tham vọng lớn nhất của ông là có được một chức quan để giúp đất nước, nhưng ông đã không thể thực hiện được điều này. Cuộc đời ông, giống như cả đất nước, bị điêu đứng vì Loạn An Lộc Sơn năm 755, và 15 năm cuối đời ông là khoảng thời gian hầu như không ngừng biến động. Ông thường cùng Lý Bạch được gọi là Lý Đỗ (李杜). Về sau, có Lý Thương Ẩn cùng Đỗ Mục trứ danh thời Vãn Đường, được gọi là Tiểu Lý Đỗ (小李杜) để phân biệt, vì vậy cặp Lý Bạch-Đỗ Phủ được gọi là Đại Lý Đỗ (大李杜). Từ thời nhà Thanh, Đỗ Phủ được gọi là Lão Đỗ (老杜) để phân biệt với Đỗ Mục.",
+        "Mặc dù không nổi tiếng từ đầu, nhưng những tác phẩm của ông gây ảnh hưởng nhiều đến cả văn hóa Trung Quốc và Nhật Bản. Đối với độc giả phương Tây, tầm vóc các tác phẩm của ông sánh ngang với Virgil, Horace, Ovid, Shakespeare, Milton, Burns, Wordsworth, Béranger, Hugo. Đến nay, bài Mao ốc vị thu phong sở phá ca là bài thơ nổi tiếng nhất của ông.",
+        "",
+        "",
+        "Đỗ Phủ sinh năm 712, không biết rõ nơi sinh, chỉ biết đại khái là ở gần Lạc Dương, tỉnh Hà Nam (huyện Củng cũng có thể là nơi sinh của ông). Sau này ông tự coi mình là người kinh đô Trường An. Đỗ Phủ xuất thân trong một gia đình quý tộc, tự cho là dòng dõi vua Nghiêu đã sa sút. Cha ông tên Đỗ Nhàn (杜閒), mẹ là Thôi thị xuất thân từ gia tộc danh giá Thanh Hà Thôi thị (清河崔氏). Mẹ Đỗ Phủ mất sớm sau khi sinh ông, và được người thím nuôi một thời gian. Anh trai ông cũng mất sớm, riêng có ba em trai và một em gái khác mẹ, thường được nhắc đến trong thơ.",
+        "Vì là con trai của một học giả, quan lại bậc thấp, thời trẻ ông được tiếp thu nền giáo dục của Trung Quốc truyền thống để lúc trưởng thành có thể ra làm quan: học thuộc lòng các tác phẩm triết học kinh điển Khổng giáo, lịch sử và thi ca. Sau này ông cho rằng mình đã sáng tác một số bài thơ hay ngay từ khi tuổi còn trẻ, nhưng không lưu giữ lại.",
+        "Đầu những năm 730 ông đi tới vùng Giang Tô, Triết Giang; những bài thơ đầu tiên của ông, miêu tả một cuộc thi thơ, được cho là đã sáng tác ở cuối thời kỳ này, khoảng năm 735.",
+        "Cùng năm ấy ông đi tới Trường An để dự thi nhưng bất ngờ bị đánh hỏng, việc này đã gây ra chỉ trích trong nhiều thế kỷ tiếp sau. Có lẽ ông đã trượt bởi vì cách hành văn thời ấy quá rắc rối và tối nghĩa, nhưng có ý kiến khác lại cho rằng ông trượt vì đã không tìm kiếm được các mối quan hệ ở kinh đô. Sau kì thi này ông tiếp tục đi du lịch quanh vùng Sơn Đông và Hà Bắc.",
+        "Khoảng năm 740, cha của Đỗ Phủ qua đời. Theo cấp bậc của cha, Đỗ Phủ có thể được phép nhận một chức quan dân sự, nhưng ông đã dành ưu đãi này cho một người em khác mẹ. Bốn năm sau đó ông sống ở vùng Lạc Dương, thực hiện các bổn phận gia đình.",
+        "Mùa thu năm 744 ông gặp Lý Bạch lần đầu tiên, và giữa hai nhà thơ đã nảy sinh một tình bạn vong niên: Đỗ Phủ còn trẻ tuổi, trong khi Lý Bạch đã nổi tiếng trên văn đàn. Hai ông đã viết nhiều bài thơ về nhau. Họ chỉ gặp lại nhau một lần nữa năm 745.",
+        "Năm 746 Đỗ Phủ tới kinh đô để tìm kiếm một chức quan. Ông tham gia vào cuộc thi năm sau đó, nhưng tất cả thí sinh đều bị vị tể tướng đánh trượt (để chứng tỏ mình đã sáng suốt sử dụng hết người tài và ngăn chặn sự trỗi dậy của bất kỳ đối thủ tiềm tàng nào). Từ đó ông không bao giờ đi thi nữa, chỉ thỉnh cầu trực tiếp hoàng đế năm 751, 754 và có lẽ cả năm 755.",
+        "Cuối cùng, vào năm 755 ông được chỉ định làm quan coi kho vũ khí. Dù đây chỉ là một chức nhỏ, ít nhất trong thời bình nó cũng là một buớc khởi đầu cho hoạn lộ của ông. Tuy nhiên, trước khi ông có thể nhậm chức, một loạt các sự kiện xảy ra đã khiến nó không bao giờ còn được thực hiện.",
+        "Sự Biến An Lộc Sơn xảy ra vào tháng 12, 755 và chỉ tan rã hoàn toàn sau tám năm. Nó tàn phá xã hội Trung Quốc: năm 754 nước này có 52.9 triệu người, nhưng tới năm 764 chỉ còn lại 16.9 triệu, số còn lại đã bị giết hoặc bị dời đi. Trong thời gian này, Đỗ Phủ trải qua một cuộc sống trôi nổi, không thể định cư lâu dài ở đâu vì chiến tranh, cũng như nạn đói và sự bạc đãi của triều đình. Tuy nhiên, thời gian không hạnh phúc này khiến Đỗ Phủ trở thành một nhà thơ đồng cảm với những đau khổ, bất hạnh của người dân thường. Thực tế xung quanh, cuộc sống của gia đình ông, những người hàng xóm, những người qua đường\u2013 những điều ông nghe thấy và những gì ông hy vọng hay sợ hãi về tương lai\u2013 đã trở thành chủ đề chính trong những sáng tác của ông.",
+        "Năm 756 Huyền Tông buộc phải thoái vị, bỏ kinh đô tháo chạy. Đỗ Phủ, khi ấy đã rời kinh đô, đưa gia đình tới nơi lánh nạn và tìm đường đi theo triều đình mới của Túc Tông, nhưng trên đường đi ông bị quân nổi loạn bắt đưa về Trường An. Vào mùa thu, con trai út của ông ra đời. Mọi người cho rằng trong khoảng thời gian này Đỗ Phủ đã bị bệnh sốt rét.",
+        "Năm sau ông bỏ trốn khỏi Trường An, và được cho giữ chức Tả thập di trong triều đình mới tháng 5 năm 757. Chức vụ này khiến ông có cơ hội gặp gỡ Hoàng đế, nhưng chỉ mang tính nghi lễ. Đỗ Phủ nhanh chóng gặp rắc rối khi ông lợi dụng cơ hội này để dâng thư can gián việc loại bỏ Phòng Quán người bạn và là người bảo trợ của ông chỉ vì một lỗi nhỏ: sau đó tới lượt chính ông bị giam nhưng tới tháng 6 được thả ra. Tháng 9 năm ấy ông được cho phép về gặp gia đình, nhưng nhanh chóng quay lại triều ngày 8 tháng 12, 757. Ông cùng triều đình quay lại Trường An sau khi quân triều đình tái chiếm nó. Tuy nhiên, những lời can gián của ông không hợp với hoàng đế và vào mùa hè năm 758 ông bị giáng cấp làm Tư công tham quân ở Hoa Châu. Chức vụ này làm ông chán ngán: trong một bài thơ, ông đã viết:",
+        "Mùa hè năm 759 ông lại ra đi; lý do của lần này thường được cho là vì nạn đói nhưng cũng có ý cho rằng ông ra đi vì vỡ mộng. Năm sau đó ông sống sáu tuần tại Tần Châu (hiện nay là Thiên Thuỷ, tỉnh Cam Túc), ở đây ông đã sáng tác sáu mươi bài thơ.",
+        "Năm 760 ông tới Thành Đô (tỉnh Tứ Xuyên), nơi ông sẽ sống trong năm năm tiếp theo. Tới mùa thu năm đó ông rơi vào cảnh túng quẫn phải gửi thơ tới những người quen biết để cầu xin giúp đỡ. Ông được Nghiêm Vũ, một người bạn và là đồng môn đang làm tổng trấn ở Thành Đô giúp đỡ. Dù vậy đây vẫn là một trong những giai đoạn thanh bình và hạnh phúc nhất của ông, và nhiều bài thơ sáng tác trong thời kỳ này miêu tả lại cuộc sống thanh bình trong \"thảo đường\" ở đó. Năm 762 ông rời thành phố này để tránh một cuộc bạo loạn, chỉ quay lại vào mùa hè năm 764 và được chỉ định làm Kiểm hiệu công bộ viên ngoại lang, tham gia vào chiến dịch chống lại người Tạng.",
+        "Quân đội triều đình tái chiếm Lạc Dương, nơi sinh Đỗ Phủ, vào mùa đông năm 762, và vào mùa xuân năm 765 Đỗ Phủ cùng gia đình đi thuyền xuôi sông Dương Tử, với ý định quay về Lạc Dương. Chuyến đi rất chậm, vì tình trạng sức khỏe kém của ông (lúc ấy ông mắc thêm bệnh mắt, điếc và nói chung đã ở tuổi già lại thêm những lo lắng phiền não). Họ dừng lại ở Quỳ Châu (hiện nay là Bạch Đế, Trùng Khánh) trong hai năm cho tới tận cuối mùa đông năm 766. Đây là giai đoạn phát triển rực rỡ cuối cùng của thơ Đỗ Phủ, và cũng chính ở đây ông đã sáng tác 437 bài thơ đa phần là thơ luật. Mùa thu năm 766 Bo Maolin trở thành tổng trấn trong vùng: ông giúp đỡ tài chính và trao cho Đỗ Phủ một chức quan thư ký không chính thức.",
+        "Ông lập gia đình từ khoảng năm 752, và tới năm 757 họ đã có năm con (ba trai hai gái) nhưng một cậu con trai ông đã chết khi còn thơ ấu năm 755.",
+        "Từ năm 754 ông bắt đầu bị bệnh phổi (có lẽ là hen suyễn). Tháng 3 năm 768 ông lại bắt đầu chuyến hành trình tới tỉnh Hồ Nam. Ông mất tại Đàm Châu 潭州 (nay là Trường Sa) vào tháng 11 hay tháng 12 năm 770, ở tuổi 59, trên một chiếc thuyền rách nát\u2026 Vợ và hai con trai ông vẫn ở tại đó thêm ít nhất hai năm nữa. Cuối cùng dòng dõi còn được biết của ông là một cháu trai, người đã đề nghị Nguyên Chẩn viết bài minh trên mộ ông vào năm 813.",
+        "Giới phê bình văn học chú trọng tới tính sử, đạo đức và kỹ thuật sáng tác điêu luyện của ông.",
+        "Từ thời nhà Tống thơ Đỗ Phủ đã được gọi là \"thi sử\" (詩史). Vấn đề lịch sử được đề cập trực tiếp trong thơ ông là sự bình luận các sách lược quân sự, các thắng bại của triều đình hay những ý kiến ông muốn đề đạt trực tiếp tới hoàng đế. Một cách gián tiếp, ông viết về ảnh hưởng của thời đại đối với đời sống chính mình cũng như người dân thường Trung Quốc.",
+        "Những phản ánh chính trị của Đỗ Phủ dựa trên cảm xúc chứ không dựa trên tính toán. Ông ước ao mọi người bớt ích kỷ và làm tròn bổn phận của mình. Tuy nhiên, do người ta không thể không đồng ý với các quan điểm của ông nên các sự thật được biểu đạt đầy sức thuyết phục trong thơ ông đã khiến ông trở thành một nhân vật trung tâm trong thi sử Trung Quốc.",
+        "Một danh hiệu thứ hai mà các nhà phê bình Trung Quốc đặt cho Đỗ Phủ là \"thi thánh\" (詩聖), ngang hàng với Khổng Tử, vị thánh về triết học. Trong một bài thơ ở thời kỳ đầu tiên của ông, Binh xa hành(兵車行) (khoảng năm 750), đã nói lên nỗi thống khổ của một người bị bắt đi lính trong quân đội triều đình, thậm chí trước khi xảy ra loạn An Lộc Sơn; bài thơ này nói lên sự xung đột giữa việc chấp nhận và hoàn thành nghĩa vụ, và sự ý thức rõ ràng về những đau khổ có thể nảy sinh. Chủ đề này liên tiếp được nhấn mạnh trong những bài thơ về cuộc đời của dân chúng và binh sĩ mà Đỗ Phủ sáng tác trong cả cuộc đời mình.",
+        "Tuy việc Đỗ Phủ hay nhắc đến sự thống khổ của riêng mình có thể đem lại một ấn tượng về chủ nghĩa duy ngã. Nhưng thực tế hình ảnh ông trong đó luôn được quan sát dưới góc độ khách quan và hầu như chỉ được đưa ra sau chót để tự cảm thán. Vì thế, ông khiến bức tranh xã hội trong thơ mang tính khái quát cao hơn khi so sánh nó với một cá nhân tầm thường là chính mình.",
+        "Tình thương của Đỗ Phủ đối với chính mình và với người khác chỉ là một phần trong các chủ đề của thơ ông: ông còn sáng tác nhiều bài về những chủ đề mà trước đó bị coi là không thích hợp để thể hiện trong thơ. Zhang Jie đã viết rằng đối với Đỗ Phủ, \"mọi thứ trên thế giới này đều là thơ\" (Chou p. 67), các chủ đề trong thơ ông rất bao quát, như cuộc sống hàng ngày, thư họa, hội họa, thú vật và các chủ đề khác.",
+        "Trước tác của Đỗ Phủ đặc biệt nổi tiếng nhất vì tầm vóc của nó. Các nhà phê bình Trung Quốc thường dùng từ Tập đại thành 集大成, theo lời ca ngợi của Mạnh Tử dành cho Khổng Tử. Yuan Zhen là người đầu tiên lưu ý tới mức độ to lớn của các tác phẩm của Đỗ Phủ, năm 813 ông đã viết, (Đỗ Phủ) \"đã thống nhất trong tác phẩm của mình những nét tiêu biểu mà người trước mới chỉ đề cập riêng lẻ\". Ông là nhà thơ tài nghệ trong mọi phong cách thơ Trung Quốc. Ở bất cứ hình thức nào ông đều mang lại những tiến bộ vượt bậc hay đóng góp những ví dụ mẫu mực. Hơn nữa, thơ ông có phạm vi sử dụng từ vựng rộng lớn, từ cách nói trực tiếp và thông tục cho đến cách nói bóng và ngôn ngữ văn chương. Nội dung chính trong thơ đã thay đổi khi ông phát triển phong cách của mình để thích hợp với hoàn cảnh xung quanh. Những bài thơ đầu tiên theo phong cách trang nhã nhưng về sau này khi trải qua những cơ cực của chiến tranh thơ ông đã trở lại với phong cách đích thực của mình. Những bài thơ sáng tác trong giai đoạn ở Tần Châu đơn giản đến tàn nhẫn, phản ánh quang cảnh hoang tàn. Những bài thơ giai đoạn ở Thành Đô nhẹ nhàng và đẹp đẽ, trong khi ở cuối giai đoạn Quỳ Châu đậm chi tiết và có tính dự báo.",
+        "Dù sáng tác ở mọi thể loại thơ, Đỗ Phủ nổi tiếng nhất ở cận thể thi, một kiểu thơ có nhiều ràng buộc về hình thức và số lượng từ trong câu. Khoảng hai phần ba trong 1.500 tác phẩm hiện còn của ông là ở thể này, và nói chung ông được coi là nhà thơ tiêu biểu cho thể loại này. Những bài thơ đạt nhất của ông trong thể loại dùng phép đối song song để thêm nội dung biểu đạt thay vì chỉ là một quy định kỹ thuật thông thường.",
+        "Sinh thời và ngay sau khi mất, Đỗ Phủ đã không được đánh giá cao, phần vì những đổi mới trong phong cách và hình thức thơ ông. Một số bị coi là quá táo bạo và kỳ cục đối với giới phê bình văn học Trung Quốc. Chỉ một số ít tác giả đương thời có nhắc tới ông và miêu tả ông với tính chất tình cảm cá nhân, chứ không phải như một nhà thơ xuất chúng hay lý tưởng đạo đức. Thơ Đỗ Phủ cũng ít xuất hiện trong những hợp tuyển văn học thời kỳ đó.",
+        "Tuy nhiên, ảnh hưởng của ông đối với thi ca Trung Quốc ngày càng mạnh mẽ, và tới thế kỷ thứ 9 ông đã trở nên rất nổi tiếng. Những lời ngợi ca đầu tiên dành cho Đỗ Phủ là của Bạch Cư Dị, người đã ca ngợi những tình cảm đạo đức trong một số tác phẩm của Đỗ Phủ. Hàn Vũ đã viết bài bênh vực mỹ học trong thơ Đỗ Phủ và Lý Bạch trước những lời chỉ trích nhằm vào họ. Tới đầu thế kỷ thứ 10, Wei Zhuang đã cho dựng lại bản sao đầu tiên ngôi nhà tranh của ông ở Tứ Xuyên.",
+        "Tới thế kỷ 11, trong giai đoạn Bắc Tống, danh tiếng Đỗ Phủ lên tới cực điểm. Trong thời gian này các nhà thơ trước đó đã được đánh giá lại một cách toàn diện, theo đó Vương Duy, Lý Bạch và Đỗ Phủ lần lượt được coi là đại diện cho xu hướng Phật giáo, Đạo giáo và Khổng giáo trong văn hóa Trung Quốc. Cùng lúc ấy, sự phát triển của Tân Khổng giáo đã đặt Đỗ Phủ lên vị trí cao nhất, vì trong cả cuộc đời, ông đã không vì đói nghèo cùng khổ mà quên đi quân vương của mình. Ảnh hưởng của ông càng tăng do khả năng hòa hợp những mặt đối lập: phe bảo thủ chính trị bị thu hút bởi sự trung thành của ông với hệ thống tôn ti trật tự sẵn có, còn phe cải cách nắm lấy mối quan tâm của ông đối với đời sống dân nghèo. Từ khi nước Cộng hòa nhân dân Trung Hoa được thành lập, sự trung thành với quốc gia và những quan tâm của ông tới người nghèo đã được giải thích sự phôi thai của chủ nghĩa dân tộc và chủ nghĩa xã hội, và ông được tán dương vì ông đã sử dụng ngôn ngữ giản dị \"của nhân dân\".",
+        "Sự nổi tiếng của Đỗ Phủ lớn tới mức có thể đo được, như trường hợp của Shakespeare ở Anh. Mỗi nhà thơ Trung Quốc đều khó có thể không bị ảnh hưởng từ ông. Không bao giờ có một Đỗ Phủ thứ hai, các nhà thơ sau này tiếp nối truyền thống trong từng khía cạnh cụ thể của thơ ông. Mối quan tâm của Bạch Cư Dị tới dân nghèo, lòng yêu nước của Lục Du, các phản ánh cuộc sống hàng ngày của Mai Nghiêu Thần là một vài ví dụ.",
+        "(Nguồn: Wikipedia)"
+    ]
+}

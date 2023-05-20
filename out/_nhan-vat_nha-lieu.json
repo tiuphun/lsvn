@@ -1,0 +1,1014 @@
+{
+    "tables": [
+        "<table class=\"infobox bordered\" cellpadding=\"4\">\n <tbody>\n  <tr>\n   <th colspan=\"bgcolor=&quot;#FFCCAA&quot;\">Đại Liêu<\/th>\n  <\/tr>\n  <tr>\n   <td>Thủ đô<\/td>\n   <td>Thượng Kinh Lâm Hoàng phủ<\/td>\n  <\/tr>\n  <tr>\n   <td>Quân chủ<br>\n     -Q/c khai quốc<br>\n     -Q/c diệt vong<\/td>\n   <td>9 vị<br>\n     Gia Luật A Bảo Cơ<br>\n     Da Luật Diên Hi<\/td>\n  <\/tr>\n  <tr>\n   <td><b>Thành lập<\/b><\/td>\n   <td>916<br>\n     Gia Luật A Bảo Cơ kiến quốc Khiết Đan<\/td>\n  <\/tr>\n  <tr>\n   <td><b>Diệt vong<\/b><\/td>\n   <td>1125<br>\n     Thiên Tộ bị binh Kim bắt<\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"3\" align=\"center\"><img class=\"jch-lazyload\" alt=\"Cương vực triều Liêu\" src=\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxIiBoZWlnaHQ9IjEiPjwvc3ZnPg==\" data-src=\"/images/wiki/nha-lieu/ec3292d9755fc29add54682e9fd8c808.png\">\n    <noscript>\n     <img alt=\"Cương vực triều Liêu\" src=\"/images/wiki/nha-lieu/ec3292d9755fc29add54682e9fd8c808.png\">\n    <\/noscript><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"3\" align=\"center\"><font size=\"+1\" color=\"#FF00FF\">■<\/font> Cương vực triều Liêu năm 1111.<\/td>\n  <\/tr>\n <\/tbody>\n<\/table>",
+        "<table cellspacing=\"0\" cellpadding=\"0\" border=\"0\">\n <tbody>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">Chấp chính Đông Đan Quốc<\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">Chấp chính Bắc Liêu<\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">Da Luật Niết Lý<\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">Da Luật Bì Điệp<\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">Da Luật Hài Lĩnh<\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">Liêu Túc Tổ<br>\n     Da Luật Nậu Lý Tư<\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">Liêu Ý Tổ<br>\n     Da Luật Tát Lạt Đức<\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">Liêu Huyền Tổ<br>\n     Da Luật Quân Đức Thật<\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">Liêu Đức Tổ<br>\n     Da Luật Tát Lạt Đích<\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n   <td rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\"><b>Liêu Thái Tổ<\/b><br>\n     Da Luật A Bảo Cơ<br>\n     872-<b>916-926<\/b><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">Minh vương<br>\n     Da Luật An Đoan<br>\n     ?-947-952<\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td><\/td>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"6\" rowspan=\"2\">Liêu Nghĩa Tông<br>\n     Da Luật Bội<br>\n     899-926-930-937<\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">Nhân hoàng vương phi Tiêu thị<br>\n     ?-930-940<\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\"><b>Liêu Thái Tông<\/b><br>\n     Da Luật Đức Quang<br>\n     902-<b>927-947<\/b><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">Liêu Chương Túc Đế<br>\n     Da Luật Lý Hồ<br>\n     911-960<\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">□<\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"6\" rowspan=\"2\"><b>Liêu Thế Tông<\/b><br>\n     Da Luật Nguyễn<br>\n     918-940-<b>947-951<\/b><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\"><b>Liêu Mục Tông<\/b><br>\n     Da Luật Cảnh<br>\n     931-<b>951-969<\/b><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">□<\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"6\" rowspan=\"2\"><b>Liêu Cảnh Tông<\/b><br>\n     Da Luật Hiền<br>\n     948-<b>969-982<\/b><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">□<\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"6\" rowspan=\"2\"><b>Liêu Thánh Tông<\/b><br>\n     Da Luật Long Tự<br>\n     971-<b>982-1031<\/b><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">□<\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"6\" rowspan=\"2\"><b>Liêu Hưng Tông<\/b><br>\n     Da Luật Tông Chân<br>\n     1016-<b>1031-1055<\/b><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">Liêu Tự Nguyên Đế<\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"6\" rowspan=\"2\"><b>Liêu Đạo Tông<\/b><br>\n     Da Luật Hồng Cơ<br>\n     1032-<b>1055-1101<\/b><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">Nhân Thánh hoàng thái thúc<br>\n     Da Luật Hòa Lỗ Oát<br>\n     ?-1110<\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">□<\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">□<\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"6\" rowspan=\"2\">Liêu Thuận Tông<br>\n     Da Luật Tuấn<br>\n     1057-1077<\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\"><b>Bắc Liêu Tuyên Tông<\/b><br>\n     Da Luật Thuần<br>\n     1062-<b>1122<\/b><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">Bắc Liêu Đức phi<br>\n     Tiêu Thổ Hiền Nữ<br>\n     ?-1122<\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">Da Luật Truật Liệt<br>\n     ?-<b>1123<\/b><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\"><b>Tây Liêu Đức Tông<\/b><br>\n     Da Luật Đại Thạch<br>\n     1087-1132-<b>1134-1143<\/b><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">Tây Liêu Cảm Thiên Hậu<br>\n     Tiêu Tháp Bất Yên<br>\n     ?-1143-1150<\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"6\" rowspan=\"2\"><b>Liêu Thiên Tộ Đế<\/b><br>\n     Da Luật Diên Hi<br>\n     1075-<b>1101-1125<\/b>-1128<\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\"><b>Tây Liêu Nhân Tông<\/b><br>\n     Da Luật Di Liệt<br>\n     ?-<b>1150-1163<\/b><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">Tây Liêu Thừa Thiên Hậu<br>\n     Da Luật Phổ Tốc Hoàn<br>\n     ?-1163-1178<\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"6\" rowspan=\"2\">Da Luật Nhã Lý<br>\n     1094-<b>1123<\/b><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\"><b>Tây Liêu Mạt Đế<\/b><br>\n     Da Luật Trực Lỗ Cổ<br>\n     ?-<b>1178-1211<\/b>-1213<\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n <\/tbody>\n<\/table>",
+        "<table class=\"wikitable table table-striped\">\n <tbody>\n  <tr>\n   <th colspan=\"7\">Khiết Đan và Liêu 916－1125<\/th>\n  <\/tr>\n  <tr>\n   <th>Miếu hiệu<\/th>\n   <th>Thụy hiệu<\/th>\n   <th>Tên Hán<\/th>\n   <th>Tên Khiết Đan<\/th>\n   <th>Danh xưng thường dùng<\/th>\n   <th>Thời gian tại vị<\/th>\n   <th>Niên hiệu<\/th>\n  <\/tr>\n  <tr>\n   <td>Thái Tổ<br>\n     太祖<\/td>\n   <td>Đại Thánh Đại Minh Thần Liệt Thiên hoàng đế<br>\n     大聖大明神烈天皇帝<\/td>\n   <td>Ức<br>\n     億<\/td>\n   <td>A Bảo Cơ<br>\n     阿保機<\/td>\n   <td>Gia Luật A Bảo Cơ<br>\n     耶律阿保機<\/td>\n   <td>27 tháng 2, 907－6 tháng 9, 926<\/td>\n   <td>Thần Sách (神冊) 916－922<br><p>Thiên Tán (天贊) 922－926<br>\n      Thiên Hiển (天顯) 926－926<\/p><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n   <td>Thuần Khâm hoàng hậu<br>\n     淳欽皇后<\/td>\n   <td>Bình<br>\n     平<\/td>\n   <td>Nguyệt Lý Đóa<br>\n     月里朵<\/td>\n   <td>Thuật Luật Bình<br>\n     述律平<\/td>\n   <td>6 tháng 9, 926－11 tháng 12, 927<\/td>\n   <td>Thiên Hiển 926－927<\/td>\n  <\/tr>\n  <tr>\n   <td>Thái Tông<br>\n     太宗<\/td>\n   <td>Hiếu Vũ Huệ Văn hoàng đế<br>\n     孝武惠文皇帝<\/td>\n   <td>Đức Quang<br>\n     德光<\/td>\n   <td>Nghiêu Cốt<br>\n     堯骨<\/td>\n   <td>Gia Luật Đức Quang<br>\n     耶律德光<\/td>\n   <td>11 tháng 12, 927－15 tháng 5, 947<\/td>\n   <td>Thiên Hiển 927－938<br><p>Hội đồng (會同) 938－947<br>\n      Đại Đồng (大同) 947<\/p><\/td>\n  <\/tr>\n  <tr>\n   <td>Thế Tông<br>\n     世宗<\/td>\n   <td>Hiếu Hòa Trang Hiến hoàng đế<br>\n     孝和莊憲皇帝<\/td>\n   <td>Nguyễn<br>\n     阮<\/td>\n   <td>Ngột Dục<br>\n     兀欲<\/td>\n   <td>Gia Luật Nguyễn<br>\n     耶律阮<\/td>\n   <td>16 tháng 5, 947－7 tháng 10, 951<\/td>\n   <td>Thiên Lộc (天祿) 947－951<\/td>\n  <\/tr>\n  <tr>\n   <td>Mục Tông<br>\n     穆宗<\/td>\n   <td>Hiếu An Kính Chính hoàng đế<br>\n     孝安敬正皇帝<\/td>\n   <td>Cảnh/Minh<br>\n     璟/明<\/td>\n   <td>Thuật Luật<br>\n     述律<\/td>\n   <td>Gia Luật Cảnh<br>\n     耶律璟<\/td>\n   <td>11 tháng 10, 951－12 tháng 3, 969<\/td>\n   <td>Ứng Lịch (應曆) 951－969<\/td>\n  <\/tr>\n  <tr>\n   <td>Cảnh Tông<br>\n     景宗<\/td>\n   <td>Hiếu Thành Khang Tĩnh hoàng đế<br>\n     孝成康靖皇帝<\/td>\n   <td>Hiền<br>\n     賢<\/td>\n   <td>Minh Ỷ<br>\n     明扆<\/td>\n   <td>Gia Luật Hiền<br>\n     耶律賢<\/td>\n   <td>13 tháng 3, 969－13 tháng 10, 982<\/td>\n   <td>Bảo Ninh (保寧) 969－979<br><p>Càn Hanh (乾亨) 979－983<\/p><\/td>\n  <\/tr>\n  <tr>\n   <td>Thánh Tông<br>\n     聖宗<\/td>\n   <td>Văn Vũ Đại Hiếu Tuyên hoàng đế<br>\n     文武大孝宣皇帝<\/td>\n   <td>Long Tự<br>\n     隆緒<\/td>\n   <td>Văn Thù Nô<br>\n     文殊奴<\/td>\n   <td>Gia Luật Long Tự<br>\n     耶律隆緒<\/td>\n   <td>14 tháng 10, 982－25 tháng 6, 1031<\/td>\n   <td>Thống Hòa (統和) 983－1012<br><p>Khai Thái (開泰) 1012－1021<br>\n      Thái Bình (太平) 1021－1031<\/p><\/td>\n  <\/tr>\n  <tr>\n   <td>Hưng Tông<br>\n     興宗<\/td>\n   <td>Thần Thánh Hiếu Chương hoàng đế<br>\n     神聖孝章皇帝<\/td>\n   <td>Tông Chân<br>\n     宗真<\/td>\n   <td>Chỉ Cốt<br>\n     只骨<\/td>\n   <td>Gia Luật Tông Chân<br>\n     耶律宗真<\/td>\n   <td>25 tháng 6, 1031－28 tháng 8, 1055<\/td>\n   <td>Cảnh Phúc (景福) 1031－1032<br><p>Trọng Hy (重熙) 1032－1055<\/p><\/td>\n  <\/tr>\n  <tr>\n   <td>Đạo Tông<br>\n     道宗<\/td>\n   <td>Hiếu Văn hoàng đế<br>\n     孝文皇帝<\/td>\n   <td>Hồng Cơ/Hoằng Cơ<br>\n     洪基/弘基<\/td>\n   <td>Tra Lạt<br>\n     查剌<\/td>\n   <td>Gia Luật Hồng Cơ<br>\n     耶律洪基<\/td>\n   <td>28 tháng 8, 1055－12 tháng 2, 1101<\/td>\n   <td>Thanh Ninh (清寧) 1055－1064<br><p>Hàm Ung (咸雍) 1065－1074<br>\n      Đại Khang (大康) 1075－1084<br>\n      Đại An (大安) 1085－1095<br>\n      Thọ Xương (壽昌) 1095－1101<\/p><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n   <td><\/td>\n   <td>Diên Hi<br>\n     延禧<\/td>\n   <td>A Quả<br>\n     阿果<\/td>\n   <td>Gia Luật Diên Hi<br>\n     耶律延禧<\/td>\n   <td>12 tháng 2, 1101－26 tháng 3, 1125<\/td>\n   <td>Càn Thống (乾統) 1101－1110<br><p>Thiên Khánh (天慶) 1111－1120<br>\n      Bảo Đại (保大) 1121－1125<\/p><\/td>\n  <\/tr>\n  <tr>\n   <th colspan=\"7\">Bắc Liêu 1122－1123<\/th>\n  <\/tr>\n  <tr>\n   <th>Miếu hiệu<\/th>\n   <th>Thụy hiệu<\/th>\n   <th>Tên Hán<\/th>\n   <th>Tên Khiết Đan<\/th>\n   <th>Danh xưng thường dùng<\/th>\n   <th>Thời gian tại vị<\/th>\n   <th>Niên hiệu<\/th>\n  <\/tr>\n  <tr>\n   <td>Tuyên Tông<br>\n     宣宗<\/td>\n   <td>Hiếu Chương hoàng đế<br>\n     孝章皇帝<\/td>\n   <td>Thuần<br>\n     淳<\/td>\n   <td>Niết Lý<br>\n     涅里<\/td>\n   <td>Gia Luật Thuần<br>\n     耶律淳<\/td>\n   <td>1122<\/td>\n   <td>Kiến Phúc (建福) 1122<\/td>\n  <\/tr>\n  <tr>\n   <td>－<\/td>\n   <td>－<\/td>\n   <td>－<\/td>\n   <td>Phổ Hiền Nữ<br><\/td>\n   <td>Tiêu Phổ Hiền Nữ<br>\n     蕭普賢女<\/td>\n   <td>1122<\/td>\n   <td>Đức Hưng (德興) 1122<\/td>\n  <\/tr>\n  <tr>\n   <td>－<\/td>\n   <td>－<\/td>\n   <td>－<\/td>\n   <td>Nhã Lý<br><\/td>\n   <td>Gia Luật Nhã Lý<br>\n     耶律雅里<\/td>\n   <td>1123<\/td>\n   <td>Thần Lịch (神曆) 1123<\/td>\n  <\/tr>\n  <tr>\n   <td>－<\/td>\n   <td>－<\/td>\n   <td>－<\/td>\n   <td>Truật Liệt<br><\/td>\n   <td>Gia Luật Truật Liệt<br>\n     耶律朮烈<\/td>\n   <td>1123<\/td>\n   <td>Thần Lịch 1123<\/td>\n  <\/tr>\n  <tr>\n   <th colspan=\"7\">Tây Liêu 1132－1218<\/th>\n  <\/tr>\n  <tr>\n   <th>Miếu hiệu<\/th>\n   <th>Thụy hiệu<\/th>\n   <th>Danh xưng<\/th>\n   <th>Thời gian tại vị<\/th>\n   <th>Niên hiệu<\/th>\n  <\/tr>\n  <tr>\n   <td>Đức Tông<br>\n     德宗<\/td>\n   <td>Thiên Hựu hoàng đế<br>\n     天祐皇帝<\/td>\n   <td>Gia Luật Đại Thạch<br>\n     耶律大石<\/td>\n   <td>1132－1143<\/td>\n   <td>Diên Khánh (延慶) 1132－1134<br><p>Khang Quốc (康國) 1134－1143<\/p><\/td>\n  <\/tr>\n  <tr>\n   <td>－<\/td>\n   <td>Cảm Thiên hoàng hậu<br>\n     感天皇后<\/td>\n   <td>Tiêu Tháp Bất Yên<br>\n     蕭塔不煙<\/td>\n   <td>1144－1150<\/td>\n   <td>Hàm Thanh (咸清) 1144－1150<\/td>\n  <\/tr>\n  <tr>\n   <td>Nhân Tông<br>\n     仁宗<\/td>\n   <td><\/td>\n   <td>Gia Luật Di Liệt<br>\n     耶律夷列<\/td>\n   <td>1151－1163<\/td>\n   <td>Thiệu Hưng (紹興) 1151－1163<\/td>\n  <\/tr>\n  <tr>\n   <td>－<\/td>\n   <td>Thừa Thiên hoàng hậu<br>\n     承天皇后<\/td>\n   <td>Gia Luật Phổ Tốc Hoàn<br>\n     耶律普速完<\/td>\n   <td>1164－1178<\/td>\n   <td>Sùng Phúc (崇福) 1164－1178<\/td>\n  <\/tr>\n  <tr>\n   <td>－<\/td>\n   <td><\/td>\n   <td>Gia Luật Trực Lỗ Cổ<br>\n     耶律直魯古<\/td>\n   <td>1179－1211<\/td>\n   <td>Thiên Hy (天禧) 1179－1211<\/td>\n  <\/tr>\n  <tr>\n   <td>－<\/td>\n   <td><\/td>\n   <td>Khuất Xuất Luật<br>\n     屈出律<\/td>\n   <td>1211－1218<\/td>\n   <td>－<\/td>\n  <\/tr>\n <\/tbody>\n<\/table>"
+    ],
+    "keywords": [],
+    "headings": [
+        "Nhân Vật Lịch Sử",
+        "nhà Liêu",
+        "Lịch sử",
+        "Quật khởi và kiến quốc",
+        "Liêu Thái Tông kế vị",
+        "Nam hạ Trung Nguyên",
+        "Suy thoái và ổn định",
+        "Thánh Tông thịnh thế",
+        "Cao Ly quy phục",
+        "Chân vạc ba nước",
+        "Đạo Tông trung suy",
+        "Nữ Chân uy hiệp",
+        "Phân liệt và diệt vong",
+        "Lưu vong phục quốc",
+        "Cương vực và hành chính",
+        "Thể chế chính trị",
+        "Ngoại giao",
+        "Chế độ quân sự",
+        "Kinh tế",
+        "Nông nghiệp",
+        "Súc mục nghiệp",
+        "Thủ công nghiệp",
+        "Thương nghiệp",
+        "Văn hóa",
+        "Ngữ văn",
+        "Tôn giáo",
+        "Nghệ thuật",
+        "Xã hội",
+        "Khoa học kỹ thuật",
+        "Quân chủ",
+        "Chú thích",
+        "Tham khảo",
+        "Thư mục",
+        "Bài viết cùng thư mục",
+        "CÁC THỜI KỲ LỊCH SỬ",
+        "Tư Liệu",
+        "Anh Hùng Dân Tộc Tiêu Biểu",
+        "Anh Hùng Dân Tộc Tiêu Biểu",
+        "Tư Liệu Lịch Sử",
+        "Di Tích Lịch Sử"
+    ],
+    "anchors": [
+        {
+            "text": "",
+            "href": "/"
+        },
+        {
+            "text": "Trang Chủ",
+            "href": "/"
+        },
+        {
+            "text": "Dòng Lịch Sử",
+            "href": "/dong-lich-su"
+        },
+        {
+            "text": "Hồng Bàng & Văn Lang",
+            "href": "/dong-lich-su/hong-bang-va-van-lang"
+        },
+        {
+            "text": "Âu Lạc & Nam Việt",
+            "href": "/dong-lich-su/au-lac-va-nam-viet"
+        },
+        {
+            "text": "Bắc thuộc lần I",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat"
+        },
+        {
+            "text": "Trưng Nữ Vương",
+            "href": "/dong-lich-su/trung-nu-vuong"
+        },
+        {
+            "text": "Bắc thuộc lần II",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-hai"
+        },
+        {
+            "text": "Nhà Lý & Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu"
+        },
+        {
+            "text": "Bắc thuộc lần III",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-ba"
+        },
+        {
+            "text": "Thời kỳ xây nền tự chủ",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu"
+        },
+        {
+            "text": "Nhà Ngô",
+            "href": "/dong-lich-su/nha-ngo"
+        },
+        {
+            "text": "Nhà Đinh",
+            "href": "/dong-lich-su/nha-dinh"
+        },
+        {
+            "text": "Nhà Tiền Lê",
+            "href": "/dong-lich-su/nha-tien-le"
+        },
+        {
+            "text": "Nhà Lý",
+            "href": "/dong-lich-su/nha-ly"
+        },
+        {
+            "text": "Nhà Trần",
+            "href": "/dong-lich-su/nha-tran"
+        },
+        {
+            "text": "Nhà Hồ",
+            "href": "/dong-lich-su/nha-ho"
+        },
+        {
+            "text": "Nhà Hậu Trần",
+            "href": "/dong-lich-su/nha-hau-tran"
+        },
+        {
+            "text": "Bắc thuộc lần IV",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-tu"
+        },
+        {
+            "text": "Nhà Hậu Lê",
+            "href": "/dong-lich-su/nha-hau-le"
+        },
+        {
+            "text": "Nam Bắc Triều",
+            "href": "/dong-lich-su/nam-bac-trieu"
+        },
+        {
+            "text": "Trịnh Nguyễn Phân Tranh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh"
+        },
+        {
+            "text": "Nhà Tây Sơn",
+            "href": "/dong-lich-su/nha-tay-son"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/nha-nguyen"
+        },
+        {
+            "text": "Pháp Thuộc",
+            "href": "/dong-lich-su/phap-thuoc"
+        },
+        {
+            "text": "Việt Nam Dân Chủ Cộng Hoà",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Cộng hoà xã hội chủ nghĩa Việt Nam",
+            "href": "/dong-lich-su/viet-nam-xhcn"
+        },
+        {
+            "text": "Tư Liệu",
+            "href": "/tu-lieu"
+        },
+        {
+            "text": "Quân Sự",
+            "href": "/tu-lieu/quan-su?filter_tag[0]="
+        },
+        {
+            "text": "Tác Phẩm",
+            "href": "/tu-lieu/tac-pham?filter_tag[0]="
+        },
+        {
+            "text": "Bang Giao",
+            "href": "/tu-lieu/bang-giao"
+        },
+        {
+            "text": "Biểu đồ thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Nhân Vật",
+            "href": "/nhan-vat"
+        },
+        {
+            "text": "Anh Hùng Dân Tộc",
+            "href": "/anh-hung-dan-toc?types[0]=1"
+        },
+        {
+            "text": "Danh nhân văn hóa",
+            "href": "/danh-nhan-van-hoa?types[0]=1"
+        },
+        {
+            "text": "Di Tích",
+            "href": "/di-tich-lich-su?types[0]=1"
+        },
+        {
+            "text": "Ngày Nay",
+            "href": "/thoi-su"
+        },
+        {
+            "text": "Sách",
+            "href": "/sach"
+        },
+        {
+            "text": "Video",
+            "href": "/video"
+        },
+        {
+            "text": "Q&A",
+            "href": "/hoi-dap"
+        },
+        {
+            "text": "Lịch sử lớp 12",
+            "href": "/hoi-dap/lop-12"
+        },
+        {
+            "text": "Lịch sử lớp 11",
+            "href": "/hoi-dap/lop-11"
+        },
+        {
+            "text": "Lịch sử lớp 10",
+            "href": "/hoi-dap/lop-10"
+        },
+        {
+            "text": "Lịch sử lớp 9",
+            "href": "/hoi-dap/lop-9"
+        },
+        {
+            "text": "Lịch sử lớp 8",
+            "href": "/hoi-dap/lop-8"
+        },
+        {
+            "text": "Lịch sử lớp 7",
+            "href": "/hoi-dap/lop-7"
+        },
+        {
+            "text": "Lịch sử lớp 6",
+            "href": "/hoi-dap/lop-6"
+        },
+        {
+            "text": "Trang chủ",
+            "href": "/"
+        },
+        {
+            "text": "Nhân Vật",
+            "href": "/nhan-vat"
+        },
+        {
+            "text": "Nhân Vật Lịch Sử",
+            "href": "/nhan-vat"
+        },
+        {
+            "text": "Thu / Mở",
+            "href": "#"
+        },
+        {
+            "text": "Lịch sử",
+            "href": "#lich-su"
+        },
+        {
+            "text": "Quật khởi và kiến quốc",
+            "href": "#quat-khoi-va-kien-quoc"
+        },
+        {
+            "text": "Liêu Thái Tông kế vị",
+            "href": "#lieu-thai-tong-ke-vi"
+        },
+        {
+            "text": "Nam hạ Trung Nguyên",
+            "href": "#nam-ha-trung-nguyen"
+        },
+        {
+            "text": "Suy thoái và ổn định",
+            "href": "#suy-thoai-va-on-dinh"
+        },
+        {
+            "text": "Thánh Tông thịnh thế",
+            "href": "#thanh-tong-thinh-the"
+        },
+        {
+            "text": "Cao Ly quy phục",
+            "href": "#cao-ly-quy-phuc"
+        },
+        {
+            "text": "Chân vạc ba nước",
+            "href": "#chan-vac-ba-nuoc"
+        },
+        {
+            "text": "Đạo Tông trung suy",
+            "href": "#dao-tong-trung-suy"
+        },
+        {
+            "text": "Nữ Chân uy hiệp",
+            "href": "#nu-chan-uy-hiep"
+        },
+        {
+            "text": "Phân liệt và diệt vong",
+            "href": "#phan-liet-va-diet-vong"
+        },
+        {
+            "text": "Lưu vong phục quốc",
+            "href": "#luu-vong-phuc-quoc"
+        },
+        {
+            "text": "Cương vực và hành chính",
+            "href": "#cuong-vuc-va-hanh-chinh"
+        },
+        {
+            "text": "Thể chế chính trị",
+            "href": "#the-che-chinh-tri"
+        },
+        {
+            "text": "Ngoại giao",
+            "href": "#ngoai-giao"
+        },
+        {
+            "text": "Chế độ quân sự",
+            "href": "#che-do-quan-su"
+        },
+        {
+            "text": "Kinh tế",
+            "href": "#kinh-te"
+        },
+        {
+            "text": "Nông nghiệp",
+            "href": "#nong-nghiep"
+        },
+        {
+            "text": "Súc mục nghiệp",
+            "href": "#suc-muc-nghiep"
+        },
+        {
+            "text": "Thủ công nghiệp",
+            "href": "#thu-cong-nghiep"
+        },
+        {
+            "text": "Thương nghiệp",
+            "href": "#thuong-nghiep"
+        },
+        {
+            "text": "Văn hóa",
+            "href": "#van-hoa"
+        },
+        {
+            "text": "Ngữ văn",
+            "href": "#ngu-van"
+        },
+        {
+            "text": "Tôn giáo",
+            "href": "#ton-giao"
+        },
+        {
+            "text": "Nghệ thuật",
+            "href": "#nghe-thuat"
+        },
+        {
+            "text": "Xã hội",
+            "href": "#xa-hoi"
+        },
+        {
+            "text": "Khoa học kỹ thuật",
+            "href": "#khoa-hoc-ky-thuat"
+        },
+        {
+            "text": "Quân chủ",
+            "href": "#quan-chu"
+        },
+        {
+            "text": "Chú thích",
+            "href": "#chu-thich"
+        },
+        {
+            "text": "Tham khảo",
+            "href": "#tham-khao"
+        },
+        {
+            "text": "Thư mục",
+            "href": "#thu-muc"
+        },
+        {
+            "text": "Vũ Đế",
+            "href": "/nhan-vat/vu-de"
+        },
+        {
+            "text": "nhà Hậu Lương",
+            "href": "/nhan-vat/nha-hau-luong"
+        },
+        {
+            "text": "nhà Hậu Đường",
+            "href": "/nhan-vat/nha-hau-duong"
+        },
+        {
+            "text": "Lý Tự Nguyên",
+            "href": "/nhan-vat/ly-tu-nguyen"
+        },
+        {
+            "text": "Lý Tự Nguyên",
+            "href": "/nhan-vat/ly-tu-nguyen"
+        },
+        {
+            "text": "thành Nam",
+            "href": "/dia-danh/thanh-nam"
+        },
+        {
+            "text": "nước Tống",
+            "href": "/dia-danh/nuoc-tong"
+        },
+        {
+            "text": "Thành Cát Tư Hãn",
+            "href": "/nhan-vat/thanh-cat-tu-han"
+        },
+        {
+            "text": "Lê Thụ",
+            "href": "/nhan-vat/le-thu"
+        },
+        {
+            "text": "Hoàng Hà",
+            "href": "/nhan-vat/hoang-ha"
+        },
+        {
+            "text": "thành Nam",
+            "href": "/dia-danh/thanh-nam"
+        },
+        {
+            "text": "Vũ Tông",
+            "href": "/nhan-vat/vu-tong"
+        },
+        {
+            "text": "Bài viết trước: nhà Lê Trung Hưng Trước",
+            "href": "/nhan-vat/nha-le-trung-hung"
+        },
+        {
+            "text": "Bài viết kế tiếp: nhà Lương Tiếp tục",
+            "href": "/nhan-vat/nha-luong"
+        },
+        {
+            "text": "Kinh Dương Vương",
+            "href": "/nhan-vat/kinh-duong-vuong"
+        },
+        {
+            "text": "Lạc Long Quân",
+            "href": "/nhan-vat/lac-long-quan"
+        },
+        {
+            "text": "nhà Chu",
+            "href": "/nhan-vat/nha-chu"
+        },
+        {
+            "text": "Ngô Sĩ Liên",
+            "href": "/nhan-vat/ngo-si-lien"
+        },
+        {
+            "text": "Lý Thái Tổ",
+            "href": "/nhan-vat/ly-thai-to"
+        },
+        {
+            "text": "nhà Thương",
+            "href": "/nhan-vat/nha-thuong"
+        },
+        {
+            "text": "nhà Đường",
+            "href": "/nhan-vat/nha-duong"
+        },
+        {
+            "text": "Triệu Việt Vương",
+            "href": "/nhan-vat/trieu-viet-vuong"
+        },
+        {
+            "text": "nhà Tần",
+            "href": "/nhan-vat/nha-tan"
+        },
+        {
+            "text": "Triệu Đà",
+            "href": "/nhan-vat/trieu-da"
+        },
+        {
+            "text": "Hồng Bàng & Văn Lang",
+            "href": "/dong-lich-su/hong-bang-va-van-lang"
+        },
+        {
+            "text": "Âu Lạc & Nam Việt",
+            "href": "/dong-lich-su/au-lac-va-nam-viet"
+        },
+        {
+            "text": "Bắc thuộc lần I",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat"
+        },
+        {
+            "text": "Nhà Triệu",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat/nha-trieu"
+        },
+        {
+            "text": "Trưng Nữ Vương",
+            "href": "/dong-lich-su/trung-nu-vuong"
+        },
+        {
+            "text": "Bắc thuộc lần II",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-hai"
+        },
+        {
+            "text": "Nhà Lý & Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu"
+        },
+        {
+            "text": "Nhà Tiền Lý",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-tien-ly"
+        },
+        {
+            "text": "Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-trieu"
+        },
+        {
+            "text": "Nhà Hậu Lý",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-hau-ly"
+        },
+        {
+            "text": "Bắc thuộc lần III",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-ba"
+        },
+        {
+            "text": "Thời kỳ xây nền tự chủ",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu"
+        },
+        {
+            "text": "Họ Khúc",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu/ho-khuc"
+        },
+        {
+            "text": "Nhà Ngô",
+            "href": "/dong-lich-su/nha-ngo"
+        },
+        {
+            "text": "Nhà Đinh",
+            "href": "/dong-lich-su/nha-dinh"
+        },
+        {
+            "text": "Nhà Tiền Lê",
+            "href": "/dong-lich-su/nha-tien-le"
+        },
+        {
+            "text": "Nhà Lý",
+            "href": "/dong-lich-su/nha-ly"
+        },
+        {
+            "text": "Nhà Trần",
+            "href": "/dong-lich-su/nha-tran"
+        },
+        {
+            "text": "Nhà Hồ",
+            "href": "/dong-lich-su/nha-ho"
+        },
+        {
+            "text": "Nhà Hậu Trần",
+            "href": "/dong-lich-su/nha-hau-tran"
+        },
+        {
+            "text": "Bắc thuộc lần IV",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-tu"
+        },
+        {
+            "text": "Nhà Hậu Lê",
+            "href": "/dong-lich-su/nha-hau-le"
+        },
+        {
+            "text": "Nam Bắc Triều",
+            "href": "/dong-lich-su/nam-bac-trieu"
+        },
+        {
+            "text": "Nhà Lê Trung Hưng",
+            "href": "/dong-lich-su/nam-bac-trieu/nha-le-trung-hung"
+        },
+        {
+            "text": "Nhà Mạc",
+            "href": "/dong-lich-su/nam-bac-trieu/nha-mac"
+        },
+        {
+            "text": "Trịnh Nguyễn Phân Tranh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh"
+        },
+        {
+            "text": "Nhà Lê Trung Hưng",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/nha-le-trung-hung"
+        },
+        {
+            "text": "Chúa Trịnh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-trinh"
+        },
+        {
+            "text": "Chúa Nguyễn",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen"
+        },
+        {
+            "text": "Nhà Tây Sơn",
+            "href": "/dong-lich-su/nha-tay-son"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/nha-nguyen"
+        },
+        {
+            "text": "Pháp Thuộc",
+            "href": "/dong-lich-su/phap-thuoc"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/phap-thuoc/nha-nguyen"
+        },
+        {
+            "text": "Những cuộc khởi nghĩa chống thực dân Pháp",
+            "href": "/dong-lich-su/phap-thuoc/khoi-nghia-chong-phap"
+        },
+        {
+            "text": "Đảng Cộng Sản Việt Nam",
+            "href": "/dong-lich-su/phap-thuoc/dang-cong-san-viet-nam"
+        },
+        {
+            "text": "Việt Nam Dân Chủ Cộng Hoà",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Kháng chiến chống Pháp",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-phap"
+        },
+        {
+            "text": "Kháng chiến chống Mĩ",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-mi"
+        },
+        {
+            "text": "Cộng hoà xã hội chủ nghĩa Việt Nam",
+            "href": "/dong-lich-su/viet-nam-xhcn"
+        },
+        {
+            "text": "Trận Điện Biên Phủ trên không năm 1972",
+            "href": "/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972"
+        },
+        {
+            "text": "Chiến tranh biên giới Tây Nam năm 1975 - 1978",
+            "href": "/tu-lieu/quan-su/chien-tranh-bien-gioi-tay-nam-nam-1975-1978"
+        },
+        {
+            "text": "Chiến dịch Mùa Xuân năm 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-mua-xuan-nam-1975"
+        },
+        {
+            "text": "Hải chiến Trường Sa năm 1988",
+            "href": "/tu-lieu/quan-su/hai-chien-truong-sa-nam-1988"
+        },
+        {
+            "text": "Chiến dịch Đường 14 - Phước Long năm 1974 - 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-duong-14-phuoc-long-nam-1974-1975"
+        },
+        {
+            "text": "Chiến dịch Tây Nguyên năm 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-tay-nguyen-nam-1975"
+        },
+        {
+            "text": "Trận Mậu Thân tại Huế năm 1968",
+            "href": "/tu-lieu/quan-su/tran-mau-than-tai-hue-nam-1968"
+        },
+        {
+            "text": "Bảng đối chiếu các triều đại Việt Nam và các triều đại Trung Quốc",
+            "href": "/tu-lieu/bang-doi-chieu-cac-trieu-dai-viet-nam-va-cac-trieu-dai-trung-quoc"
+        },
+        {
+            "text": "Bình Ngô đại cáo - bản tuyên ngôn độc lập thứ hai",
+            "href": "/tu-lieu/tac-pham/binh-ngo-dai-cao-ban-tuyen-ngon-doc-lap-thu-hai"
+        },
+        {
+            "text": "Lãnh thổ Việt Nam qua từng thời kỳ",
+            "href": "/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky"
+        },
+        {
+            "text": "Trận Đồi Thịt Băm năm 1969",
+            "href": "/tu-lieu/quan-su/tran-doi-thit-bam-nam-1969"
+        },
+        {
+            "text": "Chiến dịch Đắk Tô năm 1972",
+            "href": "/tu-lieu/quan-su/chien-dich-dak-to-nam-1972"
+        },
+        {
+            "text": "Nam quốc sơn hà - Bản tuyên ngôn độc lập đầu tiên",
+            "href": "/tu-lieu/tac-pham/nam-quoc-son-ha-ban-tuyen-ngon-doc-lap-dau-tien"
+        },
+        {
+            "text": "Tuyên ngôn độc lập Việt Nam Dân chủ Cộng hòa",
+            "href": "/tu-lieu/tac-pham/tuyen-ngon-doc-lap-viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Trận Bản Đông năm 1971",
+            "href": "/tu-lieu/quan-su/tran-ban-dong-nam-1971"
+        },
+        {
+            "text": "Trận Rạch Gầm \u2013 Xoài Mút năm 1785",
+            "href": "/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785"
+        },
+        {
+            "text": "Lịch sử Chữ viết tiếng Việt",
+            "href": "/tu-lieu/lich-su-chu-viet-tieng-viet"
+        },
+        {
+            "text": "Hịch tướng sĩ - Dụ chư tỳ tướng hịch văn",
+            "href": "/tu-lieu/tac-pham/hich-tuong-si-du-chu-ty-tuong-hich-van"
+        },
+        {
+            "text": "Danh sách Trạng nguyên Việt Nam",
+            "href": "/tu-lieu/danh-sach-trang-nguyen-viet-nam"
+        },
+        {
+            "text": "Hội nghị Paris, mặt trận ngoại giao năm 1968-1972",
+            "href": "/tu-lieu/bang-giao/hoi-nghi-paris-mat-tran-ngoai-giao-nam-1968-1972"
+        },
+        {
+            "text": "Đinh Tiên Hoàng",
+            "href": "/nhan-vat/dinh-tien-hoang"
+        },
+        {
+            "text": "Lê Thái Tổ",
+            "href": "/nhan-vat/le-thai-to"
+        },
+        {
+            "text": "Ngô Quyền",
+            "href": "/nhan-vat/ngo-quyen"
+        },
+        {
+            "text": "Hai Bà Trưng",
+            "href": "/nhan-vat/hai-ba-trung"
+        },
+        {
+            "text": "Hùng Vương",
+            "href": "/nhan-vat/hung-vuong"
+        },
+        {
+            "text": "Lý Thường Kiệt",
+            "href": "/nhan-vat/ly-thuong-kiet"
+        },
+        {
+            "text": "Lý Thái Tổ",
+            "href": "/nhan-vat/ly-thai-to"
+        },
+        {
+            "text": "Trần Hưng Đạo",
+            "href": "/nhan-vat/tran-hung-dao"
+        },
+        {
+            "text": "Hồ Chí Minh",
+            "href": "/nhan-vat/ho-chi-minh"
+        },
+        {
+            "text": "Nguyễn Trãi",
+            "href": "/nhan-vat/nguyen-trai"
+        },
+        {
+            "text": "Lý Nam Đế",
+            "href": "/nhan-vat/ly-nam-de"
+        },
+        {
+            "text": "Trần Nhân Tông",
+            "href": "/nhan-vat/tran-nhan-tong"
+        },
+        {
+            "text": "Nguyễn Huệ",
+            "href": "/nhan-vat/nguyen-hue"
+        },
+        {
+            "text": "Lê Đại Hành",
+            "href": "/nhan-vat/le-dai-hanh"
+        },
+        {
+            "text": "Đinh Tiên Hoàng",
+            "href": "/nhan-vat/dinh-tien-hoang"
+        },
+        {
+            "text": "Hùng Vương",
+            "href": "/nhan-vat/hung-vuong"
+        },
+        {
+            "text": "Lý Nam Đế",
+            "href": "/nhan-vat/ly-nam-de"
+        },
+        {
+            "text": "Nguyễn Trãi",
+            "href": "/nhan-vat/nguyen-trai"
+        },
+        {
+            "text": "Lê Đại Hành",
+            "href": "/nhan-vat/le-dai-hanh"
+        },
+        {
+            "text": "Lê Thái Tổ",
+            "href": "/nhan-vat/le-thai-to"
+        },
+        {
+            "text": "Trần Nhân Tông",
+            "href": "/nhan-vat/tran-nhan-tong"
+        },
+        {
+            "text": "Lý Thái Tổ",
+            "href": "/nhan-vat/ly-thai-to"
+        },
+        {
+            "text": "Ngô Quyền",
+            "href": "/nhan-vat/ngo-quyen"
+        },
+        {
+            "text": "Nguyễn Huệ",
+            "href": "/nhan-vat/nguyen-hue"
+        },
+        {
+            "text": "Vấn đề biên giới Việt-Trung thời Mạc",
+            "href": "/tu-lieu/bang-giao/van-de-bien-gioi-viet-trung-thoi-mac"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Tây Sơn",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-tay-son"
+        },
+        {
+            "text": "Biểu đồ các nhân vật lịch sử theo dòng thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Danh sách Trạng nguyên Việt Nam",
+            "href": "/tu-lieu/danh-sach-trang-nguyen-viet-nam"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Nguyễn",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-nguyen"
+        },
+        {
+            "text": "Trận Điện Biên Phủ trên không năm 1972",
+            "href": "/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972"
+        },
+        {
+            "text": "Trận Ngọc Hồi - Đống Đa năm 1789",
+            "href": "/tu-lieu/quan-su/tran-ngoc-hoi-dong-da-nam-1789"
+        },
+        {
+            "text": "Trận Cẩm Sa năm 1775",
+            "href": "/tu-lieu/quan-su/tran-cam-sa-nam-1775"
+        },
+        {
+            "text": "Trận Rạch Gầm \u2013 Xoài Mút năm 1785",
+            "href": "/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785"
+        },
+        {
+            "text": "Lãnh thổ Việt Nam qua từng thời kỳ",
+            "href": "/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky"
+        },
+        {
+            "text": "Quần thể di tích danh thắng Yên Tử",
+            "href": "/dia-danh/quan-the-di-tich-danh-thang-yen-tu"
+        },
+        {
+            "text": "Đền Trần (Thái Bình)",
+            "href": "/dia-danh/den-tran-thai-binh"
+        },
+        {
+            "text": "Đền Trần (Nam Định)",
+            "href": "/dia-danh/den-tran-nam-dinh"
+        },
+        {
+            "text": "Khu lưu niệm Chủ tịch Tôn Đức Thắng",
+            "href": "/dia-danh/khu-luu-niem-chu-tich-ton-duc-thang"
+        },
+        {
+            "text": "Khu di tích Chủ tịch Hồ Chí Minh tại Phủ Chủ tịch",
+            "href": "/dia-danh/khu-di-tich-chu-tich-ho-chi-minh-tai-phu-chu-tich"
+        },
+        {
+            "text": "Đền Hùng",
+            "href": "/dia-danh/den-hung"
+        },
+        {
+            "text": "Thành nhà Hồ",
+            "href": "/dia-danh/thanh-nha-ho"
+        },
+        {
+            "text": "Thành cổ Quảng Trị",
+            "href": "/dia-danh/thanh-co-quang-tri"
+        },
+        {
+            "text": "Đền Phù Đổng",
+            "href": "/dia-danh/den-phu-dong"
+        },
+        {
+            "text": "Đền Ngọc Sơn",
+            "href": "/dia-danh/den-ngoc-son"
+        },
+        {
+            "text": "Giới thiệu",
+            "href": "/gioi-thieu"
+        },
+        {
+            "text": "Quyền riêng tư",
+            "href": "/quyen-rieng-tu"
+        },
+        {
+            "text": "Liên hệ",
+            "href": "/lien-he"
+        },
+        {
+            "text": "Địa Danh",
+            "href": "/dia-danh"
+        },
+        {
+            "text": "Trang Facebook",
+            "href": "https://www.facebook.com/nguoikesu/"
+        },
+        {
+            "text": "DanhMucBDS.com",
+            "href": "https://danhmucbds.com"
+        },
+        {
+            "text": "HocTotNguVan.com",
+            "href": "https://hoctotnguvan.com"
+        }
+    ],
+    "title": "nhà Liêu - Người Kể Sử",
+    "paragraphs": [
+        "Nhà Liêu hay triều Liêu (giản thể: 辽朝; phồn thể: 遼朝; bính âm: Liáo Cháo; Hán-Việt: Liêu triều 907/916-1125), còn gọi là nước Khiết Đan (契丹國, đại tự Khiết Đan: )[chú thích 1] là một triều đại phong kiến do người Khiết Đan kiến lập trong lịch sử Trung Quốc, vận nước kéo dài từ năm 907 đến năm 1218, dài 331 năm, đối kháng kéo dài với triều Tống ở phía nam.",
+        "Ngày 27 tháng 2 năm 907, thủ lĩnh tộc Khiết Đan là Gia Luật A Bảo Cơ xưng là \"Thiên hoàng đế\", đến ngày 17 tháng 3 năm 916 thì Gia Luật A Bảo Cơ đăng cơ, xưng là \"Đại Thánh Đại Minh Thiên hoàng đế\", quốc hiệu là \"Khiết Đan\". Năm 918, Gia Luật A Bảo Cơ định đô tại phủ Lâm Hoàng (nay là Nam Ba La thành, Ba Lâm Tả, Xích Phong, Nội Mông). Năm 947, Gia Luật Đức Quang nam hạ Trung Nguyên, diệt triều Hậu Tấn, sau đó cải quốc hiệu thành \"Đại Liêu\",[chú thích 2] năm 983 thời Liêu Thánh Tông thì đổi quốc hiệu thành \"Khiết Đan\", năm 1066 thời Liêu Đạo Tông thì đổi về thành \"Đại Liêu\",[2]:225 đến 25 tháng 3 năm 1125 thì bị Kim tiêu diệt. Sau khi triều Liêu diệt vong, Gia Luật Đại Thạch suất dư chúng dời về phía tây, đến lưu vực sông Chuy ở Trung Á, lập ra Tây Liêu vào năm 1132. Năm 1211, Tây Liêu bị Khuất Xuất Luật soán vị, cuối cùng bị đế quốc Mông Cổ tiêu diệt vào năm 1218.",
+        "Quan điểm rộng rãi nhất trong giới sử học cho rằng từ \"Khiết Đan\" có ý chỉ sắt tinh luyện hoặc đao kiếm[chú thích 3] Và sau này cải quốc hiệu thành \"Liêu\" thì cũng là có ý là sắt, đồng thời \"Liêu\" cũng là tên vùng đất phát tường của người Khiết Đan- lưu vực Liêu Thủy. Người Khiết Đan và chính quyền Trung Nguyên ở phương nam trường kỳ đối kháng, họ tự gọi mình là \"Bắc triều\", và gọi triều đại Trung Nguyên là \"Nam triều\".[3]",
+        "Thời toàn thịnh, triều Liêu có cương vực đến biển Nhật Bản ở phía đông, tây đến dãy núi Altay, bắc đến khu vực sông Argun-Đại Hưng An lĩnh, nam đến sông Bạch Câu ở nam bộ tỉnh Hà Bắc. Tộc Khiết Đan vốn là một dân tộc du mục, hoàng đế Liêu khiến cho nông-mục nghiệp cùng phát triển phồn vinh, lập ra thể chế quản lý độc đáo và tương đối hoàn chỉnh. Triều Liêu đặt trọng tâm vào vùng đất phát tường dân tộc Khiết Đan, thống trị riêng rẽ dân tộc du mục và dân tộc nông nghiệp để bảo tồn đặc tính dân tộc, chủ trương dựa theo tập quán mà cai trị, khai sáng ra thể chế chính trị lưỡng viện chế. Đồng thời, người Khiết Đan cũng tạo ra văn tự Khiết Đan, bảo tồn văn hóa của mình. Ngoài ra, Liêu cũng tiếp thu văn hóa từ Bột Hải, Ngũ Đại, Bắc Tống, Tây Hạ và các nước Tây Vực, có hiệu quả trong việc xúc tiến các mặt chính trị, kinh tế, văn hóa phát triển. Lực lượng quân sự và tầm ảnh hưởng của Liêu bao trùm cả khu vực Tây Vực, vì vậy sau khi triều Đường diệt vong, các nước Trung Á, Tây Á, và Đông Âu xem triều Liêu (Khiết Đan) là danh xưng đại diện cho Trung Quốc.2 :3",
+        "",
+        "",
+        "Người Khiết Đan vốn là hậu duệ của người Tiên Ti, xuất hiện từ thời Bắc Ngụy Đạo Vũ Đế, đương thời tụ cư ở khu vực thượng du Liêu Thủy, tự xưng là hậu duệ của thanh ngưu bạch mã.[5]:3783 Năm 648 thời Đường Thái Tông, triều Đường đặt ra Tùng Mạc đô đốc phủ ở vùng đất người Khiết Đan cư trú, tù trưởng nhậm chức đô đốc đồng thời được ban cho họ Lý, đến năm 660 thời Đường Cao Tông thì người Khiết Đan nổi dậy tự lập, thoát ly quan hệ với triều Đường.2 Gia Luật A Bảo Cơ sinh năm 872, là con trai của tù trưởng Điệt Lạt bộ. Đương thời, Điệt Lạt là bộ lạc lớn nhất và mạnh nhất trong số tám bộ lạc Khiết Đan liên minh; tuy nhiên, ngôi vị đại hãn nằm trong tay Diêu Liễn thị. Năm 901, A Bảo Cơ được hội đồng bộ lạc bầu làm tù trưởng Điệt Lạt bộ. Năm 903, A Bảo Cơ trở thành lãnh đạo quân sự của toàn thể người Khiết Đan, chỉ dưới quyền Đại hãn. Năm 905, Gia Luật A Bảo Cơ kết nghĩa huynh đệ với Tấn vương Lý Khắc Dụng- một trong các quân phiệt chính thời vãn Đường. Gia Luật A Bảo Cơ sau đó thay thế Ngân Đức Cận khả hãn, kết thúc chín đời Diêu Liễn thị nắm giữ ngôi vị khả hãn, trở thành khả hãn vào năm 907. Cùng năm A Bảo Cơ trở thành đại hãn, tại Trung Nguyên, quân phiệt Chu Ôn soán Đường xưng đế, mở ra thời kỳ Ngũ Đại Thập Quốc đầy biến động. Gia Luật A Bảo Cơ trước sau trấn áp các quý tộc Khiết Đan làm loạn, chinh phục các bộ lạc Hề, Thất Vi, Hiệt Kiết Tư, Trở Bốc; đồng thời khống chế khu sản xuất muối ở Mông Cổ; trên phương diện kinh tế và quân sự đều rất cường thịnh.4 :44",
+        "Trong phần lớn lịch sử Trung Quốc, ngôi vị hoàng đế được truyền theo chế độ thế tập; tức được truyền từ cha cho con trai cả khi người cha qua đời. Trong khi đó, mặc dù người Khiết Đan cũng kế vị dựa trên quan hệ gia đình, song yếu tố quan trọng là khả năng của người đó, toàn bộ các huynh đệ và cháu trai cũng như con trai của vị thủ lĩnh trước đều có thể kế vị hợp lệ. Những thủ lĩnh Khiết Đan chắc rằng sẽ bàn giao quyền lực cho một người họ nội sau nhiệm kỳ ba năm.5 Từ năm 907 đến năm 910 quyền lực của A Bảo Cơ không bị thách thức. Tuy nhiên, sau năm 910, khi A Bảo Cơ bỏ qua truyền thống Khiết Đan là cần giao lại ngôi vị đại hãn cho một thành viên khác trong gia tộc, quyền cai trị của ông bị thách thức trực tiếp, Trong cả năm 912 và 913, các thành viên trong gia tộc của A Bảo Cơ, bao gồm hầu hết các em trai của ông, cố gắng tiến hành nổi dậy vũ trang. Sau khi cuộc nổi dậy đầu tiên bị phát giác và đánh bại, A Bảo Cơ tha thứ cho những người chủ mưu. Sau lần thứ hai, chỉ có các em trai của ông được tha, những người chủ mưu khác bị xử tử. Các em của ông tiếp tục âm mưu làm phản vào các năm 917 và 918, song đều dễ dàng bị đè bẹp.6 Ngày 17 tháng 3 năm 916, Gia Luật A Bảo Cơ kiến lập Khiết Đan Quốc, tức Liêu Thái Tổ. A Bảo Cơ tiến hành một số thay đổi để khiến quốc gia Khiết Đan tiến gần hơn đến mô hình quản lý nhà nước của các triều đại Trung Hoa. Ông xưng đế và đặt ra niên hiệu, xác định con trưởng là Gia Luật Bội làm người kế vị, ủy quyền xây dựng miếu thờ Khổng Tử. Hai năm sau, Da Luật A Bảo Cơ thành lập thủ đô Thượng Kinh, dựa theo mô hình thủ đô Trung Hoa.7",
+        "Liêu Thái Tổ cưỡng đoạt nhân khẩu ở Trung Nguyên, thu nạp các lưu dân Hà Bắc chạy chiến loạn, cho xây thành theo phong cách Trung Nguyên để an trí họ. Đồng thời, Liêu Thái Tổ cũng bổ nhiệm sử dụng những người Hán như Hàn Diên Huy, Hàn Trí Cổ, Khang Mặc Ký và Lư Văn Tiến. Năm 918, Liêu Thái Tổ cho xây hoàng đô phủ Lâm Hoàng, nay thuộc Ba Lâm Tả của Nội Mông. Hai năm sau, Liêu Thái Tổ lại sáng kiến ra đại tự Khiết Đan đồng thời thúc đẩy việc sử dụng.2 Trên phương diện quân sự, Liêu Thái Tổ vào năm 925 đông chinh Bột Hải, trên lãnh thổ cũ của nước này lập ra nước Đông Đan để thống trị dân Bột Hải, lập Hoàng thái tử Gia Luật Bội làm Đông Đan hoàng vương. Liêu Thái Tổ luôn có ý đồ nam hạ Trung Nguyên,8",
+        "Năm 916, Gia Luật A Bảo Cơ chính thức chỉ định Gia Luật Bội làm người kế vị.9 Kế vị theo hình thức thế tập là tiêu chuẩn có từ lâu trong văn hóa Hán, song không được người Khiết Đan chấp thuận, gây ra xích mích giữa mong muốn của Gia Luật A Bảo Cơ và sự tin tưởng của thượng tầng Khiết Đan, trong đó có Hoàng hậu Thuật Luật Bình. Gia Luật A Bảo Cơ cảm nhận được khả năng quá trình kế vị có thể rơi vào khó khăn, do vậy ông buộc các thủ lĩnh Khiết Đan phải thề trung thành với Gia Luật Bội sau khi ông bổ nhiệm người con này là người kế vị. Đối với người Khiết Đan, điều này được xem là một động thái mang tính cấp tiến.10 Xích mích giữa kế vị theo thế tập hay chọn ứng cử viên mạnh nhất dẫn đến các cuộc khủng hoảng kế vị lặp đi lặp lại trong hoàng tộc Gia Luật, lần đầu tiên diễn ra sau cái chết đột ngột và bất ngờ của Gia Luật A Bảo Cơ vào năm 926.11",
+        "Gia Luật Bội khi đó 26 tuổi, ông là một nhà thông thái, do vậy mang nhiều nét của giới quý tộc Trung Hoa; ông là một chuyên gia về âm nhạc, y học, bói toán, hội họa và văn chương (bằng cả tiếng Hán và Khiết Đan).12 Ông cũng là một quân nhân có đầy đủ tài năng, lãnh đạo binh sĩ Khiết Đan chiến đấu trong chiến dịch tiêu diệt Bột Hải. Sau khi chiến dịch kết thúc với thắng lợi của Liêu vào năm 926, Gia Luật A Bảo Cơ ban cho Gia Luật Bội quyền quản lý lãnh thổ vừa chinh phục được, lãnh thổ này trở thành nước Đông Đan, còn Gia Luật Bội trở thành Đông Đan hoàng vương.13",
+        "Hoàng hậu Thuật Luật Bình là một nhân vật mạnh mẽ khác thường. Thuật Luật Bình từng chỉ huy một đội quân gồm 20 vạn kị binh làm nhiệm vụ duy trì trật tự trong lúc Gia Luật A Bảo Cơ tiến hành chiến dịch quân sự ở bên ngoài. Bà cũng từng tự mình lãnh đạo chiến dịch quân sự. Sau khi phu quân qua đời, Hoàng hậu từ chối tuẫn táng cùng ông theo phong tục truyền thống của Khiết Đan, và chọn cách chặt đứt bàn tay phải để chôn theo ông.14 Thuật Luật Bình sau đó nắm giữ quyền lực về quân sự và dân sự, và có thể giám sát việc kế vị hoàng vị theo điều kiện của bà.12 Việc Hoàng hậu từ chối tử tử để tuẫn táng cùng phu quân khiến phong tục lâu đời này chấm dứt.15",
+        "Do Hoàng vương Gia Luật Bội mang cả giá trị Hán và Khiết Đan, Hoàng hậu Thuật Luật Bình phản đối Da Luật Bội trở thành hoàng đế. Bà tin rằng sự cởi mở của Gia Luật Bội với văn hóa Hán có thể làm suy giảm khả năng lãnh đạo của ông trong vai trò là một người Khiết Đan, thay vào đó bà ủng hộ người con trai thứ hai của Gia Luật A Bảo Cơ, là người mang tính truyền thống hơn, đó là Gia Luật Đức Quang, sự ủng hộ dành cho Gia Luật Đức Quang còn đến từ giới quý tộc Khiết Đan. Nhận thấy rằng mình không thể kế vị hoàng vị, và sẽ nguy hiểm nếu cố gắng tiến hành, Gia Luật Bội đành vận động cho em trai kế vị, và đến cuối năm 927, ông chính thức tuyên bố với Thuật Luật Bình rằng Gia Luật Đức Quang có khả năng hơn, về mặt chức năng thì kết thúc khả năng ông có thể thách thức việc Gia Luật Đức Quang đăng cơ.16",
+        "Mặc dù Gia Luật Bội tự nguyện từ bỏ quyền kế vị hoàng vị, song Hoàng đế Gia Luật Đức Quang vẫn xem anh trai là một mối đe dọa. Gia Luật Bội vẫn giữ chức Đông Đan hoàng vương, và trở lại Đông Đan sau khi từ bỏ quyền kế vị hoàng vị. Để ngăn cản Gia Luật Bội tạo lập quyền lực riêng tại Đông Đan, Gia Luật Đức Quang hạ lệnh rằng thủ đô của Đông Đan và toàn bộ dân trong thành phải dời đến khu vực nay là Liêu Dương.17 Bản thân Hoàng vương Gia Luật Bội bị đặt dưới sự giám sát của Hoàng đế.10 Năm 930, Hoàng vương Gia Luật Bội chạy sang Hậu Đường, tại đây ông trở thành một khách quý của Hậu Đường Minh Tông Lý Tự Nguyên, thậm chí còn được vị Hoàng đế này ban cho họ Lý của hoàng tộc.10",
+        "Sau khi Hậu Đường Minh Tông qua đời vào năm 933, triều Hậu Đường bắt đầu sụp đổ vì cuộc khủng hoảng kế vị nội bộ. Con trai và người kế thừa của Hậu Đường Minh Tông là Lý Tùng Hậu chỉ trị vì được ba tháng rồi bị sát hại trong cuộc chính biến vào năm 934, thủ lĩnh chính biến là Lý Tự Nguyên trở thành hoàng đế, tức Hậu Đường Mạt Đế. Gia Luật Bội là khách quý của triều đình Hậu Đường, ông viết thư cho Gia Luật Đức Quang, khuyên em trai xâm lược Hậu Đường, song Gia Luật Đức Quang không làm theo. Năm 936, Hà Đông tiết độ sứ Thạch Kính Đường của Hậu Đường tự xưng là \"nhi hoàng đế\", cắt nhượng Yên Vân thập lục châu làm điều kiện, thỉnh cầu Liêu Thái Tông chi viện tấn công Hậu Đường. Gia Luật Đức Quang tự thân suất 5 vạn kỵ binh, đánh bại quân Hậu Đường ở Tấn Dương, Lạc Dương; cuối cùng hiệp trợ Thạch Kính Đường đánh diệt Hậu Đường, Thạch Kính Đường thành lập nhà Hậu Tấn. Để cai trị người Hán ở Yên Vân thập lục châu, Liêu Thái Tông lựa chọn phương thức \"nhân tục nhi trị\" (theo tập quán mà cai trị), tiến hành phân trị đối với người Khiết Đan và người Hán, thi hành lưỡng viện chế Nam diện quan và Bắc diện quan. Đồng thời, Liêu Thái Tông cũng đổi U Châu thành Nam Kinh, Vân Châu thành Tây Kinh.2 :8 Yên Vân thập lục châu là lãnh thổ trải dài từ Đại Đồng (Sơn Tây) hiện nay đến bờ biển của Bột Hải ở phía đông Bắc Kinh hiện nay.18 Do Yên Vân thập lục châu có nhiều cửa ải và thành chiến lược, người Khiết Đan nay có thể tiếp cận vùng bình nguyên ở Hoa Bắc.19",
+        "Mối quan hệ giữa Liêu và Hậu Tấn trở nên căng thẳng sau khi Thạch Kính Đường qua đời vào năm 942 và Thạch Trọng Quý kế vị, Thạch Trọng Quý chỉ thượng biểu xưng là \"tôn\" (cháu) thay vì xưng thần với Liêu Thái Tông. Quanh Thạch Trọng Quý là các quân sư chống Khiết Đan, và đến năm 943 thì Thạch Trọng Quý trục xuất sứ Khiết Đan khỏi kinh thành Khai Phong và tịch thu tài sản của các thương nhân Khiết Đan trong thành. Trong những năm cuối của mình, Gia Luật Đức Quang tiến hành chiến dịch xâm lược Hậu Tấn, chiến dịch này phải mất đến ba năm và quân Khiết Đan phải đối mặt với nhiều trở ngại, đến cuối năm 946 thì tướng chỉ huy quân đội chống Khiết Đan của Hậu Tấn quyết định đầu hàng Gia Luật Đức Quang, quân Khiết Đan có thể tiến vào Khai Phong vào ngày 10 tháng 1 năm 947 mà không gặp kháng cự.20",
+        "Tháng 2, Liêu Thái Tông cải quốc hiệu thành \"Đại Liêu\", triều Liêu chính thức thành lập. Mặc dù Liêu Thái Tông có ý muốn trường kỳ mưu hoạch phát triển Trung Nguyên, song vì binh sĩ Khiết Đan cướp đoạt tài vật của nhân dân, không để cho các tiết độ sứ trở về nơi trấn thủ, khiến dân Trung Nguyên phản kháng. Tháng 4, Liêu Thái Tông buộc phải dẫn quân về bắc, bệnh mất tại Loan Thành ở Hà Bắc.21 :236 Việc Liêu Thái Tông qua đời dẫn đến cuộc khủng hoảng kế vị thứ hai, một lần nữa chủ mưu là thái hậu Thuật Luật Bình và được thúc đẩy bằng cuộc xung đột giữa phong tục thế tập của người Hán và truyền thống kế vị Khiết Đan. Gia Luật Nguyễn là con trai cả của Hoàng vương Gia Luật Bội và là cháu trai của Liêu Thái Tông, xưng đế trong khi vẫn ở Hà Bắc. Gia Luật Nguyễn tháp tùng Hoàng đế trong cuộc xâm lược Hậu Tấn, và thu được danh tiếng như là một chiến binh và chỉ huy có khả năng, một người có tính cách nhã nhặn và hào hiệp. Ứng Thiên thái hậu ủng hộ em trai của Liêu Thái Tông là Gia Luật Lý Hồ. Thái hậu phái hai đội quân lần lượt đến đối mặt với Gia Luật Nguyễn, song họ đều bị đánh bại. Gia Luật Lý Hồ không được lòng giới quý tộc Khiết Đan, do vậy không thể thu được đủ sự ủng hộ để tiếp tục thách thức Gia Luật Nguyễn, và sau một hòa ước do đại thần Gia Luật Ốc Chất dàn xếp, Gia Luật Nguyễn chính thức đảm nhiệm vai trò hoàng đế, tức Liêu Thế Tông. Liêu Thế Tông nhanh chóng đày Thuật Luật thái hậu và Gia Luật Lý Hồ khỏi kinh thành, kết thúc tham vọng chính trị của họ.22",
+        "Liêu Thế Tông bổ nhiệm sử dụng hiền thần Gia Luật Ốc Chất, tiến hành một loạt cải cách, hợp nhất Nam diện quan và Bắc diện quan thời Liêu Thái Tông, thành lập Nam Bắc Khu mật viện, phế Nam Bắc đại vương. Về sau, Nam Bắc Khu mật viện hợp nhất thành một Khu mật viện. Cải cách của Liêu Thế Tông khiến triều Liêu chuyển từ hình thức liên minh bộ lạc sang thời đại trung ương tập quyền. Trong thời gian Liêu Thế Tông tại vị, ông vẫn giữ kỳ vọng chiếm lĩnh Trung Nguyên, nhiều lần dụng binh đối với chính quyền Trung Nguyên. Tuy nhiên, Liêu Thế Tông lại là người hiếu tửu sắc, yêu thích săn bắn. Những năm cuối, Liêu Thế Tông dùng gian nịnh thần, giảm phong thưởng, khiến triều đình không được chỉnh trị, chính trị hủ bại. Tháng chín năm 951, Liêu Thế Tông hiệp trợ Bắc Hán tấn công Hậu Chu, lúc hành quân đến Tường Cổ Sơn ở Quy Hóa (nay thuộc Hô Hòa Hạo Đặc), bộ binh Liêu vẫn chưa đến nơi, nên trước tiên ông đóng quân tại Hỏa Thần Điến (nay ở phía tây Tuyên Hóa, Trương Gia Khẩu). Trong thời gian này, ông uống rượu, đánh người, săn bắn khiến cho nhiều người bất mãn, cuối cùng bị Gia Luật Sát Cát giết chết trong lúc đang mơ màng.2 :8",
+        "Năm 951, Gia Luật Sát Cát giết Liêu Thế Tông, đồng thời tự tiến hành xưng đế. Con cả của Liêu Thái Tông là Gia Luật Cảnh cùng với Gia Luật Ốc Chất suất quân giết chết Gia Luật Sát Cát, sau đó Gia Luật Cảnh được lập làm hoàng đế, tức Liêu Mục Tông, là hoàng đế Liêu thứ hai và cuối cùng không phải là hậu duệ trực tiếp của Gia Luật Bội. Liêu Mục Tông tuy không thích nữ sắc, song lại hay uống rượu, đến sáng mới ngủ, trưa mới tỉnh dậy, nên thường không lo triều chính, quốc nhân gọi là \"thụy vương\" (tức vua ngủ). Vào tiền kỳ thời Liêu Mục Tông, nội bộ triều đình không ổn định, trong lòng bất đồng, phát sinh các sự kiện làm loạn hoặc chạy đến Trung Nguyên: tháng 6 năm 952, Tiêu Mi Cổ Đắc muốn phản Liêu chạy sang Hậu Chu, việc bại lộ nên bị giết. Tháng 7, Chính sự lệnh Gia Luật Lâu Quốc và Lâm nha Gia Luật Địch Liệt âm mưu làm loạn, bị tróc nã, rồi bị xử tử. Tháng 10 năm 953, con của Gia Luật Lý Hồ là Gia Luật Uyển và những người khác mưu phản, sau khi bại lộ thì bị tróc nã. Tháng 7 năm 960, Chính sự lệnh Gia Luật Thọ Viễn và Thái bảo Sở A Bất mưu phản, việc thất bại và bị xử tử. Sang tháng 10, con của Gia Luật Lý Hồ là Gia Luật Hi Ẩn mưu phản, việc thất bại nên bị tróc nã, do khai rằng sự việc của liên hệ với Gia Luật Lý Hồ nên Gia Luật Lý Hồ bị giam vào ngục đến chết.23",
+        "Do cục thế chính trị có nhiều biến động, Liêu Mục Tông buộc phải đình chỉ chính sách nam phạt Trung Nguyên của Thái Tông và Thế Tông, nhằm khôi phục quốc lực bị tổn hại do chiến sự trường kỳ; liên hiệp với Nam Đường, Bắc Hán đối kháng với Hậu Chu đang dần cường thịnh. Năm 959, Hậu Chu phát động Bắc phạt, Ninh châu thứ sử Vương Hồng của Liêu dâng thành đầu hàng. Quân Hậu Chu sau đó đánh chiếm Ích Luật quan, Ngõa Kiều quan, Mạc Châu, Doanh Châu thứ sử Lưu Sở Tín, Cao Ngạn Huy cũng dâng thành đầu hàng. Đương thời, Hậu Chu Thế Tông muốn nhân lúc sĩ khí đang lên mà tiến thẳng đến U Châu, Liêu Mục Tông thậm chí còn có ý định từ bỏ Yên Vân thập lục châu.24 Cuối cùng, Hậu Chu Thế Tông bị bệnh nặng nên trở về nam, Mạc Châu và Doanh Châu trở thành lãnh thổ Hậu Chu, quân Liêu tăng cường phòng ngự, không dám nam hạ. Bản thân Liêu Mục Tông là người hiếu sát, thường tự tay giết người. Đồng thời, ông yêu thích săn bắn đến nỗi \"cả tháng không lâm triều\", đến tháng 2 năm 969 thì bị người hầu sát hại. Con của Liêu Thế Tông là Gia Luật Hiền được tôn làm hoàng đế, tức Liêu Cảnh Tông.23",
+        "Liêu Cảnh Tông cần mẫn xử lý chính sự, trọng dụng hiền thần như Chất Phưởng hay Quách Tập, triều Liêu xuất hiện một giai đoạn tươi sáng. Để giải quyết tình trạng hoàng tộc mưu phản thời Liêu Mục Tông, Liêu Cảnh Tông chọn thi hành chính sách khoan hồng hơn, do vậy số người mưu loạn ít đi, thượng tầng tương đối ổn định. Về chính sách đối ngoại, Liêu Cảnh Tông chọn chính sách không chủ động nam hạ Trung Nguyên, chỉ viện trợ cho Bắc Hán. Vào tiền kỳ thời Liêu Cảnh Tông, triều Liêu và Bắc Tống trao đổi sứ thần qua lại, chúc mừng nhau vào dịp lễ tết. Tống Thái Tông Triệu Khuông Nghĩa sau khi thống nhất Giang Nam, đến năm 979 thì thân chinh Bắc Hán, triều Liêu phái mấy vạn binh chi viện Bắc Hán. Tháng ba, quân Liêu giao chiến với quân Tống tại Bạch Mã Lĩnh, kết quả quân Liêu bị đánh bại, tướng Liêu Gia Luật Địch Liệt chiến tử. Tháng sáu, hoàng đế Bắc Hán là Lưu Kế Nguyên hàng Tống. Triều Liêu thay đổi chiến lược, đem lực lượng chủ yếu đến cố thủ U-Kế. Tống Thái Tông thừa thắng tiến công U Châu, triều Liêu phái các danh tướng Gia Luật Sa, Gia Luật Hưu Ca, Gia Luật Tà Chẩn suất quân, cùng quân Tống giao chiến tại Cao Lương Hà (nay ở bên ngoài Tây Trực Môn của Bắc Kinh), đánh bại được quân Tống, Tống Thái Tông chỉ có thể thoát thân. Do Liêu Cảnh Tông thân thể yếu đuối, nhiều bệnh, có khi không thể thượng triều, đại sự quốc gia phần lớn do Hoàng hậu Tiêu Xước hiệp trợ xử lý.23",
+        "Năm 982, Liêu Cảnh Tông bệnh mất, Liêu Thánh Tông Gia Luật Long Tự kế vị, tôn Tiêu Xước làm hoàng thái hậu, Tiêu thái hậu nhiếp chính. Đương thời, Tiêu thái hậu 30 tuổi, còn Liêu Thánh Tông 12 tuổi, vì cha của Tiêu thái hậu là Tiêu Tử Ôn bị giết vào năm 970 và không có người kế tự nên khiến cho Tiêu thái hậu không có ngoại thích để dựa vào. Các vương tông thất ủng binh, khống chế triều đình, tạo thành mối đe dọa lớn đối với Thái hậu và Hoàng đế. Tiêu thái hậu trước tiên trọng dụng đại thần Gia Luật Tà Chẩn, Hàn Đức Nhượng tham gia quyết định đại sự, quân sự ở mặt nam ủy thác cho Gia Luật Hưu Ca, thay thế một loạt đại thần, đồng thời hạ lệnh cấm chư vương thiết yến chiêu đãi lẫn nhau, yêu cầu họ không có việc thì không ra khỏi cửa, đồng thời nỗ lực giải trừ binh quyền của họ. Sau các hành động này, địa vị của Liêu Thánh Tông và Tiêu thái hậu trở nên ổn định. Tiêu thái hậu nhiếp chính trong 27 năm, có tìn đồn rằng bà từng tái giá với Hàn Đức Nhượng. Trong thời gian chấp chính, Tiêu thái hậu tiến hành cải cách, tận lực phát triển quốc gia, chú trọng trồng trọt, xây dựng công trình thủy lợi, giảm thiểu thu thuế, chính đốn việc cai trị của quan lại, huấn luyện quân đội, khiến cho bách tính triều Liêu phồn vinh, thế nước cường thịnh. Năm 1009, sau khi Liêu Thánh Tông thân chính, triều Liêu đạt đến đỉnh cao của mình, về cơ bản tiếp tục phong mạo triều Liêu thời Tiêu thái hậu chấp chính, phản đối hình pháp nghiêm khắc, phòng chống việc tham ô. Trên khía cạnh văn hóa và giáo dục, Liêu Thánh Tông cho tiến hành chế độ khoa cử, biên tu kinh Phật, Phật giáo hết sức thịnh hành. Trong thời gian tại vị, Liêu Thánh Tông tiến hành chinh chiến tứ phương, thường xuyên giành chiến thắng trước Tống, bắt được danh tướng Dương Nghiệp của Tống.2 :9",
+        "Sau khi triều Tống lập quốc, liền có ý định thu phục Yên Vân thập lục châu, hai lần tiến hành bắc phạt vào các năm 979 và 986, song đều bị quân Liêu đánh bại. Để giải quyết đối kháng trường kỳ giữa Liêu và Tống, Tiêu thái hậu và Liêu Thánh Tông vào năm 1004 suất đại quân thân chinh Tống. Tống Chân Tông sợ địch, muốn thiên đô về nam, song do Tể tướng Khấu Chuẩn kiên trì thuyết phục nên Hoàng đế Tống đích thân đến Thiền Châu (nay ở Bộc Dương, Hà Nam) đốc chiến. Sĩ khí quân Tống tăng mạnh, đánh bại quân tiền phong của Liêu, tướng Liêu Tiêu Thát Lẫm chiến tử. Quân Liêu lo sợ, đề xuất hòa ước. Tống Chân Tông vào năm sau cùng với Liêu lập hòa ước, quy định mỗi năm Tống phải cống cho Liêu 10 vạn lạng bạc, 20 vạn thất lụa, hai bên giữ gìn cương giới, không quấy rối lẫn nhau, trở thành hai nước huynh đệ, tức Thiền Uyên chi minh, từ đó hai triều hòa hảo suốt trong 120 năm sau. Liêu Thánh Tông cũng kết hảo với Tây Hạ, song Tây Hạ lại dao động giữa Tống và Liêu để tồn tại, hình thành cục thế chân vạc ba nước Tống-Liêu-Hạ.21 :237",
+        "Khi Gia Luật A Bảo Cơ chinh phục Bột Hải vào năm 926, hầu hết cư dân nước này bị tái định cư tại khu vực nay thuộc Liêu Ninh. Có ít nhất ba nhóm vẫn còn ở lại lãnh thổ cũ của Bột Hải, một trong số đó thành lập nên nước Định An. Mặc dù phát động hai cuộc xâm lược vào năm 975 và 985, Liêu vẫn không thể đánh bại Định An. Không thể trừ khử mối đe dọa, Liêu quyết định dựng nên ba pháo đài với quân đồn trú ở khu vực thung lũng sông Áp Lục.25",
+        "Các hành động quân sự này diễn ra rất gần với lãnh thổ Cao Ly, cộng thêm Liêu từng dự tính xâm lược vào Cao Ly năm 947 (song hủy bỏ), cùng quan hệ ngoại giao và văn hóa bền chặt giữa Cao Ly và Tống, quan hệ Liêu-Cao Ly do vậy cực kỳ kém. Cả Liêu và Cao Ly đều nhìn nhận đối phương như một mối đe dọa quân sự; Liêu sợ rằng Cao Ly sẽ cố gắng kích động các cuộc nổi loạn trong số cư dân Bột Hải sống tại lãnh thổ Liêu, trong khi Cao Ly lo sợ bị Liêu xâm lược. Liêu xâm lược Cao Ly lần đầu vào năm 992, suất một đội quân mà các tướng lĩnh Liêu tuyên bố là có 80 vạn người, yêu cầu Cao Ly nhượng cho Liêu một số lãnh thổ quanh sông Áp Lục. Cao Ly kêu gọi đồng minh quân sự là Tống giúp đỡ, song không có sự hỗ trợ nào của Tống đối với Cao Ly. Liêu tiến quân vững chắc về phía nam, đến khu vực sông Thanh Xuyên, tại đây Liêu kêu gọi tiến hành các cuộc đàm phán giữa các lãnh đạo quân sự của hai bên. Liêu thoạt đầu yêu cầu Cao Ly đầu hàng hoàn toàn, Cao Ly Thoạt đầu cũng có vẻ như sẵn lòng tính đến chuyện này, song nhà đàm phán Cao Ly cuối cùng thuyết phục được phía Liêu chấp thuận một giải pháp mà theo đó Cao Ly trở thành nước chư hầu của Liêu.26 Năm 994, trao đổi ngoại giao theo thường lệ giữa Liêu và Cao Ly được bắt đầu, còn mối quan hệ giữa Cao Ly và Tống không thể ấm lên.27",
+        "Hòa bình không kéo dài hai thập niên, đến năm 1009 thì tướng Cao Ly là Khang Triệu (康兆; Gang Jo) sát hại Cao Ly Mục Tông Vương Tụng và đưa Vương Tuân lên ngôi nhằm làm nhiếp chính cho tiểu vương. Liêu ngay lập tức phái một đội quân gồm 40 vạn người sang Cao Ly để trừng phạt Khang Triệu, tuy nhiên sau một giai đoạn đầu giành được thắng lợi quân sự và các nỗ lực đàm phán hòa bình thất bại, Liêu và Cao Ly bước vào một thập niên chiến tranh liên tục. Năm 1018, Liêu phải đối mặt với thất bại quân sự lớn nhất trong lịch sử của mình, song đến năm 1019 thì họ đã sẵn sàng tập hợp đại quân để tiến sang Cao Ly. Vào lúc này, cả hai bên đều nhận thấy rằng họ không thể đánh bại đối phương về quân sự, do vậy vào năm 1020, Cao Ly Hiển Tông tiếp tục triều cống cho Liêu, và vào năm 1022 thì Liêu chính thức công nhận tính hợp lệ của Cao Ly Hiển Tông. Cao Ly từ đó duy trì vị thế là chư hầu của Liêu, và quan hệ giữa hai bên trong trình trạng hòa bình cho đến khi Liêu diệt vong.28",
+        "Năm 1031, Liêu Thánh Tông qua đời, con cả Da Luật Tông Chân kế vị, tức Liêu Hưng Tông. Mẹ đẻ của Liêu Hưng Tông là Tiêu Nậu Cân (tức Pháp Thiên thái hậu) tự lập làm hoàng thái hậu mặc dù có xuất thân cung nữ, đồng thời nhiếp chính và bức tử mẹ nuôi của Liêu Hưng Tông là Tề Thiên hoàng hậu Tiêu Bồ Tát Ca. Pháp Thiên thái hậu trọng dụng những tham quan ô lại từng bị phạt vĩnh viễn không được dùng dưới thời Liêu Thánh Tông, cũng như người thân của họ. Liêu Hưng Tông không có quyền lực nên không thể ngăn cản, mẫu tử do vậy kết oán. Pháp Thiên thái hậu không tín nhiệm Liêu Hưng Tông, có ý muốn cải lập thứ tử là Da Luật Trọng Nguyên làm hoàng đế, song Da Luật Trọng Nguyên lại tố cáo việc này cho Hưng Tông. Hưng Tông tức giận không thể nín nhịn được nữa, đến năm 1034 dùng vũ lực phế Pháp Thiên thái hậu, buộc Pháp Thiên thái hậu \"tự thân trông nom Khánh lăng\", đại sát thân tín của Thái hậu. Tháng 7, Liêu Hưng Tông thân chính, cho xây lăng viên an táng Tề Thiên hoàng hậu. Sau đó, Hưng Tông lại đón Pháp Thiên thái hậu về một phần vì những người ủng hộ bà vẫn nắm giữ các chức vụ quan trọng, song duy trì cự ly để đề phòng bất trắc, tình mẫu tử bị rạn nứt không thể hàn gắn.4 :74",
+        "Trong thời gian Liêu Hưng Tông tại vị, triều Liêu ngày càng suy lạc, gian nịnh thần nắm quyền trong triều, chính trị hủ bại, bách tính khốn khổ, quân đội suy nhược. Phải đối mặt với tình trạng quốc thế ngày càng suy nhược, Liêu Hưng Tông chinh chiến liên niên, nhiều lần chinh phạt Tây Hạ; bức bách triều Tống giao nạp nhiều hơn. Tuy nhiên, những hành động này ngược lại khiến cho bách tính Liêu oán giận, nhân dân không thể duy trì sinh hoạt bình thường. Liêu Hưng Tông mê tín Phật giáo, hết sức xa xỉ. Liêu Hưng Tông đối với Gia Luật Trọng Nguyên thì hết sức cảm kích, trong một lần say rượu từng hứa rằng sau khi trăm tuổi sẽ truyền vị cho Gia Luật Trọng Nguyên. Hoàng tử Gia Luật Hồng Cơ (sau là Liêu Đạo Tông) chưa từng được phong làm hoàng thái tử, chỉ được phong là Thiên hạ binh mã nguyên soái. Do vậy, sau khi Liêu Đạo Tông kế vị, phụ tử Gia Luật Trọng Nguyên cố gắng mưu đoạt đế vị.4 :75",
+        "Sau chiến tranh Tống-Hạ, Bắc Tống trong ngoài đều khó khăn, khiến triều Liêu thừa cơ xâm lược Tống. Sau khi trưng cầu ý kiến của Trương Kiệm, Liêu Hưng Tông một mặt phái Gia Luật Trọng Nguyên và Tiêu Huệ tạo thanh thế muốn đánh Tống tại biên cảnh, một mặt phái Tiêu Đặc Mạt (tức Tiêu Anh) và Lưu Lục Phù vào tháng 1 năm 1042 đến triều Tống yêu cầu được nhượng 10 huyện ở phía nam Ngõa Kiều quan. Triều Tống phái Phú Bật đàm phán với sứ Liêu, kết quả là Trọng Hi tăng tệ. Hai bên đạt được thỏa thuận vào tháng 9, trên cơ sở Thiền Uyên chi minh, gia tăng số bạc thêm 10 vạn lạng, lụa thêm 10 vạn thất, nhằm giải quyết yêu sách về đất đai. Liêu Hưng Tông còn phái Gia Luật Nhân Tiên và Lưu Lục Phù đi sứ sang Tống một lần nữa để tranh nghị về chữ \"nạp\", tức Tống nạp bạc lụa cho Liêu chứ không phải là tặng. Tống Nhân Tông chấp thuận, song đưa ra điều kiện là triều Liêu cần phải buộc Tây Hạ hòa đàm với Tống. Vì vậy, sau khi quan hệ Liêu Tống hòa hảo, quan hệ Liêu-Hạ lại xấu đi, phát sinh chiến tranh. Liêu Hưng Tông hai lần thân chinh Tây Hạ, song đều chịu thất bại, song Tây Hạ cuối cùng chấp thuận xưng thần và tiến cống cho Liêu.4 :76",
+        "Sau khi Liêu Đạo Tông kế vị, đến tháng 7 năm 1063 thì Gia Luật Trọng Nguyên nghe theo lời của con trai mà phát động bạn loạn, tự lập làm hoàng đế, không lâu sau thì bị Liêu Đạo Tông bình định, Gia Luật Trọng Nguyên tự tử. Trong thời gian Liêu Đạo Tông tại vị, chính trị của Liêu hủ bại, quốc thế dần suy lạc. Liêu Đạo Tông không tiến hành cải cách mới, bản thân lại thoái hóa xa xỉ, đương thời địa chủ và quan lại đẩy mạnh chiếm giữ đất đai, bách tính thống khổ không kham nổi, lời oán thán khắp nơi. Liêu Đạo Tông trọng dụng các gian nịnh thần như Gia Luật Ất Tân, bản thân không lo chính sự, đồng thời tin theo sàm ngôn của Gia Luật Ất Tân rằng Tướng Tín hoàng hậu Tiêu Quan Âm và linh quan Triệu Duy Nhất thông gian, ban chết cho Hoàng hậu. Gia Luật Ất Tân phòng khi Thái tử đăng cơ sẽ bất lợi đối với bản thân, vì vậy cố gắng hãm hại Hoàng thái tử Gia Luật Tuấn, sau đó lại sát hại. Tháng 7 năm 1079, Gia Luật Ất Tân thừa cơ Liêu Đạo Tông đi săn bắn để mưu hại Hoàng tôn Gia Luật Diên Hi, Liêu Đạo Tông tiếp thu lời khuyên của đại thần, mệnh Hoàng tôn đi săn bắn cùng, hóa giải âm mưu của Gia Luật Ất Tân. Năm 1083, Liêu Đạo Tông truy phong cố thái tử là Chiêu Hoài thái tử, cải táng theo lễ thiên tử. Tháng 10 cùng năm, Gia Luật Ất Tân trù tính mang theo vũ khí do bản thân tích trữ đến Tống tị nạn, sự việc bại lộ, Gia Luật Ất Tân bị trừ khử.",
+        "Trong thời gian Liêu Đạo Tông trị vì, diễn ra một cuộc chiến tranh từ năm 1092 đến năm 1102 giữa Liêu và Trở Bốc. Người Trở Bốc sinh sống ở vùng biên giới tây bắc của Liêu và từng một vài lần giao chiến với Liêu khi Liêu cố gắng mở rộng lãnh thổ theo hướng đó. Năm 1092, Liêu tiến công một vài bộ lạc khác ở tây bắc, và đến năm 1093 thì Trở Bốc tiến công, đánh sâu vào lãnh thổ Liêu. Chiến tranh tiếp diễn cho đến năm 1100, khi Liêu bắt giữ và hành hình tù trưởng Trở Bốc là Ma Cổ Tư, và thêm hai năm nữa để đánh dẹp tàn dư Trở Bốc. Cuộc chiến chống Trở Bốc là chiến dịch quân sự thành công cuối cùng do Liêu tiến hành.29",
+        "Tháng 1 năm 1101, Liêu Đạo Tông qua đời, Hoàng tôn Gia Luật Diên Hi kế vị, tức Liêu Thiên Tộ. Đương thời, Tây Hạ Sùng Tông Lý Càn Thuận do bị Tống tiến đánh nên một lần nữa lại cầu viện từ Liêu, đồng thời xin cưới công chúa của Liêu làm chính thất. Liêu Thiên Tộ đến năm 1105 thăng người con gái trong hoàng tộc là Gia Luật Nam Tiên làm công chúa, gả cho Tây Hạ Sùng Tông, đồng thời phái sứ giả sang Tống, khuyên Bắc Tống hòa đàm với Tây Hạ.2 :10",
+        "Ngày 10 tháng 2 năm 1112, Liêu Thiên Tộ đến Xuân Châu, triệu tập các tù trưởng Nữ Chân trong khu vực đến chầu. Trong yến tiệc, Liêu Thiên Tộ say rượu rồi lệnh cho các vị tù trưởng khiêu vũ, chỉ có Hoàn Nhan A Cốt Đả từ chối. Liêu Thiên Tộ Đế không suy nghĩ về chuyện này, song từ đó quan hệ giữa Hoàn Nhan A Cốt Đả và triều Liêu trở nên bất hòa. Tháng 9, Hoàn Nhan A Cốt Đả không còn phụng chiếu, đồng thời bắt đầu dụng binh với các bộ lạc Nữ Chân không phục tùng. Mùa xuân năm 1114, Hoàn Nhan A Cốt Đả chính thức khởi binh phản Liêu. Liêu Thiên Tộ ban đầu không xem Hoàn Nhan A Cốt Đả là một mối đe dọa nghiêm trọng, song các đội quân mà ông phái đi trấn áp Hoàn Nhan A Cốt Đả đều chiến bại. Năm 1115, để giải quyết uy hiếp từ tộc Nữ Chân, Liêu Thiên Tộ Đế hạ lệnh thân chinh, tuy nhiên quân Liêu bị quân Nữ Chân đánh bại ở khắp nơi, Hoàn Nhan A Cốt Đả cũng tự xưng là hoàng đế, kiến lập triều Kim, tức Kim Thái Tổ. Cùng năm, triều Liêu phát sinh nội loạn, Gia Luật Chương Nô nổi loạn tại Thượng Kinh của Liêu, mặc dù nhanh chóng bị bình định, song gây ra chia rẽ trong nội bộ Liêu. Sau đó, ở Đông Kinh (nguyên thuộc nước Bột Hải) cũng phát sinh sự kiện Cao Vĩnh Xương làm loạn tự lập, đến tháng 4 năm 1116 mới bị bình định. Đến tháng 5, quân Kim lợi dụng đêm tối mà đánh chiếm Đông Kinh và Thẩm Châu của Liêu. Năm 1117, quân Kim đánh Xuân châu, quân Liêu không chiến tự bại.2 :11",
+        "Năm 1120, quân Kim đánh chiếm Thượng Kinh của Liêu, tướng trấn thủ là Tiêu Thát Bất Dã đầu hàng, đến năm 1121 thì Liêu tổng cộng đã để mất một nửa lãnh thổ. Do vấn đề kế thừa hoàng vị, nội bộ Liêu lại phát sinh nội loạn, cuối cùng kết thúc với việc Liêu Thiên Tộ giết con cả của mình là Gia Luật Ngao Lỗ Oát, song chỉ khiến cho thêm nhiều binh sĩ Liêu đầu hàng triều Kim. Tháng một năm 1122, quân Kim đánh chiếm Trung Kinh của Liêu, Liêu Thiên Tộ phải lưu vong đến Giáp Sơn.2 :12",
+        "Ở Nam Kinh của Liêu, các đại thần như Gia Luật Đại Thạch và Lý Xử Ôn không biết tung tích của Thiên Tộ, họ ủng hộ Gia Luật Thuần làm hoàng đế, tức Thuận Tông, gọi là triều Bắc Liêu. Thuận Tông giáng Thiên Tộ làm Tương Âm vương, đồng thời sai đại sứ dâng biểu cho triều Kim xin làm phụ dung. Tuy nhiên sự chưa thành thì ông đã bệnh mất, vợ là Liêu Đức phi xưng chế. Đến lúc này, cha con Lý Xử Ôn nhận thấy tương lai không sáng sủa, họ trù tính tư thông với Đồng Quán của Bắc Tống, muốn đoạt lấy lãnh thổ đang do Liêu Đức phi nắm giữ rồi dâng cho Tống; hướng bắc tư thông với người Kim, tự nhận làm nội ứng; về sau bị phát hiện và ban chết. Tháng mười một năm đó, Liêu Đức phi năm lần dâng biểu cho triều Kim, nói rằng chỉ cần cho phép lập Gia Luật Định làm Liêu đế thì điều kiện gì cũng đáp ứng. Người Kim không đồng ý, Liêu Đức phi chỉ còn cách phái binh tử thủ Cư Dung quan, song Cư Dung quan thất thủ vào tháng mười một, đến tháng 12 thì Nam Kinh bị quân Kim công phá. Liêu Đức phi cùng các quan viên đến nương nhờ ở chỗ Liêu Thiên Tộ, song bà bị Thiên Tộ Đế giết.4 :118",
+        "Tháng một năm 1123, Hồi Ly Bảo (Tiêu Cán) tự lập, lấy hiệu là Hề Quốc hoàng đế, đến tháng 8 thì bị bình định. Năm 1124, Thiên Tộ Đế lúc này đã bị mất đại bộ phận lãnh thổ, ông tự mình rút ra Mạc Ngoại, con cái và gia thuộc của ông đại đa số bị giết hoặc bị bắt, mặc dù ông có ý định thu phục thủ phủ Yên Châu và Vân Châu, song trên thực tế không có nhiều hy vọng.",
+        "Ngày 26 tháng 3 năm 1125, Liêu Thiên Tộ bị tướng Kim Hoàn Nhan Lâu Thất bắt được ở Ứng Châu, sang tháng tám thì bị giải đến Thượng Kinh của Kim (nay thuộc A Thành, Hắc Long Giang), bị Kim Thái Tông Hoàn Nhan Thịnh giáng làm Hải Tân vương. Năm 1128, Thiên Tộ Đế bệnh mất, triều Liêu kéo dài tổng cộng 210 năm (bao gồm cả Khiết Đan), trải qua 9 vị đế vương.2 :12",
+        "Tại Tây Bắc, Gia Luật Đại Thạch triệu tập tàn dư của triều Liêu, khống chế khu vực cao nguyên Mông Cổ và đông bộ Tân Cương. Năm 1130, do chịu áp lực từ quân Kim, Gia Luật Đại Thạch quyết định từ bỏ cao nguyên Mông Cổ, suất bộ tây chinh. Năm 1132, Gia Luật Đại Thạch xưng đế tại Diệp Mê Lập (nay thuộc Ngạch Mẫn, Tân Cương), sử gọi là Tây Liêu, thủ đô tại Hổ Tư Oát Lỗ Đóa.4 :120 Tây Liêu từng có lúc khuếch trương đến các nước Trung Á ngày nay, trở thành cường quốc ở Trung Á. Sau khi Gia Luật Đại Thạch mất vào năm 1143, Tây Liêu lần lượt do Tiêu Tháp Bất Yên, Gia Luật Di Liệt, Gia Luật Phổ Tốc Hoàn, Gia Luật Trực Lỗ Cổ và Khuất Xuất Luật thống trị. Cuối cùng, Tây Liêu bị quân đội Mông Cổ của Thành Cát Tư Hãn tiêu diệt, tồn tại được 87 năm.2 :13",
+        "Năm 1212, tông thất triều Liêu là Gia Luật Lưu Ca tại khu vực Long An (nay là Nông An, Cát Lâm), Hàn Châu (nay là Lê Thụ, Cát Lâm khởi binh phản kháng triều Kim, đồng thời được đế quốc Mông Cổ giúp đỡ. Tháng ba năm 1212, Gia Luật Lưu Ca xưng vương, đặt quốc hiệu là Liêu, sử gọi là Đông Liêu. Gia Luật Lưu Ca sau khi kiến quốc thì quy phụ đế quốc Mông Cổ, trở thành nước phiên thuộc, đến năm 1270 thì Nguyên Thế Tổ Hốt Tất Liệt triệt phiên, Đông Liêu chính thức diệt vong. Đầu năm 1216, em của Gia Luật Lưu Ca là Gia Luật Tư Bất làm phản, xưng đế tại Trừng Châu, gọi là Hậu Liêu. Không lâu sau, Gia Luật Tư Bất bị bộ hạ sát hại, mọi người tôn Gia Luật Khất Nô làm giám quốc. Đến mùa thu cùng năm, Mộc Hoa Lê suất quân Mông Cổ đông hạ, Gia Luật Khất Nô không thể chống lại, suất 9 vạn người Khiết Đan vượt qua sông Áp Lục tiến vào lãnh thổ Cao Ly. Không lâu sau, các quý tộc Khiết Đan tự tàn sát lẫn nhau, Hậu Liêu cuối cùng diệt vong vào năm 1220.",
+        "Vào sơ kỳ, cương vực triều Liêu tại khu vực thượng du Liêu Hà, vào thời Liêu Thái Tổ và Liêu Thái Tông không ngừng khuếch trương ra bên ngoài. Thời Liêu Thái Tổ, người Khiết Đan chinh phục Hề (nay thuộc bắc bộ Hà Bắc), Ô Cổ, Hắc Xa Tử Thất Vi (nay ở đông nam hồ Hô Luân), Thát Đát, Hồi Cốt và Bột Hải Quốc. Năm 938, Liêu Thái Tông đoạt được Yên Vân thập lục châu, sau đó từng chiếm hữu Trung Nguyên trong một thời gian. Năm 1005, Liêu và Bắc Tống ký kết Thiền Uyên chi minh, xác định biên giới giữa hai nước. Vào thời toàn thịnh, cương vực của Liêu đến đảo Sakhalin ở đông bắc, bắt đến khu vực sông Selenge và sông Shilka, tây đến dãy núi Altai, nam theo tuyến qua Hải Hà ở Thiên Tân, Bá Châu ở Hà Bắc, Nhạn Môn quan ở Sơn Tây, hình thành thế đối lập nam-bắc với triều Tống ở Trung Nguyên.2 :38",
+        "Triều Liêu vào thời kỳ Khiết Đan Quốc có 8 bộ lạc,30 sau khi kiến lập Liêu triều thì đơn vị hành chính gồm ba cấp: đạo, phủ (châu), huyện. Tổng cộng, Liêu có 5 kinh, 6 phủ, 156 châu (quân, thành), 309 huyện. Cấp hành chính thứ nhất của Liêu phân thành 8 đạo, mỗi đạo có một trung tâm chính trị gọi là \"kinh\", đồng thời lấy danh xưng của \"kinh\" đó mà mệnh danh cho đạo; dưới đạo lập ra bốn loại khu vực hành chính cùng cấp là phủ, châu, quân, thành.31",
+        "Cốt lõi trong chính trị Liêu là dựa vào tập quán mà cai trị, lấy chế độ phép tắc trong nền văn hóa mỗi dân tộc để cai trị nhân dân tộc đó, điểm đặc sắc này có thể thấy trong phân chia hành chính. Vào thời bộ lạc Khiết Đan, sau khi chinh phục tộc Hề thì lập Hề vương ở đất ấy, lập ra cơ cấu chính phủ riêng.32 :166 Thời kỳ nước Khiết Đan, sau khi tiêu diệt nước Bột Hải, để tiện thống trị nhân dân Bột Hải, lại lập ra nước Đông Đan ở đương địa, kế thừa thể chế hành chính của nước Bột Hải. Nước Đông Đan cuối cùng bị phế. Sau khi chiếm lĩnh Yên Vân thập lục châu, lại kế thừa thể chế hành chính thời Hậu Đường để tiện thống trị người Hán tại địa phương.2 :37",
+        "Triều Liêu theo ngũ kinh chế, chủ yếu là để khống chế vùng đất có được do chiến tranh, hoặc là căn cứ tiến quân khi tranh đoạt một vùng đất.32 :171 Liêu trước sau thiết lập Thượng Kinh Lâm Hoàng phủ33 (nay thuộc Ba Lâm Tả, Nội Mông), để khống chế lãnh địa của tộc Hề mà thiết lập Trung Kinh Đại Định phủ (nay thuộc Ninh Thành, Nội Mông), để quản lý số dân Bột Hải còn lại mà thiết lập Đông Kinh Liêu Dương phủ (nay thuộc Liêu Dương, Liêu Ninh34 ), để quản lý Yên Vân thập lục châu mà thiết lập Nam Kinh Tích Tân phủ (nay là Bắc Kinh35 ) và Tây Kinh Đại Đồng phủ (nay là Đại Đồng, Sơn Tây). Trong Ngũ kinh, chỉ có Thượng Kinh là thủ đô, còn lại chỉ là bồi đô. Tuy nhiên, sau Thiền Uyên chi minh, vai trò chính trị của Trung Kinh được tăng cường, uy hiếp trực tiếp đến địa vị thủ đô của Thượng Kinh.2 :45",
+        "Đầu hạ quân châu là một loại đơn vị hành chính đặc thù của triều Liêu. Quý tộc Khiết Đan đưa số nhân khẩu mà họ bắt được lập nên quân, châu để an trí, đốc bách họ làm việc cho chủ nhân. Chư vương, ngoại thích, đại thần của Liêu lĩnh hữu đầu hạ quân châu có thể xây thành quách, còn lại chỉ có thể có đầu hạ trại bảo của riêng họ. Đầu hạ quân châu phần lớn thiết lập tại nơi người Khiết Đan cư trú ở lưu vực Hoàng Hà, phu hộ chủ yếu là người Hán từ Hà Bắc-Sơn Tây, và người Bột Hải. Danh xưng của đầu hạ châu huyện thường lấy theo danh xưng châu huyện nguyên tịch của phu hộ, như bắt dân Vệ châu thì đặt Vệ châu; bắt dân Tam Hà huyện thì đặt Tam Hà huyện, bắt dân Mật Vân châu thì đặt Mật Vân huyện. Chế độ đầu hạ quân châu đến Liêu Thánh Tông thì dần bị phế trừ.2 :33",
+        "Do Liêu là quốc gia đa dân tộc, thể chế chính trị của Liêu dung hợp thể chế Khiết Đan và thể chế Đường-Tống, hình thành Nam-Bắc viện chế. Nam-Bắc viện chế phân thành Bắc diện quan chế và Nam diện quan chế, \"lấy chế độ \"bản tộc\" chế trị Khiết Đan, lấy chế độ Hán chế đãi người Hán\", nhờ đó mà bảo hộ được văn hóa và thể chế chính trị cố hữu của người Khiết Đan.4 :48 Bắc diện quan trị lý cung trường, bộ tộc, thuộc quốc; Nam diện quan trị lý châu huyện, tô thuế, binh mã của người Hán, dựa theo tập quán mà cai trị.32 :85",
+        "Trong Bắc diện quan chế, Bắc-Nam xu mật viện là quan chế tối cao của triều Liêu, Bắc xu mật viện quản lý việc quân chính của toàn quốc, tương tự như Binh bộ thời Đường; Nam xu mật viện phụ trách các vấn đề như thuyên tuyển, thu thuế. Bên dưới Xu mật viện, còn đặt ra Bắc-Nam tể tướng phủ, Bắc-Nam tể tướng, đều do hoàng tộc Da Luật thị và hậu tộc Tiêu thị kiểm soát. Ngoài ra, còn có 'Bắc-Nam đại vương viện' quản lý công việc quân dân Khiết Đan hoặc Hán, 'Bắc-Nam tuyên huy viện' quản lý việc cung phụng của các cơ quan trong cung, 'Đại nội dịch ẩn ty' quản lý giáo dục hoàng thất, 'Di ly tất viện' quản lý hình ngục, 'Đại lâm nha viện' quản lý việc văn chương, 'Địch liệt ma đô ty' quản lý lễ nghi.36 Tên chức và nhiệm vụ của quan lại trong Nam diện quan chế tiếp nối chế độ triều Đường, đồng thời tham chiếu quan chế Ngũ Đại và Tống, đặt ra Trung thư tỉnh, Môn hạ tỉnh, Thượng thư tỉnh, Lục bộ và Đại lý tự;2 :34 có phân thành thực thụ hoặc diêu thụ (tức nhậm chức từ xa). Quan lại dựa theo ngôi bậc, công lao mà được phong tước và thực ấp hộ, cùng các hỗ trợ khác. Liêu có nhiều quan danh bằng tiếng Khiết Đan, như 'lâm nha' tức là 'hàn lâm', 'dịch ẩn' quản lý chính giáo của hoàng tộc, 'di ly tất' quản lý hình ngục, 'ất lý miễn' là 'cáo mệnh phu nhân'.2 :35",
+        "Pháp luật triều Liêu dựa theo tập quán mà trị, cho nên các địa phương sử dụng pháp luật không giống nhau. Thời kỳ đầu có sự kỳ thị dan tộc, đến thời Liêu Thánh Tông thì hình luật dành cho người Khiết Đan cũng được xét theo luật Hán, phản ánh địa vị của người Hán được tăng lên. Nhìn chung thì hình phạt thời Liêu khá nặng, song hoàng đế thường tùy ý giết người, không tuân theo pháp luật, đặc biệt là Liêu Mục Tông.2 :43",
+        "Thời Liêu, tuy lấy Thượng Kinh làm thủ đô, song hạch tâm chính trị không nằm tại thủ đô, mà nằm tại 'nại bát' (捺缽, một từ tiếng Khiết Đan có thể dịch thành 'hành doanh'). Do người Khiết Đan sống du cư không ổn định, xe và ngựa là nhà, hoàng đế phải thường xuyên tuần thú. Toàn bộ các vấn đề chính trị trọng đại đều được quyết định tại nại bát, là trung tâm hành chính xử lý chính vụ. Hoàng đế tại nơi săn bắn cho lập nên hành trướng, để phân biệt với cung trướng của hoàng đô. Tùy theo điều kiện khí hậu tự nhiên, bốn mùa lại có mỗi khu vực nại bát, tức \"Xuân nại bát\", \"Hạ nại bát\", \"Thu nại bát\", \"Đông nại bát\".2 :14",
+        "Người Khiết Đan vốn thần phục triều Đường, triều Đường thiết lập Tùng Mạc đô đốc phủ trên lãnh địa của người Khiết Đan. Sang thời vãn Đường và Ngũ Đại, người Khiết Đan lập ra quốc gia độc lập, đồng thời nhiều lần xâm nhập khu vực Hà Bắc. Những năm cuối Hậu Đường, Liêu Thái Tông tiếp nhận thỉnh cầu của Thạch Kính Đường, hiệp trợ người này kiến lập Hậu Tấn, thu được Yên Vân thập lục châu và sự thần phục của Hậu Tấn. Không lâu sau, người Khiết Đan lại nam chinh Trung Nguyên để tiêu diệt Hậu Tấn, kiến lập triều Liêu. Đến lúc này, quan hệ giữa triều Liêu và Trung Nguyên lần đầu tiên chuyển sang trạng thái triều Liêu ở trên, Trung Nguyên thần phục.4 :46 Sau đó, triều Liêu suy thoái, Hậu Chu và Bắc Tống tương kế bắc phạt nhằm đoạt lại Yên Vân thập lục châu, hai bên khôi phục cục diện đối đầu. Triều Liêu lựa chọn sách lược phòng ngự, đồng thời hỗ trợ Bắc Hán để đối kháng trước việc Trung Nguyên bắc phạt, nhiều lần chặn được cuộc tiến công của Trung Nguyên. Đến thời Liêu Thánh Tông, trải qua một thời gian chuẩn bị đầy đủ, Liêu lại một lần nữa phát động nam chinh, suất quân Liêu tiến đến Thiền châu của Bắc Tống. Cuối cùng, hai bên ký kết Thiền Uyên chi minh, Liêu và Bắc Tống thiết lập quan hệ ngoại giao nhìn chung là bình đẳng, kéo dài 120 năm, đồng thời cũng tăng cường liên hệ kinh tế và mậu dịch với nhau. Năm 1042, Liêu Hưng Tông nhân dịp Tống gặp khó khăn sau chiến tranh với Tây Hạ, suất trọng binh đến thị uy ở biên giới Liêu-Tống, đồng thời phái Tiêu Anh và Lưu Lục Phù đi sứ sang Tống yêu cầu Tống cắt 10 huyện phía nam Ngõa Kiều quan. Triều Tống phái Phú Bật đàm phán với sứ Liêu, đạt được hiệp nghị, tức Trọng Hy tăng lệ, Tống tăng số tiền và vải tặng cho Liêu hàng năm để tránh chiến tranh. Sau đó, Liêu Hưng Tông còn phái Da Luật Nhân Tiên và Lưu Lục Phù một lần nữa sang Tống yêu cầu đổi sang chứ \"nạp\", tức Tống nạp cho Liêu chứ không phải tặng. Phú Bật kiến nghị Tống Nhân Tông đáp ứng yêu cầu, đồng thời yêu cầu Liêu phải kiềm chế Tây Hạ, nhằm phá hoại quan hệ giữa Liêu và Tây Hạ, cuối cùng khiến Liêu Hưng Tông hai lần thân chinh Tây Hạ, tổn hại nhân lực vật tư.4 :36 Đến những năm cuối, triều Liêu bị triều Kim xâm nhập, cộng với nội bộ triều đình phân liệt và đấu tranh lẫn nhau, do vậy có ý muốn hòa đàm với Bắc Tống. Tuy nhiên, Bắc Tống lại thiết lập Hải thượng chi minh với Kim để cùng nhau đánh Liêu, cự tuyệt đề nghị hòa đàm của Liêu, cuối cùng Liêu bị Kim diệt.2 :12",
+        "Liêu tiêu diệt nước Bột Hải vào năm 926, từ đó có tiếp xúc với Cao Ly. Năm 942, Liêu tặng cho Cao Ly 50 con lạc đà, song bị Cao Ly Thái Tổ Vương Kiến cự tuyệt, sứ giả của Liêu bị đày ra một hòn đảo cô lập, lạc đà Liêu mang sang đều bị bỏ cho chết đói. Đến lúc này, Liêu nhiều lần tiến hành tập kích qua biên giới Cao Ly, năm 993, Liêu Thánh Tông suất đại quân vượt qua sông Áp Lục xâm nhập Cao Ly. Cuối cùng, hai bên tiến hành hòa đàm, Cao Ly đồng ý đoạn tuyệt quan hệ liên minh với Tống, Liêu Thánh Tông suất quân về bắc, hai bên kiến lập quan hệ láng giềng hữu hảo. Năm 1009, Cao Ly phát sinh binh biến, Cao Ly Mục Tông bị phế, Liêu Thánh Tông thừa cơ xâm nhập Cao Ly, sau khi đánh hạ kinh đô Khai Thành thì về bắc. Năm 1018, Liêu lại một lần nữa cho đại quân đông chinh Cao Ly, song kết quả là chiến bại. Sau đó, hai bên hòa đàm, Liêu từ đó không còn xâm nhập Cao Ly.",
+        "Liêu và các nước ở phía tây duy trì lên hệ tương đối hữu hảo. Nước láng giềng chủ yếu ở phía tây của Liêu là Tây Hạ, trong một thời gian dài duy trì quan hệ triều cống và liên hôn với Liêu, từng được gọi là \"sinh cữu chi bang\" (tức nước cháu [gọi bằng cậu]). Đối với các nước Tây Vực, Liêu có một quan hệ lâu dài. Ngay từ thời Liêu Thái Tổ, người Khiết Đan từng suất quân tây chinh, khiến các nước Tây Vực nối nhau thần phục.37 Những năm Thống Hòa, vương thái phi xuất sư Tây Vực, năm 1003 xây Khả Đôn thành,[chú thích 4], như là trọng trấn ở biên cảnh tây bắc, trải qua nhiều năm mưu hoạch phát triển, khiến phạm vi thế lực của triều Liêu bao trùm cả khu vực Mạc Nam, Mạc Bắc và Tây Vực. Đối với các bộ lạc thuộc quốc hàng phục, triều Liêu đều sử dụng chính sách ki mi \"nhân thiên chủng lạc, nội trí tam bộ\",38 khiến họ giám sát lẫn nhau, không muốn quay lưng lại phản triều đình Liêu.39 Các quốc gia Cam Châu Hồi Hột, Tây Châu Hồi Hột ở phía đông Thông Lĩnh và Khách Lạt hãn quốc ở phía tây Thông Lĩnh về cơ bản đều thân cận phụ thuộc với triều Liêu, quan hệ với Bắc Tống khá thưa thớt. Ngoài ra, năm 924, sứ giả Ba Tư đến, sang năm sau thì sứ giả Đại Thực cũng đến Liêu thông hảo, quốc vương Đại Thực khiển sứ giả là vương tử sang thỉnh hôn, song Liêu không đồng ý. Năm sau, Đại Thực lại sai sứ thỉnh hôn, Liêu Thánh Tông đem một nữ nhi trong hoàng thất gả sang Đại Thực.40",
+        "Sau khi triều Đường diệt vong, các khu vực Trung Á, Tây Á, Đông Âu xem danh xưng triều Liêu (Khiết Đan) là đại diện cho Trung Quốc. Trong binh thư Hồi giáo các nước Trung Á và Tây Á, còn gọi hỏa dược và hỏa khí từ Trung Quốc truyền sang là \"pháo hoa Khiết Đan\", \"hỏa tiễn Khiết Đan\". Cho đến ngày nay, tiếng Nga vẫn theo lối xưa, dựa theo danh xưng Khiết Đan để chỉ Trung Quốc.32 :1",
+        "Thời bình, quân đội Liêu ước tính có từ 20 vạn đến 30 vạn lính. Khiết Đan là dân tộc du mục, giỏi cưỡi ngựa bắn cung, thời bình thì chăn thả săn bắn, song cũng luyện tập quân sự, đến khi có chiến tranh thì có thể nhanh chóng tập hợp thành quân đội. Do toàn dân đều là binh, triều Liêu có thể động viên một số lượng binh lính đạt tỷ lệ cao trong tổng số nhân khẩu, là 1.642.800 người.32 :201 Do vẫn bảo lưu được đặc tính bộ tộc nguyên thủy, nhanh chóng chuyển đổi từ chế độ nô lệ sang chế độ phong kiến, chế độ quân sự của Liêu vào thời kỳ đầu cùng với chế độ xã hội hợp thành một thể. Sau khi tiến vào khu vực phía nam Trường Thành, người Khiết Đan ngoài việc bảo tồn đặc sắc dân tộc, cũng dần tiếp thụ ảnh hưởng từ người Hán, có đặc điểm dung hợp dân tộc. Thời Liêu, hoàng đế là người nắm giữ binh quyền tối cao, bên dưới đặt ra Bắc-Nam xu mật viện. Bắc xu mật viện là cơ cấu hành chính và quân sự tối cao, thường do người Khiết Đan chủ quản; Nam xu mật viện còn gọi là Hán nhân xu mật viện, quản lý việc binh mã đối với người Hán, do đó xuất hiện cục diện một triều đình có hai thể chế quân sự cùng tồn tại.2 :52",
+        "Binh chế triều Liêu phân thành Cung trướng quân, Bộ tộc quân, Kinh châu châu và Thuộc quốc quân. Cung trước quân tức Bì thất quân, được tổ thành từ các tráng đinh trứ trướng hộ, trực thuộc hoàng đế, là thân quân tộc Khiết Đan, bảo vệ hoàng thất và chinh chiến, \"lấy hành doanh làm cung, tuyển nghìn người hào kiện các bộ, đặt ra đơn vị tâm phúc\".32 :204 Bộ tộc quân chủ yếu do tráng đinh từ các bộ tộc không phải là người Khiết Đan, tổ thành, bảo vệ biên giới. Hai chủng bộ đội trên là chủ lực trong quân đội Liêu. Kinh châu quân còn gọi là Ngũ châu hương quân, được tổ thành từ các tráng đinh các dân tộc Hán, Bột Hải ở các châu huyện. Thuộc quốc quân được tổ thành từ tráng đinh của các nước thần thuộc. Hai chủng bộ đội sau là lực lượng phụ trợ trong quân đội Liêu.2 :51 Vào thời Liêu sơ, tất cả nam giới quý tộc của Liêu đều phục binh dịch, từ 15-50 tuổi thì bị liệt tịch chính quân, tự trang bị binh khí và chiến mã.[44] Liêu đồng thời cũng thường phái quân đi cướp đoạt vật tư ở vùng biên giới, bị gọi là đả thảo cốc.41 Quân đội Liêu lấy kị binh làm chủ yếu, vũ khí có cung tên và đao thương. Đến hậu kỳ, do có máy bắn đá từ Tống truyền sang, sắp xếp hình thành pháo thủ quân.2",
+        "Khiết Đan vốn là dân tộc du mục, săn bắn đánh cá làm thức ăn, lấy da lông làm y phục, dẫn ngựa tìm nguồn nước và cỏ, uống sữa của chúng. Các nhược điểm về kinh tế của dân tộc du mục nói chung đã được giải quyết trước khi người Khiết Đan lập quốc. Họ tạo ra các ốc đảo trong doanh trại ở khu vực du mục, đưa dân tộc trồng trọt di cư đến đó. Tổ phụ, cha và bá phụ của Liêu Thái Tổ là những người truyền nhập nông nghiệp và thủ công nghiệp đến người Khiết Đan, người Khiết Đan cũng tiếp thu nghề xe sợi dệt vải. Các địa phương của Liêu đều đặt ra 'quần mục sứ ty' để quản lý chăn nuôi gia súc. Hoàng đế Liêu khiến cho nông nghiệp và mục nghiệp cùng phát triển phồn vinh, lập ra một thể chế quản lý độc đáo tương đối hoàn chỉnh.2 :64",
+        "Trong lãnh địa của Liêu, có nhiều loại nông sản, như lúa mạch, lúa gạo, lúa nếp, ngoài ra còn có rau dưa và hoa quả. Người Liêu học theo kỹ thuật nông nghiệp của Trung Nguyên, đưa vào các giống cây trồng từ Trung Nguyên, giống dưa hấu và đậu Hồi Cốt từ Hồi Hột; kết hợp với đặc điểm khí hậu phương bắc mà hình thành kỹ thuật vun trồng độc đáo. Đất đai triều Liêu có hai loại là công điền và tư điền. Tại vùng ven biên giới, Liêu cho thiết lập các đồn điền, về bản chất là công điền. Đất đai nhàn rỗi của quan lại mộ dân trồng cấy thì cũng được tính là công điền, bách tính gieo trồng sau 10 năm thì phải nộp tô thuế cho triều đình. Ước tính, đồn điền phần nhiều tập trung tại vùng ven biên giới phía bắc, tư điền lại tập trung nhiều ở vùng ven biên giới phía nam. Người Hán ở Liêu vẫn còn phương pháp sản xuất nam cày cấy, nữ dệt vải để duy trì thu nhập gia đình. Đồng thời, những người Hán bị quân Khiết Đan bắt trong chiến tranh bị cho đi an trí tại khu vực nội địa của người Khiết Đan, lập ra rất nhiều 'đầu hạ quân châu'. Trừ một phần nhỏ phải nộp lên trên, thu nhập còn lại đều quy về sở hữu của 'đầu hạ chủ'. Để khuyến khích nhân dân khai khẩn đất hoang, triều đình Liêu lập lệ rằng nếu khai khẩn đất ruộng thành công thì sẽ được miễn tô thuế trong 10 năm, hình thành nền kinh tế nông mục hỗn hợp đặc hữu Khiết Đan.42 :125 Vào năm mất mùa đói kém, triều đình Liêu cũng giảm miễn thuế, như tháng 1 năm 991 thời Liêu Thánh Tông \"chiếu miễn tô thuế các đạo ở tam kinh\".43 Tháng chín năm 1075 thời Liêu Đạo Tông \"do Nam Kinh có nạn đói, miễn tô thuế một năm, xuất tiền lúa cứu giúp\".44 Triều Liêu cho cư dân sản xuất nông nghiệp biên nhập vào châu huyện, bao gồm nông dân tự canh có ít ruộng và điền hộ sống dựa vào đất đai của địa chủ. Bất kể địa vị kinh tế, họ đều là dân tự do được tính vào hộ khẩu quốc gia, đồng thời cũng có trách nhiệm lao dịch cho quốc gia. Điền hộ của chùa miếu phần nhiều là do địa chủ hay quan lại chuyển tặng cùng với đất đai, họ phải nộp thuế cho quốc gia và nộp tô cho chùa miếu.2 :65",
+        "Súc mục nghiệp thời Liêu rất phát đạt, kinh tế mục nghiệp của người Khiết Đan có được sự phát triển khá lớn.45 Mục nghiệp là kế sinh nhai của người Khiết Đan, cũng là nguồn gốc khiến triều Liêu có vũ lực cường thịnh. Đương thời, từ phía bắc Âm Sơn đến lưu vực Lô Cù Hà, Thổ Hà, Hoàng Thủy đến Thát Lỗ Hà, Ngạch Nhĩ Cổ Nạp Hà luôn có các mục trường tốt. Các bộ lạc Khiết Đan và phụ thuộc như Trở Bốc, Ô Cổ, Địch Liệt, Hồi Cốt, Đảng Hạng chủ yếu tham gia vào du mục nghiệp. Dê, ngựa là tư liệu sinh hoạt chủ yếu của các dân tộc du mục như Khiết Đan: sữa và thịt là thực phẩm, da lông dùng làm trang phục và chăn, ngựa và lạc đà là công cụ giao thông trọng yếu. Trong chiến tranh và săn bắn, ngựa là công cụ không thể thiếu của người dân du mục, nhiều hộ người Hán cũng nuôi gia súc ít nhiều để cạnh tranh. Dê và ngựa cũng là những thứ mà triều đình Liêu trưng thu hoặc là cống phẩm từ các bộ lạc Khiết Đan cùng các thuộc quốc và thuộc bộ, là nguồn thu nhập quan trọng của triều Liêu, do vậy được tập đoàn thống trị xem trọng. Người Khiết Đan được tổ chức thành các bộ lạc và thạch liệt, tại bộ lạc thì nằm dưới sự quản lý của thủ lĩnh, được phân đất để sản xuất mục nghiệp, chịu phú dịch của bộ lạc và quốc gia, nếu không được triều đình và thủ lĩnh bộ lạc cho phép thì không thể tùy ý thoát ly khỏi bộ lạc gốc. Họ là người lao động chủ yếu trong sản xuất mục nghiệp, là thuộc dân của quý tộc bộ lạc.2 :66",
+        "Ngành luyện sắt thời Liêu phát triển,46 47 Các công cụ nông nghiệp, nấu ăn, mã cụ, thủ công làm bằng sắt khai quật được của triều Liêu ngang bằng với sản phẩm của Trung Nguyên. Liêu Đông là khu vực sản xuất sắt chủ yếu của triều Liêu, xúc tiến nghề luyện sắt của triều Liêu phát triển. Vào thời kỳ đầu, từng lấy nô lệ của 'hoành trướng' và đại tộc đặt ra 'hạt thuật thạch liệt', tham gia công việc rèn luyện sắt, 'hạt thuật' tức là sắt trong tiếng Khiết Đan. 'Hạt thuật thạch liệt' vào thời Liêu Thánh Tông do hộ khẩu đông và quan hệ sản xuất thay đổi, cải biên thành bộ, vẫn lấy sắt làm thuế. Thời Liêu, có ba nơi luyện sắt tại Thủ Sơn, Tam Truất Cổ Tư, Liễu Thấp Hà. Trong đó, Thủ Sơn nay thuộc An Sơn của Liêu Ninh, hoạt động khai mỏ và luyện kim ở đây bắt đầu từ thời Liêu2 :69",
+        "Đồ sứ Liêu có địa vị quan trọng trong lịch sử phát triển của gốm sứ Trung Quốc, tạo hình đồ sứ có thể phân thành hai loại là kiểu Trung Nguyên và kiểu Khiết Đan; kiểu Trung Nguyên phỏng theo cách nung tạo ở Trung Nguyên, có các loại bát, mâm, chén, đĩa, hộp hay bình; kiểu Khiết Đan phỏng theo tập quán bản tộc, sử dụng cách nung tạo dùng bì hay gỗ, làm ra các vật dụng bình, nậm, khay, đĩa với tạo hình độc đáo.48 Lò Hang Ngõa Diêu là di chỉ lò nung đồ sứ cổ lớn nhất đời Liêu được biết đến cho tới nay, có thể sản xuất ra đồ sứ men trắng, men đơn, tam thải cũng như các đồ sứ để dùng trong cung đình.48 Các ngành thủ công nghiệp như mạ vàng bạc, nhuộm dệt, tạo mã cụ, làm đồ sứ, làm giấy đều hoàn bị, công nghệ tinh thâm.48 \"Yên ngựa Khiết Đan\" cùng với \"nghiên Đoan\", \"gấm Thục\", \"sứ Định\" thậm chí được người Bắc Tống bình là \"thiên hạ đệ nhất\".49 Khi khai quật các mộ quý tộc như \"Mộ Trần quốc công chúa và phò mã\", \"mộ Da Luật Vũ Chi\", phát hiện được những đồ bằng vàng và bạc tinh xảo đạp đẽ, phản ánh nét đặc sắc dân tộc và trình độ công nghệ cao độ của người Khiết Đan.48",
+        "Với việc nông, mục, thủ công nghiệp phát triển, hoạt động trao đổi ngày một thường xuyên. Ngay từ thời Thái Tổ Da Luật A Bảo Cơ, người Khiết Đan đã xây dựng 'dương thành' ở bắc Thán Sơn, \"lập các vụ để thông các dòng giao dịch\". Về sau, lãnh thổ được mở rộng, thành phần kinh tế gia tăng, thương nghiệp tiếp tục phát triển hơn nữa. Sau khi Ngũ Kinh của Liêu được xây dựng hoàn tất, chúng trở thành các thành thị thương nghiệp trọng yếu của quốc gia.2 :75 Giao lưu kinh tế giữa Liêu với các quốc gia và bộ tộc xung quanh phần nhiều tiến hành theo phương thức triều cống và hỗ thị. Do thương nghiệp phát triển, trong lãnh thổ Liêu xuất hiện tầng lớp thương nhân giàu có, họ buôn bán ở các châu huyện Ngũ Kinh hoặc qua lại giữa Liêu với các nước Ngũ Đại rồi Tống, thậm chí còn trở thành sứ thần đại diện cho Liêu xử sự việc giao thiệp, như thời Liêu Thái Tông, Hồi đồ sứ Kiều Vinh buôn bán ở Hậu Tấn, là đại diện cho thương nghiệp mậu dịch của Liêu, đồng thời cũng có thể đóng vai trò là sứ thần để cùng Hậu Tấn giao thiệp chính vụ. Quy Hóa châu ở Tây Kinh có Hàn Sư Huấn, cũng là thương nhân giàu có một phương.2 :76",
+        "Thời Liêu, vật giá rất thấp, mặc dù có thuế muối và thuế rượu, song mức thuế ở các địa phương không giống nhau. Thương nghiệp mậu dịch phồn vinh xúc tiến kinh tế tiền tệ phát triển. Căn cứ theo tài liệu chép lại, vào thời cha của Da Luật A Bảo Cơ là Da Luật Tát Lạt Đích, người Khiết Đan bắt đầu đúc tạo tiền tệ. Tuy nhiên, lượng tiền tệ sử dụng không nhiều, sang thời Liêu Thế Tông, Thượng Kinh vẫn ở trong trạng thái giao dịch dùng vải làm trung gian. Các địa phương cũng dùng tiền tệ không giống nhau, như vào trước thời Thánh Tông thì tiền Liêu cực ít, sau thời Thánh Tông mới dần nhiều lên, song trong lưu thông tiền tệ, chúng vẫn chiếm số lượng rất ít, không đạt 2%, chủ yếu là tiền Tống và tiếp đến là tiền Đường, Ngũ Đại và tiền các triều khác; về giao dịch đối ngoại, chủ yếu là giao dịch các mặt hàng bổ sung cho nhau ở 'các trường' tại biên cảnh với Tống và Tây Hạ. Ngoài ra, Liêu cũng có qua lại mậu dịch với Nhật Bản, Cao Ly, đế quốc Abbas, Rus Kiev, Khách Lạt hãn quốc.42 :150",
+        "Sau khi tiêu diệt Bột Hải, một lượng lớn cư dân Bột Hải còn lại tụ cư ở các châu huyện tại khu vực Thượng Kinh và Đông Kinh của Liêu, nền văn hóa Bột Hải khá tiên tiến có tác động tương đối rộng đối với văn hóa Liêu. Sau khi chiếm cứ Yên Vân thập lục châu của người Hán và qua lại thường xuyên với Tống, cũng như mậu dịch xuyên biên giới, văn hóa Hán có ảnh hưởng rất lớn đối với triều Liêu. Với việc có một lượng lớn thư tịch Hán văn được phiên dịch, các thành tựu khoa học-kỹ thuật, văn học, sử học của nhân dân Trung Nguyên được giới thiệu đến khu vực thảo nguyên, xúc tiến sự phát triển văn hóa của dân tộc du mục. Hoàng thất Liêu và quý tộc Khiết Đan thường ngưỡng mộ văn hóa Hán, như Liêu Thái Tổ sùng bái Khổng Tử, trước sau cho lập quốc tử giám tại Thượng Kinh, lập trường học ở các phủ châu huyện, để truyền thụ học thuyết Nho gia, cũng lập miếu thờ Khổng Tử; Liêu Thánh Tông thường đọc \"Trinh Quán chính yếu\", Liêu Đạo Tông thích xem \"Luận ngữ\". Thời Liêu Đạo Tông, người Khiết Đan tự xưng \"chư hạ\", Đạo Tông còn nói \"Ngô tu văn vật, bân bân bất dị Trung Hoa\".50 Trên phương diện giáo dục, thi hành chính sách mở trường nuôi học trò, khoa cử chọn kẻ sĩ.2 :104",
+        "Văn nhân triều Liêu đã sử dụng văn tự ngôn ngữ Khiết Đan trong sáng tác, cũng có một lượng lớn dùng ngữ văn Hán. Tác phẩm của họ thuộc các thể loại như thơ, từ, ca, phú, văn, tấu chương, thư; với các loại đề tài như thuật hoài, giới dụ, phúng gián, tự sự. Các tác giả bao gồm thành viên hoàng tộc, quần thần, người các bộ và trứ trướng (phạm tội bị thu gia sản). Thơ từ Khiết Đan trong câu có khí thế mênh mông, cũng có lời hay ý đẹp. Liêu Hưng Tông là người giỏi thơ văn, năm 1050 sứ Tống là Triệu Khái sang Liêu, Liêu Hưng Tông ngâm \"tín thệ như sơn hà thi\". Trong số các hoàng đế Liêu, Liêu Đạo Tông có kiến thức cao nhất về văn học, giỏi thư phú, tác phẩm tươi mới nhã lệ, ý cảnh sâu xa, có \"đề lý nghiễm hoàng cúc phú\". Đông Đan hoàng vương Gia Luật Bội sáng tác \"Lạc điền viên thi\", \"Hải thượng thi\". Ba huynh đệ Gia Luật Quốc Lưu, Gia Luật Tư Tông, Gia Luật Chiêu đều giỏi thuộc văn, công từ, Gia Luật Quốc Lưu có \"Thố phú\" (Phú về thỏ), \"Ngụ mị ca\"; Gia Luật Tư Tông đi sứ sang Cao Ly song bị giữ lại, trong thời gian đó cứ hễ nhớ đến quân chủ và phụ mẫu thì lại có sáng tác, sau biên thành \"Tây đình tập\". Hoàng hậu của Liêu Đạo Tông là Tiêu Quan Âm sáng tác \"Gián liệp sơ\", \"Hồi tâm viện\", và \"Quân thần đồng chí Hoa Di đồng phong\", biểu đạt quan tâm đến an nguy của xã tắc, lý tưởng chính trị trí chủ trạch dân (tận lực vì vua, ban ân huệ cho dân). Tác phẩm của người Liêu lưu truyền đến nay có Phân tiêu lục\" của Vương Từ, \"Túy nghĩa ca\" của Tự Công đại sư. \"Túy nghĩa ca\" sáng tác bằng ngôn ngữ Khiết Đan, có dịch văn của Gia Luật Lý thời Kim, song bản gốc và bản dịch văn của Gia Luật Lý đều thất truyền, chỉ còn bản dịch chữ Hán của con của Gia Luật Lý là Gia Luật Sở Tài.2 :148",
+        "Về phương diện thư mục, triều đình Liêu đặt ra 'quốc sử viện', chuyên tu chỉnh lịch sử, đặt chức quan 'giám tu quốc sĩ', 'sử quán học sĩ'. Cơ quan này từng soạn viết khởi cư chú, nhật lịch, thực lục, quốc sử, cũng phiên dịch không ít thư tịch của người Hán sang văn tự Khiết Đan, như Ngũ Đại sử. Trong đó, thực lục viết vào thời Liêu là một trong các tài liệu chủ yếu để Thoát Thoát thời Nguyên soạn viết ra Liêu sử.2 :139",
+        "Về phương diện ngôn ngữ văn tự, tiếng Hán và tiếng Khiết Đan đều thông hành, có không ít văn thư được viết bằng cả hai loại văn tự. Thời Liêu, còn xuất hiện việc vì phục vụ đệ tử Phật giáo học tập kinh Phật mà biên soạn ra tự điển chữ Hán \"Long kham thủ kinh\". Văn tự Khiết Đan được sáng chế ra trên cơ sở tham chiếu từ Hán tự, dùng để ghi lại tiếng Khiết Đan, phân thành hai hình thức Khiết Đan đại tự và Khiết Đan tiểu tự, song hiện còn thiếu các văn hiến tương tự như vậy. Khiết Đan đại tự tương truyền bắt nguồn từ năm 920, do Liêu Thái Tổ hạ lệnh cho Gia Luật Đột Lã Bất và Gia Luật Lỗ Bất Cổ tham chiếu chữ Hán mà sáng chế, có thể có hơn ba nghìn chữ; Khiết Đan tiểu tự được tạo thành do em của Liêu Thái Tổ là Gia Luật Điệt Lạt tham khảo Hồi Cốt văn mà cải biến đại tự. Khiết Đan tiểu tự là loại chữ ghép vần, ước tính có 500 ký hiệu phát âm, so với đại tự thì khá tiện lợi, chữ gốc tuy ít song lại có thể biểu đạt thông suốt toàn bộ tiếng Khiết Đan. Việc người Khiết Đan sáng tạo ra chữ viết thể hiện tinh thần tự giác dân tộc mạnh mẽ, có ảnh hưởng không nhỏ đối với các dân tộc khác, như văn tự Đảng Hạng của Tây Hạ, văn tự Nữ Chân của Kim, văn tự Bát Tư Ba của Nguyên.4 :49 Chữ Khiết Đan được thông hành cho đến năm 1191, khi nó bị Kim Chương Tông Hoàn Nhan Cảnh phế trừ.2 :97",
+        "Thời Liêu, Phật giáo và Tát Mãn giáo là những tôn giáo chính, ngoài ra còn có tục thờ cúng tổ tiên Khiết Đan và tín ngưỡng dân gian.2 :131 Tín ngưỡng dân tộc gồm thờ phụng Mộc Diệp Sơn, thờ phụng trời đất2 :129 bái thần mặt trời,51 bái thần núi52 . Thờ phụng Mộc Diệp Sơn được cho là bắt nguồn từ khi thủy tổ Khiết Đan xuất hiện và tám bộ Khiết Đan nổi lên, với bối cảnh văn hóa Tát Mãn giáo.53 Người Khiết Đan cho xây dựng miếu tổ Khiết Đan ở Diệp Mộc Sơn để tế bái thủy tổ,[chú thích 5] cuối cùng phát triển thành 'sài sách nghi' của hoàng thất Liêu.",
+        "Phật giáo Liêu về cơ bản kế thừa giáo học Phật giáo thời thịnh Đường.4 :75 Khi Đường Vũ Tông phát động sự kiện diệt Phật, các phiên trấn ở Hà Bắc không nghe theo, do vậy một lượng lớn tăng lữ và văn vật Phật giáo di chuyển đến khu vực Hà Bắc, khiến cho văn hóa Phật giáo tại địa phương phát triển.2 :132 Năm 902, ở Long Hoa châu dựng Khai Hóa tự, được xem là điểm khởi đầu của Phật giáo truyền bá đến người Khiết Đan. Năm 918, chùa Phật giáo cũng được dựng ở Thượng Kinh của Liêu, Phật giáo dần được người Khiết Đan tin theo và sùng bái. Sau khi Liêu diệt Bột Hải vào năm 926, cho bắt hàng chục tăng nhân Bột Hải đến Thượng Kinh, cũng cho xây chùa Thiên Hùng. Kể từ đó, các kinh và các châu huyện cũng nối tiếp xây dựng chùa miếu. Sau khi Liêu đoạt được Yên Vân thập lục châu vào năm 938, vùng đất này dần phát triển thành trung tâm văn hóa Phật giáo của Liêu, đến cuối thời Liêu thì \"số tăng lữ, Phật tự đứng đầu phương bắc\". Liêu Thái Tông và các hoàng đế Liêu thi hành chính sách bảo hộ Phật giáo, tôn sùng Phật giáo, khiến cho Phật giáo đại thịnh. Thời Liêu Hưng Tông, tăng nhân Hải Sơn ở chùa Hải Vân trên đảo Giác Hoa có quan hệ rất tốt với hoàng đế.54 Liêu Đạo Tông từng dùng thơ khen ngợi Phật pháp \"hành cao phong đính tùng thiên xích, giới tịnh thiên tâm nguyệt nhất luân\". Với việc Phật giáo được truyền bá, do hoàng đế hạ lệnh, chùa miếu khảo xét lại, khắc in kinh Phật và chép kinh cá nhân, hoạt động tập hợp tài liệu, khắc kinh và in kinh do vậy rất tích cực. Trong tượng Phật ở Ứng huyện mộc tháp tại Sơn Tây phát hiện được kinh Phật và tranh Phật; ở chùa Thiên Bảo tại Phong Nhuận của Hà Bắc phát hiện được kinh Phật; trong tháp xá lợi Phật Thích Ca ở kỳ Ba Lâm Hữu của Nội Mông phát hiện được kinh Phật; có thể nói là kho báu của nghệ thuật Phật giáo.2 :137 Triều Liêu hoàn thành thạch khắc các điển tịch Phật giáo chủ yếu, đầu tiên là \"Đại bàn nhược kinh\", đến thời Liêu Hưng Tông thì xuất bản \"Khiết Đan đại tạng kinh\", địa vị chỉ đứng sau \"Thục bản đại tạng kinh\" khai bản vào thời Tống Thái Tổ, có địa vị quan trọng trong lịch sử điển tịch Phật giáo.4 :74",
+        "Đạo giáo và tư tưởng Đạo gia có tác động nhất định đối với người Khiết Đan. Đầu thời Liêu, trong số những người Hán chuyển đến thảo nguyên, có một số người tin theo Đạo giáo. Thượng Kinh có Thiên Trường quán, Trung Kinh có Thông Thiên quán, một số châu thành cũng có nhiều đạo sĩ và đạo quán. Một số người thuộc thượng tầng Khiết Đan và bộ dân Khiết Đan cũng tin theo Đạo giáo. Liêu Thánh Tông đối với Đạo giáo và Phật giáo đều có sự quan tâm,55 hoàng đệ Da Luật Long Dụ còn là một tín đồ ngoan đạo của Đạo giáo.56 Một số đạo sĩ thượng tầng của Đạo giáo được Hoàng đế đối đãi theo lễ nghi tương đồng với tầng lớp thượng tầng của Phật giáo. Liêu Thánh Tông cùng từng trao cho đạo sĩ Phùng Nhược Cốc chức Thái tử trung doãn. Sự truyền bá của Đạo giáo cũng dẫn đến việc nghiên cứu kinh điển Đạo giáo, thời Liêu sớ đạo sĩ Lưu Hải Thiền soạn viết \"Hoàn đan phá mê ca\" và \"Hoàn kim thiên\", Da Luật Bội dịch \"Âm phù kinh\"; sang thời Liêu Thánh Tông thì Trương Văn Bảo người Vu Điền từng dâng \"Nội đan thư\", còn trong \"Túy nghĩa ca\" của Tư Công đại sư cũng có lẫn tư tưởng Đạo giáo.2 :138",
+        "Hồi giáo cũng hiện diện tại Liêu, chủ yếu là thông qua Tây Vực, truyền bá sang phía đông từ Khách Lạt hãn quốc bị Hồi hóa. Năm 996, học giả Ả Rập Nazaruddin nhập triều làm quan cho Liêu, liền cho xây Ngưu Thai lễ bái tự ở Nam Kinh của Liêu (tức Bắc Kinh ngày nay).57 Sau này, hoàng đế Tây Liêu chọn áp dụng chính sách khoan dụng, phục đãi Hồi giáo, khiến Hồi giáo tiếp tục phát triển tại Tây Vực.",
+        "Tác phẩm hội họa triều Liêu có giá trị cao về nghệ thuật, người Khiết Đan giỏi về vẽ phong cảnh thảo nguyên và nhân vật cưỡi ngựa bắn cung, xuất hiện không ít họa gia có thành tựu xuất chúng, sáng tác ra một lượng lớn tác phẩm hội họa ưu tú. Nhiều tác phẩm của Gia Luật Bội và phụ tử họa gia nổi tiếng là Hồ Côi và Hồ Kiền được đưa vào nội phủ Bắc Tống, được khen là \"thần phẩm\". \"Xạ kỵ đồ\" của Gia Luật Bội, \"Trác hiết đồ\" của Hồ Hoàn, \"Thu lâm quần lộc đồ\" hay \"Đan phong u lộc đồ\" của tác giả vô danh, là các bức họa nổi tiếng, quý báu về mặt nghệ thuật. Ngoài ra, còn có các tác phẩm tương đối có tiếng: Gia Luật Phòng từng hai lần đi sứ sang Tống, sau chỉ một lần gặp Tống Nhân Tông liền có thể vẽ được tranh chân dung giống như thật. Tiêu Dung căn cứ theo \"Hội sự bị khảo\" thì \"thích đọc sách, thân bút mực, đặc biệt là giỏi hội họa...\". Ngu Trọng Văn căn cứ theo \"Đồ hội bảo giám\" ghi lại thì giỏi vẽ người ngựa, mặc trúc. Ngoài ra, những người giỏi vẽ tranh còn có Da Luật Đề Tử, Tần Tấn quốc phi Tiêu thị thuộc quý tộc Khiết Đan, người Hán có Trần Thăng, Thường Tư Ngôn hay Ngô Cửu Châu.2 :166",
+        "Tác phẩm điêu khắc có đao pháp đầy khí lực, sống động như thật. Nghệ thuật kiến trúc chủ yếu thể hiện ở tháp chùa Phật giáo. Giác Sơn tự tháp ở Linh Khâu thuộc Sơn Tây, Thiên Ninh tự táp ở Bắc Kinh, Liêu Dương Bạch tháp, Tích Mộc Thành Kim tháp ở Hải Thành của Liêu Ninh có tạo hình mỹ quan, là đại diện kiệt xuất của kiểu tháp mật diêm, là kiểu tháp lưu hành phổ biến nhất vào thời Liêu. Trong Quan Âm các thuộc Độc Lạc tự ở huyện Kế của Thiên Tân mang ưu điểm kiến trúc của cả triều Đường và triều Tống, mang dáng vẻ hùng cường tráng lệ.2 :92",
+        "Triều Liêu sử dụng văn tự Khiết Đan trong khắc đá, với hai loại là đại tự và tiểu tự, thông thường phân thành bia ghi công, kiến miếu ký, ai sách văn, mộ chí minh, đề ký. Tác phẩm khắc đá bằng Khiết Đan đại tự có: \"Liêu Thái Tổ kỷ công bi\", \"Đại Liêu đại hoành trướng Lan Lăng quận phu nhân kiến Tĩnh An tự bi\", \"Gia Luật Diên Ninh mộ chí\", \"Tiêu Hiếu Trung mộ chí minh\", \"Cố thái sư minh thạch ký\", \"Bắc đại vương mộ chí\". Trong đó, \"Bắc đại vương mộ chí\" (cũng gọi là \"Gia Luật Vạn Tân mộ chí\") có thể chữ rất tinh xảo chỉnh tề, thuật lại sự tích của Gia Luật Vạn Tân, mộ chí sử dụng khắc ấn Khiết Đan đại tự và Hán tự, thêm vào đó số chữ khắc có nhiều nên mộ chí này có ích cho việc nghiên cứu Khiết Đan đại tự.2 :169",
+        "Tản nhạc triều Liêu chịu ảnh hưởng sâu sắc của triều Đường và Hậu Tấn, trên cơ sở đó, dung hợp với nghệ thuật dân tộc Khiết Đan, tạo ra một loại hình thức tương tự như âm nhạc cung đình. Trong Liêu sử, có ghi lại nhạc khí diễn tấu, với: tất lật, tiêu, địch, sanh, tì bà, ngũ huyền, không hầu, tranh, phương hưởng, chi cổ, đệ nhị cổ, đệ tam cổ, yêu cổ, trống lớn và phách bản. Tản nhạc do 12 người hợp thành, là một đội ngũ biểu diễn hoàn chỉnh. Đội nhạc xếp thành hai hàng, người thứ ba ở hàng trước là một vũ công lùn, nhảy múa theo nhịp điệu.2 :157",
+        "Xã hội và phong tục Khiết Đan vốn không giống như người Hán, triều Liêu thống trị người Hán tại Yên Vân thập lục châu cũng giống như triều đình Trung Nguyên; người Khiết Đan ở phương bắc thì sinh hoạt theo tục cũ; ở khu vực hòa trộn dân tộc thì xuất hiện hình thái hỗn hợp. Người Khiết Đan có nhiều lễ nghi như bái nhật, sài sách, tái sinh, tế sơn, xạ quỷ tiễn. Người Khiết Đan có phương thức sinh hoạt đặc biệt là \"nại bát\" bốn mùa, hoàng đế Liêu mang theo bá quan chính quyền trung ương, một năm bốn mùa đến các địa phương tuần thú, lều cung được dựng tại địa phương là \"nại bát\". Ngoài ra, còn có các tập quán sinh hoạt như \"đầu ngư yến\", \"đầu nga yến\". Văn hóa ẩm thực Khiết Đan tương ứng với điều kiện địa phương, có mứt, quả khô, là dùng mật ngâm tẩm quả để bảo quản được lâu, đặc sản mơ khô của Bắc Kinh ngày nay là kế thừa phương pháp làm quả khô từ thời Liêu.[62]:161",
+        "Trong sinh hoạt thường ngày, người Khiết Đan với truyền thống dân tộc Bắc Á, phần lớn dùng áo làm từ da dê cáo, còn quan lại quý tộc thì chủ yếu mặc áo làm từ da chồn, đồng thời cũng mặc đeo phục sức tơ lụa, trang sức kết hợp tương đối nhiều. Uống rượu ăn thịt là việc phổ biến đối với người Khiết Đan họ sống chủ yếu trong lều, cũng có người cư trú trong cung thất. Đấu vật, đá cầu, thi săn bắn, cờ vây, cờ tào cáo đều là những hoạt động trong lúc rảnh rỗi của người Khiết Đan. Về phong tục theo mùa, người Khiết Đan và Hán đều có, song tập quán xưa của người Khiết Đan là chính, như vào ngày Nguyên Đán thì lấy gạo non và tủy dê trắng để làm bánh, ngày mùng bảy tháng giêng thì nhân dịp 'nhân nhật' mà ăn bánh rán và gọi là 'huân thiên bính' (bánh hương trời). Ngoài ra, người Khiết Đan còn coi trọng Trung Hòa, Thượng Tị, Đoan Ngọ, Hạ Chí, Trung Nguyên, Trung Thu, Trùng Cửu, Đông Chí, các ngày tết này đều từ Trung Nguyên truyền đến một cách trực tiếp hoặc gián tiếp, phong tục nhìn chung là tương đồng. Tuy nhiên, một số tiết mặc dù có tên tương đồng song bảo lưu phong tục và nghi thức vốn có của người Khiết Đan.[62]:162",
+        "Vào thời kỳ đỉnh cao, ước tính Liêu có khoảng 750.000 người Khiết Đan và từ hai đến ba triệu người Hán.58",
+        "Tầng lớp tinh hoa người Hán có một vị trí nổi bật bên cạnh giới tinh hoa Khiết Đan, như những người mang họ Hàn (韓) là những người bị quân Khiết Đan bắt từ Ký châu và hậu duệ của họ, họ bị Khiết Đan hóa hoàn toàn về mặt ngôn ngữ và văn hóa, phục vụ trên các cương vị quân sự và chính trị cho triều đình Liêu cùng với các gia tộc người Hán bị Khiết Đan hóa khác. Sự trung thành của người Hán tại Liêu đối với các hoàng đế Khiết Đan khiến cho triều Tống thất vọng. Phụ nữ Khiết Đan xuất thân từ hậu thị (Tiêu) gả cho các gia đình người Hán. Hàn Đức Nhượng là một quan lại người Hán, ông có quan hệ gần gũi với hoàng tộc Khiết Đan, tổ tiên của ông phục vụ cho Liêu từ thời Gia Luật A Bảo Cơ, thậm chí theo truyền thuyết ông còn có quan hệ tình ái với Thái hậu Tiêu Xước.",
+        "Địa vị của phụ nữ Liêu rất khác nhau, so với người Hán thì người Khiết Đan có quan điểm bình đẳng hơn đối với phụ nữ. Người Hán tại Liêu không bị ép buộc phải theo phong tục Khiết Đan, và trong khi một số người bị Khiết Đan hóa, nhiều người còn lại thì không.59 Không giống như xã hội Hán, mà theo đó có sự tách biệt nghiêm ngặt về trách nhiệm của mỗi giới, và đặt phụ nữ trong một vai trò hết sức phụ thuộc vào nam giới, phụ nữ Khiết Đan ở Liêu được làm nhiều nhiệm vụ tương tự như nam giới Khiết Đan.60 Phụ nữ Khiết Đan được dạy cách săn bắn, quản lý đàn gia súc, tài chính hay tài sản khi chồng của họ ở ngoài chiến trường.60 61 62 Phụ nữ thượng tầng Khiết Đan có thể nắm giữ các chức vụ trong chính quyền và quân đội.62",
+        "Quyền tự do tình dục của người Khiết Đan cũng hoàn toàn trái ngược với người Hán, song phụ nữ thuộc thượng tầng Khiết Đan cũng phải tuân theo các cuộc hôn nhân sắp xếp như phụ nữ thượng tầng người Hán, trong một số trường hợp là vì mục đích chính trị.63 64 Tuy nhiên, phụ nữ hạ đẳng của người Khết Đan không phải tuân theo các cuộc hôn nhân sắp đặt, họ sẽ thu hút nam giới cầu hôn bằng cách hát và nhảy múa. Các bài hát như là lời tự giới thiệu, nữ giới kể về vẻ đẹp của họ, vị thế gia đình, và kỹ năng nội trợ. Trinh tiết không phải là một yêu cầu trong hôn nhân của người Khiết Đan, và nhiều phụ nữ Khiết Đan lạm giao trước khi kết hôn, tương phản rõ rệt với suy nghĩ của người Hán.63 Phụ nữ Khiết Đan có quyền ly dỵ chồng và có thể tái hôn sau khi ly dị.62",
+        "Bắt cóc nữ giới đã đến tuổi kết hôn phổ biến dưới thời Liêu, theo đó nam giới Khiết Đan thuộc tất cả các tầng lớp xã hội đều tham gia vào hoạt động này, những người bị bắt cóc có thể là người Khiết Đan và Hán. Trong một số trường hợp, đây là một bước trong quá trình tán tỉnh, nơi người nữ sẽ đồng ý với một vụ bắt cóc và tiến tới hành vi giao cấu, và sau đó người bắt cóc và bị bắt cóc sẽ trở về ngôi nhà của người nữ để thông báo ý định kết hôn của họ. Quá trình này được gọi là bái môn (拜門). Trong các trường hợp khác, các vụ bắt cóc là không liên ứng và kết quả là một vụ hiếp dâm.65",
+        "Tại Liêu, phong tục hứa hôn được nhìn nhận quan trọng ngang, nếu không là hơn, so với kết hôn, và sẽ khó khăn nếu muốn hủy bỏ. Chú rể sẽ cam kết làm việc ba năm trong gia đình cô dâu, và phải trả sính lễ, cho gia đình cô dâu nhiều quá tặng. Sau ba năm, chú rể được phép đưa cô dâu trở về nhà mình, và cô dâu thường sẽ cắt đứt mọi quan hệ với gia đình của cô.66 Phong tục kết hôn của người Khiết Đan cũng khác biệt nhiều so với người Hán. Đàn ông Khiết Đan thuộc tầng lớp ưu tú có xu hướng kết hôn với những phụ nữ lớn tuổi hơn họ, và thường xảy ra trường hợp vợ lớn tuổi hơn nhiều so với chồng. Trong hoàng tộc Da Luật, độ tuổi kết hôn trung bình (lần đầu) của nam giới là 16, trong khi độ tuổi kết hôn trung bình của nữ giới là từ 16 đến 23. Mặc dù hiếm khi xảy ra, song cũng có các trường hợp nam giới và nữ giới kết hôn khi mới 12 tuổi.67 Người Khiết Đan có một loại chế độ đa thê đặc biệt là 'thê tỉ muội hôn', theo đó một nam giới có thể kết hôn với hai chị em hoặc nhiều hơn, được tiến hành trong tầng lớp tinh hoa của Liêu.62 68 Đa thê không bị hạn chế trong thê tỉ muội hôn, một số nam giới có ba vợ hoặc hơn nữa, và chỉ một vài trong số họ là chị em. Thê tỉ muội hôn' tiếp tục tồn tại trong suốt chiều dài của Liêu, bất chấp khi triều đình ban hành các luật cấm.68 Suốt thời Liêu, tầng lớp ưu tú của Liêu dần chuyển từ đa thê sang phong tục của người Hán là có một vợ và một hoặc nhiều thiếp.68 Điều này được thực hiện phần lớn là để cho quá trình thừa kế diễn ra êm thấm.62",
+        "Về khoa học kỹ thuật, triều Liêu đạt được một số thành tựu. Nền y dược của Liêu có danh tiếng trong một thời gian dài, danh y Liêu Trực Lỗ Cổ soạn viết \"Mạch quyết\" và \"Châm cứu thư\", phương pháp trị liệu trong đó vẫn được ứng dụng trong thực tiễn lâm sàng hiện nay. Đương thời, cũng có kỹ thuật bảo tồn thi thể phòng phân hủy, các văn hiến như \"Lỗ đình sự thực\" của Văn Duy Giản, \"Tân Ngũ Đại sử-Tứ Di phụ lục\" có ghi lại việc người Khiết Đan sử dụng phương pháp bảo tồn thi thể bằng hương dược, muối hay phèn. Năm 1981, tại kỳ Sát Cáp Nhĩ Hữu Dực Tiền của Nội Mông đã phát hiện ra xác ướp được bảo tồn khá hoàn chỉnh trong mộ thời Liêu.2 :84",
+        "Thiên văn và lịch pháp của Liêu kế thừa lịch pháp Ngũ Đại, tinh lược có cải tiến. Triều Liêu vốn sử dụng 'Điều nguyên lịch\" của Mã Trọng Nguyên thời Hậu Tấn, đến năm 995 thì dùng theo \"Đại Minh lịch\" của một quan viên Liêu là Khả Hãn châu thứ sử Giả Tuấn. Thời Liêu, các hoàng đế xem trọng việc quan trắc hiện tượng thiên văn, con người đương thời cũng cho rằng hiện tượng thiên văn và chính sự có mối liên hệ. Năm 1971, trong ngôi mộ thời Liêu ở Tuyên Hóa của Hà Bắc đã phát hiện được tinh đồ tô màu mô tả về Nhị thập bát tú và Hoàng Đạo thập nhị cung. Năm 1989, trong ngôi mộ Liêu ở Tuyên Hóa lại phát hiện hai bức tinh đồ, so với tinh đồ trước thì có thêm 12 con giáp, đều vẽ giống hình người, từ đó có thể thấy rằng thiên văn học triều Liêu đạt đến mức độ rất cao.2 :83",
+        "",
+        "",
+        "Thiên Tán (天贊) 922－926 Thiên Hiển (天顯) 926－926",
+        "Hội đồng (會同) 938－947 Đại Đồng (大同) 947",
+        "Càn Hanh (乾亨) 979－983",
+        "Khai Thái (開泰) 1012－1021 Thái Bình (太平) 1021－1031",
+        "Trọng Hy (重熙) 1032－1055",
+        "Hàm Ung (咸雍) 1065－1074 Đại Khang (大康) 1075－1084 Đại An (大安) 1085－1095 Thọ Xương (壽昌) 1095－1101",
+        "Thiên Khánh (天慶) 1111－1120 Bảo Đại (保大) 1121－1125",
+        "Khang Quốc (康國) 1134－1143",
+        "Lỗi chú thích: Đã tìm thấy thẻ <ref> với tên nhóm \u201cchú thích\u201d, nhưng không tìm thấy thẻ tương ứng <references group=\"chú thích\"/> tương ứng, hoặc thẻ đóng <\/ref> bị thiếu",
+        "(Nguồn: Wikipedia)"
+    ]
+}

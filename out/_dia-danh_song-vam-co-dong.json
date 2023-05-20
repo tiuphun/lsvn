@@ -1,0 +1,879 @@
+{
+    "tables": ["<table class=\"cquote table table-striped\" role=\"presentation\">\n <tbody>\n  <tr>\n   <td>\u201c<\/td>\n   <td>Sông Quang Hóa: cách huyện lỵ Quang Hóa chừng 1 dặm về phía Nam, là thượng lưu <a class=\"annotation\" href=\"/dia-danh/song-cuu-an\" title=\"Cửu An là một con sông nhỏ nằm trong hệ thống thủy nông Bắc-Hưng-Hải, thuộc địa phận tỉnh Hải Dương, một phần chảy theo ranh giới giữa Hải Dương và vùng phía đông tỉnh Hưng Yên. \n Sông Cửu An vốn là một phân lưu của sông Hồng, chảy về phía đông, về sau bị vùi lấp ở phần cửa sông....\" target=\"_blank\">sông Cửu An<\/a>. Sông chảy từ phía tây huyện lỵ (Quang Hóa), khoảng 24 dặm rưỡi thì gặp khe Xỉ, rồi chảy 91 dặm nữa thì đến thủ sở đạo Quang Phong (cũ) giáp địa giới nước Cao Miên (đúng chỗ đường ngang sứ thần Cao Miên sang cống phải đi qua). Ven sông có nhiều rừng, trên (thượng nguồn) phía tây, nước chia thành 2 đường: dòng phía Bắc tục gọi là \"Cái Bát\", đi về phía bắc hơn 100 dặm đến suối cùng (thượng nguồn); dòng phía tây tục gọi là \"Cái Cậy\", đi về phía tây hơn 150 dặm đến suối cùng (thượng nguồn), đều là đất liên thông tiếp giáp với rừng Quang Hóa.<sup class=\"annotation badge\" title=\"^ Đại Nam nhất thống chí, quyển XXXI, tỉnh Gia Định, trang 210.\">1<\/sup><\/td>\n   <td>\u201d<\/td>\n  <\/tr>\n <\/tbody>\n<\/table>"],
+    "keywords": [],
+    "headings": [
+        "Địa Danh",
+        "sông Vàm Cỏ Đông",
+        "Các cây cầu",
+        "Chú thích",
+        "Bài viết cùng thư mục",
+        "CÁC THỜI KỲ LỊCH SỬ",
+        "Tư Liệu",
+        "Di Tích Lịch Sử",
+        "Anh Hùng Dân Tộc Tiêu Biểu",
+        "Tư Liệu Lịch Sử",
+        "Di Tích Lịch Sử"
+    ],
+    "anchors": [
+        {
+            "text": "",
+            "href": "/"
+        },
+        {
+            "text": "Trang Chủ",
+            "href": "/"
+        },
+        {
+            "text": "Dòng Lịch Sử",
+            "href": "/dong-lich-su"
+        },
+        {
+            "text": "Hồng Bàng & Văn Lang",
+            "href": "/dong-lich-su/hong-bang-va-van-lang"
+        },
+        {
+            "text": "Âu Lạc & Nam Việt",
+            "href": "/dong-lich-su/au-lac-va-nam-viet"
+        },
+        {
+            "text": "Bắc thuộc lần I",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat"
+        },
+        {
+            "text": "Trưng Nữ Vương",
+            "href": "/dong-lich-su/trung-nu-vuong"
+        },
+        {
+            "text": "Bắc thuộc lần II",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-hai"
+        },
+        {
+            "text": "Nhà Lý & Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu"
+        },
+        {
+            "text": "Bắc thuộc lần III",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-ba"
+        },
+        {
+            "text": "Thời kỳ xây nền tự chủ",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu"
+        },
+        {
+            "text": "Nhà Ngô",
+            "href": "/dong-lich-su/nha-ngo"
+        },
+        {
+            "text": "Nhà Đinh",
+            "href": "/dong-lich-su/nha-dinh"
+        },
+        {
+            "text": "Nhà Tiền Lê",
+            "href": "/dong-lich-su/nha-tien-le"
+        },
+        {
+            "text": "Nhà Lý",
+            "href": "/dong-lich-su/nha-ly"
+        },
+        {
+            "text": "Nhà Trần",
+            "href": "/dong-lich-su/nha-tran"
+        },
+        {
+            "text": "Nhà Hồ",
+            "href": "/dong-lich-su/nha-ho"
+        },
+        {
+            "text": "Nhà Hậu Trần",
+            "href": "/dong-lich-su/nha-hau-tran"
+        },
+        {
+            "text": "Bắc thuộc lần IV",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-tu"
+        },
+        {
+            "text": "Nhà Hậu Lê",
+            "href": "/dong-lich-su/nha-hau-le"
+        },
+        {
+            "text": "Nam Bắc Triều",
+            "href": "/dong-lich-su/nam-bac-trieu"
+        },
+        {
+            "text": "Trịnh Nguyễn Phân Tranh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh"
+        },
+        {
+            "text": "Nhà Tây Sơn",
+            "href": "/dong-lich-su/nha-tay-son"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/nha-nguyen"
+        },
+        {
+            "text": "Pháp Thuộc",
+            "href": "/dong-lich-su/phap-thuoc"
+        },
+        {
+            "text": "Việt Nam Dân Chủ Cộng Hoà",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Cộng hoà xã hội chủ nghĩa Việt Nam",
+            "href": "/dong-lich-su/viet-nam-xhcn"
+        },
+        {
+            "text": "Tư Liệu",
+            "href": "/tu-lieu"
+        },
+        {
+            "text": "Quân Sự",
+            "href": "/tu-lieu/quan-su?filter_tag[0]="
+        },
+        {
+            "text": "Tác Phẩm",
+            "href": "/tu-lieu/tac-pham?filter_tag[0]="
+        },
+        {
+            "text": "Bang Giao",
+            "href": "/tu-lieu/bang-giao"
+        },
+        {
+            "text": "Biểu đồ thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Nhân Vật",
+            "href": "/nhan-vat"
+        },
+        {
+            "text": "Anh Hùng Dân Tộc",
+            "href": "/anh-hung-dan-toc?types[0]=1"
+        },
+        {
+            "text": "Danh nhân văn hóa",
+            "href": "/danh-nhan-van-hoa?types[0]=1"
+        },
+        {
+            "text": "Di Tích",
+            "href": "/di-tich-lich-su?types[0]=1"
+        },
+        {
+            "text": "Ngày Nay",
+            "href": "/thoi-su"
+        },
+        {
+            "text": "Sách",
+            "href": "/sach"
+        },
+        {
+            "text": "Video",
+            "href": "/video"
+        },
+        {
+            "text": "Q&A",
+            "href": "/hoi-dap"
+        },
+        {
+            "text": "Lịch sử lớp 12",
+            "href": "/hoi-dap/lop-12"
+        },
+        {
+            "text": "Lịch sử lớp 11",
+            "href": "/hoi-dap/lop-11"
+        },
+        {
+            "text": "Lịch sử lớp 10",
+            "href": "/hoi-dap/lop-10"
+        },
+        {
+            "text": "Lịch sử lớp 9",
+            "href": "/hoi-dap/lop-9"
+        },
+        {
+            "text": "Lịch sử lớp 8",
+            "href": "/hoi-dap/lop-8"
+        },
+        {
+            "text": "Lịch sử lớp 7",
+            "href": "/hoi-dap/lop-7"
+        },
+        {
+            "text": "Lịch sử lớp 6",
+            "href": "/hoi-dap/lop-6"
+        },
+        {
+            "text": "Trang chủ",
+            "href": "/"
+        },
+        {
+            "text": "Địa Danh",
+            "href": "/dia-danh"
+        },
+        {
+            "text": "Địa Danh Lịch Sử",
+            "href": "/dia-danh"
+        },
+        {
+            "text": "Thu / Mở",
+            "href": "#"
+        },
+        {
+            "text": "Các cây cầu",
+            "href": "#cac-cay-cau"
+        },
+        {
+            "text": "Chú thích",
+            "href": "#chu-thich"
+        },
+        {
+            "text": "sông Vàm Cỏ",
+            "href": "/dia-danh/song-vam-co"
+        },
+        {
+            "text": "sông Vàm Cỏ",
+            "href": "/dia-danh/song-vam-co"
+        },
+        {
+            "text": "sông Đồng Nai",
+            "href": "/dia-danh/song-dong-nai"
+        },
+        {
+            "text": "huyện Châu Thành",
+            "href": "/dia-danh/huyen-chau-thanh"
+        },
+        {
+            "text": "tỉnh Tây Ninh",
+            "href": "/dia-danh/tinh-tay-ninh"
+        },
+        {
+            "text": "tỉnh Tây Ninh",
+            "href": "/dia-danh/tinh-tay-ninh"
+        },
+        {
+            "text": "sông Vàm Cỏ",
+            "href": "/dia-danh/song-vam-co"
+        },
+        {
+            "text": "sông Vàm Cỏ",
+            "href": "/dia-danh/song-vam-co"
+        },
+        {
+            "text": "sông Soài Rạp",
+            "href": "/dia-danh/song-soai-rap"
+        },
+        {
+            "text": "biển Đông",
+            "href": "/dia-danh/bien-dong"
+        },
+        {
+            "text": "sông Vàm Cỏ",
+            "href": "/dia-danh/song-vam-co"
+        },
+        {
+            "text": "tỉnh Gia Định",
+            "href": "/dia-danh/tinh-gia-dinh"
+        },
+        {
+            "text": "tỉnh Tây Ninh",
+            "href": "/dia-danh/tinh-tay-ninh"
+        },
+        {
+            "text": "sông Cửu An",
+            "href": "/dia-danh/song-cuu-an"
+        },
+        {
+            "text": "tỉnh Gia Định",
+            "href": "/dia-danh/tinh-gia-dinh"
+        },
+        {
+            "text": "tỉnh Svay Rieng",
+            "href": "/dia-danh/tinh-svay-rieng"
+        },
+        {
+            "text": "sông Cửu An",
+            "href": "/dia-danh/song-cuu-an"
+        },
+        {
+            "text": "sông Vàm Cỏ",
+            "href": "/dia-danh/song-vam-co"
+        },
+        {
+            "text": "sông Vàm Cỏ",
+            "href": "/dia-danh/song-vam-co"
+        },
+        {
+            "text": "sông Cửu Long",
+            "href": "/dia-danh/song-cuu-long"
+        },
+        {
+            "text": "Nguyễn Trung Trực",
+            "href": "/nhan-vat/nguyen-trung-truc"
+        },
+        {
+            "text": "Hoàng Việt",
+            "href": "/nhan-vat/hoang-viet"
+        },
+        {
+            "text": "tỉnh Svay Rieng",
+            "href": "/dia-danh/tinh-svay-rieng"
+        },
+        {
+            "text": "sông Vàm Cỏ",
+            "href": "/dia-danh/song-vam-co"
+        },
+        {
+            "text": "nước Việt",
+            "href": "/dia-danh/nuoc-viet"
+        },
+        {
+            "text": "sông Vàm Cỏ",
+            "href": "/dia-danh/song-vam-co"
+        },
+        {
+            "text": "sông Vàm Cỏ",
+            "href": "/dia-danh/song-vam-co"
+        },
+        {
+            "text": "sông Vàm Cỏ",
+            "href": "/dia-danh/song-vam-co"
+        },
+        {
+            "text": "sông Vàm Cỏ",
+            "href": "/dia-danh/song-vam-co"
+        },
+        {
+            "text": "sông Vàm Cỏ",
+            "href": "/dia-danh/song-vam-co"
+        },
+        {
+            "text": "sông Vàm Cỏ",
+            "href": "/dia-danh/song-vam-co"
+        },
+        {
+            "text": "Hoàng Việt",
+            "href": "/nhan-vat/hoang-viet"
+        },
+        {
+            "text": "sông Vàm Cỏ",
+            "href": "/dia-danh/song-vam-co"
+        },
+        {
+            "text": "sông Vàm Cỏ",
+            "href": "/dia-danh/song-vam-co"
+        },
+        {
+            "text": "sông Vàm Cỏ",
+            "href": "/dia-danh/song-vam-co"
+        },
+        {
+            "text": "sông Vàm Cỏ",
+            "href": "/dia-danh/song-vam-co"
+        },
+        {
+            "text": "sông Vàm Cỏ",
+            "href": "/dia-danh/song-vam-co"
+        },
+        {
+            "text": "huyện Châu Thành",
+            "href": "/dia-danh/huyen-chau-thanh"
+        },
+        {
+            "text": "tỉnh Gia Định",
+            "href": "/dia-danh/tinh-gia-dinh"
+        },
+        {
+            "text": "Bài viết trước: sông Vàm Cỏ Trước",
+            "href": "/dia-danh/song-vam-co"
+        },
+        {
+            "text": "Bài viết kế tiếp: sông Vàm Cỏ Tây Tiếp tục",
+            "href": "/dia-danh/song-vam-co-tay"
+        },
+        {
+            "text": "nước Việt",
+            "href": "/dia-danh/nuoc-viet"
+        },
+        {
+            "text": "núi Tản Viên",
+            "href": "/dia-danh/nui-tan-vien"
+        },
+        {
+            "text": "sông Đà",
+            "href": "/dia-danh/song-da"
+        },
+        {
+            "text": "sông Hát",
+            "href": "/dia-danh/song-hat"
+        },
+        {
+            "text": "chùa Kiến Sơ",
+            "href": "/dia-danh/chua-kien-so"
+        },
+        {
+            "text": "hồ Động Đình",
+            "href": "/dia-danh/ho-dong-dinh"
+        },
+        {
+            "text": "nước Quắc",
+            "href": "/dia-danh/nuoc-quac"
+        },
+        {
+            "text": "nước Trịnh",
+            "href": "/dia-danh/nuoc-trinh"
+        },
+        {
+            "text": "châu Vũ Ninh",
+            "href": "/dia-danh/chau-vu-ninh"
+        },
+        {
+            "text": "Nước Tần",
+            "href": "/dia-danh/nuoc-tan"
+        },
+        {
+            "text": "Hồng Bàng & Văn Lang",
+            "href": "/dong-lich-su/hong-bang-va-van-lang"
+        },
+        {
+            "text": "Âu Lạc & Nam Việt",
+            "href": "/dong-lich-su/au-lac-va-nam-viet"
+        },
+        {
+            "text": "Bắc thuộc lần I",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat"
+        },
+        {
+            "text": "Nhà Triệu",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat/nha-trieu"
+        },
+        {
+            "text": "Trưng Nữ Vương",
+            "href": "/dong-lich-su/trung-nu-vuong"
+        },
+        {
+            "text": "Bắc thuộc lần II",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-hai"
+        },
+        {
+            "text": "Nhà Lý & Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu"
+        },
+        {
+            "text": "Nhà Tiền Lý",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-tien-ly"
+        },
+        {
+            "text": "Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-trieu"
+        },
+        {
+            "text": "Nhà Hậu Lý",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-hau-ly"
+        },
+        {
+            "text": "Bắc thuộc lần III",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-ba"
+        },
+        {
+            "text": "Thời kỳ xây nền tự chủ",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu"
+        },
+        {
+            "text": "Họ Khúc",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu/ho-khuc"
+        },
+        {
+            "text": "Nhà Ngô",
+            "href": "/dong-lich-su/nha-ngo"
+        },
+        {
+            "text": "Nhà Đinh",
+            "href": "/dong-lich-su/nha-dinh"
+        },
+        {
+            "text": "Nhà Tiền Lê",
+            "href": "/dong-lich-su/nha-tien-le"
+        },
+        {
+            "text": "Nhà Lý",
+            "href": "/dong-lich-su/nha-ly"
+        },
+        {
+            "text": "Nhà Trần",
+            "href": "/dong-lich-su/nha-tran"
+        },
+        {
+            "text": "Nhà Hồ",
+            "href": "/dong-lich-su/nha-ho"
+        },
+        {
+            "text": "Nhà Hậu Trần",
+            "href": "/dong-lich-su/nha-hau-tran"
+        },
+        {
+            "text": "Bắc thuộc lần IV",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-tu"
+        },
+        {
+            "text": "Nhà Hậu Lê",
+            "href": "/dong-lich-su/nha-hau-le"
+        },
+        {
+            "text": "Nam Bắc Triều",
+            "href": "/dong-lich-su/nam-bac-trieu"
+        },
+        {
+            "text": "Nhà Lê Trung Hưng",
+            "href": "/dong-lich-su/nam-bac-trieu/nha-le-trung-hung"
+        },
+        {
+            "text": "Nhà Mạc",
+            "href": "/dong-lich-su/nam-bac-trieu/nha-mac"
+        },
+        {
+            "text": "Trịnh Nguyễn Phân Tranh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh"
+        },
+        {
+            "text": "Nhà Lê Trung Hưng",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/nha-le-trung-hung"
+        },
+        {
+            "text": "Chúa Trịnh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-trinh"
+        },
+        {
+            "text": "Chúa Nguyễn",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen"
+        },
+        {
+            "text": "Nhà Tây Sơn",
+            "href": "/dong-lich-su/nha-tay-son"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/nha-nguyen"
+        },
+        {
+            "text": "Pháp Thuộc",
+            "href": "/dong-lich-su/phap-thuoc"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/phap-thuoc/nha-nguyen"
+        },
+        {
+            "text": "Những cuộc khởi nghĩa chống thực dân Pháp",
+            "href": "/dong-lich-su/phap-thuoc/khoi-nghia-chong-phap"
+        },
+        {
+            "text": "Đảng Cộng Sản Việt Nam",
+            "href": "/dong-lich-su/phap-thuoc/dang-cong-san-viet-nam"
+        },
+        {
+            "text": "Việt Nam Dân Chủ Cộng Hoà",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Kháng chiến chống Pháp",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-phap"
+        },
+        {
+            "text": "Kháng chiến chống Mĩ",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-mi"
+        },
+        {
+            "text": "Cộng hoà xã hội chủ nghĩa Việt Nam",
+            "href": "/dong-lich-su/viet-nam-xhcn"
+        },
+        {
+            "text": "Trận Điện Biên Phủ trên không năm 1972",
+            "href": "/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972"
+        },
+        {
+            "text": "Chiến tranh biên giới Tây Nam năm 1975 - 1978",
+            "href": "/tu-lieu/quan-su/chien-tranh-bien-gioi-tay-nam-nam-1975-1978"
+        },
+        {
+            "text": "Chiến dịch Mùa Xuân năm 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-mua-xuan-nam-1975"
+        },
+        {
+            "text": "Hải chiến Trường Sa năm 1988",
+            "href": "/tu-lieu/quan-su/hai-chien-truong-sa-nam-1988"
+        },
+        {
+            "text": "Chiến dịch Đường 14 - Phước Long năm 1974 - 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-duong-14-phuoc-long-nam-1974-1975"
+        },
+        {
+            "text": "Chiến dịch Tây Nguyên năm 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-tay-nguyen-nam-1975"
+        },
+        {
+            "text": "Trận Mậu Thân tại Huế năm 1968",
+            "href": "/tu-lieu/quan-su/tran-mau-than-tai-hue-nam-1968"
+        },
+        {
+            "text": "Bảng đối chiếu các triều đại Việt Nam và các triều đại Trung Quốc",
+            "href": "/tu-lieu/bang-doi-chieu-cac-trieu-dai-viet-nam-va-cac-trieu-dai-trung-quoc"
+        },
+        {
+            "text": "Bình Ngô đại cáo - bản tuyên ngôn độc lập thứ hai",
+            "href": "/tu-lieu/tac-pham/binh-ngo-dai-cao-ban-tuyen-ngon-doc-lap-thu-hai"
+        },
+        {
+            "text": "Lãnh thổ Việt Nam qua từng thời kỳ",
+            "href": "/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky"
+        },
+        {
+            "text": "Trận Đồi Thịt Băm năm 1969",
+            "href": "/tu-lieu/quan-su/tran-doi-thit-bam-nam-1969"
+        },
+        {
+            "text": "Chiến dịch Đắk Tô năm 1972",
+            "href": "/tu-lieu/quan-su/chien-dich-dak-to-nam-1972"
+        },
+        {
+            "text": "Nam quốc sơn hà - Bản tuyên ngôn độc lập đầu tiên",
+            "href": "/tu-lieu/tac-pham/nam-quoc-son-ha-ban-tuyen-ngon-doc-lap-dau-tien"
+        },
+        {
+            "text": "Tuyên ngôn độc lập Việt Nam Dân chủ Cộng hòa",
+            "href": "/tu-lieu/tac-pham/tuyen-ngon-doc-lap-viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Trận Bản Đông năm 1971",
+            "href": "/tu-lieu/quan-su/tran-ban-dong-nam-1971"
+        },
+        {
+            "text": "Trận Rạch Gầm \u2013 Xoài Mút năm 1785",
+            "href": "/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785"
+        },
+        {
+            "text": "Lịch sử Chữ viết tiếng Việt",
+            "href": "/tu-lieu/lich-su-chu-viet-tieng-viet"
+        },
+        {
+            "text": "Hịch tướng sĩ - Dụ chư tỳ tướng hịch văn",
+            "href": "/tu-lieu/tac-pham/hich-tuong-si-du-chu-ty-tuong-hich-van"
+        },
+        {
+            "text": "Danh sách Trạng nguyên Việt Nam",
+            "href": "/tu-lieu/danh-sach-trang-nguyen-viet-nam"
+        },
+        {
+            "text": "Hội nghị Paris, mặt trận ngoại giao năm 1968-1972",
+            "href": "/tu-lieu/bang-giao/hoi-nghi-paris-mat-tran-ngoai-giao-nam-1968-1972"
+        },
+        {
+            "text": "thành Cổ Loa",
+            "href": "/dia-danh/thanh-co-loa"
+        },
+        {
+            "text": "Khu di tích chiến thắng Điện Biên Phủ",
+            "href": "/dia-danh/khu-di-tich-chien-thang-dien-bien-phu"
+        },
+        {
+            "text": "Chiến khu Tân Trào",
+            "href": "/dia-danh/chien-khu-tan-trao"
+        },
+        {
+            "text": "chùa Thầy",
+            "href": "/dia-danh/chua-thay"
+        },
+        {
+            "text": "Khu lăng mộ và đền thờ các vị vua triều Lý",
+            "href": "/dia-danh/khu-lang-mo-va-den-tho-cac-vi-vua-trieu-ly"
+        },
+        {
+            "text": "Quần thể di tích Cố đô Huế",
+            "href": "/dia-danh/quan-the-di-tich-co-do-hue"
+        },
+        {
+            "text": "Đền Trần (Thái Bình)",
+            "href": "/dia-danh/den-tran-thai-binh"
+        },
+        {
+            "text": "Khu di tích Pác Bó",
+            "href": "/dia-danh/khu-di-tich-pac-bo"
+        },
+        {
+            "text": "chùa Phổ Minh",
+            "href": "/dia-danh/chua-pho-minh"
+        },
+        {
+            "text": "Thành cổ Quảng Trị",
+            "href": "/dia-danh/thanh-co-quang-tri"
+        },
+        {
+            "text": "Ngô Quyền",
+            "href": "/nhan-vat/ngo-quyen"
+        },
+        {
+            "text": "Lê Thái Tổ",
+            "href": "/nhan-vat/le-thai-to"
+        },
+        {
+            "text": "Trần Nhân Tông",
+            "href": "/nhan-vat/tran-nhan-tong"
+        },
+        {
+            "text": "Trần Hưng Đạo",
+            "href": "/nhan-vat/tran-hung-dao"
+        },
+        {
+            "text": "Lê Đại Hành",
+            "href": "/nhan-vat/le-dai-hanh"
+        },
+        {
+            "text": "Lý Nam Đế",
+            "href": "/nhan-vat/ly-nam-de"
+        },
+        {
+            "text": "Lý Thường Kiệt",
+            "href": "/nhan-vat/ly-thuong-kiet"
+        },
+        {
+            "text": "Nguyễn Trãi",
+            "href": "/nhan-vat/nguyen-trai"
+        },
+        {
+            "text": "Nguyễn Huệ",
+            "href": "/nhan-vat/nguyen-hue"
+        },
+        {
+            "text": "Lý Thái Tổ",
+            "href": "/nhan-vat/ly-thai-to"
+        },
+        {
+            "text": "Vấn đề biên giới Việt-Trung thời Mạc",
+            "href": "/tu-lieu/bang-giao/van-de-bien-gioi-viet-trung-thoi-mac"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Tây Sơn",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-tay-son"
+        },
+        {
+            "text": "Biểu đồ các nhân vật lịch sử theo dòng thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Danh sách Trạng nguyên Việt Nam",
+            "href": "/tu-lieu/danh-sach-trang-nguyen-viet-nam"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Nguyễn",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-nguyen"
+        },
+        {
+            "text": "Trận Điện Biên Phủ trên không năm 1972",
+            "href": "/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972"
+        },
+        {
+            "text": "Trận Ngọc Hồi - Đống Đa năm 1789",
+            "href": "/tu-lieu/quan-su/tran-ngoc-hoi-dong-da-nam-1789"
+        },
+        {
+            "text": "Trận Cẩm Sa năm 1775",
+            "href": "/tu-lieu/quan-su/tran-cam-sa-nam-1775"
+        },
+        {
+            "text": "Trận Rạch Gầm \u2013 Xoài Mút năm 1785",
+            "href": "/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785"
+        },
+        {
+            "text": "Lãnh thổ Việt Nam qua từng thời kỳ",
+            "href": "/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky"
+        },
+        {
+            "text": "Quần thể di tích Cố đô Huế",
+            "href": "/dia-danh/quan-the-di-tich-co-do-hue"
+        },
+        {
+            "text": "Đền Ngọc Sơn",
+            "href": "/dia-danh/den-ngoc-son"
+        },
+        {
+            "text": "Dinh Độc Lập",
+            "href": "/dia-danh/dinh-doc-lap"
+        },
+        {
+            "text": "Khu lăng mộ và đền thờ các vị vua triều Lý",
+            "href": "/dia-danh/khu-lang-mo-va-den-tho-cac-vi-vua-trieu-ly"
+        },
+        {
+            "text": "Đền Hùng",
+            "href": "/dia-danh/den-hung"
+        },
+        {
+            "text": "Đền Trần (Thái Bình)",
+            "href": "/dia-danh/den-tran-thai-binh"
+        },
+        {
+            "text": "Hồ Hoàn Kiếm",
+            "href": "/dia-danh/ho-hoan-kiem"
+        },
+        {
+            "text": "Khu di tích chiến thắng Điện Biên Phủ",
+            "href": "/dia-danh/khu-di-tich-chien-thang-dien-bien-phu"
+        },
+        {
+            "text": "Văn Miếu - Quốc Tử Giám",
+            "href": "/dia-danh/van-mieu-quoc-tu-giam"
+        },
+        {
+            "text": "Khu di tích Chủ tịch Hồ Chí Minh tại Phủ Chủ tịch",
+            "href": "/dia-danh/khu-di-tich-chu-tich-ho-chi-minh-tai-phu-chu-tich"
+        },
+        {
+            "text": "Giới thiệu",
+            "href": "/gioi-thieu"
+        },
+        {
+            "text": "Quyền riêng tư",
+            "href": "/quyen-rieng-tu"
+        },
+        {
+            "text": "Liên hệ",
+            "href": "/lien-he"
+        },
+        {
+            "text": "Địa Danh",
+            "href": "/dia-danh"
+        },
+        {
+            "text": "Trang Facebook",
+            "href": "https://www.facebook.com/nguoikesu/"
+        },
+        {
+            "text": "DanhMucBDS.com",
+            "href": "https://danhmucbds.com"
+        },
+        {
+            "text": "HocTotNguVan.com",
+            "href": "https://hoctotnguvan.com"
+        }
+    ],
+    "title": "sông Vàm Cỏ Đông - Người Kể Sử",
+    "paragraphs": [
+        "Sông Vàm Cỏ Đông là một chi lưu của sông Vàm Cỏ, thuộc hệ thống sông Đồng Nai.",
+        "Sông Vàm Cỏ Đông bắt nguồn từ vùng đồng bằng trũng thấp thuộc lãnh thổ Campuchia chảy vào Việt Nam tại xã Biên Giới, xã Thành Long, huyện Châu Thành, tỉnh Tây Ninh, rồi qua các huyện Bến Cầu, Hòa Thành, Gò Dầu, Trảng Bàng (đều thuộc Tây Ninh) với thủy trình khoảng 98 km. Đoạn tiếp theo dài khoảng 6 km là ranh giới hai tỉnh Tây Ninh, Long An. Sau đó, sông chảy vào địa phận tỉnh Long An qua các huyện Đức Hòa, Đức Huệ, Bến Lức, Cần Đước với thủy trình khoảng 86 km rồi kết hợp với sông Vàm Cỏ Tây tạo nên sông Vàm Cỏ để đổ vào sông Soài Rạp và đi ra biển Đông.",
+        "Sông Vàm Cỏ Đông có một số chi lưu trong đó có sông Nhật Tảo. Vào thời nhà Nguyễn, sông Vàm Cỏ Đông mang tên là sông Quang Hóa vì chảy qua gần lỵ sở và cắt ngang chính giữa huyện Quang Hóa, phủ Tây Ninh, tỉnh Gia Định thời nhà Nguyễn (vùng đất nay là các huyện Bến Cầu, Gò Dầu, Trảng Bàng,... tỉnh Tây Ninh). Đại Nam nhất thống chí chép về sông này như sau:",
+        "Nguồn chính chảy từ tỉnh Prey Veng Campuchia, qua phía bắc tỉnh Svay Rieng có tên Khmer gọi là Prek Kampong Spean, đoạn đầu nguồn của nguồn chính khi vào Việt Nam ngày nay gọi là sông Suối Mây, còn trước đây gọi là Cái Cậy. Sông có chiều dài 280 km trong đó phần trên lãnh thổ Việt Nam dài hơn 190 km.Lưu vực sông rộng 8.500 km² và lưu lượng là 96 m³/s.[1]",
+        "Tại Tây Ninh, Vàm Cỏ Đông chảy từ phía tây bắc hướng Bến Cầu có cảng Bến Kéo qua Gò Dầu Hạ, rồi xuôi hướng đông nam chảy qua thị trấn Bến Lức của tỉnh Long An. Đoạn trung lưu chảy từ Bến Lức tới Tân Trụ, vào thời chúa Nguyễn và nhà Nguyễn gọi là sông Bến Lức (hoặc sông Lật Giang hay sông Cửu An). Sông Vàm Cỏ Đông và sông Vàm Cỏ Tây hợp lưu lại (tại Tân Trụ) thành sông Vàm Cỏ. Vì có nhiều nhánh sông nhỏ của Vàm Cỏ Đông nên nó rất thuận tiện cho việc lưu thông bằng đường thủy để vận chuyển hàng hóa từ các nơi về Tây Ninh hay ngược lại từ Tây Ninh đến những nơi khác (chủ yếu là các tỉnh ở Đồng bằng sông Cửu Long), điển hình là tại cảng Bến Kéo (huyện Hòa Thành) rất tấp nập.",
+        "Đây là nơi xảy ra nhiều trận đánh ác liệt trong các cuộc chiến tranh. Trong cuộc chiến chống Pháp, nghĩa quân Nguyễn Trung Trực đã chỉ huy trận đánh đốt tàu Hy Vọng của thực dân Pháp tại vàm Nhựt Tảo. Trong chiến tranh Việt Nam, đây cũng là nơi diễn ra nhiều trận đánh ác liệt.",
+        "Sông này nổi tiếng với bài hát cùng tên là bài \"Vàm Cỏ Đông\" (sáng tác: Trương Quang Lục, thơ: Hoài Vũ), \"Lên ngàn\" (sáng tác: Hoàng Việt).",
+        "Trong thơ ca văn học ngoài các bài hát đã giới thiệu ở trên còn có bài viết của nhà báo Nguyễn Quang Vinh:",
+        "VẦM CỎ ĐÔNG DÒNG SÔNG HUYỀN THOẠI.",
+        "Bắt nguồn từ phía bắc tỉnh Svay Rieng của nước bạn Cambodia, sông Vàm Cỏ Đông có tên Khmer là Prek Kampong Spean. Khi qua biên giới Việt Nam sông có tên gọi theo tiếng bản địa là sông Cái Cay. Tổng chiều dài của sông hơn 280 km trong đó phía Việt Nam là 180 km chảy dài. Sông chảy uốn khúc quanh co qua nhiều làng mạc trù phú của cả hai nước Việt- Cam và hàng năm đem lại rất nhiều huê lợi cho cư dân ven bờ.",
+        "Lữ khách ai đó một chiều ngang bến sông thơ, con sông đã mang nhiều huyền thoại và sử tích lưu danh truyền đời mà dừng chân ngắm trời non nước mới thấy cái thú tiêu dao của kẻ phong hồ quả cũng là không uổng. Về đây cảm nhận và khám phá con sông huyền thoại rồi lần theo dấu vết thăng trầm lịch sử của dòng sông Vàm Cỏ Đông từ cách nay mấy trăm năm ta thấy quả nhiên dòng sông này chất chứa trong mình nhiều điều rất ư thầm kín. Người xưa gọi là sông Quang Hóa hay Khê Lăng. Có lẽ thế nên trong phần giới thiệu về thổ nhưỡng sông núi của trấn Phiên An- Nam Việt thì sách Gia Định Thành Thông Chí của Trình Hoài Đức thời nhà Nguyễn chép rằng:",
+        "\u201cỞ thượng lưu sông Thuận An cách phía tây trấn 160 dặm rưỡi. Phủ sở ở bờ phía Bắc sông lớn có người Trung Hoa và Cao Miên ở chung lẫn lộn làm ăn, có tuần ty coi thâu thuế lệ cước đồn và phòng giữ biên cảnh. Từ đây chảy 24 dặm rưỡi có cửa sông Khê Lăng, 91 dặm rưỡi đến thủ sở Quang Phong giáp địa giới Cao Miên. đây là con đường mà sứ thần Cao Miên sang cống hiến phải đi ngang qua. Dọc theo sông ruộng đất mới khẩn còn nhiều rừng rú. Lên hướng Tây nước chia làm hai nhánh. Nhánh phía Bắc tục danh là Cái Bát đi thẳng ra Bắc 100 dặm chỗ cùng tuyền về đằng Bắc 100 dặm nữa là rừng Quang Hóa. Nhánh phía Nam tục gọi là sông Cái Cay đi lên hướng Tây hơn 100 dặm cũng cùng tuyền. Tới đây đều là đất rừng Quang Hóa liên tiếp nối dài\u2026\u201d",
+        "Nếu nói như vậy sông sông Quang Hóa ngày xưa và Vàm Cỏ ngày nay tính từ hợp lưu ở Tân Trụ đổ lên thì Vàm Cỏ Tây gọi là Cái Bát, Vàm Cỏ Đông gọi là Cái Cay. Tên gọi Cái Cay ấy nghe bằng âm Hán tự cổ có nghĩa gần giống như suối tóc hay tóc dài của người nữ phụ. Nếu quan sát sông Vàm Cỏ Đông của ngày hôm nay mà lấy cầu Gò Dầu làm trung tâm chia đôi nữa Thượng- Hạ lưu sông Vàm Cỏ Đông rồi phóng tầm mắt nhìn bao qua ra xa mới thấy bốn bề rộng mở với ngút ngàn màu xanh của đồng lúa và cây cối ven bờ. Chính cây cầu Gò Dầu bắc qua sông Vàm Cỏ này theo cư dân địa phương thì còn một cái tên gọi nữa nghe hơi huyền hoặc chút là cầu \u201cXóa Nợ\u201d. Dân gian nói rằng mỗi năm có rất nhiều con bạc từ Việt Nam qua cửa khẩu Mộc Bài (Cách có mấy cây số) bên đất Cambodia chơi trò đen đỏ. Kẻ được thì ít người thua thì nhiều, có người thua quá cùng đường nghỉ quẩn khi về ngang qua sông Vàm Cỏ Đông trầm mình xuống đó để xóa đi món nợ khốn cùng. Trần gian có những điều bất công là thế, dòng sông vốn hiền hòa bốn mùa nước chảy xuôi dòng nuôi sống biết bao thế hệ, một ngày bỗng dưng thành nơi ai oán tương phùng cho âm dương cách biệt. Tháng sáu về những cơn mưa giữa mùa thường hay xuất hiện lúc sang chiều mang đến cái mát trong lành cho thời tiết khu vực. Từ cầu \u201cXóa Nợ\u201d nhìn xuôi về hạ lưu là vùng đất giáp ranh của hai tỉnh Long An- Tây Ninh sông Vàm Cỏ như một dải lụa mềm ôm lấy hai triền bờ cỏ cây xanh mướt. Lâu lâu nước chảy xuôi dòng bị cản lại bởi các cầu cảng mọc ngay mép nước làm nơi trú ngụ cho tàu thuyền cập bến, những con thuyền xuôi ngược ngày đêm rẽ đôi sóng nước Vàm Cỏ là phương tiện trao đổi hàng hóa giao thương giữa các miền. Nhìn lên thượng lưu con sông bị thu hẹp tầm mắt bởi núi Bà Đen án ngữ, người ta nói thế núi và sông này giống như Long chầu Hổ phục mà tạo nên một vùng đất có nhiều huyền tích về địa linh nhân kiệt nhiều đời. Bình thường trời sáng trong mặt sông lững lờ xuôi nước và những đám Lục Bình theo thuyền rẽ sóng lên xuống. Gặp khi trời nhiều mây mù cộng với gió nam từ biển thổi vào, hơi nước dưới mặt sông bốc lên tạo thành những đám vũ tích lững lờ lãng đãng như sương như khơi trước khi lên cao và vướng vào các sườn núi khu vực Bà Đen là thế. Có một thời những văn nhân theo bước phong hồ mà thường khi vẫn đắm mình vào con nước chiều lên xuống lúc hoàng hôn buông nắng để tạo ra những thi khúc sống mãi với thời gian về dòng sông huyền thoại này là có thực. Bài hát Lên Ngàn của nhạc sĩ Hoàng Việt và bài ca Vàm Cỏ Đông của Trương Quang Lục cũng bắt nguồn từ đây.",
+        "Trở lại sông Vàm Cỏ Đông một chiều sương giăng mờ phủ, đứng trên cầu \u2018Xóa Nợ\u201d lặng im nhìn nước chảy xuôi chiều mà nghe âm vang tiếng mái chèo khua nhịp, tiếng hò lữ thứ của người khách qua sông dạo ấy, khi chính nơi đây cũng là một bến sông thơ tấp nập ghe thuyền ngược xuôi. Ngày nay qua nhiều thăng trầm biến động của thời gian và con vần kiến tạo dòng Quang Hóa xưa cũng thay đổi đi nhiều. Các cây cầu mọc lên, bến sông thơ không còn nữa, hai bên bờ sông mọc lên các tiểu khu công nghiệp và làng mạc, phố xá người xe tấp nập nhưng dòng sông ấy vẫn còn giữ trong mình những tháng năm huyền thoại mà cư dân hai bên bờ vẫn kể cho hậu thế nhân sinh nghe lại. Thời gian là minh chứng, sông Vàm Cỏ Đông trải qua các cuộc dựng xây và giữ gìn đất nước cũng đóng góp không ít chiến công vào trang sử vẻ vang của dân tộc. Từ giá trị văn hóa truyền thống và cảnh quan thiên tạo này, nếu có một ngày các hãng lữ hành quốc tế và trong nước khám phá ra để triển khai được các dự án du lịch ngược xuôi sông Vàm Cỏ cho du khách từ khắp nơi về thưởng lãm nét đẹp hoang sơ quyến rũ của dòng sông lịch sử mang sắc màu huyền thoại này thì hay biết mấy!",
+        "Tây Ninh một chiều tháng 6 năm 2015 Nguyễn Quang Vinh (Tư liệu minh họa là sông Vàm Cỏ Đông- Núi Bà Đen và Thánh thất Trảng Bàng- Tây Ninh cùng sách Gia Định Thành thông Chí- Photo by Quang Vinh. Cơ quan hợp tác báo chí và truyền thông quốc tế ITCI)",
+        "Các cầu qua sông Vàm Cỏ Đông địa phận Việt Nam: cầu Bên Sỏi (trên đường lộ 781 nối từ Thị Trấn Châu Thành về Cửa Khẩu Phước Tân, Tây Ninh), cầu Gò Chai (huyện Châu Thành, Tây Ninh), cầu Gò Dầu (nối thị trấn Gò Dầu, huyện Gò Dầu với huyện Bến Cầu, Tây Ninh, trên quốc lộ 22 đường Xuyên Á), cầu Đức Huệ (nối thị trấn Hiệp Hòa huyện Đức Hòa với thị trấn Đông Thành huyện Đức Huệ - Long An), cầu Đức Hòa (trên Quốc lộ N2), cầu nối cao tốc thành phố Hồ Chí Minh - Trung Lương (đã thi công), cầu Bến Lức (Long An).",
+        "(Nguồn: Wikipedia)"
+    ]
+}

@@ -1,0 +1,805 @@
+{
+    "tables": [
+        "<table class=\"nowraplinks mw-collapsible mw-collapsed navbox-inner\">\n <tbody>\n  <tr>\n   <th scope=\"col\" class=\"navbox-title\" colspan=\"2\">\n    <div class=\"plainlinks hlist navbar mini\">\n     <ul>\n      <li class=\"nv-xem\"><abbr title=\"Xem bản mẫu này\">x<\/abbr><\/li>\n      <li class=\"nv-thảo luận\"><abbr title=\"Thảo luận bản mẫu này\">t<\/abbr><\/li>\n      <li class=\"nv-sửa\"><abbr title=\"Sửa bản mẫu này\">s<\/abbr><\/li>\n     <\/ul>\n    <\/div>\n    <div id=\"Nhân_vật_thời_Hán_mạt_và_Tam_Quốc\">\n     Nhân vật thời Hán mạt và Tam Quốc\n    <\/div><\/th>\n  <\/tr>\n  <tr>\n   <th scope=\"row\" class=\"navbox-group\">Nhà<br>\n    cai trị<\/th>\n   <td class=\"navbox-list navbox-odd\">\n    <div><\/div>\n    <table class=\"nowraplinks navbox-subgroup\">\n     <tbody>\n      <tr>\n       <th scope=\"row\" class=\"navbox-group\">Đông Hán<\/th>\n       <td class=\"navbox-list navbox-odd\">\n        <div>\n         Linh đế&nbsp;\u2022 Thiếu đế&nbsp;\u2022 Hiến đế\n        <\/div><\/td>\n      <\/tr>\n      <tr>\n       <th scope=\"row\" class=\"navbox-group\">Tào Ngụy<\/th>\n       <td class=\"navbox-list navbox-even\">\n        <div>\n         <i>Vũ đế<\/i>&nbsp;\u2022 Văn đế&nbsp;\u2022 Minh đế&nbsp;\u2022 Linh công&nbsp;\u2022 Cao Quý hương công&nbsp;\u2022 Nguyên đế\n        <\/div><\/td>\n      <\/tr>\n      <tr>\n       <th scope=\"row\" class=\"navbox-group\">Thục Hán<\/th>\n       <td class=\"navbox-list navbox-odd\">\n        <div>\n         Tiên Chủ (Chiêu Liệt đế)&nbsp;\u2022 Hậu Chủ (Hoài đế)\n        <\/div><\/td>\n      <\/tr>\n      <tr>\n       <th scope=\"row\" class=\"navbox-group\">Đông Ngô<\/th>\n       <td class=\"navbox-list navbox-even\">\n        <div>\n         <i>Vũ Liệt đế<\/i>&nbsp;\u2022 <i>Hoàn vương<\/i>&nbsp;\u2022 Đại đế&nbsp;\u2022 Phế đế&nbsp;\u2022 Cảnh đế&nbsp;\u2022 Mạt đế\n        <\/div><\/td>\n      <\/tr>\n      <tr>\n       <th scope=\"row\" class=\"navbox-group\">Tây Tấn<\/th>\n       <td class=\"navbox-list navbox-odd\">\n        <div>\n         <i>Tuyên vương<\/i>&nbsp;\u2022 <i>Cảnh vương<\/i> &nbsp;\u2022 <i>Văn vương<\/i>&nbsp;\u2022 Vũ đế\n        <\/div><\/td>\n      <\/tr>\n      <tr>\n       <th scope=\"row\" class=\"navbox-group\">Khác<\/th>\n       <td class=\"navbox-list navbox-even\">\n        <div>\n         Đổng Trác&nbsp;\u2022 Công Tôn Toản&nbsp;\u2022 Lưu Biểu&nbsp;\u2022 Lưu Tông&nbsp;\u2022 Lưu Yên&nbsp;\u2022 Lưu Chương&nbsp;\u2022 Lã Bố&nbsp;\u2022 Mã Đằng&nbsp;\u2022 Viên Thiệu&nbsp;\u2022 Viên Thuật&nbsp;\u2022 Trương Giác&nbsp;\u2022 Trương Lỗ&nbsp;\u2022 Công Tôn Độ&nbsp;\u2022 Công Tôn Khang&nbsp;\u2022 Công Tôn Cung&nbsp;\u2022 Công Tôn Uyên&nbsp;\u2022 Hàn Toại&nbsp;\u2022 Lưu Do&nbsp;\u2022 Lưu Đại&nbsp;\u2022 Lưu Sủng&nbsp;\u2022 Sĩ Nhiếp&nbsp;\u2022 Viên Đàm&nbsp;\u2022 Viên Hi&nbsp;\u2022 Viên Thượng\n        <\/div><\/td>\n      <\/tr>\n     <\/tbody>\n    <\/table>\n    <div><\/div><\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\" class=\"navbox-group\">Hậu phi <br>\n    phu nhân<\/th>\n   <td class=\"navbox-list navbox-odd\">\n    <div><\/div>\n    <table class=\"nowraplinks navbox-subgroup\">\n     <tbody>\n      <tr>\n       <th scope=\"row\" class=\"navbox-group\">Đông Hán<\/th>\n       <td class=\"navbox-list navbox-odd\">\n        <div>\n         Đổng thái hậu&nbsp;\u2022 Hà thái hậu&nbsp;\u2022 Đổng quý nhân&nbsp;\u2022 Phục hoàng hậu&nbsp;\u2022 Tào hoàng hậu\n        <\/div><\/td>\n      <\/tr>\n      <tr>\n       <th scope=\"row\" class=\"navbox-group\">Tào Ngụy<\/th>\n       <td class=\"navbox-list navbox-even\">\n        <div>\n         Đinh phu nhân&nbsp;\u2022 Biện phu nhân&nbsp;\u2022 Hoàn phu nhân&nbsp;\u2022 Chân hoàng hậu&nbsp;\u2022 Quách hoàng hậu&nbsp;\u2022 Ngu phi&nbsp;\u2022 Mao hoàng hậu&nbsp;\u2022 Quách hoàng hậu&nbsp;\u2022 Chân hoàng hậu&nbsp;\u2022 Trương hoàng hậu&nbsp;\u2022 Vương hoàng hậu&nbsp;\u2022 Biện hoàng hậu&nbsp;\u2022 Biện hoàng hậu\n        <\/div><\/td>\n      <\/tr>\n      <tr>\n       <th scope=\"row\" class=\"navbox-group\">Thục Hán<\/th>\n       <td class=\"navbox-list navbox-odd\">\n        <div>\n         Cam phu nhân&nbsp;\u2022 My phu nhân&nbsp;\u2022 Tôn phu nhân&nbsp;\u2022 Ngô hoàng hậu&nbsp;\u2022 Trương hoàng hậu&nbsp;\u2022 Trương hoàng hậu\n        <\/div><\/td>\n      <\/tr>\n      <tr>\n       <th scope=\"row\" class=\"navbox-group\">Đông Ngô<\/th>\n       <td class=\"navbox-list navbox-even\">\n        <div>\n         Ngô phu nhân&nbsp;\u2022 Đại Kiều&nbsp;\u2022 Bộ phu nhân&nbsp;\u2022 Vương phu nhân&nbsp;\u2022 Vương phu nhân&nbsp;\u2022 Phan hoàng hậu&nbsp;\u2022 Toàn hoàng hậu&nbsp;\u2022 Hà thái hậu&nbsp;\u2022 Trương phu nhân&nbsp;\u2022 Chu hoàng hậu &nbsp;\u2022 Đằng hoàng hậu\n        <\/div><\/td>\n      <\/tr>\n      <tr>\n       <th scope=\"row\" class=\"navbox-group\">Khác<\/th>\n       <td class=\"navbox-list navbox-odd\">\n        <div>\n         Triệu Nga&nbsp;\u2022 Thái Diễm&nbsp;\u2022 Hoàng Nguyệt Anh&nbsp;\u2022 Tiểu Kiều&nbsp;\u2022 Từ phu nhân&nbsp;\u2022 Tân Hiến Anh&nbsp;\u2022 Vương Dị&nbsp;\u2022 Tôn Lỗ Ban&nbsp;\u2022 Tôn Lỗ Dục&nbsp;\u2022 Lục Úc Sinh&nbsp;\u2022 Nguyễn phu nhân&nbsp;\u2022 Trương Xuân Hoa&nbsp;\u2022 Hạ Hầu Huy&nbsp;\u2022 Dương Huy Du&nbsp;\u2022 Vương Nguyên Cơ\n        <\/div><\/td>\n      <\/tr>\n     <\/tbody>\n    <\/table>\n    <div><\/div><\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\" class=\"navbox-group\">Quan lại<\/th>\n   <td class=\"navbox-list navbox-odd\">\n    <div><\/div>\n    <table class=\"nowraplinks navbox-subgroup\">\n     <tbody>\n      <tr>\n       <th scope=\"row\" class=\"navbox-group\">Tào Ngụy<\/th>\n       <td class=\"navbox-list navbox-even\">\n        <div>\n         Ẩn Phồn&nbsp;\u2022 Bà Khâm&nbsp;\u2022 Bàng Dục&nbsp;\u2022 Bào Huân&nbsp;\u2022 Bỉnh Nguyên&nbsp;\u2022 Bùi Tiềm&nbsp;\u2022 Cao Đường Long&nbsp;\u2022 Cao Nhu&nbsp;\u2022 Chu Thước&nbsp;\u2022 Chung Do&nbsp;\u2022 Chung Dục&nbsp;\u2022 Diêm Ôn&nbsp;\u2022 Du Sở&nbsp;\u2022 Dương Bái&nbsp;\u2022 Dương Phụ&nbsp;\u2022 Dương Tu&nbsp;\u2022 Dương Tuấn&nbsp;\u2022 Đặng Dương&nbsp;\u2022 Đặng Hi&nbsp;\u2022 Đinh Dị&nbsp;\u2022 Đinh Mật&nbsp;\u2022 Đinh Nghi&nbsp;\u2022 Đinh Phỉ&nbsp;\u2022 Đô Thị Ngưu Lợi&nbsp;\u2022 Đỗ Kỳ&nbsp;\u2022 Đỗ Tập&nbsp;\u2022 Đỗ Thứ&nbsp;\u2022 Đổng Chiêu&nbsp;\u2022 Đổng Ngộ&nbsp;\u2022 Giả Hủ&nbsp;\u2022 Hạ Hầu Hòa&nbsp;\u2022 Hạ Hầu Huệ&nbsp;\u2022 Hạ Hầu Huyền&nbsp;\u2022 Hạ Hầu Uy&nbsp;\u2022 Hà Yến&nbsp;\u2022 Hàm Đan Thuần&nbsp;\u2022 Hàn Kỵ&nbsp;\u2022 Hàn Phạm&nbsp;\u2022 Hàn Tung&nbsp;\u2022 Hạo Chu&nbsp;\u2022 Hí Chí Tài&nbsp;\u2022 Hình Ngung&nbsp;\u2022 Hình Trinh&nbsp;\u2022 Hoa Hâm&nbsp;\u2022 Hòa Hiệp&nbsp;\u2022 Hoàn Điển&nbsp;\u2022 Hoàn Giai&nbsp;\u2022 Hoàn Phạm&nbsp;\u2022 Hoàn Uy&nbsp;\u2022 Hồ Chất&nbsp;\u2022 Hứa Chi&nbsp;\u2022 Hứa Doãn&nbsp;\u2022 Hứa Du&nbsp;\u2022 Kê Hỉ&nbsp;\u2022 Kê Khang&nbsp;\u2022 Khoái Việt&nbsp;\u2022 Lệnh Hồ Ngu&nbsp;\u2022 Lệnh Hồ Thiệu&nbsp;\u2022 Lộ Túy&nbsp;\u2022 Lư Dục&nbsp;\u2022 Lưu Dị&nbsp;\u2022 Lưu Diệp&nbsp;\u2022 Lưu Đào&nbsp;\u2022 Lưu Nghị&nbsp;\u2022 Lưu Phóng&nbsp;\u2022 Lưu Phức&nbsp;\u2022 Lưu Thiệu&nbsp;\u2022 Lưu Tiên&nbsp;\u2022 Lưu Tĩnh&nbsp;\u2022 Lưu Trinh&nbsp;\u2022 Lương Mậu&nbsp;\u2022 Lương Tập&nbsp;\u2022 Lý Nghĩa&nbsp;\u2022 Lý Phong&nbsp;\u2022 Lý Thắng&nbsp;\u2022 Mã Tuân&nbsp;\u2022 Mãn Vĩ&nbsp;\u2022 Mạnh Khang&nbsp;\u2022 Mạnh Kiến&nbsp;\u2022 Mao Giới&nbsp;\u2022 Mộc Tịnh&nbsp;\u2022 Ngu Tùng&nbsp;\u2022 Nguyễn Tịch&nbsp;\u2022 Nguyễn Vũ&nbsp;\u2022 Ngư Hoạn&nbsp;\u2022 Ôn Khôi&nbsp;\u2022 Phó Cán&nbsp;\u2022 Phó Hỗ&nbsp;\u2022 Phó Huyền&nbsp;\u2022 Phó Tốn&nbsp;\u2022 Quách Gia&nbsp;\u2022 Quốc Uyên&nbsp;\u2022 Sơn Đào&nbsp;\u2022 Tào Bưu&nbsp;\u2022 Tào Cứ&nbsp;\u2022 Tào Hùng&nbsp;\u2022 Tào Hi&nbsp;\u2022 Tào Lễ&nbsp;\u2022 Tào Vũ&nbsp;\u2022 Tảo Chi&nbsp;\u2022 Tân Tì&nbsp;\u2022 Tân Sưởng&nbsp;\u2022 Tất Kham&nbsp;\u2022 Thạch Thao&nbsp;\u2022 Thôi Diệm&nbsp;\u2022 Thôi Lâm&nbsp;\u2022 Thôi Tán&nbsp;\u2022 Thương Từ&nbsp;\u2022 Thường Lâm&nbsp;\u2022 Tiết Đễ&nbsp;\u2022 Tô Lâm&nbsp;\u2022 Tôn Tư&nbsp;\u2022 Tôn Ung&nbsp;\u2022 Trần Đăng&nbsp;\u2022 Trần Kiều&nbsp;\u2022 Trần Lâm&nbsp;\u2022 Trần Quần&nbsp;\u2022 Trình Dục&nbsp;\u2022 Trình Vũ&nbsp;\u2022 Trịnh Hồn&nbsp;\u2022 Trịnh Mậu&nbsp;\u2022 Trịnh Tiểu Đồng&nbsp;\u2022 Trịnh Xung&nbsp;\u2022 Trọng Trường Thống&nbsp;\u2022 Trương Cung&nbsp;\u2022 Trương Ký&nbsp;\u2022 Trương Phạm&nbsp;\u2022 Trương Tập&nbsp;\u2022 Trương Thừa&nbsp;\u2022 Tuân Du&nbsp;\u2022 Tuân Duyệt&nbsp;\u2022 Tuân Dực&nbsp;\u2022 Tuân Nghĩ&nbsp;\u2022 Tuân Úc&nbsp;\u2022 Tuân Vĩ&nbsp;\u2022 Tư Mã Chi&nbsp;\u2022 Tư Mã Lãng&nbsp;\u2022 Tư Mã Phu&nbsp;\u2022 Tư Mã Sư&nbsp;\u2022 Tư Mã Ý&nbsp;\u2022 Từ Cán&nbsp;\u2022 Từ Mạc&nbsp;\u2022 Từ Tuyên&nbsp;\u2022 Tưởng Ban&nbsp;\u2022 Tưởng Tế&nbsp;\u2022 Ưng Cừ&nbsp;\u2022 Ưng Sướng&nbsp;\u2022 Ưng Thiệu&nbsp;\u2022 Vệ Ký&nbsp;\u2022 Vệ Trăn&nbsp;\u2022 Vi Đản&nbsp;\u2022 Vi Khang&nbsp;\u2022 Viên Hoán&nbsp;\u2022 Viên Khản&nbsp;\u2022 Vũ Chu&nbsp;\u2022 Vương Hùng&nbsp;\u2022 Vương Lãng&nbsp;\u2022 Vương Nghiệp&nbsp;\u2022 Vương Quán&nbsp;\u2022 Vương Quảng&nbsp;\u2022 Vương Tất&nbsp;\u2022 Vương Tu&nbsp;\u2022 Vương Túc&nbsp;\u2022 Vương Tư&nbsp;\u2022 Vương Tượng&nbsp;\u2022 Vương Xán\n        <\/div><\/td>\n      <\/tr>\n      <tr>\n       <th scope=\"row\" class=\"navbox-group\">Thục Hán<\/th>\n       <td class=\"navbox-list navbox-odd\">\n        <div>\n         Ân Quán&nbsp;\u2022 Âm Hóa&nbsp;\u2022 Bàng Lâm&nbsp;\u2022 Bàng Thống&nbsp;\u2022 Bành Dạng&nbsp;\u2022 Bùi Tuấn&nbsp;\u2022 Diêu Trụ&nbsp;\u2022 Doãn Mặc&nbsp;\u2022 Dương Hồng&nbsp;\u2022 Dương Hí&nbsp;\u2022 Dương Nghi&nbsp;\u2022 Dương Ngung&nbsp;\u2022 Đặng Lương&nbsp;\u2022 Đỗ Quỳnh&nbsp;\u2022 Đỗ Vi&nbsp;\u2022 Đổng Doãn&nbsp;\u2022 Đổng Hòa&nbsp;\u2022 Đổng Khôi&nbsp;\u2022 Đổng Quyết&nbsp;\u2022 Gia Cát Kiều&nbsp;\u2022 Gia Cát Lượng&nbsp;\u2022 Gia Cát Quân&nbsp;\u2022 Giản Ung&nbsp;\u2022 Hà Chi&nbsp;\u2022 Hà Tông&nbsp;\u2022 Hoàng Hạo&nbsp;\u2022 Hồ Tiềm&nbsp;\u2022 Hứa Tĩnh&nbsp;\u2022 Hứa Từ&nbsp;\u2022 Hướng Lãng&nbsp;\u2022 Khước Chính&nbsp;\u2022 Lã Khải&nbsp;\u2022 Lã Nghệ&nbsp;\u2022 Lai Mẫn&nbsp;\u2022 Lại Cung&nbsp;\u2022 Liêu Lập&nbsp;\u2022 Lưu Ba&nbsp;\u2022 Lưu Cán&nbsp;\u2022 Lưu Diệm&nbsp;\u2022 Lưu Độ&nbsp;\u2022 Lý Mạc&nbsp;\u2022 Lý Mật&nbsp;\u2022 Lý Thiệu&nbsp;\u2022 Lý Triều&nbsp;\u2022 Lý Nghiêm&nbsp;\u2022 Lý Phong&nbsp;\u2022 Lý Phúc&nbsp;\u2022 Lý Soạn&nbsp;\u2022 Mã Lương&nbsp;\u2022 Mạnh Quang&nbsp;\u2022 My Trúc&nbsp;\u2022 Phàn Kiến&nbsp;\u2022 Pháp Chính&nbsp;\u2022 Phí Thi&nbsp;\u2022 Phí Y&nbsp;\u2022 Quách Du Chi&nbsp;\u2022 Tần Mật&nbsp;\u2022 Tập Trinh&nbsp;\u2022 Thường Úc&nbsp;\u2022 Tiều Chu&nbsp;\u2022 Tôn Càn&nbsp;\u2022 Tông Dự&nbsp;\u2022 Trần Chấn&nbsp;\u2022 Trần Chi&nbsp;\u2022 Trần Thọ&nbsp;\u2022 Trình Kỳ&nbsp;\u2022 Trương Biểu&nbsp;\u2022 Trương Duệ&nbsp;\u2022 Trương Thiệu&nbsp;\u2022 Trương Tồn&nbsp;\u2022 Từ Thứ&nbsp;\u2022 Tưởng Hiển&nbsp;\u2022 Tưởng Uyển&nbsp;\u2022 Xạ Kiên&nbsp;\u2022 Xạ Viên&nbsp;\u2022 Y Tịch&nbsp;\u2022 Vương Liên&nbsp;\u2022 Vương Mưu&nbsp;\u2022 Vương Phủ&nbsp;\u2022 Vương Sĩ\n        <\/div><\/td>\n      <\/tr>\n      <tr>\n       <th scope=\"row\" class=\"navbox-group\">Đông Ngô<\/th>\n       <td class=\"navbox-list navbox-even\">\n        <div>\n         Ân Lễ &nbsp;\u2022 Bộ Chất&nbsp;\u2022 Bộc Dương Hưng&nbsp;\u2022 Cố Đàm&nbsp;\u2022 Cố Đễ&nbsp;\u2022 Cố Thiệu&nbsp;\u2022 Cố Ung&nbsp;\u2022 Cố Vinh&nbsp;\u2022 Chu Trị&nbsp;\u2022 Chung Ly Mục&nbsp;\u2022 Diêu Tín&nbsp;\u2022 Dương Đạo&nbsp;\u2022 Dương Trúc&nbsp;\u2022 Đằng Dận&nbsp;\u2022 Đằng Mục&nbsp;\u2022 Đằng Tu&nbsp;\u2022 Đinh Mật&nbsp;\u2022 Đổng Triều&nbsp;\u2022 Gia Cát Cẩn&nbsp;\u2022 Gia Cát Khác&nbsp;\u2022 Hà Định&nbsp;\u2022 Hạ Thiệu&nbsp;\u2022 Hà Thực&nbsp;\u2022 Hác Phổ&nbsp;\u2022 Hoa Dung&nbsp;\u2022 Hoa Hạch&nbsp;\u2022 Hoàn Di&nbsp;\u2022 Hoằng Cầu&nbsp;\u2022 Hồ Tống&nbsp;\u2022 Hồ Xung&nbsp;\u2022 Hứa Cống&nbsp;\u2022 Khám Trạch&nbsp;\u2022 Kỵ Diễm&nbsp;\u2022 Kỷ Trắc&nbsp;\u2022 Lã Ý&nbsp;\u2022 Lạc Thống&nbsp;\u2022 Lâu Huyền&nbsp;\u2022 Lỗ Túc&nbsp;\u2022 Lục Cơ&nbsp;\u2022 Lục Khải&nbsp;\u2022 Lục Mạo&nbsp;\u2022 Lục Tích&nbsp;\u2022 Lục Vân&nbsp;\u2022 Lục Y&nbsp;\u2022 Lưu Cơ&nbsp;\u2022 Lưu Đôn&nbsp;\u2022 Mạnh Nhân&nbsp;\u2022 Nghiêm Tuấn&nbsp;\u2022 Ngô Xán&nbsp;\u2022 Ngô Phạm&nbsp;\u2022 Ngu Phiên&nbsp;\u2022 Ngu Dĩ&nbsp;\u2022 Ngu Thụ&nbsp;\u2022 Phan Tuấn&nbsp;\u2022 Phạm Chẩn&nbsp;\u2022 Phạm Thận&nbsp;\u2022 Phùng Hi&nbsp;\u2022 Quách Trác&nbsp;\u2022 Sầm Hôn&nbsp;\u2022 Tạ Cảnh&nbsp;\u2022 Tạ Thừa&nbsp;\u2022 Thạch Vĩ&nbsp;\u2022 Thái Sử Hưởng&nbsp;\u2022 Thẩm Hành&nbsp;\u2022 Thị Nghi&nbsp;\u2022 Tiết Doanh&nbsp;\u2022 Tiết Hủ&nbsp;\u2022 Tiết Tống&nbsp;\u2022 Toàn Ký&nbsp;\u2022 Toàn Thượng&nbsp;\u2022 Tôn Bá&nbsp;\u2022 Tôn Dực&nbsp;\u2022 Tôn Đăng&nbsp;\u2022 Tôn Hòa&nbsp;\u2022 Tôn Khuông&nbsp;\u2022 Tôn Kỳ&nbsp;\u2022 Tôn Lâm&nbsp;\u2022 Tôn Lự&nbsp;\u2022 Tôn Phấn&nbsp;\u2022 Tôn Thiệu&nbsp;\u2022 Tôn Tuấn&nbsp;\u2022 Tôn Tư&nbsp;\u2022 Tôn Ý&nbsp;\u2022 Trần Hóa&nbsp;\u2022 Triệu Đạt&nbsp;\u2022 Trình Bỉnh&nbsp;\u2022 Trương Chấn&nbsp;\u2022 Trương Chiêu&nbsp;\u2022 Trương Đễ&nbsp;\u2022 Trương Hoành&nbsp;\u2022 Trương Hưu&nbsp;\u2022 Trương Nghiễm&nbsp;\u2022 Trương Ôn&nbsp;\u2022 Trương Thừa&nbsp;\u2022 Từ Tường&nbsp;\u2022 Ung Khải&nbsp;\u2022 Vạn Úc&nbsp;\u2022 Vi Chiêu&nbsp;\u2022 Vương Phồn\n        <\/div><\/td>\n      <\/tr>\n      <tr>\n       <th scope=\"row\" class=\"navbox-group\">Tây Tấn<\/th>\n       <td class=\"navbox-list navbox-odd\">\n        <div>\n         Bùi Khải&nbsp;\u2022 Bùi Tú&nbsp;\u2022 Đỗ Chẩn&nbsp;\u2022 Đỗ Liệt&nbsp;\u2022 Giả Sung&nbsp;\u2022 Hà Phàn&nbsp;\u2022 Hà Tăng&nbsp;\u2022 Hà Trinh&nbsp;\u2022 Hầu Sử Quang&nbsp;\u2022 Hoàng Phủ Yến&nbsp;\u2022 Hồ Uy&nbsp;\u2022 Hướng Hùng&nbsp;\u2022 Lư Khâm&nbsp;\u2022 Lưu Nghị&nbsp;\u2022 Lưu Thực&nbsp;\u2022 Ngụy Thư&nbsp;\u2022 Phan An&nbsp;\u2022 Phùng Dư&nbsp;\u2022 Thọ Lương&nbsp;\u2022 Thoán Cốc&nbsp;\u2022 Thường Kỵ&nbsp;\u2022 Tô Du&nbsp;\u2022 Trương Hoa&nbsp;\u2022 Tuân Húc&nbsp;\u2022 Tư Mã Du&nbsp;\u2022 Ưng Trinh&nbsp;\u2022 Vệ Quán&nbsp;\u2022 Văn Lập&nbsp;\u2022 Vương Lãm&nbsp;\u2022 Vương Nghiệp&nbsp;\u2022 Vương Nhung&nbsp;\u2022 Vương Thẩm&nbsp;\u2022 Vương Tường\n        <\/div><\/td>\n      <\/tr>\n      <tr>\n       <th scope=\"row\" class=\"navbox-group\">Khác<\/th>\n       <td class=\"navbox-list navbox-even\">\n        <div>\n         Lư Thực&nbsp;\u2022 Lưu Ngu&nbsp;\u2022 Trương Nhượng&nbsp;\u2022 Triệu Trung&nbsp;\u2022 Tào Tung&nbsp;\u2022 Hàn Phức&nbsp;\u2022 Hoàng Uyển&nbsp;\u2022 Ngũ Quỳnh&nbsp;\u2022 Trần Cung&nbsp;\u2022 Thư Thụ&nbsp;\u2022 Điền Phong&nbsp;\u2022 Thẩm Phối&nbsp;\u2022 Bàng Kỷ&nbsp;\u2022 Quách Đồ&nbsp;\u2022 Tân Bình&nbsp;\u2022 Điền Trù&nbsp;\u2022 Đào Khiêm&nbsp;\u2022 Tuân Thầm&nbsp;\u2022 Trịnh Thái&nbsp;\u2022 Hà Ngung&nbsp;\u2022 Phó Tiếp&nbsp;\u2022 Trần Kỷ&nbsp;\u2022 Trần Khuê&nbsp;\u2022 Trương Dương&nbsp;\u2022 Triệu Kỳ&nbsp;\u2022 Dương Bưu&nbsp;\u2022 Mã Mật Đê&nbsp;\u2022 Vương Doãn&nbsp;\u2022 Sĩ Tôn Thụy&nbsp;\u2022 Khổng Dung&nbsp;\u2022 Khổng Trụ&nbsp;\u2022 Tang Hồng&nbsp;\u2022 Ngụy Phúng&nbsp;\u2022 Lý Tiến&nbsp;\u2022 Lý Nho&nbsp;\u2022 Trương Mạc&nbsp;\u2022 Trương Siêu&nbsp;\u2022 Quản Ninh&nbsp;\u2022 Viên Di&nbsp;\u2022 Vương Liệt&nbsp;\u2022 Thái Ung&nbsp;\u2022 Gia Cát Huyền&nbsp;\u2022 Lưu Kỳ&nbsp;\u2022 Khoái Lương&nbsp;\u2022 Hàn Huyền&nbsp;\u2022 Đổng Phù&nbsp;\u2022 Triệu Vĩ&nbsp;\u2022 Vương Thương&nbsp;\u2022 Trương Tùng\n        <\/div><\/td>\n      <\/tr>\n     <\/tbody>\n    <\/table>\n    <div><\/div><\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\" class=\"navbox-group\">Tướng<br>\n    lĩnh<\/th>\n   <td class=\"navbox-list navbox-odd\">\n    <div><\/div>\n    <table class=\"nowraplinks navbox-subgroup\">\n     <tbody>\n      <tr>\n       <th scope=\"row\" class=\"navbox-group\">Tào Ngụy<\/th>\n       <td class=\"navbox-list navbox-odd\">\n        <div>\n         Ân Thự&nbsp;\u2022 Bàng Đức&nbsp;\u2022 Bàng Hội&nbsp;\u2022 Cao Lãm&nbsp;\u2022 Châu Thái&nbsp;\u2022 Chu Cái&nbsp;\u2022 Chu Linh&nbsp;\u2022 Chung Hội&nbsp;\u2022 Diêm Hành&nbsp;\u2022 Diêm Nhu&nbsp;\u2022 Doãn Lễ&nbsp;\u2022 Doãn Phụng&nbsp;\u2022 Dương Hân&nbsp;\u2022 Dương Kỵ&nbsp;\u2022 Đặng Ngải&nbsp;\u2022 Đặng Trung&nbsp;\u2022 Điền Dự&nbsp;\u2022 Điền Tục&nbsp;\u2022 Điển Vi&nbsp;\u2022 Đới Lăng&nbsp;\u2022 Giả Quỳ&nbsp;\u2022 Giả Tín&nbsp;\u2022 Gia Cát Đản&nbsp;\u2022 Hạ Hầu Đôn&nbsp;\u2022 Hạ Hầu Hiến&nbsp;\u2022 Hạ Hầu Mậu&nbsp;\u2022 Hạ Hầu Nho&nbsp;\u2022 Hạ Hầu Thượng&nbsp;\u2022 Hạ Hầu Uyên&nbsp;\u2022 Hác Chiêu&nbsp;\u2022 Hàn Hạo&nbsp;\u2022 Hàn Tống&nbsp;\u2022 Hầu Âm&nbsp;\u2022 Hầu Thành&nbsp;\u2022 Hoàng Hoa&nbsp;\u2022 Hồ Liệt&nbsp;\u2022 Hồ Phấn&nbsp;\u2022 Hồ Tuân&nbsp;\u2022 Hứa Chử&nbsp;\u2022 Hứa Nghi&nbsp;\u2022 Khiên Chiêu&nbsp;\u2022 Lã Khoáng&nbsp;\u2022 Lã Kiền&nbsp;\u2022 Lã Thường&nbsp;\u2022 Lã Tường&nbsp;\u2022 Lâu Khuê&nbsp;\u2022 Lộ Chiêu&nbsp;\u2022 Lỗ Chi&nbsp;\u2022 Lưu Đại&nbsp;\u2022 Lưu Huân&nbsp;\u2022 Lý Điển&nbsp;\u2022 Lý Phụ&nbsp;\u2022 Lý Thông&nbsp;\u2022 Mãn Sủng&nbsp;\u2022 Ngô Chất&nbsp;\u2022 Ngô Đôn&nbsp;\u2022 Ngưu Kim&nbsp;\u2022 Ngụy Bình&nbsp;\u2022 Ngụy Tục&nbsp;\u2022 Nhạc Lâm&nbsp;\u2022 Nhạc Tiến&nbsp;\u2022 Nhâm Tuấn&nbsp;\u2022 Phí Diệu&nbsp;\u2022 Quách Hoài&nbsp;\u2022 Quán Khâu Kiệm&nbsp;\u2022 Sư Toản&nbsp;\u2022 Sử Hoán&nbsp;\u2022 Tang Bá&nbsp;\u2022 Tào Chân&nbsp;\u2022 Tào Chương&nbsp;\u2022 Tào Hồng&nbsp;\u2022 Tào Hưu&nbsp;\u2022 Tào Nhân&nbsp;\u2022 Tào Sảng&nbsp;\u2022 Tào Thái&nbsp;\u2022 Tào Thuần&nbsp;\u2022 Tào Triệu&nbsp;\u2022 Tần Lãng&nbsp;\u2022 Tất Quỹ&nbsp;\u2022 Thái Dương&nbsp;\u2022 Thành Công Anh&nbsp;\u2022 Thân Nghi&nbsp;\u2022 Tiên Vu Phụ&nbsp;\u2022 Tiêu Xúc&nbsp;\u2022 Tô Tắc&nbsp;\u2022 Tôn Lễ&nbsp;\u2022 Tôn Quán&nbsp;\u2022 Tống Hiến&nbsp;\u2022 Trần Thái&nbsp;\u2022 Triệu Ngang&nbsp;\u2022 Triệu Nghiễm&nbsp;\u2022 Triệu Tiển&nbsp;\u2022 Trương Cáp&nbsp;\u2022 Trương Đặc&nbsp;\u2022 Trương Hổ&nbsp;\u2022 Trương Liêu&nbsp;\u2022 Trương Tú&nbsp;\u2022 Tư Mã Vọng&nbsp;\u2022 Từ Hoảng&nbsp;\u2022 Văn Hổ&nbsp;\u2022 Văn Khâm&nbsp;\u2022 Văn Sính&nbsp;\u2022 Văn Thục&nbsp;\u2022 Vu Cấm&nbsp;\u2022 Vương Bí&nbsp;\u2022 Vương Kinh&nbsp;\u2022 Vương Lăng&nbsp;\u2022 Vương Song&nbsp;\u2022 Vương Sưởng&nbsp;\u2022 Vương Trung&nbsp;\u2022 Xương Hi\n        <\/div><\/td>\n      <\/tr>\n      <tr>\n       <th scope=\"row\" class=\"navbox-group\">Thục Hán<\/th>\n       <td class=\"navbox-list navbox-even\">\n        <div>\n         Bàng Hi&nbsp;\u2022 Cao Tường&nbsp;\u2022 Câu Phù&nbsp;\u2022 Diêm Vũ&nbsp;\u2022 Đặng Chi&nbsp;\u2022 Gia Cát Chiêm&nbsp;\u2022 Gia Cát Thượng&nbsp;\u2022 Hạ Hầu Bá&nbsp;\u2022 Hạ Hầu Lan&nbsp;\u2022 Hoàng Trung&nbsp;\u2022 Hoàng Quyền&nbsp;\u2022 Hoắc Dặc&nbsp;\u2022 Hoắc Tuấn&nbsp;\u2022 Hồ Tế&nbsp;\u2022 Hướng Sủng&nbsp;\u2022 Khương Duy&nbsp;\u2022 La Hiến&nbsp;\u2022 Liêu Hóa&nbsp;\u2022 Liễu Ẩn&nbsp;\u2022 Lôi Đồng&nbsp;\u2022 Lôi Tự&nbsp;\u2022 Lưu Bàn&nbsp;\u2022 Lưu Mẫn&nbsp;\u2022 Lưu Phong&nbsp;\u2022 Lưu Tuần&nbsp;\u2022 Lưu Ung&nbsp;\u2022 Lý Khôi&nbsp;\u2022 Mã Đại&nbsp;\u2022 Mã Siêu&nbsp;\u2022 Mã Tắc&nbsp;\u2022 Mã Trung&nbsp;\u2022 Mạnh Đạt&nbsp;\u2022 Mạnh Hoạch&nbsp;\u2022 Nghiêm Nhan&nbsp;\u2022 Ngô Ban&nbsp;\u2022 Ngô Lan&nbsp;\u2022 Ngô Ý&nbsp;\u2022 Ngụy Diên&nbsp;\u2022 Phí Quán&nbsp;\u2022 Phó Dung&nbsp;\u2022 Phó Thiêm&nbsp;\u2022 Phụ Khuông&nbsp;\u2022 Phùng Tập&nbsp;\u2022 Quan Bình&nbsp;\u2022 Quan Hưng&nbsp;\u2022 Quan Vũ&nbsp;\u2022 Sa Ma Kha&nbsp;\u2022 Tập Trân&nbsp;\u2022 Thân Đam&nbsp;\u2022 Trác Ưng&nbsp;\u2022 Trần Đáo&nbsp;\u2022 Trần Thức&nbsp;\u2022 Triệu Lũy&nbsp;\u2022 Triệu Vân&nbsp;\u2022 Trương Dực&nbsp;\u2022 Trương Nam&nbsp;\u2022 Trương Ngực&nbsp;\u2022 Trương Phi&nbsp;\u2022 Tưởng Bân&nbsp;\u2022 Tưởng Thư&nbsp;\u2022 Viên Lâm&nbsp;\u2022 Vương Bình&nbsp;\u2022 Vương Hàm&nbsp;\u2022 Vương Tự\n        <\/div><\/td>\n      <\/tr>\n      <tr>\n       <th scope=\"row\" class=\"navbox-group\">Đông Ngô<\/th>\n       <td class=\"navbox-list navbox-odd\">\n        <div>\n         Bộ Cơ&nbsp;\u2022 Bộ Hiệp&nbsp;\u2022 Bộ Xiển&nbsp;\u2022 Cam Ninh&nbsp;\u2022 Chu Cứ&nbsp;\u2022 Chu Dận&nbsp;\u2022 Chu Du&nbsp;\u2022 Chu Dị&nbsp;\u2022 Chu Hoàn&nbsp;\u2022 Chu Nhiên&nbsp;\u2022 Chu Phường&nbsp;\u2022 Chu Tài&nbsp;\u2022 Chu Thái&nbsp;\u2022 Chu Thiệu&nbsp;\u2022 Chu Xử&nbsp;\u2022 Chung Ly Tuẫn&nbsp;\u2022 Cố Dung&nbsp;\u2022 Cố Thừa&nbsp;\u2022 Cốc Lợi&nbsp;\u2022 Đào Hoàng&nbsp;\u2022 Đào Tuấn&nbsp;\u2022 Đinh Phong&nbsp;\u2022 Đinh Phụng&nbsp;\u2022 Đổng Tập&nbsp;\u2022 Đường Tư&nbsp;\u2022 Gia Cát Dung&nbsp;\u2022 Gia Cát Tịnh&nbsp;\u2022 Hạ Đạt&nbsp;\u2022 Hạ Tề&nbsp;\u2022 Hàn Đương&nbsp;\u2022 Hoàng Cái&nbsp;\u2022 Kỷ Chiêm&nbsp;\u2022 Lã Cứ&nbsp;\u2022 Lã Đại&nbsp;\u2022 Lã Khải&nbsp;\u2022 Lã Mông&nbsp;\u2022 Lã Phạm&nbsp;\u2022 Lăng Tháo&nbsp;\u2022 Lăng Thống&nbsp;\u2022 Lỗ Thục&nbsp;\u2022 Lục Cảnh&nbsp;\u2022 Lục Dận&nbsp;\u2022 Lục Kháng&nbsp;\u2022 Lục Tốn&nbsp;\u2022 Lục Yến&nbsp;\u2022 Lưu A&nbsp;\u2022 Lưu Bình&nbsp;\u2022 Lưu Lược&nbsp;\u2022 Lưu Tán&nbsp;\u2022 Lưu Toản&nbsp;\u2022 Lý Dị&nbsp;\u2022 Lý Úc&nbsp;\u2022 Mã Mậu&nbsp;\u2022 Mã Trung&nbsp;\u2022 My Phương&nbsp;\u2022 Ngô Cảnh&nbsp;\u2022 Ngô Ngạn&nbsp;\u2022 Ngu Tiện&nbsp;\u2022 Ngu Trung&nbsp;\u2022 Nhuế Huyền&nbsp;\u2022 Phan Chương&nbsp;\u2022 Phan Lâm&nbsp;\u2022 Phạm Cương&nbsp;\u2022 Quách Mã&nbsp;\u2022 Sĩ Nhân&nbsp;\u2022 Tạ Tinh&nbsp;\u2022 Thái Sử Từ&nbsp;\u2022 Thẩm Oánh&nbsp;\u2022 Thi Tích&nbsp;\u2022 Tiên Vu Đan&nbsp;\u2022 Toàn Dịch&nbsp;\u2022 Toàn Đoan&nbsp;\u2022 Toàn Tông&nbsp;\u2022 Toàn Tự&nbsp;\u2022 Tô Phi&nbsp;\u2022 Tổ Lang&nbsp;\u2022 Tổ Mậu&nbsp;\u2022 Tôn Ân&nbsp;\u2022 Tôn Bí&nbsp;\u2022 Tôn Cảo&nbsp;\u2022 Tôn Chấn&nbsp;\u2022 Tôn Di&nbsp;\u2022 Tôn Dị&nbsp;\u2022 Tôn Du&nbsp;\u2022 Tôn Hâm&nbsp;\u2022 Tôn Khải&nbsp;\u2022 Tôn Lãng&nbsp;\u2022 Tôn Lân&nbsp;\u2022 Tôn Hà&nbsp;\u2022 Tôn Hiệu&nbsp;\u2022 Tôn Hoàn&nbsp;\u2022 Tôn Hoán&nbsp;\u2022 Tôn Phụ&nbsp;\u2022 Tôn Thiều&nbsp;\u2022 Tôn Tịnh&nbsp;\u2022 Tôn Tuấn&nbsp;\u2022 Tôn Tùng&nbsp;\u2022 Tống Khiêm&nbsp;\u2022 Trần Biểu&nbsp;\u2022 Trần Tu&nbsp;\u2022 Trần Vũ&nbsp;\u2022 Trình Phổ&nbsp;\u2022 Trịnh Trụ&nbsp;\u2022 Trương Bố&nbsp;\u2022 Trương Đạt&nbsp;\u2022 Tu Doãn&nbsp;\u2022 Tu Tắc&nbsp;\u2022 Từ Côn&nbsp;\u2022 Từ Thịnh&nbsp;\u2022 Tưởng Khâm&nbsp;\u2022 Vu Thuyên&nbsp;\u2022 Vương Đôn\n        <\/div><\/td>\n      <\/tr>\n      <tr>\n       <th scope=\"row\" class=\"navbox-group\">Tây Tấn<\/th>\n       <td class=\"navbox-list navbox-even\">\n        <div>\n         Chu Tuấn&nbsp;\u2022 Dương Hỗ&nbsp;\u2022 Dương Tắc&nbsp;\u2022 Dương Tông&nbsp;\u2022 Dương Triệu&nbsp;\u2022 Đỗ Dự&nbsp;\u2022 Đổng Nguyên&nbsp;\u2022 Đường Bân&nbsp;\u2022 Gia Cát Tự&nbsp;\u2022 Hồ Uyên&nbsp;\u2022 Khiên Hoằng&nbsp;\u2022 Lý Tùng&nbsp;\u2022 Mã Long&nbsp;\u2022 Mao Cảnh&nbsp;\u2022 Mạnh Cán&nbsp;\u2022 Thạch Bao&nbsp;\u2022 Thoán Năng&nbsp;\u2022 Trần Khiên&nbsp;\u2022 Tôn Tú&nbsp;\u2022 Tuân Khải&nbsp;\u2022 Tư Mã Dung&nbsp;\u2022 Tư Mã Lượng&nbsp;\u2022 Tư Mã Phụ&nbsp;\u2022 Tư Mã Trụ&nbsp;\u2022 Tư Mã Tuấn&nbsp;\u2022 Vương Hồn&nbsp;\u2022 Vương Tố&nbsp;\u2022 Vương Tuấn\n        <\/div><\/td>\n      <\/tr>\n      <tr>\n       <th scope=\"row\" class=\"navbox-group\">Khác<\/th>\n       <td class=\"navbox-list navbox-odd\">\n        <div>\n         Trương Bảo&nbsp;\u2022 Trương Lương&nbsp;\u2022 Trương Yên&nbsp;\u2022 Mã Nguyên Nghĩa&nbsp;\u2022 Hoàng Phủ Tung&nbsp;\u2022 Chu Tuấn&nbsp;\u2022 Hà Tiến&nbsp;\u2022 Đinh Nguyên&nbsp;\u2022 Hoa Hùng&nbsp;\u2022 Chủng Tập&nbsp;\u2022 Chủng Thiệu&nbsp;\u2022 Bào Tín&nbsp;\u2022 Kỷ Linh&nbsp;\u2022 Kiều Nhuy&nbsp;\u2022 Lôi Bạc&nbsp;\u2022 Trần Lan&nbsp;\u2022 Văn Xú&nbsp;\u2022 Nhan Lương&nbsp;\u2022 Khúc Nghĩa&nbsp;\u2022 Lý Thôi&nbsp;\u2022 Quách Dĩ&nbsp;\u2022 Trương Tế&nbsp;\u2022 Phàn Trù&nbsp;\u2022 Đoàn Ổi&nbsp;\u2022 Từ Vinh&nbsp;\u2022 Hồ Chẩn&nbsp;\u2022 Dương Định&nbsp;\u2022 Tào Báo&nbsp;\u2022 Lưu Tích&nbsp;\u2022 Cung Đô&nbsp;\u2022 Giả Long&nbsp;\u2022 Trương Nhiệm&nbsp;\u2022 Lưu Khôi&nbsp;\u2022 Dương Ngang&nbsp;\u2022 Dương Nhiệm&nbsp;\u2022 Biên Chương&nbsp;\u2022 Bắc Cung Ngọc&nbsp;\u2022 Lý Văn Hầu&nbsp;\u2022 Thuần Vu Quỳnh&nbsp;\u2022 Viên Hi&nbsp;\u2022 Cao Cán&nbsp;\u2022 Cao Thuận&nbsp;\u2022 Thành Liêm&nbsp;\u2022 Tào Tính&nbsp;\u2022 Hác Manh&nbsp;\u2022 Trương Tiện&nbsp;\u2022 Liễu Nghị&nbsp;\u2022 Trách Dung&nbsp;\u2022 Hầu Tuyển&nbsp;\u2022 Trình Ngân&nbsp;\u2022 Trương Hoành&nbsp;\u2022 Thành Nghi&nbsp;\u2022 Lý Kham&nbsp;\u2022 Mã Ngoạn&nbsp;\u2022 Dương Thu&nbsp;\u2022 Lương Hưng&nbsp;\u2022 Lý Mông&nbsp;\u2022 Vương Phương&nbsp;\u2022 Đổng Thừa&nbsp;\u2022 Dương Phụng&nbsp;\u2022 Hàn Tiêm&nbsp;\u2022 Lã Giới&nbsp;\u2022 Vương Uy&nbsp;\u2022 Hoàng Tổ\n        <\/div><\/td>\n      <\/tr>\n     <\/tbody>\n    <\/table>\n    <div><\/div><\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\" class=\"navbox-group\">Khác<\/th>\n   <td class=\"navbox-list navbox-even\">\n    <div>\n     Bàng Đức Công&nbsp;\u2022 Chu Bất Nghi&nbsp;\u2022 Chu Kiến Bình&nbsp;\u2022 Chu Quần&nbsp;\u2022 Chu Tuyên&nbsp;\u2022 Đỗ Quỳ&nbsp;\u2022 Đổng Phụng&nbsp;\u2022 Điêu Thuyền&nbsp;\u2022 Hoa Đà&nbsp;\u2022 Hoàng Phủ Mật&nbsp;\u2022 Hoàng Thừa Ngạn&nbsp;\u2022 Hồ Chiêu&nbsp;\u2022 Mã Hưu&nbsp;\u2022 Mã Thiết&nbsp;\u2022 Lã Hưng&nbsp;\u2022 Lưu Huy&nbsp;\u2022 Mã Quân&nbsp;\u2022 Nễ Hành&nbsp;\u2022 Quản Lộ&nbsp;\u2022 Tả Từ&nbsp;\u2022 Tào Bất Hưng&nbsp;\u2022 Tào Thực&nbsp;\u2022 Tào Xung&nbsp;\u2022 Thành Tế&nbsp;\u2022 Tuân Xán&nbsp;\u2022 Tống Trọng Tử&nbsp;\u2022 Tôn Thiệu&nbsp;\u2022 Triệu Nguyệt&nbsp;\u2022 Trịnh Huyền&nbsp;\u2022 Nhâm An&nbsp;\u2022 Trương Bao&nbsp;\u2022 Trương Tiến&nbsp;\u2022 Trương Trọng Cảnh&nbsp;\u2022 Tư Mã Huy&nbsp;\u2022 Vương Bật\n    <\/div><\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\" class=\"navbox-group\">Liên quan<\/th>\n   <td class=\"navbox-list navbox-odd\">\n    <div>\n     Tam quốc chí&nbsp;\u2022 Nhân vật Tam Quốc&nbsp;\u2022 Nhân vật hư cấu&nbsp;\u2022 Sự kiện hư cấu\n    <\/div><\/td>\n  <\/tr>\n <\/tbody>\n<\/table>",
+        "<table class=\"nowraplinks navbox-subgroup\">\n <tbody>\n  <tr>\n   <th scope=\"row\" class=\"navbox-group\">Đông Hán<\/th>\n   <td class=\"navbox-list navbox-odd\">\n    <div>\n     Linh đế&nbsp;\u2022 Thiếu đế&nbsp;\u2022 Hiến đế\n    <\/div><\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\" class=\"navbox-group\">Tào Ngụy<\/th>\n   <td class=\"navbox-list navbox-even\">\n    <div>\n     <i>Vũ đế<\/i>&nbsp;\u2022 Văn đế&nbsp;\u2022 Minh đế&nbsp;\u2022 Linh công&nbsp;\u2022 Cao Quý hương công&nbsp;\u2022 Nguyên đế\n    <\/div><\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\" class=\"navbox-group\">Thục Hán<\/th>\n   <td class=\"navbox-list navbox-odd\">\n    <div>\n     Tiên Chủ (Chiêu Liệt đế)&nbsp;\u2022 Hậu Chủ (Hoài đế)\n    <\/div><\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\" class=\"navbox-group\">Đông Ngô<\/th>\n   <td class=\"navbox-list navbox-even\">\n    <div>\n     <i>Vũ Liệt đế<\/i>&nbsp;\u2022 <i>Hoàn vương<\/i>&nbsp;\u2022 Đại đế&nbsp;\u2022 Phế đế&nbsp;\u2022 Cảnh đế&nbsp;\u2022 Mạt đế\n    <\/div><\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\" class=\"navbox-group\">Tây Tấn<\/th>\n   <td class=\"navbox-list navbox-odd\">\n    <div>\n     <i>Tuyên vương<\/i>&nbsp;\u2022 <i>Cảnh vương<\/i> &nbsp;\u2022 <i>Văn vương<\/i>&nbsp;\u2022 Vũ đế\n    <\/div><\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\" class=\"navbox-group\">Khác<\/th>\n   <td class=\"navbox-list navbox-even\">\n    <div>\n     Đổng Trác&nbsp;\u2022 Công Tôn Toản&nbsp;\u2022 Lưu Biểu&nbsp;\u2022 Lưu Tông&nbsp;\u2022 Lưu Yên&nbsp;\u2022 Lưu Chương&nbsp;\u2022 Lã Bố&nbsp;\u2022 Mã Đằng&nbsp;\u2022 Viên Thiệu&nbsp;\u2022 Viên Thuật&nbsp;\u2022 Trương Giác&nbsp;\u2022 Trương Lỗ&nbsp;\u2022 Công Tôn Độ&nbsp;\u2022 Công Tôn Khang&nbsp;\u2022 Công Tôn Cung&nbsp;\u2022 Công Tôn Uyên&nbsp;\u2022 Hàn Toại&nbsp;\u2022 Lưu Do&nbsp;\u2022 Lưu Đại&nbsp;\u2022 Lưu Sủng&nbsp;\u2022 Sĩ Nhiếp&nbsp;\u2022 Viên Đàm&nbsp;\u2022 Viên Hi&nbsp;\u2022 Viên Thượng\n    <\/div><\/td>\n  <\/tr>\n <\/tbody>\n<\/table>",
+        "<table class=\"nowraplinks navbox-subgroup\">\n <tbody>\n  <tr>\n   <th scope=\"row\" class=\"navbox-group\">Đông Hán<\/th>\n   <td class=\"navbox-list navbox-odd\">\n    <div>\n     Đổng thái hậu&nbsp;\u2022 Hà thái hậu&nbsp;\u2022 Đổng quý nhân&nbsp;\u2022 Phục hoàng hậu&nbsp;\u2022 Tào hoàng hậu\n    <\/div><\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\" class=\"navbox-group\">Tào Ngụy<\/th>\n   <td class=\"navbox-list navbox-even\">\n    <div>\n     Đinh phu nhân&nbsp;\u2022 Biện phu nhân&nbsp;\u2022 Hoàn phu nhân&nbsp;\u2022 Chân hoàng hậu&nbsp;\u2022 Quách hoàng hậu&nbsp;\u2022 Ngu phi&nbsp;\u2022 Mao hoàng hậu&nbsp;\u2022 Quách hoàng hậu&nbsp;\u2022 Chân hoàng hậu&nbsp;\u2022 Trương hoàng hậu&nbsp;\u2022 Vương hoàng hậu&nbsp;\u2022 Biện hoàng hậu&nbsp;\u2022 Biện hoàng hậu\n    <\/div><\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\" class=\"navbox-group\">Thục Hán<\/th>\n   <td class=\"navbox-list navbox-odd\">\n    <div>\n     Cam phu nhân&nbsp;\u2022 My phu nhân&nbsp;\u2022 Tôn phu nhân&nbsp;\u2022 Ngô hoàng hậu&nbsp;\u2022 Trương hoàng hậu&nbsp;\u2022 Trương hoàng hậu\n    <\/div><\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\" class=\"navbox-group\">Đông Ngô<\/th>\n   <td class=\"navbox-list navbox-even\">\n    <div>\n     Ngô phu nhân&nbsp;\u2022 Đại Kiều&nbsp;\u2022 Bộ phu nhân&nbsp;\u2022 Vương phu nhân&nbsp;\u2022 Vương phu nhân&nbsp;\u2022 Phan hoàng hậu&nbsp;\u2022 Toàn hoàng hậu&nbsp;\u2022 Hà thái hậu&nbsp;\u2022 Trương phu nhân&nbsp;\u2022 Chu hoàng hậu &nbsp;\u2022 Đằng hoàng hậu\n    <\/div><\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\" class=\"navbox-group\">Khác<\/th>\n   <td class=\"navbox-list navbox-odd\">\n    <div>\n     Triệu Nga&nbsp;\u2022 Thái Diễm&nbsp;\u2022 Hoàng Nguyệt Anh&nbsp;\u2022 Tiểu Kiều&nbsp;\u2022 Từ phu nhân&nbsp;\u2022 Tân Hiến Anh&nbsp;\u2022 Vương Dị&nbsp;\u2022 Tôn Lỗ Ban&nbsp;\u2022 Tôn Lỗ Dục&nbsp;\u2022 Lục Úc Sinh&nbsp;\u2022 Nguyễn phu nhân&nbsp;\u2022 Trương Xuân Hoa&nbsp;\u2022 Hạ Hầu Huy&nbsp;\u2022 Dương Huy Du&nbsp;\u2022 Vương Nguyên Cơ\n    <\/div><\/td>\n  <\/tr>\n <\/tbody>\n<\/table>",
+        "<table class=\"nowraplinks navbox-subgroup\">\n <tbody>\n  <tr>\n   <th scope=\"row\" class=\"navbox-group\">Tào Ngụy<\/th>\n   <td class=\"navbox-list navbox-even\">\n    <div>\n     Ẩn Phồn&nbsp;\u2022 Bà Khâm&nbsp;\u2022 Bàng Dục&nbsp;\u2022 Bào Huân&nbsp;\u2022 Bỉnh Nguyên&nbsp;\u2022 Bùi Tiềm&nbsp;\u2022 Cao Đường Long&nbsp;\u2022 Cao Nhu&nbsp;\u2022 Chu Thước&nbsp;\u2022 Chung Do&nbsp;\u2022 Chung Dục&nbsp;\u2022 Diêm Ôn&nbsp;\u2022 Du Sở&nbsp;\u2022 Dương Bái&nbsp;\u2022 Dương Phụ&nbsp;\u2022 Dương Tu&nbsp;\u2022 Dương Tuấn&nbsp;\u2022 Đặng Dương&nbsp;\u2022 Đặng Hi&nbsp;\u2022 Đinh Dị&nbsp;\u2022 Đinh Mật&nbsp;\u2022 Đinh Nghi&nbsp;\u2022 Đinh Phỉ&nbsp;\u2022 Đô Thị Ngưu Lợi&nbsp;\u2022 Đỗ Kỳ&nbsp;\u2022 Đỗ Tập&nbsp;\u2022 Đỗ Thứ&nbsp;\u2022 Đổng Chiêu&nbsp;\u2022 Đổng Ngộ&nbsp;\u2022 Giả Hủ&nbsp;\u2022 Hạ Hầu Hòa&nbsp;\u2022 Hạ Hầu Huệ&nbsp;\u2022 Hạ Hầu Huyền&nbsp;\u2022 Hạ Hầu Uy&nbsp;\u2022 Hà Yến&nbsp;\u2022 Hàm Đan Thuần&nbsp;\u2022 Hàn Kỵ&nbsp;\u2022 Hàn Phạm&nbsp;\u2022 Hàn Tung&nbsp;\u2022 Hạo Chu&nbsp;\u2022 Hí Chí Tài&nbsp;\u2022 Hình Ngung&nbsp;\u2022 Hình Trinh&nbsp;\u2022 Hoa Hâm&nbsp;\u2022 Hòa Hiệp&nbsp;\u2022 Hoàn Điển&nbsp;\u2022 Hoàn Giai&nbsp;\u2022 Hoàn Phạm&nbsp;\u2022 Hoàn Uy&nbsp;\u2022 Hồ Chất&nbsp;\u2022 Hứa Chi&nbsp;\u2022 Hứa Doãn&nbsp;\u2022 Hứa Du&nbsp;\u2022 Kê Hỉ&nbsp;\u2022 Kê Khang&nbsp;\u2022 Khoái Việt&nbsp;\u2022 Lệnh Hồ Ngu&nbsp;\u2022 Lệnh Hồ Thiệu&nbsp;\u2022 Lộ Túy&nbsp;\u2022 Lư Dục&nbsp;\u2022 Lưu Dị&nbsp;\u2022 Lưu Diệp&nbsp;\u2022 Lưu Đào&nbsp;\u2022 Lưu Nghị&nbsp;\u2022 Lưu Phóng&nbsp;\u2022 Lưu Phức&nbsp;\u2022 Lưu Thiệu&nbsp;\u2022 Lưu Tiên&nbsp;\u2022 Lưu Tĩnh&nbsp;\u2022 Lưu Trinh&nbsp;\u2022 Lương Mậu&nbsp;\u2022 Lương Tập&nbsp;\u2022 Lý Nghĩa&nbsp;\u2022 Lý Phong&nbsp;\u2022 Lý Thắng&nbsp;\u2022 Mã Tuân&nbsp;\u2022 Mãn Vĩ&nbsp;\u2022 Mạnh Khang&nbsp;\u2022 Mạnh Kiến&nbsp;\u2022 Mao Giới&nbsp;\u2022 Mộc Tịnh&nbsp;\u2022 Ngu Tùng&nbsp;\u2022 Nguyễn Tịch&nbsp;\u2022 Nguyễn Vũ&nbsp;\u2022 Ngư Hoạn&nbsp;\u2022 Ôn Khôi&nbsp;\u2022 Phó Cán&nbsp;\u2022 Phó Hỗ&nbsp;\u2022 Phó Huyền&nbsp;\u2022 Phó Tốn&nbsp;\u2022 Quách Gia&nbsp;\u2022 Quốc Uyên&nbsp;\u2022 Sơn Đào&nbsp;\u2022 Tào Bưu&nbsp;\u2022 Tào Cứ&nbsp;\u2022 Tào Hùng&nbsp;\u2022 Tào Hi&nbsp;\u2022 Tào Lễ&nbsp;\u2022 Tào Vũ&nbsp;\u2022 Tảo Chi&nbsp;\u2022 Tân Tì&nbsp;\u2022 Tân Sưởng&nbsp;\u2022 Tất Kham&nbsp;\u2022 Thạch Thao&nbsp;\u2022 Thôi Diệm&nbsp;\u2022 Thôi Lâm&nbsp;\u2022 Thôi Tán&nbsp;\u2022 Thương Từ&nbsp;\u2022 Thường Lâm&nbsp;\u2022 Tiết Đễ&nbsp;\u2022 Tô Lâm&nbsp;\u2022 Tôn Tư&nbsp;\u2022 Tôn Ung&nbsp;\u2022 Trần Đăng&nbsp;\u2022 Trần Kiều&nbsp;\u2022 Trần Lâm&nbsp;\u2022 Trần Quần&nbsp;\u2022 Trình Dục&nbsp;\u2022 Trình Vũ&nbsp;\u2022 Trịnh Hồn&nbsp;\u2022 Trịnh Mậu&nbsp;\u2022 Trịnh Tiểu Đồng&nbsp;\u2022 Trịnh Xung&nbsp;\u2022 Trọng Trường Thống&nbsp;\u2022 Trương Cung&nbsp;\u2022 Trương Ký&nbsp;\u2022 Trương Phạm&nbsp;\u2022 Trương Tập&nbsp;\u2022 Trương Thừa&nbsp;\u2022 Tuân Du&nbsp;\u2022 Tuân Duyệt&nbsp;\u2022 Tuân Dực&nbsp;\u2022 Tuân Nghĩ&nbsp;\u2022 Tuân Úc&nbsp;\u2022 Tuân Vĩ&nbsp;\u2022 Tư Mã Chi&nbsp;\u2022 Tư Mã Lãng&nbsp;\u2022 Tư Mã Phu&nbsp;\u2022 Tư Mã Sư&nbsp;\u2022 Tư Mã Ý&nbsp;\u2022 Từ Cán&nbsp;\u2022 Từ Mạc&nbsp;\u2022 Từ Tuyên&nbsp;\u2022 Tưởng Ban&nbsp;\u2022 Tưởng Tế&nbsp;\u2022 Ưng Cừ&nbsp;\u2022 Ưng Sướng&nbsp;\u2022 Ưng Thiệu&nbsp;\u2022 Vệ Ký&nbsp;\u2022 Vệ Trăn&nbsp;\u2022 Vi Đản&nbsp;\u2022 Vi Khang&nbsp;\u2022 Viên Hoán&nbsp;\u2022 Viên Khản&nbsp;\u2022 Vũ Chu&nbsp;\u2022 Vương Hùng&nbsp;\u2022 Vương Lãng&nbsp;\u2022 Vương Nghiệp&nbsp;\u2022 Vương Quán&nbsp;\u2022 Vương Quảng&nbsp;\u2022 Vương Tất&nbsp;\u2022 Vương Tu&nbsp;\u2022 Vương Túc&nbsp;\u2022 Vương Tư&nbsp;\u2022 Vương Tượng&nbsp;\u2022 Vương Xán\n    <\/div><\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\" class=\"navbox-group\">Thục Hán<\/th>\n   <td class=\"navbox-list navbox-odd\">\n    <div>\n     Ân Quán&nbsp;\u2022 Âm Hóa&nbsp;\u2022 Bàng Lâm&nbsp;\u2022 Bàng Thống&nbsp;\u2022 Bành Dạng&nbsp;\u2022 Bùi Tuấn&nbsp;\u2022 Diêu Trụ&nbsp;\u2022 Doãn Mặc&nbsp;\u2022 Dương Hồng&nbsp;\u2022 Dương Hí&nbsp;\u2022 Dương Nghi&nbsp;\u2022 Dương Ngung&nbsp;\u2022 Đặng Lương&nbsp;\u2022 Đỗ Quỳnh&nbsp;\u2022 Đỗ Vi&nbsp;\u2022 Đổng Doãn&nbsp;\u2022 Đổng Hòa&nbsp;\u2022 Đổng Khôi&nbsp;\u2022 Đổng Quyết&nbsp;\u2022 Gia Cát Kiều&nbsp;\u2022 Gia Cát Lượng&nbsp;\u2022 Gia Cát Quân&nbsp;\u2022 Giản Ung&nbsp;\u2022 Hà Chi&nbsp;\u2022 Hà Tông&nbsp;\u2022 Hoàng Hạo&nbsp;\u2022 Hồ Tiềm&nbsp;\u2022 Hứa Tĩnh&nbsp;\u2022 Hứa Từ&nbsp;\u2022 Hướng Lãng&nbsp;\u2022 Khước Chính&nbsp;\u2022 Lã Khải&nbsp;\u2022 Lã Nghệ&nbsp;\u2022 Lai Mẫn&nbsp;\u2022 Lại Cung&nbsp;\u2022 Liêu Lập&nbsp;\u2022 Lưu Ba&nbsp;\u2022 Lưu Cán&nbsp;\u2022 Lưu Diệm&nbsp;\u2022 Lưu Độ&nbsp;\u2022 Lý Mạc&nbsp;\u2022 Lý Mật&nbsp;\u2022 Lý Thiệu&nbsp;\u2022 Lý Triều&nbsp;\u2022 Lý Nghiêm&nbsp;\u2022 Lý Phong&nbsp;\u2022 Lý Phúc&nbsp;\u2022 Lý Soạn&nbsp;\u2022 Mã Lương&nbsp;\u2022 Mạnh Quang&nbsp;\u2022 My Trúc&nbsp;\u2022 Phàn Kiến&nbsp;\u2022 Pháp Chính&nbsp;\u2022 Phí Thi&nbsp;\u2022 Phí Y&nbsp;\u2022 Quách Du Chi&nbsp;\u2022 Tần Mật&nbsp;\u2022 Tập Trinh&nbsp;\u2022 Thường Úc&nbsp;\u2022 Tiều Chu&nbsp;\u2022 Tôn Càn&nbsp;\u2022 Tông Dự&nbsp;\u2022 Trần Chấn&nbsp;\u2022 Trần Chi&nbsp;\u2022 Trần Thọ&nbsp;\u2022 Trình Kỳ&nbsp;\u2022 Trương Biểu&nbsp;\u2022 Trương Duệ&nbsp;\u2022 Trương Thiệu&nbsp;\u2022 Trương Tồn&nbsp;\u2022 Từ Thứ&nbsp;\u2022 Tưởng Hiển&nbsp;\u2022 Tưởng Uyển&nbsp;\u2022 Xạ Kiên&nbsp;\u2022 Xạ Viên&nbsp;\u2022 Y Tịch&nbsp;\u2022 Vương Liên&nbsp;\u2022 Vương Mưu&nbsp;\u2022 Vương Phủ&nbsp;\u2022 Vương Sĩ\n    <\/div><\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\" class=\"navbox-group\">Đông Ngô<\/th>\n   <td class=\"navbox-list navbox-even\">\n    <div>\n     Ân Lễ &nbsp;\u2022 Bộ Chất&nbsp;\u2022 Bộc Dương Hưng&nbsp;\u2022 Cố Đàm&nbsp;\u2022 Cố Đễ&nbsp;\u2022 Cố Thiệu&nbsp;\u2022 Cố Ung&nbsp;\u2022 Cố Vinh&nbsp;\u2022 Chu Trị&nbsp;\u2022 Chung Ly Mục&nbsp;\u2022 Diêu Tín&nbsp;\u2022 Dương Đạo&nbsp;\u2022 Dương Trúc&nbsp;\u2022 Đằng Dận&nbsp;\u2022 Đằng Mục&nbsp;\u2022 Đằng Tu&nbsp;\u2022 Đinh Mật&nbsp;\u2022 Đổng Triều&nbsp;\u2022 Gia Cát Cẩn&nbsp;\u2022 Gia Cát Khác&nbsp;\u2022 Hà Định&nbsp;\u2022 Hạ Thiệu&nbsp;\u2022 Hà Thực&nbsp;\u2022 Hác Phổ&nbsp;\u2022 Hoa Dung&nbsp;\u2022 Hoa Hạch&nbsp;\u2022 Hoàn Di&nbsp;\u2022 Hoằng Cầu&nbsp;\u2022 Hồ Tống&nbsp;\u2022 Hồ Xung&nbsp;\u2022 Hứa Cống&nbsp;\u2022 Khám Trạch&nbsp;\u2022 Kỵ Diễm&nbsp;\u2022 Kỷ Trắc&nbsp;\u2022 Lã Ý&nbsp;\u2022 Lạc Thống&nbsp;\u2022 Lâu Huyền&nbsp;\u2022 Lỗ Túc&nbsp;\u2022 Lục Cơ&nbsp;\u2022 Lục Khải&nbsp;\u2022 Lục Mạo&nbsp;\u2022 Lục Tích&nbsp;\u2022 Lục Vân&nbsp;\u2022 Lục Y&nbsp;\u2022 Lưu Cơ&nbsp;\u2022 Lưu Đôn&nbsp;\u2022 Mạnh Nhân&nbsp;\u2022 Nghiêm Tuấn&nbsp;\u2022 Ngô Xán&nbsp;\u2022 Ngô Phạm&nbsp;\u2022 Ngu Phiên&nbsp;\u2022 Ngu Dĩ&nbsp;\u2022 Ngu Thụ&nbsp;\u2022 Phan Tuấn&nbsp;\u2022 Phạm Chẩn&nbsp;\u2022 Phạm Thận&nbsp;\u2022 Phùng Hi&nbsp;\u2022 Quách Trác&nbsp;\u2022 Sầm Hôn&nbsp;\u2022 Tạ Cảnh&nbsp;\u2022 Tạ Thừa&nbsp;\u2022 Thạch Vĩ&nbsp;\u2022 Thái Sử Hưởng&nbsp;\u2022 Thẩm Hành&nbsp;\u2022 Thị Nghi&nbsp;\u2022 Tiết Doanh&nbsp;\u2022 Tiết Hủ&nbsp;\u2022 Tiết Tống&nbsp;\u2022 Toàn Ký&nbsp;\u2022 Toàn Thượng&nbsp;\u2022 Tôn Bá&nbsp;\u2022 Tôn Dực&nbsp;\u2022 Tôn Đăng&nbsp;\u2022 Tôn Hòa&nbsp;\u2022 Tôn Khuông&nbsp;\u2022 Tôn Kỳ&nbsp;\u2022 Tôn Lâm&nbsp;\u2022 Tôn Lự&nbsp;\u2022 Tôn Phấn&nbsp;\u2022 Tôn Thiệu&nbsp;\u2022 Tôn Tuấn&nbsp;\u2022 Tôn Tư&nbsp;\u2022 Tôn Ý&nbsp;\u2022 Trần Hóa&nbsp;\u2022 Triệu Đạt&nbsp;\u2022 Trình Bỉnh&nbsp;\u2022 Trương Chấn&nbsp;\u2022 Trương Chiêu&nbsp;\u2022 Trương Đễ&nbsp;\u2022 Trương Hoành&nbsp;\u2022 Trương Hưu&nbsp;\u2022 Trương Nghiễm&nbsp;\u2022 Trương Ôn&nbsp;\u2022 Trương Thừa&nbsp;\u2022 Từ Tường&nbsp;\u2022 Ung Khải&nbsp;\u2022 Vạn Úc&nbsp;\u2022 Vi Chiêu&nbsp;\u2022 Vương Phồn\n    <\/div><\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\" class=\"navbox-group\">Tây Tấn<\/th>\n   <td class=\"navbox-list navbox-odd\">\n    <div>\n     Bùi Khải&nbsp;\u2022 Bùi Tú&nbsp;\u2022 Đỗ Chẩn&nbsp;\u2022 Đỗ Liệt&nbsp;\u2022 Giả Sung&nbsp;\u2022 Hà Phàn&nbsp;\u2022 Hà Tăng&nbsp;\u2022 Hà Trinh&nbsp;\u2022 Hầu Sử Quang&nbsp;\u2022 Hoàng Phủ Yến&nbsp;\u2022 Hồ Uy&nbsp;\u2022 Hướng Hùng&nbsp;\u2022 Lư Khâm&nbsp;\u2022 Lưu Nghị&nbsp;\u2022 Lưu Thực&nbsp;\u2022 Ngụy Thư&nbsp;\u2022 Phan An&nbsp;\u2022 Phùng Dư&nbsp;\u2022 Thọ Lương&nbsp;\u2022 Thoán Cốc&nbsp;\u2022 Thường Kỵ&nbsp;\u2022 Tô Du&nbsp;\u2022 Trương Hoa&nbsp;\u2022 Tuân Húc&nbsp;\u2022 Tư Mã Du&nbsp;\u2022 Ưng Trinh&nbsp;\u2022 Vệ Quán&nbsp;\u2022 Văn Lập&nbsp;\u2022 Vương Lãm&nbsp;\u2022 Vương Nghiệp&nbsp;\u2022 Vương Nhung&nbsp;\u2022 Vương Thẩm&nbsp;\u2022 Vương Tường\n    <\/div><\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\" class=\"navbox-group\">Khác<\/th>\n   <td class=\"navbox-list navbox-even\">\n    <div>\n     Lư Thực&nbsp;\u2022 Lưu Ngu&nbsp;\u2022 Trương Nhượng&nbsp;\u2022 Triệu Trung&nbsp;\u2022 Tào Tung&nbsp;\u2022 Hàn Phức&nbsp;\u2022 Hoàng Uyển&nbsp;\u2022 Ngũ Quỳnh&nbsp;\u2022 Trần Cung&nbsp;\u2022 Thư Thụ&nbsp;\u2022 Điền Phong&nbsp;\u2022 Thẩm Phối&nbsp;\u2022 Bàng Kỷ&nbsp;\u2022 Quách Đồ&nbsp;\u2022 Tân Bình&nbsp;\u2022 Điền Trù&nbsp;\u2022 Đào Khiêm&nbsp;\u2022 Tuân Thầm&nbsp;\u2022 Trịnh Thái&nbsp;\u2022 Hà Ngung&nbsp;\u2022 Phó Tiếp&nbsp;\u2022 Trần Kỷ&nbsp;\u2022 Trần Khuê&nbsp;\u2022 Trương Dương&nbsp;\u2022 Triệu Kỳ&nbsp;\u2022 Dương Bưu&nbsp;\u2022 Mã Mật Đê&nbsp;\u2022 Vương Doãn&nbsp;\u2022 Sĩ Tôn Thụy&nbsp;\u2022 Khổng Dung&nbsp;\u2022 Khổng Trụ&nbsp;\u2022 Tang Hồng&nbsp;\u2022 Ngụy Phúng&nbsp;\u2022 Lý Tiến&nbsp;\u2022 Lý Nho&nbsp;\u2022 Trương Mạc&nbsp;\u2022 Trương Siêu&nbsp;\u2022 Quản Ninh&nbsp;\u2022 Viên Di&nbsp;\u2022 Vương Liệt&nbsp;\u2022 Thái Ung&nbsp;\u2022 Gia Cát Huyền&nbsp;\u2022 Lưu Kỳ&nbsp;\u2022 Khoái Lương&nbsp;\u2022 Hàn Huyền&nbsp;\u2022 Đổng Phù&nbsp;\u2022 Triệu Vĩ&nbsp;\u2022 Vương Thương&nbsp;\u2022 Trương Tùng\n    <\/div><\/td>\n  <\/tr>\n <\/tbody>\n<\/table>",
+        "<table class=\"nowraplinks navbox-subgroup\">\n <tbody>\n  <tr>\n   <th scope=\"row\" class=\"navbox-group\">Tào Ngụy<\/th>\n   <td class=\"navbox-list navbox-odd\">\n    <div>\n     Ân Thự&nbsp;\u2022 Bàng Đức&nbsp;\u2022 Bàng Hội&nbsp;\u2022 Cao Lãm&nbsp;\u2022 Châu Thái&nbsp;\u2022 Chu Cái&nbsp;\u2022 Chu Linh&nbsp;\u2022 Chung Hội&nbsp;\u2022 Diêm Hành&nbsp;\u2022 Diêm Nhu&nbsp;\u2022 Doãn Lễ&nbsp;\u2022 Doãn Phụng&nbsp;\u2022 Dương Hân&nbsp;\u2022 Dương Kỵ&nbsp;\u2022 Đặng Ngải&nbsp;\u2022 Đặng Trung&nbsp;\u2022 Điền Dự&nbsp;\u2022 Điền Tục&nbsp;\u2022 Điển Vi&nbsp;\u2022 Đới Lăng&nbsp;\u2022 Giả Quỳ&nbsp;\u2022 Giả Tín&nbsp;\u2022 Gia Cát Đản&nbsp;\u2022 Hạ Hầu Đôn&nbsp;\u2022 Hạ Hầu Hiến&nbsp;\u2022 Hạ Hầu Mậu&nbsp;\u2022 Hạ Hầu Nho&nbsp;\u2022 Hạ Hầu Thượng&nbsp;\u2022 Hạ Hầu Uyên&nbsp;\u2022 Hác Chiêu&nbsp;\u2022 Hàn Hạo&nbsp;\u2022 Hàn Tống&nbsp;\u2022 Hầu Âm&nbsp;\u2022 Hầu Thành&nbsp;\u2022 Hoàng Hoa&nbsp;\u2022 Hồ Liệt&nbsp;\u2022 Hồ Phấn&nbsp;\u2022 Hồ Tuân&nbsp;\u2022 Hứa Chử&nbsp;\u2022 Hứa Nghi&nbsp;\u2022 Khiên Chiêu&nbsp;\u2022 Lã Khoáng&nbsp;\u2022 Lã Kiền&nbsp;\u2022 Lã Thường&nbsp;\u2022 Lã Tường&nbsp;\u2022 Lâu Khuê&nbsp;\u2022 Lộ Chiêu&nbsp;\u2022 Lỗ Chi&nbsp;\u2022 Lưu Đại&nbsp;\u2022 Lưu Huân&nbsp;\u2022 Lý Điển&nbsp;\u2022 Lý Phụ&nbsp;\u2022 Lý Thông&nbsp;\u2022 Mãn Sủng&nbsp;\u2022 Ngô Chất&nbsp;\u2022 Ngô Đôn&nbsp;\u2022 Ngưu Kim&nbsp;\u2022 Ngụy Bình&nbsp;\u2022 Ngụy Tục&nbsp;\u2022 Nhạc Lâm&nbsp;\u2022 Nhạc Tiến&nbsp;\u2022 Nhâm Tuấn&nbsp;\u2022 Phí Diệu&nbsp;\u2022 Quách Hoài&nbsp;\u2022 Quán Khâu Kiệm&nbsp;\u2022 Sư Toản&nbsp;\u2022 Sử Hoán&nbsp;\u2022 Tang Bá&nbsp;\u2022 Tào Chân&nbsp;\u2022 Tào Chương&nbsp;\u2022 Tào Hồng&nbsp;\u2022 Tào Hưu&nbsp;\u2022 Tào Nhân&nbsp;\u2022 Tào Sảng&nbsp;\u2022 Tào Thái&nbsp;\u2022 Tào Thuần&nbsp;\u2022 Tào Triệu&nbsp;\u2022 Tần Lãng&nbsp;\u2022 Tất Quỹ&nbsp;\u2022 Thái Dương&nbsp;\u2022 Thành Công Anh&nbsp;\u2022 Thân Nghi&nbsp;\u2022 Tiên Vu Phụ&nbsp;\u2022 Tiêu Xúc&nbsp;\u2022 Tô Tắc&nbsp;\u2022 Tôn Lễ&nbsp;\u2022 Tôn Quán&nbsp;\u2022 Tống Hiến&nbsp;\u2022 Trần Thái&nbsp;\u2022 Triệu Ngang&nbsp;\u2022 Triệu Nghiễm&nbsp;\u2022 Triệu Tiển&nbsp;\u2022 Trương Cáp&nbsp;\u2022 Trương Đặc&nbsp;\u2022 Trương Hổ&nbsp;\u2022 Trương Liêu&nbsp;\u2022 Trương Tú&nbsp;\u2022 Tư Mã Vọng&nbsp;\u2022 Từ Hoảng&nbsp;\u2022 Văn Hổ&nbsp;\u2022 Văn Khâm&nbsp;\u2022 Văn Sính&nbsp;\u2022 Văn Thục&nbsp;\u2022 Vu Cấm&nbsp;\u2022 Vương Bí&nbsp;\u2022 Vương Kinh&nbsp;\u2022 Vương Lăng&nbsp;\u2022 Vương Song&nbsp;\u2022 Vương Sưởng&nbsp;\u2022 Vương Trung&nbsp;\u2022 Xương Hi\n    <\/div><\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\" class=\"navbox-group\">Thục Hán<\/th>\n   <td class=\"navbox-list navbox-even\">\n    <div>\n     Bàng Hi&nbsp;\u2022 Cao Tường&nbsp;\u2022 Câu Phù&nbsp;\u2022 Diêm Vũ&nbsp;\u2022 Đặng Chi&nbsp;\u2022 Gia Cát Chiêm&nbsp;\u2022 Gia Cát Thượng&nbsp;\u2022 Hạ Hầu Bá&nbsp;\u2022 Hạ Hầu Lan&nbsp;\u2022 Hoàng Trung&nbsp;\u2022 Hoàng Quyền&nbsp;\u2022 Hoắc Dặc&nbsp;\u2022 Hoắc Tuấn&nbsp;\u2022 Hồ Tế&nbsp;\u2022 Hướng Sủng&nbsp;\u2022 Khương Duy&nbsp;\u2022 La Hiến&nbsp;\u2022 Liêu Hóa&nbsp;\u2022 Liễu Ẩn&nbsp;\u2022 Lôi Đồng&nbsp;\u2022 Lôi Tự&nbsp;\u2022 Lưu Bàn&nbsp;\u2022 Lưu Mẫn&nbsp;\u2022 Lưu Phong&nbsp;\u2022 Lưu Tuần&nbsp;\u2022 Lưu Ung&nbsp;\u2022 Lý Khôi&nbsp;\u2022 Mã Đại&nbsp;\u2022 Mã Siêu&nbsp;\u2022 Mã Tắc&nbsp;\u2022 Mã Trung&nbsp;\u2022 Mạnh Đạt&nbsp;\u2022 Mạnh Hoạch&nbsp;\u2022 Nghiêm Nhan&nbsp;\u2022 Ngô Ban&nbsp;\u2022 Ngô Lan&nbsp;\u2022 Ngô Ý&nbsp;\u2022 Ngụy Diên&nbsp;\u2022 Phí Quán&nbsp;\u2022 Phó Dung&nbsp;\u2022 Phó Thiêm&nbsp;\u2022 Phụ Khuông&nbsp;\u2022 Phùng Tập&nbsp;\u2022 Quan Bình&nbsp;\u2022 Quan Hưng&nbsp;\u2022 Quan Vũ&nbsp;\u2022 Sa Ma Kha&nbsp;\u2022 Tập Trân&nbsp;\u2022 Thân Đam&nbsp;\u2022 Trác Ưng&nbsp;\u2022 Trần Đáo&nbsp;\u2022 Trần Thức&nbsp;\u2022 Triệu Lũy&nbsp;\u2022 Triệu Vân&nbsp;\u2022 Trương Dực&nbsp;\u2022 Trương Nam&nbsp;\u2022 Trương Ngực&nbsp;\u2022 Trương Phi&nbsp;\u2022 Tưởng Bân&nbsp;\u2022 Tưởng Thư&nbsp;\u2022 Viên Lâm&nbsp;\u2022 Vương Bình&nbsp;\u2022 Vương Hàm&nbsp;\u2022 Vương Tự\n    <\/div><\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\" class=\"navbox-group\">Đông Ngô<\/th>\n   <td class=\"navbox-list navbox-odd\">\n    <div>\n     Bộ Cơ&nbsp;\u2022 Bộ Hiệp&nbsp;\u2022 Bộ Xiển&nbsp;\u2022 Cam Ninh&nbsp;\u2022 Chu Cứ&nbsp;\u2022 Chu Dận&nbsp;\u2022 Chu Du&nbsp;\u2022 Chu Dị&nbsp;\u2022 Chu Hoàn&nbsp;\u2022 Chu Nhiên&nbsp;\u2022 Chu Phường&nbsp;\u2022 Chu Tài&nbsp;\u2022 Chu Thái&nbsp;\u2022 Chu Thiệu&nbsp;\u2022 Chu Xử&nbsp;\u2022 Chung Ly Tuẫn&nbsp;\u2022 Cố Dung&nbsp;\u2022 Cố Thừa&nbsp;\u2022 Cốc Lợi&nbsp;\u2022 Đào Hoàng&nbsp;\u2022 Đào Tuấn&nbsp;\u2022 Đinh Phong&nbsp;\u2022 Đinh Phụng&nbsp;\u2022 Đổng Tập&nbsp;\u2022 Đường Tư&nbsp;\u2022 Gia Cát Dung&nbsp;\u2022 Gia Cát Tịnh&nbsp;\u2022 Hạ Đạt&nbsp;\u2022 Hạ Tề&nbsp;\u2022 Hàn Đương&nbsp;\u2022 Hoàng Cái&nbsp;\u2022 Kỷ Chiêm&nbsp;\u2022 Lã Cứ&nbsp;\u2022 Lã Đại&nbsp;\u2022 Lã Khải&nbsp;\u2022 Lã Mông&nbsp;\u2022 Lã Phạm&nbsp;\u2022 Lăng Tháo&nbsp;\u2022 Lăng Thống&nbsp;\u2022 Lỗ Thục&nbsp;\u2022 Lục Cảnh&nbsp;\u2022 Lục Dận&nbsp;\u2022 Lục Kháng&nbsp;\u2022 Lục Tốn&nbsp;\u2022 Lục Yến&nbsp;\u2022 Lưu A&nbsp;\u2022 Lưu Bình&nbsp;\u2022 Lưu Lược&nbsp;\u2022 Lưu Tán&nbsp;\u2022 Lưu Toản&nbsp;\u2022 Lý Dị&nbsp;\u2022 Lý Úc&nbsp;\u2022 Mã Mậu&nbsp;\u2022 Mã Trung&nbsp;\u2022 My Phương&nbsp;\u2022 Ngô Cảnh&nbsp;\u2022 Ngô Ngạn&nbsp;\u2022 Ngu Tiện&nbsp;\u2022 Ngu Trung&nbsp;\u2022 Nhuế Huyền&nbsp;\u2022 Phan Chương&nbsp;\u2022 Phan Lâm&nbsp;\u2022 Phạm Cương&nbsp;\u2022 Quách Mã&nbsp;\u2022 Sĩ Nhân&nbsp;\u2022 Tạ Tinh&nbsp;\u2022 Thái Sử Từ&nbsp;\u2022 Thẩm Oánh&nbsp;\u2022 Thi Tích&nbsp;\u2022 Tiên Vu Đan&nbsp;\u2022 Toàn Dịch&nbsp;\u2022 Toàn Đoan&nbsp;\u2022 Toàn Tông&nbsp;\u2022 Toàn Tự&nbsp;\u2022 Tô Phi&nbsp;\u2022 Tổ Lang&nbsp;\u2022 Tổ Mậu&nbsp;\u2022 Tôn Ân&nbsp;\u2022 Tôn Bí&nbsp;\u2022 Tôn Cảo&nbsp;\u2022 Tôn Chấn&nbsp;\u2022 Tôn Di&nbsp;\u2022 Tôn Dị&nbsp;\u2022 Tôn Du&nbsp;\u2022 Tôn Hâm&nbsp;\u2022 Tôn Khải&nbsp;\u2022 Tôn Lãng&nbsp;\u2022 Tôn Lân&nbsp;\u2022 Tôn Hà&nbsp;\u2022 Tôn Hiệu&nbsp;\u2022 Tôn Hoàn&nbsp;\u2022 Tôn Hoán&nbsp;\u2022 Tôn Phụ&nbsp;\u2022 Tôn Thiều&nbsp;\u2022 Tôn Tịnh&nbsp;\u2022 Tôn Tuấn&nbsp;\u2022 Tôn Tùng&nbsp;\u2022 Tống Khiêm&nbsp;\u2022 Trần Biểu&nbsp;\u2022 Trần Tu&nbsp;\u2022 Trần Vũ&nbsp;\u2022 Trình Phổ&nbsp;\u2022 Trịnh Trụ&nbsp;\u2022 Trương Bố&nbsp;\u2022 Trương Đạt&nbsp;\u2022 Tu Doãn&nbsp;\u2022 Tu Tắc&nbsp;\u2022 Từ Côn&nbsp;\u2022 Từ Thịnh&nbsp;\u2022 Tưởng Khâm&nbsp;\u2022 Vu Thuyên&nbsp;\u2022 Vương Đôn\n    <\/div><\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\" class=\"navbox-group\">Tây Tấn<\/th>\n   <td class=\"navbox-list navbox-even\">\n    <div>\n     Chu Tuấn&nbsp;\u2022 Dương Hỗ&nbsp;\u2022 Dương Tắc&nbsp;\u2022 Dương Tông&nbsp;\u2022 Dương Triệu&nbsp;\u2022 Đỗ Dự&nbsp;\u2022 Đổng Nguyên&nbsp;\u2022 Đường Bân&nbsp;\u2022 Gia Cát Tự&nbsp;\u2022 Hồ Uyên&nbsp;\u2022 Khiên Hoằng&nbsp;\u2022 Lý Tùng&nbsp;\u2022 Mã Long&nbsp;\u2022 Mao Cảnh&nbsp;\u2022 Mạnh Cán&nbsp;\u2022 Thạch Bao&nbsp;\u2022 Thoán Năng&nbsp;\u2022 Trần Khiên&nbsp;\u2022 Tôn Tú&nbsp;\u2022 Tuân Khải&nbsp;\u2022 Tư Mã Dung&nbsp;\u2022 Tư Mã Lượng&nbsp;\u2022 Tư Mã Phụ&nbsp;\u2022 Tư Mã Trụ&nbsp;\u2022 Tư Mã Tuấn&nbsp;\u2022 Vương Hồn&nbsp;\u2022 Vương Tố&nbsp;\u2022 Vương Tuấn\n    <\/div><\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\" class=\"navbox-group\">Khác<\/th>\n   <td class=\"navbox-list navbox-odd\">\n    <div>\n     Trương Bảo&nbsp;\u2022 Trương Lương&nbsp;\u2022 Trương Yên&nbsp;\u2022 Mã Nguyên Nghĩa&nbsp;\u2022 Hoàng Phủ Tung&nbsp;\u2022 Chu Tuấn&nbsp;\u2022 Hà Tiến&nbsp;\u2022 Đinh Nguyên&nbsp;\u2022 Hoa Hùng&nbsp;\u2022 Chủng Tập&nbsp;\u2022 Chủng Thiệu&nbsp;\u2022 Bào Tín&nbsp;\u2022 Kỷ Linh&nbsp;\u2022 Kiều Nhuy&nbsp;\u2022 Lôi Bạc&nbsp;\u2022 Trần Lan&nbsp;\u2022 Văn Xú&nbsp;\u2022 Nhan Lương&nbsp;\u2022 Khúc Nghĩa&nbsp;\u2022 Lý Thôi&nbsp;\u2022 Quách Dĩ&nbsp;\u2022 Trương Tế&nbsp;\u2022 Phàn Trù&nbsp;\u2022 Đoàn Ổi&nbsp;\u2022 Từ Vinh&nbsp;\u2022 Hồ Chẩn&nbsp;\u2022 Dương Định&nbsp;\u2022 Tào Báo&nbsp;\u2022 Lưu Tích&nbsp;\u2022 Cung Đô&nbsp;\u2022 Giả Long&nbsp;\u2022 Trương Nhiệm&nbsp;\u2022 Lưu Khôi&nbsp;\u2022 Dương Ngang&nbsp;\u2022 Dương Nhiệm&nbsp;\u2022 Biên Chương&nbsp;\u2022 Bắc Cung Ngọc&nbsp;\u2022 Lý Văn Hầu&nbsp;\u2022 Thuần Vu Quỳnh&nbsp;\u2022 Viên Hi&nbsp;\u2022 Cao Cán&nbsp;\u2022 Cao Thuận&nbsp;\u2022 Thành Liêm&nbsp;\u2022 Tào Tính&nbsp;\u2022 Hác Manh&nbsp;\u2022 Trương Tiện&nbsp;\u2022 Liễu Nghị&nbsp;\u2022 Trách Dung&nbsp;\u2022 Hầu Tuyển&nbsp;\u2022 Trình Ngân&nbsp;\u2022 Trương Hoành&nbsp;\u2022 Thành Nghi&nbsp;\u2022 Lý Kham&nbsp;\u2022 Mã Ngoạn&nbsp;\u2022 Dương Thu&nbsp;\u2022 Lương Hưng&nbsp;\u2022 Lý Mông&nbsp;\u2022 Vương Phương&nbsp;\u2022 Đổng Thừa&nbsp;\u2022 Dương Phụng&nbsp;\u2022 Hàn Tiêm&nbsp;\u2022 Lã Giới&nbsp;\u2022 Vương Uy&nbsp;\u2022 Hoàng Tổ\n    <\/div><\/td>\n  <\/tr>\n <\/tbody>\n<\/table>"
+    ],
+    "keywords": [],
+    "headings": [
+        "Nhân Vật Lịch Sử",
+        "Trương Lỗ",
+        "Chiếm cứ Hán Trung",
+        "Cai trị Hán Trung",
+        "Xung đột với Lưu Chương",
+        "Quan hệ với Mã Siêu",
+        "Đầu hàng Tào Tháo",
+        "Qua đời",
+        "Gia đình",
+        "Trong Tam Quốc diễn nghĩa",
+        "Xem thêm",
+        "Tham khảo",
+        "Chú thích",
+        "Bài viết cùng thư mục",
+        "CÁC THỜI KỲ LỊCH SỬ",
+        "Tư Liệu",
+        "Anh Hùng Dân Tộc Tiêu Biểu",
+        "Anh Hùng Dân Tộc Tiêu Biểu",
+        "Tư Liệu Lịch Sử",
+        "Di Tích Lịch Sử"
+    ],
+    "anchors": [
+        {
+            "text": "",
+            "href": "/"
+        },
+        {
+            "text": "Trang Chủ",
+            "href": "/"
+        },
+        {
+            "text": "Dòng Lịch Sử",
+            "href": "/dong-lich-su"
+        },
+        {
+            "text": "Hồng Bàng & Văn Lang",
+            "href": "/dong-lich-su/hong-bang-va-van-lang"
+        },
+        {
+            "text": "Âu Lạc & Nam Việt",
+            "href": "/dong-lich-su/au-lac-va-nam-viet"
+        },
+        {
+            "text": "Bắc thuộc lần I",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat"
+        },
+        {
+            "text": "Trưng Nữ Vương",
+            "href": "/dong-lich-su/trung-nu-vuong"
+        },
+        {
+            "text": "Bắc thuộc lần II",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-hai"
+        },
+        {
+            "text": "Nhà Lý & Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu"
+        },
+        {
+            "text": "Bắc thuộc lần III",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-ba"
+        },
+        {
+            "text": "Thời kỳ xây nền tự chủ",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu"
+        },
+        {
+            "text": "Nhà Ngô",
+            "href": "/dong-lich-su/nha-ngo"
+        },
+        {
+            "text": "Nhà Đinh",
+            "href": "/dong-lich-su/nha-dinh"
+        },
+        {
+            "text": "Nhà Tiền Lê",
+            "href": "/dong-lich-su/nha-tien-le"
+        },
+        {
+            "text": "Nhà Lý",
+            "href": "/dong-lich-su/nha-ly"
+        },
+        {
+            "text": "Nhà Trần",
+            "href": "/dong-lich-su/nha-tran"
+        },
+        {
+            "text": "Nhà Hồ",
+            "href": "/dong-lich-su/nha-ho"
+        },
+        {
+            "text": "Nhà Hậu Trần",
+            "href": "/dong-lich-su/nha-hau-tran"
+        },
+        {
+            "text": "Bắc thuộc lần IV",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-tu"
+        },
+        {
+            "text": "Nhà Hậu Lê",
+            "href": "/dong-lich-su/nha-hau-le"
+        },
+        {
+            "text": "Nam Bắc Triều",
+            "href": "/dong-lich-su/nam-bac-trieu"
+        },
+        {
+            "text": "Trịnh Nguyễn Phân Tranh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh"
+        },
+        {
+            "text": "Nhà Tây Sơn",
+            "href": "/dong-lich-su/nha-tay-son"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/nha-nguyen"
+        },
+        {
+            "text": "Pháp Thuộc",
+            "href": "/dong-lich-su/phap-thuoc"
+        },
+        {
+            "text": "Việt Nam Dân Chủ Cộng Hoà",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Cộng hoà xã hội chủ nghĩa Việt Nam",
+            "href": "/dong-lich-su/viet-nam-xhcn"
+        },
+        {
+            "text": "Tư Liệu",
+            "href": "/tu-lieu"
+        },
+        {
+            "text": "Quân Sự",
+            "href": "/tu-lieu/quan-su?filter_tag[0]="
+        },
+        {
+            "text": "Tác Phẩm",
+            "href": "/tu-lieu/tac-pham?filter_tag[0]="
+        },
+        {
+            "text": "Bang Giao",
+            "href": "/tu-lieu/bang-giao"
+        },
+        {
+            "text": "Biểu đồ thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Nhân Vật",
+            "href": "/nhan-vat"
+        },
+        {
+            "text": "Anh Hùng Dân Tộc",
+            "href": "/anh-hung-dan-toc?types[0]=1"
+        },
+        {
+            "text": "Danh nhân văn hóa",
+            "href": "/danh-nhan-van-hoa?types[0]=1"
+        },
+        {
+            "text": "Di Tích",
+            "href": "/di-tich-lich-su?types[0]=1"
+        },
+        {
+            "text": "Ngày Nay",
+            "href": "/thoi-su"
+        },
+        {
+            "text": "Sách",
+            "href": "/sach"
+        },
+        {
+            "text": "Video",
+            "href": "/video"
+        },
+        {
+            "text": "Q&A",
+            "href": "/hoi-dap"
+        },
+        {
+            "text": "Lịch sử lớp 12",
+            "href": "/hoi-dap/lop-12"
+        },
+        {
+            "text": "Lịch sử lớp 11",
+            "href": "/hoi-dap/lop-11"
+        },
+        {
+            "text": "Lịch sử lớp 10",
+            "href": "/hoi-dap/lop-10"
+        },
+        {
+            "text": "Lịch sử lớp 9",
+            "href": "/hoi-dap/lop-9"
+        },
+        {
+            "text": "Lịch sử lớp 8",
+            "href": "/hoi-dap/lop-8"
+        },
+        {
+            "text": "Lịch sử lớp 7",
+            "href": "/hoi-dap/lop-7"
+        },
+        {
+            "text": "Lịch sử lớp 6",
+            "href": "/hoi-dap/lop-6"
+        },
+        {
+            "text": "Trang chủ",
+            "href": "/"
+        },
+        {
+            "text": "Nhân Vật",
+            "href": "/nhan-vat"
+        },
+        {
+            "text": "Nhân Vật Lịch Sử",
+            "href": "/nhan-vat"
+        },
+        {
+            "text": "Thu / Mở",
+            "href": "#"
+        },
+        {
+            "text": "Chiếm cứ Hán Trung",
+            "href": "#chiem-cu-han-trung"
+        },
+        {
+            "text": "Cai trị Hán Trung",
+            "href": "#cai-tri-han-trung"
+        },
+        {
+            "text": "Xung đột với Lưu Chương",
+            "href": "#xung-dot-voi-luu-chuong"
+        },
+        {
+            "text": "Quan hệ với Mã Siêu",
+            "href": "#quan-he-voi-ma-sieu"
+        },
+        {
+            "text": "Đầu hàng Tào Tháo",
+            "href": "#dau-hang-tao-thao"
+        },
+        {
+            "text": "Qua đời",
+            "href": "#qua-doi"
+        },
+        {
+            "text": "Gia đình",
+            "href": "#gia-dinh"
+        },
+        {
+            "text": "Trong Tam Quốc diễn nghĩa",
+            "href": "#trong-tam-quoc-dien-nghia"
+        },
+        {
+            "text": "Xem thêm",
+            "href": "#xem-them"
+        },
+        {
+            "text": "Tham khảo",
+            "href": "#tham-khao"
+        },
+        {
+            "text": "Chú thích",
+            "href": "#chu-thich"
+        },
+        {
+            "text": "Bài viết trước: Trương Lăng Trước",
+            "href": "/nhan-vat/truong-lang"
+        },
+        {
+            "text": "Bài viết kế tiếp: Trương Minh Giảng Tiếp tục",
+            "href": "/nhan-vat/truong-minh-giang"
+        },
+        {
+            "text": "Kinh Dương Vương",
+            "href": "/nhan-vat/kinh-duong-vuong"
+        },
+        {
+            "text": "Lạc Long Quân",
+            "href": "/nhan-vat/lac-long-quan"
+        },
+        {
+            "text": "nhà Chu",
+            "href": "/nhan-vat/nha-chu"
+        },
+        {
+            "text": "Ngô Sĩ Liên",
+            "href": "/nhan-vat/ngo-si-lien"
+        },
+        {
+            "text": "Lý Thái Tổ",
+            "href": "/nhan-vat/ly-thai-to"
+        },
+        {
+            "text": "nhà Thương",
+            "href": "/nhan-vat/nha-thuong"
+        },
+        {
+            "text": "nhà Đường",
+            "href": "/nhan-vat/nha-duong"
+        },
+        {
+            "text": "Triệu Việt Vương",
+            "href": "/nhan-vat/trieu-viet-vuong"
+        },
+        {
+            "text": "nhà Tần",
+            "href": "/nhan-vat/nha-tan"
+        },
+        {
+            "text": "Triệu Đà",
+            "href": "/nhan-vat/trieu-da"
+        },
+        {
+            "text": "Hồng Bàng & Văn Lang",
+            "href": "/dong-lich-su/hong-bang-va-van-lang"
+        },
+        {
+            "text": "Âu Lạc & Nam Việt",
+            "href": "/dong-lich-su/au-lac-va-nam-viet"
+        },
+        {
+            "text": "Bắc thuộc lần I",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat"
+        },
+        {
+            "text": "Nhà Triệu",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat/nha-trieu"
+        },
+        {
+            "text": "Trưng Nữ Vương",
+            "href": "/dong-lich-su/trung-nu-vuong"
+        },
+        {
+            "text": "Bắc thuộc lần II",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-hai"
+        },
+        {
+            "text": "Nhà Lý & Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu"
+        },
+        {
+            "text": "Nhà Tiền Lý",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-tien-ly"
+        },
+        {
+            "text": "Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-trieu"
+        },
+        {
+            "text": "Nhà Hậu Lý",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-hau-ly"
+        },
+        {
+            "text": "Bắc thuộc lần III",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-ba"
+        },
+        {
+            "text": "Thời kỳ xây nền tự chủ",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu"
+        },
+        {
+            "text": "Họ Khúc",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu/ho-khuc"
+        },
+        {
+            "text": "Nhà Ngô",
+            "href": "/dong-lich-su/nha-ngo"
+        },
+        {
+            "text": "Nhà Đinh",
+            "href": "/dong-lich-su/nha-dinh"
+        },
+        {
+            "text": "Nhà Tiền Lê",
+            "href": "/dong-lich-su/nha-tien-le"
+        },
+        {
+            "text": "Nhà Lý",
+            "href": "/dong-lich-su/nha-ly"
+        },
+        {
+            "text": "Nhà Trần",
+            "href": "/dong-lich-su/nha-tran"
+        },
+        {
+            "text": "Nhà Hồ",
+            "href": "/dong-lich-su/nha-ho"
+        },
+        {
+            "text": "Nhà Hậu Trần",
+            "href": "/dong-lich-su/nha-hau-tran"
+        },
+        {
+            "text": "Bắc thuộc lần IV",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-tu"
+        },
+        {
+            "text": "Nhà Hậu Lê",
+            "href": "/dong-lich-su/nha-hau-le"
+        },
+        {
+            "text": "Nam Bắc Triều",
+            "href": "/dong-lich-su/nam-bac-trieu"
+        },
+        {
+            "text": "Nhà Lê Trung Hưng",
+            "href": "/dong-lich-su/nam-bac-trieu/nha-le-trung-hung"
+        },
+        {
+            "text": "Nhà Mạc",
+            "href": "/dong-lich-su/nam-bac-trieu/nha-mac"
+        },
+        {
+            "text": "Trịnh Nguyễn Phân Tranh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh"
+        },
+        {
+            "text": "Nhà Lê Trung Hưng",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/nha-le-trung-hung"
+        },
+        {
+            "text": "Chúa Trịnh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-trinh"
+        },
+        {
+            "text": "Chúa Nguyễn",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen"
+        },
+        {
+            "text": "Nhà Tây Sơn",
+            "href": "/dong-lich-su/nha-tay-son"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/nha-nguyen"
+        },
+        {
+            "text": "Pháp Thuộc",
+            "href": "/dong-lich-su/phap-thuoc"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/phap-thuoc/nha-nguyen"
+        },
+        {
+            "text": "Những cuộc khởi nghĩa chống thực dân Pháp",
+            "href": "/dong-lich-su/phap-thuoc/khoi-nghia-chong-phap"
+        },
+        {
+            "text": "Đảng Cộng Sản Việt Nam",
+            "href": "/dong-lich-su/phap-thuoc/dang-cong-san-viet-nam"
+        },
+        {
+            "text": "Việt Nam Dân Chủ Cộng Hoà",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Kháng chiến chống Pháp",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-phap"
+        },
+        {
+            "text": "Kháng chiến chống Mĩ",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-mi"
+        },
+        {
+            "text": "Cộng hoà xã hội chủ nghĩa Việt Nam",
+            "href": "/dong-lich-su/viet-nam-xhcn"
+        },
+        {
+            "text": "Trận Điện Biên Phủ trên không năm 1972",
+            "href": "/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972"
+        },
+        {
+            "text": "Chiến tranh biên giới Tây Nam năm 1975 - 1978",
+            "href": "/tu-lieu/quan-su/chien-tranh-bien-gioi-tay-nam-nam-1975-1978"
+        },
+        {
+            "text": "Chiến dịch Mùa Xuân năm 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-mua-xuan-nam-1975"
+        },
+        {
+            "text": "Hải chiến Trường Sa năm 1988",
+            "href": "/tu-lieu/quan-su/hai-chien-truong-sa-nam-1988"
+        },
+        {
+            "text": "Chiến dịch Đường 14 - Phước Long năm 1974 - 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-duong-14-phuoc-long-nam-1974-1975"
+        },
+        {
+            "text": "Chiến dịch Tây Nguyên năm 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-tay-nguyen-nam-1975"
+        },
+        {
+            "text": "Trận Mậu Thân tại Huế năm 1968",
+            "href": "/tu-lieu/quan-su/tran-mau-than-tai-hue-nam-1968"
+        },
+        {
+            "text": "Bảng đối chiếu các triều đại Việt Nam và các triều đại Trung Quốc",
+            "href": "/tu-lieu/bang-doi-chieu-cac-trieu-dai-viet-nam-va-cac-trieu-dai-trung-quoc"
+        },
+        {
+            "text": "Bình Ngô đại cáo - bản tuyên ngôn độc lập thứ hai",
+            "href": "/tu-lieu/tac-pham/binh-ngo-dai-cao-ban-tuyen-ngon-doc-lap-thu-hai"
+        },
+        {
+            "text": "Lãnh thổ Việt Nam qua từng thời kỳ",
+            "href": "/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky"
+        },
+        {
+            "text": "Trận Đồi Thịt Băm năm 1969",
+            "href": "/tu-lieu/quan-su/tran-doi-thit-bam-nam-1969"
+        },
+        {
+            "text": "Chiến dịch Đắk Tô năm 1972",
+            "href": "/tu-lieu/quan-su/chien-dich-dak-to-nam-1972"
+        },
+        {
+            "text": "Nam quốc sơn hà - Bản tuyên ngôn độc lập đầu tiên",
+            "href": "/tu-lieu/tac-pham/nam-quoc-son-ha-ban-tuyen-ngon-doc-lap-dau-tien"
+        },
+        {
+            "text": "Tuyên ngôn độc lập Việt Nam Dân chủ Cộng hòa",
+            "href": "/tu-lieu/tac-pham/tuyen-ngon-doc-lap-viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Trận Bản Đông năm 1971",
+            "href": "/tu-lieu/quan-su/tran-ban-dong-nam-1971"
+        },
+        {
+            "text": "Trận Rạch Gầm \u2013 Xoài Mút năm 1785",
+            "href": "/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785"
+        },
+        {
+            "text": "Lịch sử Chữ viết tiếng Việt",
+            "href": "/tu-lieu/lich-su-chu-viet-tieng-viet"
+        },
+        {
+            "text": "Hịch tướng sĩ - Dụ chư tỳ tướng hịch văn",
+            "href": "/tu-lieu/tac-pham/hich-tuong-si-du-chu-ty-tuong-hich-van"
+        },
+        {
+            "text": "Danh sách Trạng nguyên Việt Nam",
+            "href": "/tu-lieu/danh-sach-trang-nguyen-viet-nam"
+        },
+        {
+            "text": "Hội nghị Paris, mặt trận ngoại giao năm 1968-1972",
+            "href": "/tu-lieu/bang-giao/hoi-nghi-paris-mat-tran-ngoai-giao-nam-1968-1972"
+        },
+        {
+            "text": "Lý Nam Đế",
+            "href": "/nhan-vat/ly-nam-de"
+        },
+        {
+            "text": "Trần Hưng Đạo",
+            "href": "/nhan-vat/tran-hung-dao"
+        },
+        {
+            "text": "Nguyễn Trãi",
+            "href": "/nhan-vat/nguyen-trai"
+        },
+        {
+            "text": "Lý Thái Tổ",
+            "href": "/nhan-vat/ly-thai-to"
+        },
+        {
+            "text": "Nguyễn Huệ",
+            "href": "/nhan-vat/nguyen-hue"
+        },
+        {
+            "text": "Đinh Tiên Hoàng",
+            "href": "/nhan-vat/dinh-tien-hoang"
+        },
+        {
+            "text": "Trần Nhân Tông",
+            "href": "/nhan-vat/tran-nhan-tong"
+        },
+        {
+            "text": "Lý Thường Kiệt",
+            "href": "/nhan-vat/ly-thuong-kiet"
+        },
+        {
+            "text": "Hai Bà Trưng",
+            "href": "/nhan-vat/hai-ba-trung"
+        },
+        {
+            "text": "Lê Đại Hành",
+            "href": "/nhan-vat/le-dai-hanh"
+        },
+        {
+            "text": "Hồ Chí Minh",
+            "href": "/nhan-vat/ho-chi-minh"
+        },
+        {
+            "text": "Hùng Vương",
+            "href": "/nhan-vat/hung-vuong"
+        },
+        {
+            "text": "Ngô Quyền",
+            "href": "/nhan-vat/ngo-quyen"
+        },
+        {
+            "text": "Lê Thái Tổ",
+            "href": "/nhan-vat/le-thai-to"
+        },
+        {
+            "text": "Nguyễn Trãi",
+            "href": "/nhan-vat/nguyen-trai"
+        },
+        {
+            "text": "Nguyễn Huệ",
+            "href": "/nhan-vat/nguyen-hue"
+        },
+        {
+            "text": "Ngô Quyền",
+            "href": "/nhan-vat/ngo-quyen"
+        },
+        {
+            "text": "Hai Bà Trưng",
+            "href": "/nhan-vat/hai-ba-trung"
+        },
+        {
+            "text": "Lý Nam Đế",
+            "href": "/nhan-vat/ly-nam-de"
+        },
+        {
+            "text": "Lê Thái Tổ",
+            "href": "/nhan-vat/le-thai-to"
+        },
+        {
+            "text": "Hồ Chí Minh",
+            "href": "/nhan-vat/ho-chi-minh"
+        },
+        {
+            "text": "Trần Nhân Tông",
+            "href": "/nhan-vat/tran-nhan-tong"
+        },
+        {
+            "text": "Lê Đại Hành",
+            "href": "/nhan-vat/le-dai-hanh"
+        },
+        {
+            "text": "Lý Thái Tổ",
+            "href": "/nhan-vat/ly-thai-to"
+        },
+        {
+            "text": "Vấn đề biên giới Việt-Trung thời Mạc",
+            "href": "/tu-lieu/bang-giao/van-de-bien-gioi-viet-trung-thoi-mac"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Tây Sơn",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-tay-son"
+        },
+        {
+            "text": "Biểu đồ các nhân vật lịch sử theo dòng thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Danh sách Trạng nguyên Việt Nam",
+            "href": "/tu-lieu/danh-sach-trang-nguyen-viet-nam"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Nguyễn",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-nguyen"
+        },
+        {
+            "text": "Trận Điện Biên Phủ trên không năm 1972",
+            "href": "/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972"
+        },
+        {
+            "text": "Trận Ngọc Hồi - Đống Đa năm 1789",
+            "href": "/tu-lieu/quan-su/tran-ngoc-hoi-dong-da-nam-1789"
+        },
+        {
+            "text": "Trận Cẩm Sa năm 1775",
+            "href": "/tu-lieu/quan-su/tran-cam-sa-nam-1775"
+        },
+        {
+            "text": "Trận Rạch Gầm \u2013 Xoài Mút năm 1785",
+            "href": "/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785"
+        },
+        {
+            "text": "Lãnh thổ Việt Nam qua từng thời kỳ",
+            "href": "/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky"
+        },
+        {
+            "text": "Đền Hùng",
+            "href": "/dia-danh/den-hung"
+        },
+        {
+            "text": "Dinh Độc Lập",
+            "href": "/dia-danh/dinh-doc-lap"
+        },
+        {
+            "text": "Quần thể di tích danh thắng Yên Tử",
+            "href": "/dia-danh/quan-the-di-tich-danh-thang-yen-tu"
+        },
+        {
+            "text": "chùa Thầy",
+            "href": "/dia-danh/chua-thay"
+        },
+        {
+            "text": "Đền Ngọc Sơn",
+            "href": "/dia-danh/den-ngoc-son"
+        },
+        {
+            "text": "Đền Trần (Thái Bình)",
+            "href": "/dia-danh/den-tran-thai-binh"
+        },
+        {
+            "text": "Thành nhà Hồ",
+            "href": "/dia-danh/thanh-nha-ho"
+        },
+        {
+            "text": "Hồ Hoàn Kiếm",
+            "href": "/dia-danh/ho-hoan-kiem"
+        },
+        {
+            "text": "Khu lưu niệm Chủ tịch Tôn Đức Thắng",
+            "href": "/dia-danh/khu-luu-niem-chu-tich-ton-duc-thang"
+        },
+        {
+            "text": "chùa Phổ Minh",
+            "href": "/dia-danh/chua-pho-minh"
+        },
+        {
+            "text": "Giới thiệu",
+            "href": "/gioi-thieu"
+        },
+        {
+            "text": "Quyền riêng tư",
+            "href": "/quyen-rieng-tu"
+        },
+        {
+            "text": "Liên hệ",
+            "href": "/lien-he"
+        },
+        {
+            "text": "Địa Danh",
+            "href": "/dia-danh"
+        },
+        {
+            "text": "Trang Facebook",
+            "href": "https://www.facebook.com/nguoikesu/"
+        },
+        {
+            "text": "DanhMucBDS.com",
+            "href": "https://danhmucbds.com"
+        },
+        {
+            "text": "HocTotNguVan.com",
+            "href": "https://hoctotnguvan.com"
+        }
+    ],
+    "title": "Trương Lỗ - Người Kể Sử",
+    "paragraphs": [
+        "Trương Lỗ (chữ Hán: 張魯; ?-216; bính âm: Zhang Lu), có tên tự là Công Kỳ (公祺), là quân phiệt thời Tam Quốc trong lịch sử Trung Quốc. Ông trấn giữ phía đông Ích châu (Đông Xuyên) trong hơn 20 năm và cuối cùng thất bại về tay Tào Tháo. Trương Lỗ là quân phiệt bị tiêu diệt cuối cùng trong số các quân phiệt thất bại trong chiến tranh quần hùng trước khi thời Tam Quốc chính thức hình thành.[1] Sau khi ông mất quyền làm chủ Hán Trung, lãnh thổ Trung Quốc chỉ còn 3 thế lực: Tào Tháo, Lưu Bị và Tôn Quyền ít lâu sau chính thức lập ra 3 triều đại.[1]",
+        "Trương Lỗ người gốc ở huyện Phong nước Bái thuộc Dự châu.[2] Ông con trai của Trương Hành và cháu của Trương Đạo Lăng - các thủ lĩnh giáo phái Ngũ Đấu Mễ Đạo cuối thời Đông Hán, đến ngụ cư ở Ích châu, trong đó ông nội Trương Lăng là người sáng lập ra Ngũ Đấu Mễ Đạo.",
+        "Sau khi Trương Hành mất, Trương Lỗ kế thừa ngôi vị thủ lĩnh Ngũ Đấu Mễ Đạo tại Ích châu (Tứ Xuyên hiện nay). Khi ông mới lên nắm quyền, Trương Tu (张脩) tham gia tranh chấp quyền lực.",
+        "Cùng lúc đó thiên hạ xảy ra loạn lạc, các chư hầu nổi dậy chống quyền thần Đổng Trác rồi đánh lẫn nhau, bản thân Đổng Trác thì mang triều đình Hán Hiến Đế chạy vào Trường An. Tại Ích châu, tàn quân Khăn Vàng vẫn nổi lên nhiều nơi chống triều đình. Châu mục Ích châu mới là Lưu Yên ra tay đánh dẹp, khi Ích châu tạm yên trở lại, Lưu Yên muốn dùng Trương Lỗ làm kế ly khai triều đình.",
+        "Nhân Trương Lỗ đang làm đạo trưởng Ngũ Đấu Mễ Đạo, Lưu Yên bèn sai người ra Hán Trung phong cho ông làm Đốc nghĩa tư mã, trấn thủ quận Hán Trung ở phía bắc làm vây cánh, án ngữ con đường từ trung nguyên vào Thục. Đồng thời, Lưu Yên cũng phong chức cho Trương Tu để lôi kéo chống nhà Hán.",
+        "Lưu Yên lệnh cho Trương Lỗ và Trương Tu mang quân chống lại tướng nhà Hán là Thái thú Hán Trung là Tô Cố (蘇固) và chiếm đất đai. Tuy nhiên, vì mâu thuẫn từ trước, Trương Lỗ lại ra tay giết chết Trương Tu trước, thu hết các thủ hạ. Sau đó ông đánh bại diệt Tô Cố, làm chủ cả vùng Đông Xuyên và đổi tên quận Hán Trung là quận Hán Ninh (漢寧).[3]",
+        "Trương Lỗ đốt luôn đường sạn đạo giữa Hán Ninh và Bảo Kê, làm cho giao thông Ích châu với Trung nguyên bị cắt. Cả Lưu Yên và Trương Lỗ ly khai triều đình, Lưu Yên lại dâng thư lên triều đình tâu rằng Trương Lỗ dùng tà đạo làm phản, làm cắt con đường huyết mạch vào kinh đô nên Lưu không thể thông hiếu thường xuyên với triều đình được.[4]",
+        "Trương Lỗ thi hành Ngũ Đấu Mễ Đạo ở Hán Ninh và bên ngoài vẫn thần phục Lưu Yên. Lưu Yên dâng biểu lên triều đình nhà Hán cử ông làm Trấn dân Trung lang tướng.[5]",
+        "Năm 194, Lưu Yên chết, con là Lưu Chương lên thay chức Ích châu mục. Một thời gian sau, Trương Lỗ ly khai Lưu Chương. Lúc đó mẹ ông và nhiều người trong gia quyến vẫn đang ở Thành Đô, đều bị Lưu Chương sát hại. Vì vậy Hán Ninh và Thành Đô thù hằn nhau.",
+        "Theo lời khuyên của mưu sĩ Diêm Phố, Trương Lỗ tự xưng là Sư quân (Thiên sư [Đạo sư mang Thiên mệnh] kiêm Quân trưởng [Tương đương chức Thái Úy, người đứng đầu các đội quân]). Bề ngoài, ông vẫn giữ danh hiệu Trấn dân Trung lang tướng (tương đương Thượng Thư Bộ Binh) của nhà Đông Hán và Thái thú Hán Ninh (mà Lưu Yên tiến cử). Có một số người khuyên ông xưng làm vương, nhưng Trương Lỗ nghe theo lời can của Diêm Phố, không xưng vương, tránh công khai đối đầu với triều đình.[6]",
+        "Nhưng bên trong, ông phế bỏ huyện lệnh các huyện và các bậc quan lại khác của triều đình, chỉ thiết lập các viên chức của Đạo giáo, dùng những người này kiêm quản việc dân chính.[7] Viên chức cao cấp nhất gọi là Trị đầu, dưới đó là Đại tế tửu và Tế tửu, dưới nữa các giáo hữu và người mới gia nhập gọi là quỷ tốt. Số lượng tín đồ phục tùng ông rất đông.[7]",
+        "Trương Lỗ cai trị Hán Ninh với chính sách khá khoan hòa, người dân 2 lần đầu phạm tội ông vẫn tha, tới lần thứ 3 mới trị tội. Ông sai các viên Tế tửu xây dựng Nghĩa xá khắp nơi, trong đó có cơm và thịt, chiêu đãi miễn phí lữ khách qua lại. Nếu ai có bệnh, các viên Tế tửu khuyên họ tĩnh tâm xét lại mình có lỗi gì, hãy công khai thừa nhận, rồi lấy ngón tay vẽ lá bùa lên bát nước hoặc dùng bút vẽ bùa lên giấy và đốt rồi hòa vào nước cho họ uống. Ngoài ra, Trương Lỗ còn cho đắp thêm nhiều đường sá, sai những người phạm tội bỏ tiền và công sức làm đường để chuộc tội khỏi ngồi tù.[7]",
+        "Những chính sách đó của ông khiến đời sống nhân dân quận Hán Ninh yên ổn, đủ ăn. Mọi người trong vùng gọi ông là Trấn dân Trung lang tướng hay Thái thú Hán Ninh.",
+        "Từ khi ly khai Lưu Chương, Trương Lỗ và Thành Đô có nhiều lần xung đột. Lưu Chương đề bạt Bàng Nghĩa làm Thái thú quận Ba Tây, mang quân đánh dẹp các giáo hữu Ngũ đấu mễ đạo (mà Lưu Chương gọi là \"Giặc gạo\"). Hai bên giao tranh nhiều lần. Bàng Nghĩa tỏ ra tận tụy với Lưu Chương, nhiều lần giao tranh với quân Hán Ninh, nhưng đều bị Trương Lỗ đánh bại.[8]",
+        "Lưu Chương thấy sức mình không thắng được Trương Lỗ, bèn cầu ngoại viện, sai sứ đi Kinh châu kết giao với Tào Tháo (đang tác chiến đánh Lưu Bị). Tuy nhiên sau đó vì việc sứ giả của Ích châu là Trương Tùng bị Tào Tháo khinh rẻ, gặp đúng lúc Tào Tháo bị thua ở trận Xích Bích, Trương Tùng bèn khuyên Lưu Chương liên minh với Lưu Bị ở Kinh châu để chống Trương Lỗ.",
+        "Cuối năm 211, Lưu Bị nhận lời vào Tây Xuyên và nhận quân, lương của Lưu Chương nhưng chỉ tiến đến ải Hà Manh thì dừng lại không tiến đánh Trương Lỗ, chỉ mưu đồ chờ thời cơ chiếm Tây Xuyên.",
+        "Năm 211, có ý kiến khuyên Tào Tháo đánh chiếm Hán Trung. Tuy nhiên cùng lúc, các thủ lĩnh vùng Quan Trung \u2013 giữa quận Hán Ninh và khu cai trị của Tào Tháo - là Mã Siêu và Hàn Toại lại nổi lên chống Tào Tháo. Tào Tháo bèn khởi đại binh đi đánh Mã Siêu.",
+        "Sau trận Đồng Quan, Tào Tháo đánh bại Mã Siêu nhưng không xâm phạm tới Hán Ninh. Mã Siêu sau thất bại ở trận Đồng Quan và trận Ký Thành, thế cô phải chạy đến Hán Ninh nương nhờ Trương Lỗ. Trương Lỗ phong Mã Siêu làm Đô Giảng Tế tửu và định gả con gái cho Mã Siêu, tuy nhiên thủ hạ của ông là Dương Bách (楊柏) khuyên ông rằng: \"Một người không thương cả cha mình[9] thì sẽ không thương người dưng\".",
+        "Do đó Trương Lỗ thôi ý định gả con gái cho Mã Siêu. Mã Siêu lại bị tướng của Trương Lỗ là Dương Ngang đố kị nên có ý bất bình.[10]",
+        "Trong khi đó Lưu Bị đã trở mặt đánh Lưu Chương. Năm 214, quân Lưu Bị áp sát tới Thành Đô. Mã Siêu liền bỏ Trương Lỗ theo hàng Lưu Bị, mang quân đánh Thành Đô của Lưu Chương buộc Lưu Chương phải đầu hàng.[10] Thủ hạ của Mã Siêu là Bàng Đức ở lại Hán Ninh với Trương Lỗ.",
+        "Năm 214, Lưu Bị đánh chiếm Tây Xuyên khiến Tào Tháo phải tính đường đối phó. Tào Tháo dự định đánh chiếm Hán Ninh (Đông Xuyên) của Trương Lỗ, sau đó xuôi theo sông Hán Thuỷ xuống phía nam đánh Ích châu để trừ Lưu Bị.",
+        "Năm 215, Tào Tháo ra quân tận diệt Hàn Toại ở Kim Thành, rồi quay trở lại đánh Hán Ninh. Thấy quân Tào thế mạnh, Trương Lỗ muốn hàng nhưng em là Trương Vệ phản đối, đòi chống cự. Ông cho Trương Vệ mang vài vạn quân ra địch.[6]",
+        "Trương Vệ ra trấn giữ ải Dương Bình, bị Tào Tháo đánh bại và giết chết.[1] Nghe tin Trương Vệ thua trận, Trương Lỗ muốn đầu hàng. Thủ hạ là Diêm Phố khuyên ông chưa hàng ngay vì chưa giao tranh đã đầu hàng như vậy sẽ bị Tào Tháo coi thường. Theo ý kiến của Diêm Phố, Trương Lỗ nên chạy ra núi Đại Ba, dựa vào các thủ lĩnh bộ tộc là Đỗ Quán, Bốc Hồ cố thủ, tỏ ra còn có ý giao tranh, sau đó mới sai người đến chỗ Tào Tháo xin giảng hòa.",
+        "Trương Lỗ khen kế của Diêm Phố hay, bèn làm theo. Có người khuyên Trương Lỗ nên đốt kho tàng khiến quân Tào đến nơi không có gì ăn sẽ bị đói. Nhưng Trương Lỗ không nghe theo, mà khoá hết kho tàng, niêm phong lại.[11]",
+        "Trương Lỗ mang quân chạy về huyện Ba Trung. Tây Xuyên bị uy hiếp. Hoàng Quyền khuyên Lưu Bị nên khẩn cấp điều quân ra phòng thủ 3 quận Ba Tây, Ba Thục và Ba Trung trước nguy cơ Trương Lỗ xâm nhập. Lưu Bị nghe theo, bèn sai Hoàng Quyền làm hộ quân, dẫn đầu các tướng đón đánh Trương Lỗ. Trương Lỗ phải quay về Nam Trịnh xin đầu hàng Tào Tháo.",
+        "Tào Tháo khen ngợi việc Trương Lỗ không đốt kho tàng, chấp nhận cho Trương Lỗ đầu hàng, sai sứ đi đón ông. Khi Trương Lỗ đến nơi, Tào Tháo phong làm Trấn Nam tướng quân, Lãng Trung hầu; năm con trai của Lỗ và Diêm Phố cũng được phong làm liệt hầu. Sau đó Tào Tháo còn kết thông gia với Trương Lỗ, lấy con gái Lỗ cho con trai mình. Bộ tướng cũ của Mã Siêu là Bàng Đức lúc đó theo hàng Tào Tháo.",
+        "Tào Tháo chiếm được Hán Ninh, đổi lại là quận Hán Trung. Vì Hán Trung rộng lớn nên Tào Tháo chia làm 3 quận: Trung tâm vẫn gọi là Hán Trung, đặt thêm 2 quận Tân Thành và Phòng Lăng.",
+        "Không lâu sau khi đầu hàng Tào Tháo, sang năm 216, Trương Lỗ qua đời. Ông được truy tặng tước hầu. Con ông tiếp tục làm thủ lĩnh giáo phái Ngũ Đấu Mễ Đạo, đạo này sau đó nhập vào Đạo giáo gọi là Chính nhất đạo.",
+        "Sách Thái Bình quảng ký có chép lại một bài văn bia ở Nam Trịnh ca tụng Trương Lỗ:[12]",
+        "Trong tiểu thuyết Tam Quốc diễn nghĩa của La Quán Trung, nhân vật Trương Lỗ là nhân vật phụ. La Quán Trung không đề cập chi tiết cụ thể về quá trình ly khai cát cứ của Trương Lỗ cùng Lưu Yên trong thời kỳ đầu.",
+        "Cuộc chiến của Trương Lỗ kháng cự với Tào Tháo và quan hệ với Lưu Chương được mô tả khá kỹ. Khi Lưu Chương cầu cứu Trương Lỗ đánh Lưu Bị, Trương Lỗ sai Mã Siêu (mới về hàng) ra trận, ông nhưng lại nghe lời gièm pha của gian thần Dương Tùng nên gây khó dễ cho Mã Siêu, do đó Mã Siêu mới hàng Lưu Bị. Trương Lỗ cử anh em Dương Ngang và Dương Nhiệm ra chống cự Tào Tháo bị thất bại và phải đầu hàng.",
+        "(Nguồn: Wikipedia)"
+    ]
+}

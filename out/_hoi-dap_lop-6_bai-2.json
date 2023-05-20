@@ -1,0 +1,551 @@
+{
+    "tables": ["<table class=\"table table-bordered\">\n <tbody>\n  <tr>\n   <td>Sự kiện<\/td>\n   <td>Khoảng thời gian tính theo năm<\/td>\n   <td>Khoảng thời gian tính theo thế kỉ<\/td>\n  <\/tr>\n  <tr>\n   <td>Khởi nghĩa Lam Sơn(7-2-1418)<\/td>\n   <td>589<\/td>\n   <td>6<\/td>\n  <\/tr>\n  <tr>\n   <td>Chiến thắng Đống Đa - Quang Trung đại phá quân Thanh (30-1-1789)<\/td>\n   <td>228<\/td>\n   <td>3<\/td>\n  <\/tr>\n  <tr>\n   <td>Khởi nghĩa Hai Bà Trưng (3-40)<\/td>\n   <td>1977<\/td>\n   <td>20<\/td>\n  <\/tr>\n  <tr>\n   <td>Chiến thắng Bạch Đằng - Trần Hưng Đạo đại phá quân Nguyên (9-4-1288)<\/td>\n   <td>729<\/td>\n   <td>8<\/td>\n  <\/tr>\n  <tr>\n   <td>Chiến thắng Chi Lăng - Lê Lợi đại phá quân Minh (10-10-1427)<\/td>\n   <td>590<\/td>\n   <td>6<\/td>\n  <\/tr>\n <\/tbody>\n<\/table>"],
+    "keywords": [],
+    "headings": [
+        "Lịch sử lớp 6",
+        "Theo em, vì sao trên tờ lịch của chúng ta lại ghi thêm ngày, tháng, năm âm lịch?",
+        "Tính khoảng cách thời gian (theo thế kỉ và theo năm) của các sự kiện ghi trên bảng ở trang 6 so với năm nay.(2017)",
+        "Hãy xem trên bảng ghi \"Những ngày lịch sử và kỉ niệm\" có những đơn vị thời gian nào và có những loại lịch nào?",
+        "Xem lại hình 1 và 2 của bài 1, em có thể nhận biết được trường làng hay tấm bia đá được dựng lên cách đây bao nhiêu năm?",
+        "Mục lục",
+        "Anh Hùng Dân Tộc Tiêu Biểu",
+        "Tư Liệu Lịch Sử",
+        "Di Tích Lịch Sử"
+    ],
+    "anchors": [
+        {
+            "text": "",
+            "href": "/"
+        },
+        {
+            "text": "Trang Chủ",
+            "href": "/"
+        },
+        {
+            "text": "Dòng Lịch Sử",
+            "href": "/dong-lich-su"
+        },
+        {
+            "text": "Hồng Bàng & Văn Lang",
+            "href": "/dong-lich-su/hong-bang-va-van-lang"
+        },
+        {
+            "text": "Âu Lạc & Nam Việt",
+            "href": "/dong-lich-su/au-lac-va-nam-viet"
+        },
+        {
+            "text": "Bắc thuộc lần I",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat"
+        },
+        {
+            "text": "Trưng Nữ Vương",
+            "href": "/dong-lich-su/trung-nu-vuong"
+        },
+        {
+            "text": "Bắc thuộc lần II",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-hai"
+        },
+        {
+            "text": "Nhà Lý & Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu"
+        },
+        {
+            "text": "Bắc thuộc lần III",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-ba"
+        },
+        {
+            "text": "Thời kỳ xây nền tự chủ",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu"
+        },
+        {
+            "text": "Nhà Ngô",
+            "href": "/dong-lich-su/nha-ngo"
+        },
+        {
+            "text": "Nhà Đinh",
+            "href": "/dong-lich-su/nha-dinh"
+        },
+        {
+            "text": "Nhà Tiền Lê",
+            "href": "/dong-lich-su/nha-tien-le"
+        },
+        {
+            "text": "Nhà Lý",
+            "href": "/dong-lich-su/nha-ly"
+        },
+        {
+            "text": "Nhà Trần",
+            "href": "/dong-lich-su/nha-tran"
+        },
+        {
+            "text": "Nhà Hồ",
+            "href": "/dong-lich-su/nha-ho"
+        },
+        {
+            "text": "Nhà Hậu Trần",
+            "href": "/dong-lich-su/nha-hau-tran"
+        },
+        {
+            "text": "Bắc thuộc lần IV",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-tu"
+        },
+        {
+            "text": "Nhà Hậu Lê",
+            "href": "/dong-lich-su/nha-hau-le"
+        },
+        {
+            "text": "Nam Bắc Triều",
+            "href": "/dong-lich-su/nam-bac-trieu"
+        },
+        {
+            "text": "Trịnh Nguyễn Phân Tranh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh"
+        },
+        {
+            "text": "Nhà Tây Sơn",
+            "href": "/dong-lich-su/nha-tay-son"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/nha-nguyen"
+        },
+        {
+            "text": "Pháp Thuộc",
+            "href": "/dong-lich-su/phap-thuoc"
+        },
+        {
+            "text": "Việt Nam Dân Chủ Cộng Hoà",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Cộng hoà xã hội chủ nghĩa Việt Nam",
+            "href": "/dong-lich-su/viet-nam-xhcn"
+        },
+        {
+            "text": "Tư Liệu",
+            "href": "/tu-lieu"
+        },
+        {
+            "text": "Quân Sự",
+            "href": "/tu-lieu/quan-su?filter_tag[0]="
+        },
+        {
+            "text": "Tác Phẩm",
+            "href": "/tu-lieu/tac-pham?filter_tag[0]="
+        },
+        {
+            "text": "Bang Giao",
+            "href": "/tu-lieu/bang-giao"
+        },
+        {
+            "text": "Biểu đồ thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Nhân Vật",
+            "href": "/nhan-vat"
+        },
+        {
+            "text": "Anh Hùng Dân Tộc",
+            "href": "/anh-hung-dan-toc?types[0]=1"
+        },
+        {
+            "text": "Danh nhân văn hóa",
+            "href": "/danh-nhan-van-hoa?types[0]=1"
+        },
+        {
+            "text": "Di Tích",
+            "href": "/di-tich-lich-su?types[0]=1"
+        },
+        {
+            "text": "Ngày Nay",
+            "href": "/thoi-su"
+        },
+        {
+            "text": "Sách",
+            "href": "/sach"
+        },
+        {
+            "text": "Video",
+            "href": "/video"
+        },
+        {
+            "text": "Q&A",
+            "href": "/hoi-dap"
+        },
+        {
+            "text": "Lịch sử lớp 12",
+            "href": "/hoi-dap/lop-12"
+        },
+        {
+            "text": "Lịch sử lớp 11",
+            "href": "/hoi-dap/lop-11"
+        },
+        {
+            "text": "Lịch sử lớp 10",
+            "href": "/hoi-dap/lop-10"
+        },
+        {
+            "text": "Lịch sử lớp 9",
+            "href": "/hoi-dap/lop-9"
+        },
+        {
+            "text": "Lịch sử lớp 8",
+            "href": "/hoi-dap/lop-8"
+        },
+        {
+            "text": "Lịch sử lớp 7",
+            "href": "/hoi-dap/lop-7"
+        },
+        {
+            "text": "Lịch sử lớp 6",
+            "href": "/hoi-dap/lop-6"
+        },
+        {
+            "text": "Trang chủ",
+            "href": "/"
+        },
+        {
+            "text": "Q&A",
+            "href": "/hoi-dap"
+        },
+        {
+            "text": "Lịch sử lớp 6",
+            "href": "/hoi-dap/lop-6"
+        },
+        {
+            "text": "Theo em, vì sao trên tờ lịch của chúng ta lại ghi thêm ngày, tháng, năm âm lịch?",
+            "href": "/hoi-dap/lop-6/bai-2/theo-em-vi-sao-tren-to-lich-cua-chung-ta-lai-ghi-them-ngay-thang-nam-am-lich"
+        },
+        {
+            "text": "Bài 2: Cách tính thời gian trong lịch sử",
+            "href": "/hoi-dap/lop-6/bai-2"
+        },
+        {
+            "text": "Chi tiết \u2026",
+            "href": "/hoi-dap/lop-6/bai-2/theo-em-vi-sao-tren-to-lich-cua-chung-ta-lai-ghi-them-ngay-thang-nam-am-lich"
+        },
+        {
+            "text": "Tính khoảng cách thời gian (theo thế kỉ và theo năm) của các sự kiện ghi trên bảng ở trang 6 so với năm nay.(2017)",
+            "href": "/hoi-dap/lop-6/bai-2/tinh-khoang-cach-thoi-gian-theo-the-ki-va-theo-nam-cua-cac-su-kien-ghi-tren-bang-o-trang-6-so-voi-nam-nay-2017"
+        },
+        {
+            "text": "Bài 2: Cách tính thời gian trong lịch sử",
+            "href": "/hoi-dap/lop-6/bai-2"
+        },
+        {
+            "text": "Chi tiết \u2026",
+            "href": "/hoi-dap/lop-6/bai-2/tinh-khoang-cach-thoi-gian-theo-the-ki-va-theo-nam-cua-cac-su-kien-ghi-tren-bang-o-trang-6-so-voi-nam-nay-2017"
+        },
+        {
+            "text": "Hãy xem trên bảng ghi \"Những ngày lịch sử và kỉ niệm\" có những đơn vị thời gian nào và có những loại lịch nào?",
+            "href": "/hoi-dap/lop-6/bai-2/hay-xem-tren-bang-ghi-nhung-ngay-lich-su-va-ki-niem-co-nhung-don-vi-thoi-gian-nao-va-co-nhung-loai-lich-nao"
+        },
+        {
+            "text": "Bài 2: Cách tính thời gian trong lịch sử",
+            "href": "/hoi-dap/lop-6/bai-2"
+        },
+        {
+            "text": "Chi tiết \u2026",
+            "href": "/hoi-dap/lop-6/bai-2/hay-xem-tren-bang-ghi-nhung-ngay-lich-su-va-ki-niem-co-nhung-don-vi-thoi-gian-nao-va-co-nhung-loai-lich-nao"
+        },
+        {
+            "text": "Xem lại hình 1 và 2 của bài 1, em có thể nhận biết được trường làng hay tấm bia đá được dựng lên cách đây bao nhiêu năm?",
+            "href": "/hoi-dap/lop-6/bai-2/xem-lai-hinh-1-va-2-cua-bai-1-em-co-the-nhan-biet-duoc-truong-lang-hay-tam-bia-da-duoc-dung-len-cach-day-bao-nhieu-nam"
+        },
+        {
+            "text": "Bài 2: Cách tính thời gian trong lịch sử",
+            "href": "/hoi-dap/lop-6/bai-2"
+        },
+        {
+            "text": "Chi tiết \u2026",
+            "href": "/hoi-dap/lop-6/bai-2/xem-lai-hinh-1-va-2-cua-bai-1-em-co-the-nhan-biet-duoc-truong-lang-hay-tam-bia-da-duoc-dung-len-cach-day-bao-nhieu-nam"
+        },
+        {
+            "text": "Bài 1: Sơ lược về môn lịch sử",
+            "href": "/hoi-dap/lop-6/bai-1"
+        },
+        {
+            "text": "Bài 2: Cách tính thời gian trong lịch sử",
+            "href": "/hoi-dap/lop-6/bai-2"
+        },
+        {
+            "text": "Phần 1: Khái quát lịch sử thế giới cổ đại",
+            "href": "/hoi-dap/lop-6/phan-1"
+        },
+        {
+            "text": "Bài 3: Xã hội nguyên thủy",
+            "href": "/hoi-dap/lop-6/phan-1/bai-3"
+        },
+        {
+            "text": "Bài 4: Các quốc gia cổ đại phương Đông",
+            "href": "/hoi-dap/lop-6/phan-1/bai-4"
+        },
+        {
+            "text": "Bài 5: Các quốc gia cổ đại phương Tây",
+            "href": "/hoi-dap/lop-6/phan-1/bai-5"
+        },
+        {
+            "text": "Bài 6: Văn hóa cổ đại",
+            "href": "/hoi-dap/lop-6/phan-1/bai-6"
+        },
+        {
+            "text": "Phần II: Lịch sử Việt Nam từ nguồn gốc đến thế kỉ X",
+            "href": "/hoi-dap/lop-6/phan-ii"
+        },
+        {
+            "text": "Chương I: Buổi đầu lịch sử nước ta",
+            "href": "/hoi-dap/lop-6/phan-ii/chuong-i"
+        },
+        {
+            "text": "Bài 8: Thời nguyên thủy trên đất nước ta",
+            "href": "/hoi-dap/lop-6/phan-ii/chuong-i/bai-8"
+        },
+        {
+            "text": "Bài 9: Đời sống của người nguyên thủy trên đất nước ta",
+            "href": "/hoi-dap/lop-6/phan-ii/chuong-i/bai-9"
+        },
+        {
+            "text": "Chương 2: Thời đại dựng nước: Văn Lang - Âu Lạc",
+            "href": "/hoi-dap/lop-6/phan-ii/chuong-2"
+        },
+        {
+            "text": "Bài 10: Những chuyển biến trong đời sống kinh tế",
+            "href": "/hoi-dap/lop-6/phan-ii/chuong-2/bai-10"
+        },
+        {
+            "text": "Bài 11: Những chuyển biến về xã hội",
+            "href": "/hoi-dap/lop-6/phan-ii/chuong-2/bai-11"
+        },
+        {
+            "text": "Bài 12: Nước Văn Lang",
+            "href": "/hoi-dap/lop-6/phan-ii/chuong-2/bai-12"
+        },
+        {
+            "text": "Bài 13: Đời sống vật chất và tinh thần của cư dân Văn Lang",
+            "href": "/hoi-dap/lop-6/phan-ii/chuong-2/bai-13"
+        },
+        {
+            "text": "Bài 14: Nước Âu Lạc",
+            "href": "/hoi-dap/lop-6/phan-ii/chuong-2/bai-14"
+        },
+        {
+            "text": "Bài 15: Nươc Âu Lạc (tiếp theo)",
+            "href": "/hoi-dap/lop-6/phan-ii/chuong-2/bai-15"
+        },
+        {
+            "text": "Chương 3: Thời kì Bắc thuộc và đấu tranh giành độc lập",
+            "href": "/hoi-dap/lop-6/phan-ii/chuong-3"
+        },
+        {
+            "text": "Bài 17: Cuộc khởi nghĩa Hai Bà Trưng (năm 40)",
+            "href": "/hoi-dap/lop-6/phan-ii/chuong-3/bai-17"
+        },
+        {
+            "text": "Bài 18: Trưng Vương và cuộc kháng chiến chống quân xâm lược Hán",
+            "href": "/hoi-dap/lop-6/phan-ii/chuong-3/bai-18"
+        },
+        {
+            "text": "Bài 19: Từ sau Trưng Vương đến trước Lý Nam Đế (Giữa thế kỉ I - Giữa thế kỉ VI)",
+            "href": "/hoi-dap/lop-6/phan-ii/chuong-3/bai-19"
+        },
+        {
+            "text": "Bài 20: Từ sau Trưng Vương đến trước Lý Nam Đế (Giữa thế kỉ I - Giữa thế kỉ VI) (tiếp theo)",
+            "href": "/hoi-dap/lop-6/phan-ii/chuong-3/bai-20"
+        },
+        {
+            "text": "Bài 21: Khởi nghĩa Lý Bí. Nước Vạn Xuân",
+            "href": "/hoi-dap/lop-6/phan-ii/chuong-3/bai-21"
+        },
+        {
+            "text": "Bài 22: Khởi nghĩa Lý Bí. Nước Vạn Xuân (tiếp theo)",
+            "href": "/hoi-dap/lop-6/phan-ii/chuong-3/bai-22"
+        },
+        {
+            "text": "Bài 23: Những cuộc khởi nghĩa lớn trong các thế kỉ VII - IX",
+            "href": "/hoi-dap/lop-6/phan-ii/chuong-3/bai-23"
+        },
+        {
+            "text": "Bài 24: Nước Cham-pa từ thế kỉ II đến thế kỉ IX",
+            "href": "/hoi-dap/lop-6/phan-ii/chuong-3/bai-24"
+        },
+        {
+            "text": "Bài 25: Ôn tập chương III",
+            "href": "/hoi-dap/lop-6/phan-ii/chuong-3/bai-25"
+        },
+        {
+            "text": "Chương 4: Bước ngoặt lịch sử ở đầu thế kỉ X",
+            "href": "/hoi-dap/lop-6/phan-ii/chuong-4"
+        },
+        {
+            "text": "Bài 26: Cuộc đấu tranh giành quyền tự chủ của họ Khúc, họ Dương",
+            "href": "/hoi-dap/lop-6/phan-ii/chuong-4/bai-26"
+        },
+        {
+            "text": "Bài 27: Ngô Quền và chiến thắng Bạch Đằng năm 938",
+            "href": "/hoi-dap/lop-6/phan-ii/chuong-4/bai-27"
+        },
+        {
+            "text": "Bài 28: Ôn tập",
+            "href": "/hoi-dap/lop-6/phan-ii/chuong-4/bai-28"
+        },
+        {
+            "text": "Nguyễn Trãi",
+            "href": "/nhan-vat/nguyen-trai"
+        },
+        {
+            "text": "Hùng Vương",
+            "href": "/nhan-vat/hung-vuong"
+        },
+        {
+            "text": "Lê Thái Tổ",
+            "href": "/nhan-vat/le-thai-to"
+        },
+        {
+            "text": "Trần Nhân Tông",
+            "href": "/nhan-vat/tran-nhan-tong"
+        },
+        {
+            "text": "Đinh Tiên Hoàng",
+            "href": "/nhan-vat/dinh-tien-hoang"
+        },
+        {
+            "text": "Lý Nam Đế",
+            "href": "/nhan-vat/ly-nam-de"
+        },
+        {
+            "text": "Hai Bà Trưng",
+            "href": "/nhan-vat/hai-ba-trung"
+        },
+        {
+            "text": "Lý Thường Kiệt",
+            "href": "/nhan-vat/ly-thuong-kiet"
+        },
+        {
+            "text": "Lê Đại Hành",
+            "href": "/nhan-vat/le-dai-hanh"
+        },
+        {
+            "text": "Ngô Quyền",
+            "href": "/nhan-vat/ngo-quyen"
+        },
+        {
+            "text": "Vấn đề biên giới Việt-Trung thời Mạc",
+            "href": "/tu-lieu/bang-giao/van-de-bien-gioi-viet-trung-thoi-mac"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Tây Sơn",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-tay-son"
+        },
+        {
+            "text": "Biểu đồ các nhân vật lịch sử theo dòng thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Danh sách Trạng nguyên Việt Nam",
+            "href": "/tu-lieu/danh-sach-trang-nguyen-viet-nam"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Nguyễn",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-nguyen"
+        },
+        {
+            "text": "Trận Điện Biên Phủ trên không năm 1972",
+            "href": "/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972"
+        },
+        {
+            "text": "Trận Ngọc Hồi - Đống Đa năm 1789",
+            "href": "/tu-lieu/quan-su/tran-ngoc-hoi-dong-da-nam-1789"
+        },
+        {
+            "text": "Trận Cẩm Sa năm 1775",
+            "href": "/tu-lieu/quan-su/tran-cam-sa-nam-1775"
+        },
+        {
+            "text": "Trận Rạch Gầm \u2013 Xoài Mút năm 1785",
+            "href": "/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785"
+        },
+        {
+            "text": "Lãnh thổ Việt Nam qua từng thời kỳ",
+            "href": "/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky"
+        },
+        {
+            "text": "Đền Trần (Nam Định)",
+            "href": "/dia-danh/den-tran-nam-dinh"
+        },
+        {
+            "text": "Đền Ngọc Sơn",
+            "href": "/dia-danh/den-ngoc-son"
+        },
+        {
+            "text": "Khu lưu niệm Chủ tịch Tôn Đức Thắng",
+            "href": "/dia-danh/khu-luu-niem-chu-tich-ton-duc-thang"
+        },
+        {
+            "text": "Quần thể di tích danh thắng Yên Tử",
+            "href": "/dia-danh/quan-the-di-tich-danh-thang-yen-tu"
+        },
+        {
+            "text": "Dinh Độc Lập",
+            "href": "/dia-danh/dinh-doc-lap"
+        },
+        {
+            "text": "Cố đô Hoa Lư",
+            "href": "/dia-danh/co-do-hoa-lu"
+        },
+        {
+            "text": "Hồ Hoàn Kiếm",
+            "href": "/dia-danh/ho-hoan-kiem"
+        },
+        {
+            "text": "Thành nhà Hồ",
+            "href": "/dia-danh/thanh-nha-ho"
+        },
+        {
+            "text": "Khu di tích Chủ tịch Hồ Chí Minh tại Phủ Chủ tịch",
+            "href": "/dia-danh/khu-di-tich-chu-tich-ho-chi-minh-tai-phu-chu-tich"
+        },
+        {
+            "text": "chùa Phổ Minh",
+            "href": "/dia-danh/chua-pho-minh"
+        },
+        {
+            "text": "Giới thiệu",
+            "href": "/gioi-thieu"
+        },
+        {
+            "text": "Quyền riêng tư",
+            "href": "/quyen-rieng-tu"
+        },
+        {
+            "text": "Liên hệ",
+            "href": "/lien-he"
+        },
+        {
+            "text": "Địa Danh",
+            "href": "/dia-danh"
+        },
+        {
+            "text": "Trang Facebook",
+            "href": "https://www.facebook.com/nguoikesu/"
+        },
+        {
+            "text": "DanhMucBDS.com",
+            "href": "https://danhmucbds.com"
+        },
+        {
+            "text": "HocTotNguVan.com",
+            "href": "https://hoctotnguvan.com"
+        }
+    ],
+    "title": "Bài 2: Cách tính thời gian trong lịch sử - Người Kể Sử",
+    "paragraphs": [
+        "Bởi vì, tổ tiên chúng ta ngày xưa dùng Âm lịch nên những ngày lễ, tết cổ truyền, những ngày cúng, giỗ... chúng ta đều dùng ngày Âm lịch. Vì thế, cần phải ghi thêm ngày Âm lịch tương ứng với ngày Dương lịch.",
+        "Chi tiết \u2026",
+        "Chi tiết \u2026",
+        "Bảng ghi có đơn vị thời gian là ngày, tháng, năm ; có 2 loại lịch là Âm lịch và Dương lịch.",
+        "Chi tiết \u2026",
+        "Nhìn qua thì chúng ta không thể nhận biết được mà phải dựa vào những kí hiệu, những quy định nào đó. Người xưa đã có cách tính và cách ghi thời gian.Xác định thời gian là một nguyên tắc cơ bản quan trọng của lịch sử.",
+        "Chi tiết \u2026"
+    ]
+}

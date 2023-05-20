@@ -1,0 +1,701 @@
+{
+    "tables": [],
+    "keywords": [],
+    "headings": [
+        "Lịch sử lớp 9",
+        "Hãy trình bày mục đích ra đời và những thành tích của Hội đồng tương trợ kinh tế trong những năm 1951-1973.",
+        "Hãy nêu những cơ sở hình thành hệ thống xã hội chủ nghĩa",
+        "Hãy nêu những thành tựu mà các nước Đông Âu đã đạt được trong công cuộc xây dựng chủ nghĩa xã hội.",
+        "Những nhiệm vụ chính của các nước Đông Âu trong công cuộc xây dựng chủ nghĩa xã hội là gì?",
+        "Để hoàn thành cuộc cách mạng dân chủ nhân dân, các nước Đông Âu đã thực hiện những nhiệm vụ gì?",
+        "Chuyên mục phụ",
+        "Phần 1: Lịch sử thế giới hiện đại từ năm 1945 đến nay Số bài viết: 56",
+        "Phần 2: Lịch sử Việt Nam từ năm 1919 đến nay Số bài viết: 141",
+        "Mục lục",
+        "Anh Hùng Dân Tộc Tiêu Biểu",
+        "Tư Liệu Lịch Sử",
+        "Di Tích Lịch Sử"
+    ],
+    "anchors": [
+        {
+            "text": "",
+            "href": "/"
+        },
+        {
+            "text": "Trang Chủ",
+            "href": "/"
+        },
+        {
+            "text": "Dòng Lịch Sử",
+            "href": "/dong-lich-su"
+        },
+        {
+            "text": "Hồng Bàng & Văn Lang",
+            "href": "/dong-lich-su/hong-bang-va-van-lang"
+        },
+        {
+            "text": "Âu Lạc & Nam Việt",
+            "href": "/dong-lich-su/au-lac-va-nam-viet"
+        },
+        {
+            "text": "Bắc thuộc lần I",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat"
+        },
+        {
+            "text": "Trưng Nữ Vương",
+            "href": "/dong-lich-su/trung-nu-vuong"
+        },
+        {
+            "text": "Bắc thuộc lần II",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-hai"
+        },
+        {
+            "text": "Nhà Lý & Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu"
+        },
+        {
+            "text": "Bắc thuộc lần III",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-ba"
+        },
+        {
+            "text": "Thời kỳ xây nền tự chủ",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu"
+        },
+        {
+            "text": "Nhà Ngô",
+            "href": "/dong-lich-su/nha-ngo"
+        },
+        {
+            "text": "Nhà Đinh",
+            "href": "/dong-lich-su/nha-dinh"
+        },
+        {
+            "text": "Nhà Tiền Lê",
+            "href": "/dong-lich-su/nha-tien-le"
+        },
+        {
+            "text": "Nhà Lý",
+            "href": "/dong-lich-su/nha-ly"
+        },
+        {
+            "text": "Nhà Trần",
+            "href": "/dong-lich-su/nha-tran"
+        },
+        {
+            "text": "Nhà Hồ",
+            "href": "/dong-lich-su/nha-ho"
+        },
+        {
+            "text": "Nhà Hậu Trần",
+            "href": "/dong-lich-su/nha-hau-tran"
+        },
+        {
+            "text": "Bắc thuộc lần IV",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-tu"
+        },
+        {
+            "text": "Nhà Hậu Lê",
+            "href": "/dong-lich-su/nha-hau-le"
+        },
+        {
+            "text": "Nam Bắc Triều",
+            "href": "/dong-lich-su/nam-bac-trieu"
+        },
+        {
+            "text": "Trịnh Nguyễn Phân Tranh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh"
+        },
+        {
+            "text": "Nhà Tây Sơn",
+            "href": "/dong-lich-su/nha-tay-son"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/nha-nguyen"
+        },
+        {
+            "text": "Pháp Thuộc",
+            "href": "/dong-lich-su/phap-thuoc"
+        },
+        {
+            "text": "Việt Nam Dân Chủ Cộng Hoà",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Cộng hoà xã hội chủ nghĩa Việt Nam",
+            "href": "/dong-lich-su/viet-nam-xhcn"
+        },
+        {
+            "text": "Tư Liệu",
+            "href": "/tu-lieu"
+        },
+        {
+            "text": "Quân Sự",
+            "href": "/tu-lieu/quan-su?filter_tag[0]="
+        },
+        {
+            "text": "Tác Phẩm",
+            "href": "/tu-lieu/tac-pham?filter_tag[0]="
+        },
+        {
+            "text": "Bang Giao",
+            "href": "/tu-lieu/bang-giao"
+        },
+        {
+            "text": "Biểu đồ thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Nhân Vật",
+            "href": "/nhan-vat"
+        },
+        {
+            "text": "Anh Hùng Dân Tộc",
+            "href": "/anh-hung-dan-toc?types[0]=1"
+        },
+        {
+            "text": "Danh nhân văn hóa",
+            "href": "/danh-nhan-van-hoa?types[0]=1"
+        },
+        {
+            "text": "Di Tích",
+            "href": "/di-tich-lich-su?types[0]=1"
+        },
+        {
+            "text": "Ngày Nay",
+            "href": "/thoi-su"
+        },
+        {
+            "text": "Sách",
+            "href": "/sach"
+        },
+        {
+            "text": "Video",
+            "href": "/video"
+        },
+        {
+            "text": "Q&A",
+            "href": "/hoi-dap"
+        },
+        {
+            "text": "Lịch sử lớp 12",
+            "href": "/hoi-dap/lop-12"
+        },
+        {
+            "text": "Lịch sử lớp 11",
+            "href": "/hoi-dap/lop-11"
+        },
+        {
+            "text": "Lịch sử lớp 10",
+            "href": "/hoi-dap/lop-10"
+        },
+        {
+            "text": "Lịch sử lớp 9",
+            "href": "/hoi-dap/lop-9"
+        },
+        {
+            "text": "Lịch sử lớp 8",
+            "href": "/hoi-dap/lop-8"
+        },
+        {
+            "text": "Lịch sử lớp 7",
+            "href": "/hoi-dap/lop-7"
+        },
+        {
+            "text": "Lịch sử lớp 6",
+            "href": "/hoi-dap/lop-6"
+        },
+        {
+            "text": "Trang chủ",
+            "href": "/"
+        },
+        {
+            "text": "Q&A",
+            "href": "/hoi-dap"
+        },
+        {
+            "text": "Hãy trình bày mục đích ra đời và những thành tích của Hội đồng tương trợ kinh tế trong những năm 1951-1973.",
+            "href": "/hoi-dap/lop-9/phan-1/chuong-1/bai-1/hay-trinh-bay-muc-dich-ra-doi-va-nhung-thanh-tich-cua-hoi-dong-tuong-tro-kinh-te-trong-nhung-nam-1951-1973"
+        },
+        {
+            "text": "Bài 1: Liên Xô và các nước Đông Âu từ năm 1945 đến giữa những năm 70 của thế kỉ XX",
+            "href": "/hoi-dap/lop-9/phan-1/chuong-1/bai-1"
+        },
+        {
+            "text": "Chi tiết \u2026",
+            "href": "/hoi-dap/lop-9/phan-1/chuong-1/bai-1/hay-trinh-bay-muc-dich-ra-doi-va-nhung-thanh-tich-cua-hoi-dong-tuong-tro-kinh-te-trong-nhung-nam-1951-1973"
+        },
+        {
+            "text": "Hãy nêu những cơ sở hình thành hệ thống xã hội chủ nghĩa",
+            "href": "/hoi-dap/lop-9/phan-1/chuong-1/bai-1/hay-neu-nhung-co-so-hinh-thanh-he-thong-xa-hoi-chu-nghia"
+        },
+        {
+            "text": "Bài 1: Liên Xô và các nước Đông Âu từ năm 1945 đến giữa những năm 70 của thế kỉ XX",
+            "href": "/hoi-dap/lop-9/phan-1/chuong-1/bai-1"
+        },
+        {
+            "text": "Chi tiết \u2026",
+            "href": "/hoi-dap/lop-9/phan-1/chuong-1/bai-1/hay-neu-nhung-co-so-hinh-thanh-he-thong-xa-hoi-chu-nghia"
+        },
+        {
+            "text": "Hãy nêu những thành tựu mà các nước Đông Âu đã đạt được trong công cuộc xây dựng chủ nghĩa xã hội.",
+            "href": "/hoi-dap/lop-9/phan-1/chuong-1/bai-1/hay-neu-nhung-thanh-tuu-ma-cac-nuoc-dong-au-da-dat-duoc-trong-cong-cuoc-xay-dung-chu-nghia-xa-hoi"
+        },
+        {
+            "text": "Bài 1: Liên Xô và các nước Đông Âu từ năm 1945 đến giữa những năm 70 của thế kỉ XX",
+            "href": "/hoi-dap/lop-9/phan-1/chuong-1/bai-1"
+        },
+        {
+            "text": "Chi tiết \u2026",
+            "href": "/hoi-dap/lop-9/phan-1/chuong-1/bai-1/hay-neu-nhung-thanh-tuu-ma-cac-nuoc-dong-au-da-dat-duoc-trong-cong-cuoc-xay-dung-chu-nghia-xa-hoi"
+        },
+        {
+            "text": "Những nhiệm vụ chính của các nước Đông Âu trong công cuộc xây dựng chủ nghĩa xã hội là gì?",
+            "href": "/hoi-dap/lop-9/phan-1/chuong-1/bai-1/nhung-nhiem-vu-chinh-cua-cac-nuoc-dong-au-trong-cong-cuoc-xay-dung-chu-nghia-xa-hoi-la-gi"
+        },
+        {
+            "text": "Bài 1: Liên Xô và các nước Đông Âu từ năm 1945 đến giữa những năm 70 của thế kỉ XX",
+            "href": "/hoi-dap/lop-9/phan-1/chuong-1/bai-1"
+        },
+        {
+            "text": "Chi tiết \u2026",
+            "href": "/hoi-dap/lop-9/phan-1/chuong-1/bai-1/nhung-nhiem-vu-chinh-cua-cac-nuoc-dong-au-trong-cong-cuoc-xay-dung-chu-nghia-xa-hoi-la-gi"
+        },
+        {
+            "text": "Để hoàn thành cuộc cách mạng dân chủ nhân dân, các nước Đông Âu đã thực hiện những nhiệm vụ gì?",
+            "href": "/hoi-dap/lop-9/phan-1/chuong-1/bai-1/de-hoan-thanh-cuoc-cach-mang-dan-chu-nhan-dan-cac-nuoc-dong-au-da-thuc-hien-nhung-nhiem-vu-gi"
+        },
+        {
+            "text": "Bài 1: Liên Xô và các nước Đông Âu từ năm 1945 đến giữa những năm 70 của thế kỉ XX",
+            "href": "/hoi-dap/lop-9/phan-1/chuong-1/bai-1"
+        },
+        {
+            "text": "Chi tiết \u2026",
+            "href": "/hoi-dap/lop-9/phan-1/chuong-1/bai-1/de-hoan-thanh-cuoc-cach-mang-dan-chu-nhan-dan-cac-nuoc-dong-au-da-thuc-hien-nhung-nhiem-vu-gi"
+        },
+        {
+            "text": "Phần 1: Lịch sử thế giới hiện đại từ năm 1945 đến nay",
+            "href": "/hoi-dap/lop-9/phan-1"
+        },
+        {
+            "text": "Phần 2: Lịch sử Việt Nam từ năm 1919 đến nay",
+            "href": "/hoi-dap/lop-9/phan-2"
+        },
+        {
+            "text": "1",
+            "href": "#"
+        },
+        {
+            "text": "2",
+            "href": "/hoi-dap/lop-9?start=5"
+        },
+        {
+            "text": "3",
+            "href": "/hoi-dap/lop-9?start=10"
+        },
+        {
+            "text": "4",
+            "href": "/hoi-dap/lop-9?start=15"
+        },
+        {
+            "text": "5",
+            "href": "/hoi-dap/lop-9?start=20"
+        },
+        {
+            "text": "6",
+            "href": "/hoi-dap/lop-9?start=25"
+        },
+        {
+            "text": "7",
+            "href": "/hoi-dap/lop-9?start=30"
+        },
+        {
+            "text": "8",
+            "href": "/hoi-dap/lop-9?start=35"
+        },
+        {
+            "text": "9",
+            "href": "/hoi-dap/lop-9?start=40"
+        },
+        {
+            "text": "10",
+            "href": "/hoi-dap/lop-9?start=45"
+        },
+        {
+            "text": "",
+            "href": "/hoi-dap/lop-9?start=5"
+        },
+        {
+            "text": "",
+            "href": "/hoi-dap/lop-9?start=195"
+        },
+        {
+            "text": "Phần 1: Lịch sử thế giới hiện đại từ năm 1945 đến nay",
+            "href": "/hoi-dap/lop-9/phan-1"
+        },
+        {
+            "text": "Chương 1: Liên Xô và các nước Đông Âu sau chiến tranh thế giới thứ hai",
+            "href": "/hoi-dap/lop-9/phan-1/chuong-1"
+        },
+        {
+            "text": "Bài 1: Liên Xô và các nước Đông Âu từ năm 1945 đến giữa những năm 70 của thế kỉ XX",
+            "href": "/hoi-dap/lop-9/phan-1/chuong-1/bai-1"
+        },
+        {
+            "text": "Bài 2: Liên Xô và các nước Đông Âu từ giữa những năm 70 đến đầu những năm 90 của thế kỉ XX",
+            "href": "/hoi-dap/lop-9/phan-1/chuong-1/bai-2"
+        },
+        {
+            "text": "Chương 2: Các nước Á, Phi, Mĩ La Tinh từ năm 1945 đến nay",
+            "href": "/hoi-dap/lop-9/phan-1/chuong-2"
+        },
+        {
+            "text": "Bài 3: Quá trình phát triển của phong trào giải phóng dân tộc và sự tan rã của hệ thống thuộc địa",
+            "href": "/hoi-dap/lop-9/phan-1/chuong-2/bai-3"
+        },
+        {
+            "text": "Bài 4: Các nước châu Á",
+            "href": "/hoi-dap/lop-9/phan-1/chuong-2/bai-4"
+        },
+        {
+            "text": "Bài 5: Các nước Đông Nam Á",
+            "href": "/hoi-dap/lop-9/phan-1/chuong-2/bai-5"
+        },
+        {
+            "text": "Bài 6: Các nước châu Phi",
+            "href": "/hoi-dap/lop-9/phan-1/chuong-2/bai-6"
+        },
+        {
+            "text": "Bài 7: Các nước Mĩ-Latinh",
+            "href": "/hoi-dap/lop-9/phan-1/chuong-2/bai-7"
+        },
+        {
+            "text": "Chương 3: Mĩ, Nhật Bản, Tây Âu từ năm 1945 đến nay",
+            "href": "/hoi-dap/lop-9/phan-1/chuong-3"
+        },
+        {
+            "text": "Bài 8: Nước Mĩ",
+            "href": "/hoi-dap/lop-9/phan-1/chuong-3/bai-8"
+        },
+        {
+            "text": "Bài 9: Nhật Bản",
+            "href": "/hoi-dap/lop-9/phan-1/chuong-3/bai-9"
+        },
+        {
+            "text": "Bài 10: Các nước Tây Âu",
+            "href": "/hoi-dap/lop-9/phan-1/chuong-3/bai-10"
+        },
+        {
+            "text": "Chương 4: Quan hệ quốc tế từ năm 1945 đến nay",
+            "href": "/hoi-dap/lop-9/phan-1/chuong-4"
+        },
+        {
+            "text": "Bài 11: Trật tự thế giới mới sau chiến tranh thế giới thứ hai",
+            "href": "/hoi-dap/lop-9/phan-1/chuong-4/bai-11"
+        },
+        {
+            "text": "Chương 5: Cuộc cách mạng khoa học - kĩ thuật từ năm 1945 đến nay",
+            "href": "/hoi-dap/lop-9/phan-1/chuong-5"
+        },
+        {
+            "text": "Bài 12: Những thành tựu chủ yếu và ý nghĩa lịch sử của cách mạng khoa học-kĩ thuật",
+            "href": "/hoi-dap/lop-9/phan-1/chuong-5/bai-12"
+        },
+        {
+            "text": "Bài 13: Tổng kết lịch sử thế giới từ năm 1945 đến nay",
+            "href": "/hoi-dap/lop-9/phan-1/chuong-5/bai-13"
+        },
+        {
+            "text": "Phần 2: Lịch sử Việt Nam từ năm 1919 đến nay",
+            "href": "/hoi-dap/lop-9/phan-2"
+        },
+        {
+            "text": "Chương 1: Việt Nam trong những năm 1919 - 1930",
+            "href": "/hoi-dap/lop-9/phan-2/chuong-1"
+        },
+        {
+            "text": "Bài 14: Việt Nam sau Chiến tranh thế giới thứ nhất",
+            "href": "/hoi-dap/lop-9/phan-2/chuong-1/bai-14"
+        },
+        {
+            "text": "Bài 15: Phong trào cách mạng Việt Nam sau Chiến tranh thế giới thứ nhất (1919 - 1925)",
+            "href": "/hoi-dap/lop-9/phan-2/chuong-1/bai-15"
+        },
+        {
+            "text": "Bài 16: Hoạt động của Nguyễn Ái Quốc ở nước ngoài trong những năm 1919 - 1925",
+            "href": "/hoi-dap/lop-9/phan-2/chuong-1/bai-16"
+        },
+        {
+            "text": "Bài 17: Cách mạng Việt Nam trước khi Đảng Cộng sản ra đời",
+            "href": "/hoi-dap/lop-9/phan-2/chuong-1/bai-17"
+        },
+        {
+            "text": "Chương 2: Việt Nam trong những năm 1930 - 1939",
+            "href": "/hoi-dap/lop-9/phan-2/chuong-2"
+        },
+        {
+            "text": "Bài 18: Đảng Cộng sản Việt Nam ra đời",
+            "href": "/hoi-dap/lop-9/phan-2/chuong-2/bai-18"
+        },
+        {
+            "text": "Bài 19: Phong trào cách mạng trong những năm 1930 - 1935",
+            "href": "/hoi-dap/lop-9/phan-2/chuong-2/bai-19"
+        },
+        {
+            "text": "Bài 20: Cuộc vận động dân chủ trong những năm 1936-1939",
+            "href": "/hoi-dap/lop-9/phan-2/chuong-2/bai-20"
+        },
+        {
+            "text": "Chương 3: Cuộc vận động tiến tới cách mạng tháng Tám năm 1945",
+            "href": "/hoi-dap/lop-9/phan-2/chuong-3"
+        },
+        {
+            "text": "Bài 21: Việt Nam trong những năm 1939 - 1945",
+            "href": "/hoi-dap/lop-9/phan-2/chuong-3/bai-21"
+        },
+        {
+            "text": "Bài 22: Cao trào cách mạng tiến tới tổng khởi nghĩa tháng Tám năm 1945",
+            "href": "/hoi-dap/lop-9/phan-2/chuong-3/bai-22"
+        },
+        {
+            "text": "Bài 23: Tổng khởi nghĩa tháng Tám năm 1945 và sự thành lập nước Việt Nam Dân chủ Cộng hòa",
+            "href": "/hoi-dap/lop-9/phan-2/chuong-3/bai-23"
+        },
+        {
+            "text": "Chương 4: Việt Nam từ sau cách mạng tháng Tám đến toàn quốc kháng chiến",
+            "href": "/hoi-dap/lop-9/phan-2/chuong-4"
+        },
+        {
+            "text": "Bài 24: Cuộc đấu tranh bảo vệ và xây dựng chính quyền dân chủ nhân dân (1945 - 1946)",
+            "href": "/hoi-dap/lop-9/phan-2/chuong-4/bai-24"
+        },
+        {
+            "text": "Chương 5: Việt Nam từ cuối năm 1946 đến năm 1954",
+            "href": "/hoi-dap/lop-9/phan-2/chuong-5"
+        },
+        {
+            "text": "Bài 25: Những năm đầu của cuộc kháng chiến toàn quốc chống thực dân Pháp (1946-1950)",
+            "href": "/hoi-dap/lop-9/phan-2/chuong-5/bai-25"
+        },
+        {
+            "text": "Bài 26: Bước phát triển mới của cuộc kháng chiến toàn quốc chống thực dân Pháp (1950-1953)",
+            "href": "/hoi-dap/lop-9/phan-2/chuong-5/bai-26"
+        },
+        {
+            "text": "Bài 27: Cuộc kháng chiến toàn quốc chống thực dân Pháp xâm lược kết thúc (1953-1954)",
+            "href": "/hoi-dap/lop-9/phan-2/chuong-5/bai-27"
+        },
+        {
+            "text": "Chương 6: Việt Nam từ năm 1954 đến năm 1975",
+            "href": "/hoi-dap/lop-9/phan-2/chuong-6"
+        },
+        {
+            "text": "Bài 28: Xây dựng chủ nghĩa xã hội ở miền Bắc, đấu tranh chống đế quốc Mĩ và chính quyền Sài Gòn ở miền Năm (1954-1965)",
+            "href": "/hoi-dap/lop-9/phan-2/chuong-6/bai-28"
+        },
+        {
+            "text": "Bài 29: Cả nước trực tiếp chiến đấu chống Mĩ, cứu nước (1965 - 1973)",
+            "href": "/hoi-dap/lop-9/phan-2/chuong-6/bai-29"
+        },
+        {
+            "text": "Bài 30: Hoàn thành giải phóng miền Nam, thống nhất đất nước (1973 - 1975)",
+            "href": "/hoi-dap/lop-9/phan-2/chuong-6/bai-30"
+        },
+        {
+            "text": "Chương 7: Việt Nam từ năm 1975 đến năm 2000",
+            "href": "/hoi-dap/lop-9/phan-2/chuong-7"
+        },
+        {
+            "text": "Bài 31: Việt Nam trong năm đầu sau đại thắng xuân 1975",
+            "href": "/hoi-dap/lop-9/phan-2/chuong-7/bai-31"
+        },
+        {
+            "text": "Bài 32: Xây dựng đất nước, đấu tranh bảo vệ tổ quốc (1976 - 1985)",
+            "href": "/hoi-dap/lop-9/phan-2/chuong-7/bai-32"
+        },
+        {
+            "text": "Bài 33: Việt Nam trên đường đổi mới đi lên chủ nghĩa xã hội (từ năm 1986 đến năm 2000)",
+            "href": "/hoi-dap/lop-9/phan-2/chuong-7/bai-33"
+        },
+        {
+            "text": "Bài 34: Tổng kết lịch sử Việt Nam từ sau chiến tranh thế giới thứ nhất đến năm 2000",
+            "href": "/hoi-dap/lop-9/phan-2/chuong-7/bai-34"
+        },
+        {
+            "text": "Hùng Vương",
+            "href": "/nhan-vat/hung-vuong"
+        },
+        {
+            "text": "Nguyễn Trãi",
+            "href": "/nhan-vat/nguyen-trai"
+        },
+        {
+            "text": "Lê Thái Tổ",
+            "href": "/nhan-vat/le-thai-to"
+        },
+        {
+            "text": "Ngô Quyền",
+            "href": "/nhan-vat/ngo-quyen"
+        },
+        {
+            "text": "Lý Nam Đế",
+            "href": "/nhan-vat/ly-nam-de"
+        },
+        {
+            "text": "Hồ Chí Minh",
+            "href": "/nhan-vat/ho-chi-minh"
+        },
+        {
+            "text": "Trần Nhân Tông",
+            "href": "/nhan-vat/tran-nhan-tong"
+        },
+        {
+            "text": "Nguyễn Huệ",
+            "href": "/nhan-vat/nguyen-hue"
+        },
+        {
+            "text": "Đinh Tiên Hoàng",
+            "href": "/nhan-vat/dinh-tien-hoang"
+        },
+        {
+            "text": "Lý Thường Kiệt",
+            "href": "/nhan-vat/ly-thuong-kiet"
+        },
+        {
+            "text": "Vấn đề biên giới Việt-Trung thời Mạc",
+            "href": "/tu-lieu/bang-giao/van-de-bien-gioi-viet-trung-thoi-mac"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Tây Sơn",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-tay-son"
+        },
+        {
+            "text": "Biểu đồ các nhân vật lịch sử theo dòng thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Danh sách Trạng nguyên Việt Nam",
+            "href": "/tu-lieu/danh-sach-trang-nguyen-viet-nam"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Nguyễn",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-nguyen"
+        },
+        {
+            "text": "Trận Điện Biên Phủ trên không năm 1972",
+            "href": "/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972"
+        },
+        {
+            "text": "Trận Ngọc Hồi - Đống Đa năm 1789",
+            "href": "/tu-lieu/quan-su/tran-ngoc-hoi-dong-da-nam-1789"
+        },
+        {
+            "text": "Trận Cẩm Sa năm 1775",
+            "href": "/tu-lieu/quan-su/tran-cam-sa-nam-1775"
+        },
+        {
+            "text": "Trận Rạch Gầm \u2013 Xoài Mút năm 1785",
+            "href": "/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785"
+        },
+        {
+            "text": "Lãnh thổ Việt Nam qua từng thời kỳ",
+            "href": "/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky"
+        },
+        {
+            "text": "thành Cổ Loa",
+            "href": "/dia-danh/thanh-co-loa"
+        },
+        {
+            "text": "Đền Trần (Thái Bình)",
+            "href": "/dia-danh/den-tran-thai-binh"
+        },
+        {
+            "text": "Thành nhà Hồ",
+            "href": "/dia-danh/thanh-nha-ho"
+        },
+        {
+            "text": "Quần thể di tích Cố đô Huế",
+            "href": "/dia-danh/quan-the-di-tich-co-do-hue"
+        },
+        {
+            "text": "Đền Hùng",
+            "href": "/dia-danh/den-hung"
+        },
+        {
+            "text": "Đền Phù Đổng",
+            "href": "/dia-danh/den-phu-dong"
+        },
+        {
+            "text": "Khu lăng mộ và đền thờ các vị vua triều Lý",
+            "href": "/dia-danh/khu-lang-mo-va-den-tho-cac-vi-vua-trieu-ly"
+        },
+        {
+            "text": "Thành cổ Quảng Trị",
+            "href": "/dia-danh/thanh-co-quang-tri"
+        },
+        {
+            "text": "chùa Thầy",
+            "href": "/dia-danh/chua-thay"
+        },
+        {
+            "text": "Văn Miếu - Quốc Tử Giám",
+            "href": "/dia-danh/van-mieu-quoc-tu-giam"
+        },
+        {
+            "text": "Giới thiệu",
+            "href": "/gioi-thieu"
+        },
+        {
+            "text": "Quyền riêng tư",
+            "href": "/quyen-rieng-tu"
+        },
+        {
+            "text": "Liên hệ",
+            "href": "/lien-he"
+        },
+        {
+            "text": "Địa Danh",
+            "href": "/dia-danh"
+        },
+        {
+            "text": "Trang Facebook",
+            "href": "https://www.facebook.com/nguoikesu/"
+        },
+        {
+            "text": "DanhMucBDS.com",
+            "href": "https://danhmucbds.com"
+        },
+        {
+            "text": "HocTotNguVan.com",
+            "href": "https://hoctotnguvan.com"
+        }
+    ],
+    "title": "Giải bài tập lịch sử lớp 9 - Người Kể Sử",
+    "paragraphs": [
+        "- Mục đích: giúp đỡ, thúc đẩy sự phát triển kinh tế của các nước thành viên, hỗ trợ nhau trong nghiên cứu khoa học.",
+        "- Thành tựu:",
+        "+ Tốc độ tăng trưởng công nghiệp 10% /năm.",
+        "+ Thu nhập quốc dân (1950 \u2013 1973) tăng 5,7 lần.",
+        "+ Liên Xô cho các nước trong khối vay 13 tỉ rúp, viện trợ không hoàn lại 20 tỉ rúp.",
+        "Chi tiết \u2026",
+        "- Liên Xô và Đông Âu đều có chung một mục tiêu là xây dựng chủ nghĩa xã hội.",
+        "- Cùng chung hệ tư tưởng của chủ nghĩa Mác Lê-nin.",
+        "- Đều do Đảng Cộng sản lãnh đạo.",
+        "Chi tiết \u2026",
+        "- Tới đầu những năm 70 của thế kỉ XX, các nước Đông Âu đã trở thành những nước công - nông nghiệp. Bộ mặt kinh tế - xã hội của đất nước đã thay đổi căn bản và sâu sắc.",
+        "- Trước chiến tranh, An-ba-ni là nước nghèo nhất châu Âu. Tới năm 1970, nền công nghiệp đã được xây dựng, cả nước đã được điện khí hoá.",
+        "- Năm 1975, tổng sản phẩm công nghiệp của Bun-ga-ri tăng 55 lần so với năm 1939.",
+        "- Vốn là nước đã có những cơ sở công nghiệp, tới lúc này Tiệp Khắc được xếp vào hàng các nước công nghiệp phát triển, chiếm 1,7% sản lượng công nghiệp thế giới.",
+        "- Mặc dù có nhiều hạn chế về tài nguyên thiên nhiên, Cộng hoà Dân chủ Đức đã đạt được những thành tích đáng kể, sản xuất tăng gấp 5 lần, thu nhập quốc dân tăng 4 lần so với năm 1949.",
+        "Chi tiết \u2026",
+        "- Xóa bỏ sự bóc lột của giai cấp tư sản, đưa nông dân vào con đường làm ăn tập thể thông qua hình thức hợp tác xã.",
+        "- Tiến hành công nghiệp hoá nhằm xoá bỏ tình trạng nghèo nàn, lạc hậu từ lâu đời, xây dựng cơ sở vật chất - kĩ thuật của chủ nghĩa xã hội.",
+        "Chi tiết \u2026",
+        "- Xây dựng chính quyền dân chủ nhân dân.",
+        "- Cải cách ruộng đất, quốc hữu hóa các xí nghiệp lớn của tư bản.",
+        "- Ban hành các quyền tự do dân chủ.",
+        "Việc hoàn thành nhiệm vụ trên trong hoàn cảnh cuộc đấu tranh giai cấp quyết liệt, đã đập tan mọi mưu đồ của các thế lực đế quốc phản động.",
+        "Chi tiết \u2026",
+        "Trang 1 / 40"
+    ]
+}

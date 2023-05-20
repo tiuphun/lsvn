@@ -1,0 +1,429 @@
+{
+    "tables": [],
+    "keywords": [],
+    "headings": [
+        "Ủng hộ Website",
+        "Cách 1: Chuyển khoản qua Vietcombank",
+        "Cách 2: Chuyển khoản qua PayPal",
+        "Chính sách về Quyền riêng tư",
+        "Phạm vi",
+        "Chúng tôi thu thập thông tin gì từ bạn",
+        "Thông tin chung.",
+        "Tự động thu thập thông tin.",
+        "Cookie và các công nghệ web khác.",
+        "Chúng tôi sử dụng thông tin của bạn như thế nào",
+        "Mục đích chung",
+        "Giao tiếp bằng thư điện tử",
+        "Chúng tôi chia sẻ thông tin của bạn với ai",
+        "Những thay đổi đối với Chính sách về Quyền riêng tư này",
+        "Anh Hùng Dân Tộc Tiêu Biểu",
+        "Tư Liệu Lịch Sử",
+        "Di Tích Lịch Sử"
+    ],
+    "anchors": [
+        {
+            "text": "",
+            "href": "/"
+        },
+        {
+            "text": "Trang Chủ",
+            "href": "/"
+        },
+        {
+            "text": "Dòng Lịch Sử",
+            "href": "/dong-lich-su"
+        },
+        {
+            "text": "Hồng Bàng & Văn Lang",
+            "href": "/dong-lich-su/hong-bang-va-van-lang"
+        },
+        {
+            "text": "Âu Lạc & Nam Việt",
+            "href": "/dong-lich-su/au-lac-va-nam-viet"
+        },
+        {
+            "text": "Bắc thuộc lần I",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat"
+        },
+        {
+            "text": "Trưng Nữ Vương",
+            "href": "/dong-lich-su/trung-nu-vuong"
+        },
+        {
+            "text": "Bắc thuộc lần II",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-hai"
+        },
+        {
+            "text": "Nhà Lý & Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu"
+        },
+        {
+            "text": "Bắc thuộc lần III",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-ba"
+        },
+        {
+            "text": "Thời kỳ xây nền tự chủ",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu"
+        },
+        {
+            "text": "Nhà Ngô",
+            "href": "/dong-lich-su/nha-ngo"
+        },
+        {
+            "text": "Nhà Đinh",
+            "href": "/dong-lich-su/nha-dinh"
+        },
+        {
+            "text": "Nhà Tiền Lê",
+            "href": "/dong-lich-su/nha-tien-le"
+        },
+        {
+            "text": "Nhà Lý",
+            "href": "/dong-lich-su/nha-ly"
+        },
+        {
+            "text": "Nhà Trần",
+            "href": "/dong-lich-su/nha-tran"
+        },
+        {
+            "text": "Nhà Hồ",
+            "href": "/dong-lich-su/nha-ho"
+        },
+        {
+            "text": "Nhà Hậu Trần",
+            "href": "/dong-lich-su/nha-hau-tran"
+        },
+        {
+            "text": "Bắc thuộc lần IV",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-tu"
+        },
+        {
+            "text": "Nhà Hậu Lê",
+            "href": "/dong-lich-su/nha-hau-le"
+        },
+        {
+            "text": "Nam Bắc Triều",
+            "href": "/dong-lich-su/nam-bac-trieu"
+        },
+        {
+            "text": "Trịnh Nguyễn Phân Tranh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh"
+        },
+        {
+            "text": "Nhà Tây Sơn",
+            "href": "/dong-lich-su/nha-tay-son"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/nha-nguyen"
+        },
+        {
+            "text": "Pháp Thuộc",
+            "href": "/dong-lich-su/phap-thuoc"
+        },
+        {
+            "text": "Việt Nam Dân Chủ Cộng Hoà",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Cộng hoà xã hội chủ nghĩa Việt Nam",
+            "href": "/dong-lich-su/viet-nam-xhcn"
+        },
+        {
+            "text": "Tư Liệu",
+            "href": "/tu-lieu"
+        },
+        {
+            "text": "Quân Sự",
+            "href": "/tu-lieu/quan-su?filter_tag[0]="
+        },
+        {
+            "text": "Tác Phẩm",
+            "href": "/tu-lieu/tac-pham?filter_tag[0]="
+        },
+        {
+            "text": "Bang Giao",
+            "href": "/tu-lieu/bang-giao"
+        },
+        {
+            "text": "Biểu đồ thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Nhân Vật",
+            "href": "/nhan-vat"
+        },
+        {
+            "text": "Anh Hùng Dân Tộc",
+            "href": "/anh-hung-dan-toc?types[0]=1"
+        },
+        {
+            "text": "Danh nhân văn hóa",
+            "href": "/danh-nhan-van-hoa?types[0]=1"
+        },
+        {
+            "text": "Di Tích",
+            "href": "/di-tich-lich-su?types[0]=1"
+        },
+        {
+            "text": "Ngày Nay",
+            "href": "/thoi-su"
+        },
+        {
+            "text": "Sách",
+            "href": "/sach"
+        },
+        {
+            "text": "Video",
+            "href": "/video"
+        },
+        {
+            "text": "Q&A",
+            "href": "/hoi-dap"
+        },
+        {
+            "text": "Lịch sử lớp 12",
+            "href": "/hoi-dap/lop-12"
+        },
+        {
+            "text": "Lịch sử lớp 11",
+            "href": "/hoi-dap/lop-11"
+        },
+        {
+            "text": "Lịch sử lớp 10",
+            "href": "/hoi-dap/lop-10"
+        },
+        {
+            "text": "Lịch sử lớp 9",
+            "href": "/hoi-dap/lop-9"
+        },
+        {
+            "text": "Lịch sử lớp 8",
+            "href": "/hoi-dap/lop-8"
+        },
+        {
+            "text": "Lịch sử lớp 7",
+            "href": "/hoi-dap/lop-7"
+        },
+        {
+            "text": "Lịch sử lớp 6",
+            "href": "/hoi-dap/lop-6"
+        },
+        {
+            "text": "Trang chủ",
+            "href": "/"
+        },
+        {
+            "text": "Ủng hộ",
+            "href": "/ung-ho"
+        },
+        {
+            "text": "Ủng hộ Website",
+            "href": "/ung-ho"
+        },
+        {
+            "text": "Về Chúng Tôi",
+            "href": "/ung-ho?view=category&id=59"
+        },
+        {
+            "text": "Ủng hộ $5 USD",
+            "href": "https://www.paypal.me/joomlageek/5"
+        },
+        {
+            "text": "Ủng hộ $10 USD",
+            "href": "https://www.paypal.me/joomlageek/10"
+        },
+        {
+            "text": "Ủng hộ $15 USD",
+            "href": "https://www.paypal.me/joomlageek/15"
+        },
+        {
+            "text": "Chính sách về Quyền riêng tư",
+            "href": "/quyen-rieng-tu"
+        },
+        {
+            "text": "Về Chúng Tôi",
+            "href": "/ung-ho?view=category&id=59"
+        },
+        {
+            "text": "www.allaboutcookies.org",
+            "href": "http://www.allaboutcookies.org"
+        },
+        {
+            "text": "www.youronlinechoices.eu",
+            "href": "http://www.youronlinechoices.eu"
+        },
+        {
+            "text": "Nguyễn Huệ",
+            "href": "/nhan-vat/nguyen-hue"
+        },
+        {
+            "text": "Nguyễn Trãi",
+            "href": "/nhan-vat/nguyen-trai"
+        },
+        {
+            "text": "Hùng Vương",
+            "href": "/nhan-vat/hung-vuong"
+        },
+        {
+            "text": "Lý Nam Đế",
+            "href": "/nhan-vat/ly-nam-de"
+        },
+        {
+            "text": "Lê Đại Hành",
+            "href": "/nhan-vat/le-dai-hanh"
+        },
+        {
+            "text": "Lý Thái Tổ",
+            "href": "/nhan-vat/ly-thai-to"
+        },
+        {
+            "text": "Trần Nhân Tông",
+            "href": "/nhan-vat/tran-nhan-tong"
+        },
+        {
+            "text": "Lê Thái Tổ",
+            "href": "/nhan-vat/le-thai-to"
+        },
+        {
+            "text": "Ngô Quyền",
+            "href": "/nhan-vat/ngo-quyen"
+        },
+        {
+            "text": "Đinh Tiên Hoàng",
+            "href": "/nhan-vat/dinh-tien-hoang"
+        },
+        {
+            "text": "Vấn đề biên giới Việt-Trung thời Mạc",
+            "href": "/tu-lieu/bang-giao/van-de-bien-gioi-viet-trung-thoi-mac"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Tây Sơn",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-tay-son"
+        },
+        {
+            "text": "Biểu đồ các nhân vật lịch sử theo dòng thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Danh sách Trạng nguyên Việt Nam",
+            "href": "/tu-lieu/danh-sach-trang-nguyen-viet-nam"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Nguyễn",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-nguyen"
+        },
+        {
+            "text": "Trận Điện Biên Phủ trên không năm 1972",
+            "href": "/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972"
+        },
+        {
+            "text": "Trận Ngọc Hồi - Đống Đa năm 1789",
+            "href": "/tu-lieu/quan-su/tran-ngoc-hoi-dong-da-nam-1789"
+        },
+        {
+            "text": "Trận Cẩm Sa năm 1775",
+            "href": "/tu-lieu/quan-su/tran-cam-sa-nam-1775"
+        },
+        {
+            "text": "Trận Rạch Gầm \u2013 Xoài Mút năm 1785",
+            "href": "/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785"
+        },
+        {
+            "text": "Lãnh thổ Việt Nam qua từng thời kỳ",
+            "href": "/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky"
+        },
+        {
+            "text": "chùa Thầy",
+            "href": "/dia-danh/chua-thay"
+        },
+        {
+            "text": "Đền Hùng",
+            "href": "/dia-danh/den-hung"
+        },
+        {
+            "text": "Khu lưu niệm Chủ tịch Tôn Đức Thắng",
+            "href": "/dia-danh/khu-luu-niem-chu-tich-ton-duc-thang"
+        },
+        {
+            "text": "Hồ Hoàn Kiếm",
+            "href": "/dia-danh/ho-hoan-kiem"
+        },
+        {
+            "text": "Đền Trần (Nam Định)",
+            "href": "/dia-danh/den-tran-nam-dinh"
+        },
+        {
+            "text": "Đền Ngọc Sơn",
+            "href": "/dia-danh/den-ngoc-son"
+        },
+        {
+            "text": "Đền Trần (Thái Bình)",
+            "href": "/dia-danh/den-tran-thai-binh"
+        },
+        {
+            "text": "Dinh Độc Lập",
+            "href": "/dia-danh/dinh-doc-lap"
+        },
+        {
+            "text": "Văn Miếu - Quốc Tử Giám",
+            "href": "/dia-danh/van-mieu-quoc-tu-giam"
+        },
+        {
+            "text": "Khu di tích Pác Bó",
+            "href": "/dia-danh/khu-di-tich-pac-bo"
+        },
+        {
+            "text": "Giới thiệu",
+            "href": "/gioi-thieu"
+        },
+        {
+            "text": "Quyền riêng tư",
+            "href": "/quyen-rieng-tu"
+        },
+        {
+            "text": "Liên hệ",
+            "href": "/lien-he"
+        },
+        {
+            "text": "Địa Danh",
+            "href": "/dia-danh"
+        },
+        {
+            "text": "Trang Facebook",
+            "href": "https://www.facebook.com/nguoikesu/"
+        },
+        {
+            "text": "DanhMucBDS.com",
+            "href": "https://danhmucbds.com"
+        },
+        {
+            "text": "HocTotNguVan.com",
+            "href": "https://hoctotnguvan.com"
+        }
+    ],
+    "title": "Về Chúng Tôi - Người Kể Sử",
+    "paragraphs": [
+        "NguoiKeSu.com là một website cung cấp các thông tin, dữ liệu về Lịch Sử Việt Nam. Chúng mình xây dựng website với sự đam mê và hoàn toàn bằng nguồn lực cá nhân. Nếu bạn thấy website hữu ích, bạn có thể úng hộ nhóm theo các cách sau. Chúng mình sẽ sử dụng nguồn đóng góp để tiếp tục cải thiện website tốt hơn, cung cấp nhiều thông tin bổ ích hơn, và hỗ trợ cho các quản trị viên với mục tiêu phục vụ các bạn tốt hơn.",
+        "",
+        "Người Kể Sử (\u201dNgười Kể Sử\", \"chúng tôi\", \"của chúng tôi\u201d) là một website cung cấp các bài viết, dữ liệu, video, hình ảnh về Lịch sử Việt Nam.",
+        "Bằng việc truy cập Website của chúng tôi, bạn xác nhận rằng bạn đã đọc và hiểu Chính sách về Quyền riêng tư này, nguyên tắc thu thập và xử lý thông tin được trình bày trong đó.",
+        "Chính sách về Quyền riêng tư được cập nhật lần cuối vào ngày 09 tháng 11 năm 2016. Chúng tôi có thể thay đổi Chính sách này tại các thời điểm khác nhau, do đó vui lòng kiểm tra thường xuyên để nắm rõ mọi cập nhật.",
+        "",
+        "Chính sách về Quyền riêng tư này mô tả chi tiết chính sách và các nguyên tắc của chúng tôi liên quan đến việc thu thập, sử dụng và tiết lộ thông tin về bạn.",
+        "Chúng tôi hiểu rằng việc cung cấp thông tin trực tuyến cần rất nhiều sự tin tưởng từ phía bạn. Chúng tôi rất coi trọng niềm tin này và dành ưu tiên cao cho việc đảm bảo an toàn và tính bảo mật cho thông tin cá nhân mà bạn cung cấp cho chúng tôi khi bạn truy cập Trang thông tin điện tử hoặc sử dụng các dịch vụ của chúng tôi.",
+        "",
+        "Chúng tôi nhận và lưu trữ mọi thông tin mà bạn nhập vào Trang thông tin điện tử của chúng tôi hoặc cung cấp cho chúng tôi theo hình thức khác. Thông tin này bao gồm những thông tin có thể dùng để nhận dạng bạn với tư cách là một cá nhân hoặc để liên hệ trực tiếp với bạn (\u201dthông tin cá nhân\u201d).",
+        "Thông tin cá nhân bao gồm thông tin mà bạn cung cấp cho chúng tôi như họ và tên, số điện thoại, địa chỉ gửi thư và địa chỉ thư điện tử, tên người dùng và mật khẩu. Chúng tôi cũng có thể thu thập những thông tin khác như địa chỉ IP của bạn, thông tin xác định thiết bị của bạn và lịch sử duyệt trang thông tin điện tử trong phạm vi thông tin đó đề cập đến bạn.",
+        "Chúng tôi tự động thu thập một số thông tin từ máy tính hoặc Thiết bị của bạn khi bạn truy cập Người Kể Sử. Ví dụ: chúng tôi sẽ thu thập dữ liệu phiên truy cập, bao gồm địa chỉ IP của bạn, phần mềm trình duyệt web và trang thông tin điện tử chuyển đến. Chúng tôi cũng có thể thu thập thông tin về hoạt động trực tuyến của bạn, như nội dung đã xem, các trang đã truy cập và các tìm kiếm và/hoặc đặt chỗ đã được hỗ trợ hay thực hiện. Một trong những mục tiêu của việc thu thập thông tin tự động này là để giúp chúng tôi hiểu được sở thích và tùy chọn của người dùng và tùy chỉnh trải nghiệm người dùng của bạn.",
+        "Chúng tôi thu thập thông tin thông qua cookie và các công nghệ tương tự khác (chẳng hạn như tín hiệu web). Cookie là các tệp văn bản nhỏ được tự động lưu giữ vào trong máy tính hoặc thiết bị di động của bạn khi bạn truy cập hầu hết các trang web. Chúng được trình duyệt Internet của bạn lưu trữ. Cookie có chứa thông tin cơ bản về việc sử dụng Internet của bạn. Trình duyệt của bạn sẽ gửi các cookie này trở lại trang thông tin điện tử mỗi lần bạn truy cập lại, nhờ đó trang thông tin điện tử có thể nhận ra máy tính hoặc thiết bị di động của bạn và cá nhân hóa cũng như cải thiện trải nghiệm trang thông tin điện tử của bạn.",
+        "Quý vị có thể tìm hiểu thêm thông tin chi tiết về các loại cookie và các công nghệ tương tự (chẳng hạn như tín hiệu web) mà chúng tôi sử dụng trong Chính sách về Cookie và Công cụ Chấp thuận Cookie của chúng tôi.",
+        "Quý vị cũng có thể tìm hiểu thêm về cookie nói chung, bao gồm cách tìm hiểu loại cookie đã được cài đặt trên thiết bị của bạn cũng như cách quản lý và xóa cookie tại các trang thông tin điện tử như www.allaboutcookies.org và www.youronlinechoices.eu",
+        "",
+        "Người Kể Sử sử dụng thông tin chúng tôi thu thập về bạn cho các mục đích chung sau:",
+        "Chúng tôi muốn giúp bạn dễ dàng nhận được các thông báo mới nhất trên Websitecủa chúng tôi. Để thực hiện điều này, chúng tôi sẽ gửi cho bạn các thư điện tử có chứa thông tin về các hoạt động, sự kiện, tính năng mới của Website. Xin lưu ý rằng bạn sẽ có cơ hội lựa chọn không nhận các thư điện tử này trong bất kỳ thư điện tử nào mà chúng tôi gửi.",
+        "",
+        "",
+        "Người Kể Sử có thể thay đổi hoặc sửa đổi Chính sách Quyền riêng tư này trong tương lai. Chúng tôi sẽ ghi chú ngày thực hiện sửa đổi gần nhất đối với Chính sách về Quyền riêng tư này ở cuối trang này và mọi bản sửa đổi sẽ có hiệu lực ngay khi đăng tải. Chúng tôi sẽ thông báo cho các thành viên của mình về những thay đổi quan trọng đối với Chính sách về Quyền riêng tư này bằng cách gửi thông báo đến địa chỉ thư điện tử mà bạn cung cấp cho chúng tôi hoặc bằng cách đăng thông báo trên Trang thông tin điện tử của chúng tôi. Chúng tôi khuyến khích bạn kiểm tra Chính sách về Quyền riêng tư này thường xuyên để xem phiên bản mới nhất."
+    ]
+}

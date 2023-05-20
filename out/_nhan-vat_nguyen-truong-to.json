@@ -1,0 +1,959 @@
+{
+    "tables": ["<table class=\"infobox vcard\">\n <tbody>\n  <tr>\n   <th colspan=\"2\" class=\"fn\">Nguyễn Trường Tộ<\/th>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\"><img class=\"jch-lazyload\" alt=\"\" src=\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNDgiIGhlaWdodD0iMTg5Ij48L3N2Zz4=\" data-src=\"/images/wiki/nguyen-truong-to/5a03b181796eb1335141fb7e1433ea72.jpg\" width=\"148\" height=\"189\" data-file-width=\"148\" data-file-height=\"189\">\n    <noscript>\n     <img alt=\"\" src=\"/images/wiki/nguyen-truong-to/5a03b181796eb1335141fb7e1433ea72.jpg\" width=\"148\" height=\"189\" data-file-width=\"148\" data-file-height=\"189\">\n    <\/noscript><\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Sinh<\/th>\n   <td>1830&nbsp;?<br>\n     Nghệ An, Việt Nam<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Mất<\/th>\n   <td>1871<br>\n     Nghệ An, Việt Nam<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Công việc<\/th>\n   <td class=\"role\">Nhà văn, kiến trúc sư, nhà cải cách xã hội<\/td>\n  <\/tr>\n <\/tbody>\n<\/table>"],
+    "keywords": [],
+    "headings": [
+        "Nhân Vật Lịch Sử",
+        "Nguyễn Trường Tộ",
+        "Thân thế và sự nghiệp",
+        "Những năm học tập",
+        "Làm phiên dịch cho quân Pháp",
+        "Hết lòng vì đất nước",
+        "Qua đời",
+        "Vợ, con",
+        "Tác phẩm",
+        "Tóm tắt nội dung các bản điều trần",
+        "Nhận xét (sơ lược)",
+        "Văn Nguyễn Trường Tộ",
+        "Sách tham khảo",
+        "Chú thích",
+        "Bài viết cùng thư mục",
+        "CÁC THỜI KỲ LỊCH SỬ",
+        "Tư Liệu",
+        "Anh Hùng Dân Tộc Tiêu Biểu",
+        "Anh Hùng Dân Tộc Tiêu Biểu",
+        "Tư Liệu Lịch Sử",
+        "Di Tích Lịch Sử"
+    ],
+    "anchors": [
+        {
+            "text": "",
+            "href": "/"
+        },
+        {
+            "text": "Trang Chủ",
+            "href": "/"
+        },
+        {
+            "text": "Dòng Lịch Sử",
+            "href": "/dong-lich-su"
+        },
+        {
+            "text": "Hồng Bàng & Văn Lang",
+            "href": "/dong-lich-su/hong-bang-va-van-lang"
+        },
+        {
+            "text": "Âu Lạc & Nam Việt",
+            "href": "/dong-lich-su/au-lac-va-nam-viet"
+        },
+        {
+            "text": "Bắc thuộc lần I",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat"
+        },
+        {
+            "text": "Trưng Nữ Vương",
+            "href": "/dong-lich-su/trung-nu-vuong"
+        },
+        {
+            "text": "Bắc thuộc lần II",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-hai"
+        },
+        {
+            "text": "Nhà Lý & Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu"
+        },
+        {
+            "text": "Bắc thuộc lần III",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-ba"
+        },
+        {
+            "text": "Thời kỳ xây nền tự chủ",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu"
+        },
+        {
+            "text": "Nhà Ngô",
+            "href": "/dong-lich-su/nha-ngo"
+        },
+        {
+            "text": "Nhà Đinh",
+            "href": "/dong-lich-su/nha-dinh"
+        },
+        {
+            "text": "Nhà Tiền Lê",
+            "href": "/dong-lich-su/nha-tien-le"
+        },
+        {
+            "text": "Nhà Lý",
+            "href": "/dong-lich-su/nha-ly"
+        },
+        {
+            "text": "Nhà Trần",
+            "href": "/dong-lich-su/nha-tran"
+        },
+        {
+            "text": "Nhà Hồ",
+            "href": "/dong-lich-su/nha-ho"
+        },
+        {
+            "text": "Nhà Hậu Trần",
+            "href": "/dong-lich-su/nha-hau-tran"
+        },
+        {
+            "text": "Bắc thuộc lần IV",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-tu"
+        },
+        {
+            "text": "Nhà Hậu Lê",
+            "href": "/dong-lich-su/nha-hau-le"
+        },
+        {
+            "text": "Nam Bắc Triều",
+            "href": "/dong-lich-su/nam-bac-trieu"
+        },
+        {
+            "text": "Trịnh Nguyễn Phân Tranh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh"
+        },
+        {
+            "text": "Nhà Tây Sơn",
+            "href": "/dong-lich-su/nha-tay-son"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/nha-nguyen"
+        },
+        {
+            "text": "Pháp Thuộc",
+            "href": "/dong-lich-su/phap-thuoc"
+        },
+        {
+            "text": "Việt Nam Dân Chủ Cộng Hoà",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Cộng hoà xã hội chủ nghĩa Việt Nam",
+            "href": "/dong-lich-su/viet-nam-xhcn"
+        },
+        {
+            "text": "Tư Liệu",
+            "href": "/tu-lieu"
+        },
+        {
+            "text": "Quân Sự",
+            "href": "/tu-lieu/quan-su?filter_tag[0]="
+        },
+        {
+            "text": "Tác Phẩm",
+            "href": "/tu-lieu/tac-pham?filter_tag[0]="
+        },
+        {
+            "text": "Bang Giao",
+            "href": "/tu-lieu/bang-giao"
+        },
+        {
+            "text": "Biểu đồ thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Nhân Vật",
+            "href": "/nhan-vat"
+        },
+        {
+            "text": "Anh Hùng Dân Tộc",
+            "href": "/anh-hung-dan-toc?types[0]=1"
+        },
+        {
+            "text": "Danh nhân văn hóa",
+            "href": "/danh-nhan-van-hoa?types[0]=1"
+        },
+        {
+            "text": "Di Tích",
+            "href": "/di-tich-lich-su?types[0]=1"
+        },
+        {
+            "text": "Ngày Nay",
+            "href": "/thoi-su"
+        },
+        {
+            "text": "Sách",
+            "href": "/sach"
+        },
+        {
+            "text": "Video",
+            "href": "/video"
+        },
+        {
+            "text": "Q&A",
+            "href": "/hoi-dap"
+        },
+        {
+            "text": "Lịch sử lớp 12",
+            "href": "/hoi-dap/lop-12"
+        },
+        {
+            "text": "Lịch sử lớp 11",
+            "href": "/hoi-dap/lop-11"
+        },
+        {
+            "text": "Lịch sử lớp 10",
+            "href": "/hoi-dap/lop-10"
+        },
+        {
+            "text": "Lịch sử lớp 9",
+            "href": "/hoi-dap/lop-9"
+        },
+        {
+            "text": "Lịch sử lớp 8",
+            "href": "/hoi-dap/lop-8"
+        },
+        {
+            "text": "Lịch sử lớp 7",
+            "href": "/hoi-dap/lop-7"
+        },
+        {
+            "text": "Lịch sử lớp 6",
+            "href": "/hoi-dap/lop-6"
+        },
+        {
+            "text": "Trang chủ",
+            "href": "/"
+        },
+        {
+            "text": "Nhân Vật",
+            "href": "/nhan-vat"
+        },
+        {
+            "text": "Nhân Vật Lịch Sử",
+            "href": "/nhan-vat"
+        },
+        {
+            "text": "Thu / Mở",
+            "href": "#"
+        },
+        {
+            "text": "Thân thế và sự nghiệp",
+            "href": "#than-the-va-su-nghiep"
+        },
+        {
+            "text": "Những năm học tập",
+            "href": "#nhung-nam-hoc-tap"
+        },
+        {
+            "text": "Làm phiên dịch cho quân Pháp",
+            "href": "#lam-phien-dich-cho-quan-phap"
+        },
+        {
+            "text": "Hết lòng vì đất nước",
+            "href": "#het-long-vi-dat-nuoc"
+        },
+        {
+            "text": "Qua đời",
+            "href": "#qua-doi"
+        },
+        {
+            "text": "Vợ, con",
+            "href": "#vo-con"
+        },
+        {
+            "text": "Tác phẩm",
+            "href": "#tac-pham"
+        },
+        {
+            "text": "Tóm tắt nội dung các bản điều trần",
+            "href": "#tom-tat-noi-dung-cac-ban-dieu-tran"
+        },
+        {
+            "text": "Nhận xét (sơ lược)",
+            "href": "#nhan-xet-so-luoc"
+        },
+        {
+            "text": "Văn Nguyễn Trường Tộ",
+            "href": "#van-nguyen-truong-to"
+        },
+        {
+            "text": "Sách tham khảo",
+            "href": "#sach-tham-khao"
+        },
+        {
+            "text": "Chú thích",
+            "href": "#chu-thich"
+        },
+        {
+            "text": "tỉnh Nghệ An",
+            "href": "/dia-danh/tinh-nghe-an"
+        },
+        {
+            "text": "huyện Nghi Lộc",
+            "href": "/dia-danh/huyen-nghi-loc"
+        },
+        {
+            "text": "tỉnh Nghệ An",
+            "href": "/dia-danh/tinh-nghe-an"
+        },
+        {
+            "text": "Hương Cảng",
+            "href": "/dia-danh/huong-cang"
+        },
+        {
+            "text": "thành Gia Định",
+            "href": "/dia-danh/thanh-gia-dinh"
+        },
+        {
+            "text": "châu Phi",
+            "href": "/dia-danh/chau-phi"
+        },
+        {
+            "text": "Phan Thanh Giản",
+            "href": "/nhan-vat/phan-thanh-gian"
+        },
+        {
+            "text": "Tôn Đức Thắng",
+            "href": "/nhan-vat/ton-duc-thang"
+        },
+        {
+            "text": "châu Âu",
+            "href": "/dia-danh/chau-au"
+        },
+        {
+            "text": "Phạm Phú Thứ",
+            "href": "/nhan-vat/pham-phu-thu"
+        },
+        {
+            "text": "Hương Cảng",
+            "href": "/dia-danh/huong-cang"
+        },
+        {
+            "text": "Hoàng Tá Viêm",
+            "href": "/nhan-vat/hoang-ta-viem"
+        },
+        {
+            "text": "Hoàng Tá Viêm",
+            "href": "/nhan-vat/hoang-ta-viem"
+        },
+        {
+            "text": "tỉnh Nghệ An",
+            "href": "/dia-danh/tinh-nghe-an"
+        },
+        {
+            "text": "Nguyễn Bá Nghi",
+            "href": "/nhan-vat/nguyen-ba-nghi"
+        },
+        {
+            "text": "Nguyễn Huệ Chi",
+            "href": "/nhan-vat/nguyen-hue-chi"
+        },
+        {
+            "text": "Hồ Chí Minh",
+            "href": "/nhan-vat/ho-chi-minh"
+        },
+        {
+            "text": "Nguyễn Huệ Chi",
+            "href": "/nhan-vat/nguyen-hue-chi"
+        },
+        {
+            "text": "Lê Thước",
+            "href": "/nhan-vat/le-thuoc"
+        },
+        {
+            "text": "Nguyễn Huệ Chi",
+            "href": "/nhan-vat/nguyen-hue-chi"
+        },
+        {
+            "text": "Hương Cảng",
+            "href": "/dia-danh/huong-cang"
+        },
+        {
+            "text": "Hồ Chí Minh",
+            "href": "/nhan-vat/ho-chi-minh"
+        },
+        {
+            "text": "Phan Thanh Giản",
+            "href": "/nhan-vat/phan-thanh-gian"
+        },
+        {
+            "text": "Nguyễn Huệ Chi",
+            "href": "/nhan-vat/nguyen-hue-chi"
+        },
+        {
+            "text": "châu Âu",
+            "href": "/dia-danh/chau-au"
+        },
+        {
+            "text": "Sông Cấm",
+            "href": "/dia-danh/song-cam"
+        },
+        {
+            "text": "Nguyễn Tri Phương",
+            "href": "/nhan-vat/nguyen-tri-phuong"
+        },
+        {
+            "text": "Võ Trọng Bình",
+            "href": "/nhan-vat/vo-trong-binh"
+        },
+        {
+            "text": "Nguyễn Huệ Chi",
+            "href": "/nhan-vat/nguyen-hue-chi"
+        },
+        {
+            "text": "Trần Thắng",
+            "href": "/nhan-vat/tran-thang"
+        },
+        {
+            "text": "Bài viết trước: Nguyễn Trường Giang Trước",
+            "href": "/nhan-vat/nguyen-truong-giang"
+        },
+        {
+            "text": "Bài viết kế tiếp: Nguyễn Tự Tiếp tục",
+            "href": "/nhan-vat/nguyen-tu"
+        },
+        {
+            "text": "Kinh Dương Vương",
+            "href": "/nhan-vat/kinh-duong-vuong"
+        },
+        {
+            "text": "Lạc Long Quân",
+            "href": "/nhan-vat/lac-long-quan"
+        },
+        {
+            "text": "nhà Chu",
+            "href": "/nhan-vat/nha-chu"
+        },
+        {
+            "text": "Ngô Sĩ Liên",
+            "href": "/nhan-vat/ngo-si-lien"
+        },
+        {
+            "text": "Lý Thái Tổ",
+            "href": "/nhan-vat/ly-thai-to"
+        },
+        {
+            "text": "nhà Thương",
+            "href": "/nhan-vat/nha-thuong"
+        },
+        {
+            "text": "nhà Đường",
+            "href": "/nhan-vat/nha-duong"
+        },
+        {
+            "text": "Triệu Việt Vương",
+            "href": "/nhan-vat/trieu-viet-vuong"
+        },
+        {
+            "text": "nhà Tần",
+            "href": "/nhan-vat/nha-tan"
+        },
+        {
+            "text": "Triệu Đà",
+            "href": "/nhan-vat/trieu-da"
+        },
+        {
+            "text": "Hồng Bàng & Văn Lang",
+            "href": "/dong-lich-su/hong-bang-va-van-lang"
+        },
+        {
+            "text": "Âu Lạc & Nam Việt",
+            "href": "/dong-lich-su/au-lac-va-nam-viet"
+        },
+        {
+            "text": "Bắc thuộc lần I",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat"
+        },
+        {
+            "text": "Nhà Triệu",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat/nha-trieu"
+        },
+        {
+            "text": "Trưng Nữ Vương",
+            "href": "/dong-lich-su/trung-nu-vuong"
+        },
+        {
+            "text": "Bắc thuộc lần II",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-hai"
+        },
+        {
+            "text": "Nhà Lý & Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu"
+        },
+        {
+            "text": "Nhà Tiền Lý",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-tien-ly"
+        },
+        {
+            "text": "Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-trieu"
+        },
+        {
+            "text": "Nhà Hậu Lý",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-hau-ly"
+        },
+        {
+            "text": "Bắc thuộc lần III",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-ba"
+        },
+        {
+            "text": "Thời kỳ xây nền tự chủ",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu"
+        },
+        {
+            "text": "Họ Khúc",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu/ho-khuc"
+        },
+        {
+            "text": "Nhà Ngô",
+            "href": "/dong-lich-su/nha-ngo"
+        },
+        {
+            "text": "Nhà Đinh",
+            "href": "/dong-lich-su/nha-dinh"
+        },
+        {
+            "text": "Nhà Tiền Lê",
+            "href": "/dong-lich-su/nha-tien-le"
+        },
+        {
+            "text": "Nhà Lý",
+            "href": "/dong-lich-su/nha-ly"
+        },
+        {
+            "text": "Nhà Trần",
+            "href": "/dong-lich-su/nha-tran"
+        },
+        {
+            "text": "Nhà Hồ",
+            "href": "/dong-lich-su/nha-ho"
+        },
+        {
+            "text": "Nhà Hậu Trần",
+            "href": "/dong-lich-su/nha-hau-tran"
+        },
+        {
+            "text": "Bắc thuộc lần IV",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-tu"
+        },
+        {
+            "text": "Nhà Hậu Lê",
+            "href": "/dong-lich-su/nha-hau-le"
+        },
+        {
+            "text": "Nam Bắc Triều",
+            "href": "/dong-lich-su/nam-bac-trieu"
+        },
+        {
+            "text": "Nhà Lê Trung Hưng",
+            "href": "/dong-lich-su/nam-bac-trieu/nha-le-trung-hung"
+        },
+        {
+            "text": "Nhà Mạc",
+            "href": "/dong-lich-su/nam-bac-trieu/nha-mac"
+        },
+        {
+            "text": "Trịnh Nguyễn Phân Tranh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh"
+        },
+        {
+            "text": "Nhà Lê Trung Hưng",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/nha-le-trung-hung"
+        },
+        {
+            "text": "Chúa Trịnh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-trinh"
+        },
+        {
+            "text": "Chúa Nguyễn",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen"
+        },
+        {
+            "text": "Nhà Tây Sơn",
+            "href": "/dong-lich-su/nha-tay-son"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/nha-nguyen"
+        },
+        {
+            "text": "Pháp Thuộc",
+            "href": "/dong-lich-su/phap-thuoc"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/phap-thuoc/nha-nguyen"
+        },
+        {
+            "text": "Những cuộc khởi nghĩa chống thực dân Pháp",
+            "href": "/dong-lich-su/phap-thuoc/khoi-nghia-chong-phap"
+        },
+        {
+            "text": "Đảng Cộng Sản Việt Nam",
+            "href": "/dong-lich-su/phap-thuoc/dang-cong-san-viet-nam"
+        },
+        {
+            "text": "Việt Nam Dân Chủ Cộng Hoà",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Kháng chiến chống Pháp",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-phap"
+        },
+        {
+            "text": "Kháng chiến chống Mĩ",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-mi"
+        },
+        {
+            "text": "Cộng hoà xã hội chủ nghĩa Việt Nam",
+            "href": "/dong-lich-su/viet-nam-xhcn"
+        },
+        {
+            "text": "Trận Điện Biên Phủ trên không năm 1972",
+            "href": "/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972"
+        },
+        {
+            "text": "Chiến tranh biên giới Tây Nam năm 1975 - 1978",
+            "href": "/tu-lieu/quan-su/chien-tranh-bien-gioi-tay-nam-nam-1975-1978"
+        },
+        {
+            "text": "Chiến dịch Mùa Xuân năm 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-mua-xuan-nam-1975"
+        },
+        {
+            "text": "Hải chiến Trường Sa năm 1988",
+            "href": "/tu-lieu/quan-su/hai-chien-truong-sa-nam-1988"
+        },
+        {
+            "text": "Chiến dịch Đường 14 - Phước Long năm 1974 - 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-duong-14-phuoc-long-nam-1974-1975"
+        },
+        {
+            "text": "Chiến dịch Tây Nguyên năm 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-tay-nguyen-nam-1975"
+        },
+        {
+            "text": "Trận Mậu Thân tại Huế năm 1968",
+            "href": "/tu-lieu/quan-su/tran-mau-than-tai-hue-nam-1968"
+        },
+        {
+            "text": "Bảng đối chiếu các triều đại Việt Nam và các triều đại Trung Quốc",
+            "href": "/tu-lieu/bang-doi-chieu-cac-trieu-dai-viet-nam-va-cac-trieu-dai-trung-quoc"
+        },
+        {
+            "text": "Bình Ngô đại cáo - bản tuyên ngôn độc lập thứ hai",
+            "href": "/tu-lieu/tac-pham/binh-ngo-dai-cao-ban-tuyen-ngon-doc-lap-thu-hai"
+        },
+        {
+            "text": "Lãnh thổ Việt Nam qua từng thời kỳ",
+            "href": "/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky"
+        },
+        {
+            "text": "Trận Đồi Thịt Băm năm 1969",
+            "href": "/tu-lieu/quan-su/tran-doi-thit-bam-nam-1969"
+        },
+        {
+            "text": "Chiến dịch Đắk Tô năm 1972",
+            "href": "/tu-lieu/quan-su/chien-dich-dak-to-nam-1972"
+        },
+        {
+            "text": "Nam quốc sơn hà - Bản tuyên ngôn độc lập đầu tiên",
+            "href": "/tu-lieu/tac-pham/nam-quoc-son-ha-ban-tuyen-ngon-doc-lap-dau-tien"
+        },
+        {
+            "text": "Tuyên ngôn độc lập Việt Nam Dân chủ Cộng hòa",
+            "href": "/tu-lieu/tac-pham/tuyen-ngon-doc-lap-viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Trận Bản Đông năm 1971",
+            "href": "/tu-lieu/quan-su/tran-ban-dong-nam-1971"
+        },
+        {
+            "text": "Trận Rạch Gầm \u2013 Xoài Mút năm 1785",
+            "href": "/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785"
+        },
+        {
+            "text": "Lịch sử Chữ viết tiếng Việt",
+            "href": "/tu-lieu/lich-su-chu-viet-tieng-viet"
+        },
+        {
+            "text": "Hịch tướng sĩ - Dụ chư tỳ tướng hịch văn",
+            "href": "/tu-lieu/tac-pham/hich-tuong-si-du-chu-ty-tuong-hich-van"
+        },
+        {
+            "text": "Danh sách Trạng nguyên Việt Nam",
+            "href": "/tu-lieu/danh-sach-trang-nguyen-viet-nam"
+        },
+        {
+            "text": "Hội nghị Paris, mặt trận ngoại giao năm 1968-1972",
+            "href": "/tu-lieu/bang-giao/hoi-nghi-paris-mat-tran-ngoai-giao-nam-1968-1972"
+        },
+        {
+            "text": "Lý Thường Kiệt",
+            "href": "/nhan-vat/ly-thuong-kiet"
+        },
+        {
+            "text": "Trần Hưng Đạo",
+            "href": "/nhan-vat/tran-hung-dao"
+        },
+        {
+            "text": "Lê Đại Hành",
+            "href": "/nhan-vat/le-dai-hanh"
+        },
+        {
+            "text": "Lê Thái Tổ",
+            "href": "/nhan-vat/le-thai-to"
+        },
+        {
+            "text": "Lý Nam Đế",
+            "href": "/nhan-vat/ly-nam-de"
+        },
+        {
+            "text": "Ngô Quyền",
+            "href": "/nhan-vat/ngo-quyen"
+        },
+        {
+            "text": "Hai Bà Trưng",
+            "href": "/nhan-vat/hai-ba-trung"
+        },
+        {
+            "text": "Trần Nhân Tông",
+            "href": "/nhan-vat/tran-nhan-tong"
+        },
+        {
+            "text": "Nguyễn Trãi",
+            "href": "/nhan-vat/nguyen-trai"
+        },
+        {
+            "text": "Lý Thái Tổ",
+            "href": "/nhan-vat/ly-thai-to"
+        },
+        {
+            "text": "Đinh Tiên Hoàng",
+            "href": "/nhan-vat/dinh-tien-hoang"
+        },
+        {
+            "text": "Hùng Vương",
+            "href": "/nhan-vat/hung-vuong"
+        },
+        {
+            "text": "Hồ Chí Minh",
+            "href": "/nhan-vat/ho-chi-minh"
+        },
+        {
+            "text": "Nguyễn Huệ",
+            "href": "/nhan-vat/nguyen-hue"
+        },
+        {
+            "text": "Hồ Chí Minh",
+            "href": "/nhan-vat/ho-chi-minh"
+        },
+        {
+            "text": "Hùng Vương",
+            "href": "/nhan-vat/hung-vuong"
+        },
+        {
+            "text": "Trần Hưng Đạo",
+            "href": "/nhan-vat/tran-hung-dao"
+        },
+        {
+            "text": "Lê Đại Hành",
+            "href": "/nhan-vat/le-dai-hanh"
+        },
+        {
+            "text": "Lý Nam Đế",
+            "href": "/nhan-vat/ly-nam-de"
+        },
+        {
+            "text": "Nguyễn Trãi",
+            "href": "/nhan-vat/nguyen-trai"
+        },
+        {
+            "text": "Đinh Tiên Hoàng",
+            "href": "/nhan-vat/dinh-tien-hoang"
+        },
+        {
+            "text": "Hai Bà Trưng",
+            "href": "/nhan-vat/hai-ba-trung"
+        },
+        {
+            "text": "Lý Thường Kiệt",
+            "href": "/nhan-vat/ly-thuong-kiet"
+        },
+        {
+            "text": "Ngô Quyền",
+            "href": "/nhan-vat/ngo-quyen"
+        },
+        {
+            "text": "Vấn đề biên giới Việt-Trung thời Mạc",
+            "href": "/tu-lieu/bang-giao/van-de-bien-gioi-viet-trung-thoi-mac"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Tây Sơn",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-tay-son"
+        },
+        {
+            "text": "Biểu đồ các nhân vật lịch sử theo dòng thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Danh sách Trạng nguyên Việt Nam",
+            "href": "/tu-lieu/danh-sach-trang-nguyen-viet-nam"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Nguyễn",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-nguyen"
+        },
+        {
+            "text": "Trận Điện Biên Phủ trên không năm 1972",
+            "href": "/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972"
+        },
+        {
+            "text": "Trận Ngọc Hồi - Đống Đa năm 1789",
+            "href": "/tu-lieu/quan-su/tran-ngoc-hoi-dong-da-nam-1789"
+        },
+        {
+            "text": "Trận Cẩm Sa năm 1775",
+            "href": "/tu-lieu/quan-su/tran-cam-sa-nam-1775"
+        },
+        {
+            "text": "Trận Rạch Gầm \u2013 Xoài Mút năm 1785",
+            "href": "/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785"
+        },
+        {
+            "text": "Lãnh thổ Việt Nam qua từng thời kỳ",
+            "href": "/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky"
+        },
+        {
+            "text": "Văn Miếu - Quốc Tử Giám",
+            "href": "/dia-danh/van-mieu-quoc-tu-giam"
+        },
+        {
+            "text": "Khu lăng mộ và đền thờ các vị vua triều Lý",
+            "href": "/dia-danh/khu-lang-mo-va-den-tho-cac-vi-vua-trieu-ly"
+        },
+        {
+            "text": "thành Cổ Loa",
+            "href": "/dia-danh/thanh-co-loa"
+        },
+        {
+            "text": "Đền Ngọc Sơn",
+            "href": "/dia-danh/den-ngoc-son"
+        },
+        {
+            "text": "Thành nhà Hồ",
+            "href": "/dia-danh/thanh-nha-ho"
+        },
+        {
+            "text": "Thành cổ Quảng Trị",
+            "href": "/dia-danh/thanh-co-quang-tri"
+        },
+        {
+            "text": "Khu di tích Chủ tịch Hồ Chí Minh tại Phủ Chủ tịch",
+            "href": "/dia-danh/khu-di-tich-chu-tich-ho-chi-minh-tai-phu-chu-tich"
+        },
+        {
+            "text": "Dinh Độc Lập",
+            "href": "/dia-danh/dinh-doc-lap"
+        },
+        {
+            "text": "Quần thể di tích Cố đô Huế",
+            "href": "/dia-danh/quan-the-di-tich-co-do-hue"
+        },
+        {
+            "text": "Khu di tích Pác Bó",
+            "href": "/dia-danh/khu-di-tich-pac-bo"
+        },
+        {
+            "text": "Giới thiệu",
+            "href": "/gioi-thieu"
+        },
+        {
+            "text": "Quyền riêng tư",
+            "href": "/quyen-rieng-tu"
+        },
+        {
+            "text": "Liên hệ",
+            "href": "/lien-he"
+        },
+        {
+            "text": "Địa Danh",
+            "href": "/dia-danh"
+        },
+        {
+            "text": "Trang Facebook",
+            "href": "https://www.facebook.com/nguoikesu/"
+        },
+        {
+            "text": "DanhMucBDS.com",
+            "href": "https://danhmucbds.com"
+        },
+        {
+            "text": "HocTotNguVan.com",
+            "href": "https://hoctotnguvan.com"
+        }
+    ],
+    "title": "Nguyễn Trường Tộ - Người Kể Sử",
+    "paragraphs": [
+        "Nguyễn Trường Tộ (chữ Hán: 阮長祚, 1830 ? 1 \u2013 1871), còn được gọi là Thầy Lân 2 ; là một danh sĩ, kiến trúc sư 3 , và là nhà cải cách xã hội Việt Nam ở thế kỷ 19.",
+        "",
+        "",
+        "Ông sinh trong một gia đình theo Công giáo Rôma từ nhiều đời tại làng Bùi Chu4 , thuộc huyện Hưng Nguyên, tỉnh Nghệ An.",
+        "Cha là Nguyễn Quốc Thư, một thầy thuốc Đông y, nhưng mất sớm5 .",
+        "Thuở thiếu thời, Nguyễn Trường Tộ học chữ Hán với cha và các thầy ở trong vùng: Tú Giai ở Bùi Ngõa, Cống Hữu ở Kim Khê và quan huyện Địa Linh về hưu ở Tân Lộc.",
+        "Ông thông minh, học giỏi, nên được truyền tụng là \"Trạng Tộ\" 6 . Thế nhưng, ông không đỗ đạt gì, có thể vì ông là người Công giáo nên không được đi thi, hoặc là ông không muốn đi theo con đường khoa cử 7 .",
+        "Sau khi thôi học, ông mở trường dạy chữ Hán tại nhà, rồi được mời dạy chữ Hán trong Nhà chung Xã Đoài (nay thuộc xã Nghi Diên, huyện Nghi Lộc, tỉnh Nghệ An). Tại đây, ông được Giám mục người Pháp tên là Gauthier (tên Việt là Ngô Gia Hậu, về Xã Đoài nhận nhiệm vụ từ năm 1846) dạy cho học tiếng Pháp và giúp cho có một số hiểu biết về các môn khoa học thường thức của phương Tây8 .",
+        "Cuối năm 1858, ông đi cùng Giám mục Gauthier vào Đà Nẵng tránh nạn \"phân tháp\" (sáp nhập hai ba gia đình Công giáo vào trong một làng không Công giáo, chứ không cho ở tập trung như trước)9 .",
+        "Đầu năm 1859, Giám mục Gauthier đưa ông sang Hương Cảng (Hồng Kông)10 và một số nơi khác...11",
+        "Đầu tháng 2 năm 1861, sau khi chiến tranh ở Ý và ở Trung Quốc kết thúc, Đô đốc Léonard Charner được lệnh gom quân ở Trung Quốc đem về Sài Gòn mở rộng vùng chiếm đóng. Với quyết tâm này, Charner đã thuyết phục được một số giáo sĩ Pháp đang lánh nạn ở Hồng Kông, trong số đó có Giám mục Gauthier, về Sài Gòn cộng tác. Nhận lời, Giám mục Gauthier dẫn Nguyễn Trường Tộ cùng về với mình. Sau đó, ông Tộ nhận làm \"từ dịch\" (phiên dịch các tài liệu chữ Hán) cho thực dân Pháp.",
+        "Trong bài \"Trần tình\" (viết xong ngày 7 tháng 5 năm 1863), Nguyễn Trường Tộ phân trần rằng: lúc bắt đầu khởi hấn (đầu năm 1859, tức lúc quân Pháp chuẩn bị tấn công thành Gia Định), quân Pháp có mời ông cộng tác, nhưng ông một mực từ chối. Sau khi Đại đồn Chí Hòa thất thủ (tháng 2 năm 1861), ông thấy rằng phải tạm hòa theo đề nghị của Pháp, để dưỡng quân và củng cố lực lượng. Chính vì thế mà Nguyễn Trường Tộ đã nhận làm từ dịch cho Pháp để mong góp phần vào việc hòa đàm...12",
+        "Ngày 29 tháng 11 năm 1861, Đô đốc Louis-Adolphe Bonard lên thay Đô đốc Léonard Charner, và ông này liền xua quân mở rộng cuộc chiến. Thấy vậy, Nguyễn Trường Tộ không trông mong gì ở cuộc \"nghị hòa\" nên xin thôi việc.",
+        "Sau khi thôi việc, Nguyễn Trường Tộ đã dồn hết tâm trí vào việc thảo kế hoạch giúp nước. Nhờ sự hiểu biết sâu rộng về các phương diện chính trị, kinh tế, văn hóa, khoa học kỹ thuật...13 ; đến đầu tháng 5 năm 1863, thì ông đã thảo xong ba bản điều trần gửi lên Triều đình Huế là: \"Tế cấp luận\", \"Giáo môn luận\" và \"Thiên hạ phân hợp đại thế luận\".",
+        "Nhận thức được bối cảnh và khuynh hướng vận động chung của thế giới thời bấy giờ, Nguyễn Trường Tộ có những nhận định:",
+        "Trong thời gian phái bộ Phan Thanh Giản ở Pháp về Sài Gòn chờ tàu để đi Huế (từ ngày 18 đến 24 tháng 3 năm 1864), ông đã đến tiếp xúc với các chánh phó sứ để thảo luận nhiều vấn đề liên quan đến việc xây dựng và bảo vệ đất nước. Sau đó, ông viết \"Lục lợi từ\" (còn có tên \"Dụ tài tế cấp bẩm từ\", tháng 6 năm 1864) rồi gửi lên Triều đình, nhưng sau đó cũng không được phúc đáp.",
+        "Trong quãng thời gian đó, năm 1862-1864, bằng sự hiểu biết của mình, ông đã thiết kế và chỉ đạo việc xây cất tu viện Dòng Thánh Phaolô Sài Gòn (nay ở số 4 đường Tôn Đức Thắng). Đây là một công trình kiến trúc theo kiểu châu Âu có quy mô và có giá trị bền vững cho đến tận ngày nay 16 .",
+        "Thành công ấy đã làm cho tiếng tăm Nguyễn Trường Tộ lan rộng. Khoảng năm 1864, ông được người Anh mời sang dự một hội nghị khoa học ở Anh, nhưng chưa đi thì đã bị thực dân Pháp ngăn trở, có lẽ vì họ không muốn ông liên lạc với người Anh 17 .",
+        "Khoảng cuối năm 1864 cho đến đầu năm 1865, Nguyễn Trường Tộ đã gửi liên tiếp ba bản điều trần cho đại thần Trần Tiễn Thành, và hai bản điều trần cho đại thần Phạm Phú Thứ, để nhờ đưa các vấn đề quan trọng lên vua và Triều đình. Hai văn bản gửi cho ông Thứ, vì chưa tìm thấy nên không rõ nội dung. Còn ba văn bản gởi cho ông Thành, thì có thể là các bài: \"Góp ý về việc mua và đóng thuyền máy\" (cuối 1864), \"Góp ý về việc đào tạo người điều khiển và sửa chữa thuyền máy\" (tháng 2 năm 1865) và \"Khai hoang từ\" (tháng 2, 1866)18 .",
+        "Sau đó, Nguyễn Trường Tộ được triệu ra Huế để giải quyết vụ tàu London. Về vụ việc này, sách Đại Nam thực lục kể đại ý như sau: \"Trước đây, Hoàng Văn Xưởng đi Hương Cảng có đặt mua tàu London. Không ngờ bị Phô Na (chủ hãng tàu) lừa dối, tàu đã cũ nát, chưa đi tới nơi thì đã bị sóng gió làm hư hại. Sau khi sửa chữa ở Gia Định, họ đưa tàu đến cửa Thuận An (Huế) bắt phải mua 19 . Nhưng sau khi đệ trình lên cách giải quyết, thì không được thi hành nên ông có lẽ chán nản, và xin về Nghệ An (ngày 10 tháng 4 năm 1866) 20 . Trong bức thư gửi Trần Tiễn Thành (viết từ Nghệ An đề ngày 15 tháng 6 năm 1866), thì tâm trạng của ông lúc bấy giờ khá u uất. Một phần vì ông nóng lòng việc canh tân đất nước, một phần vì thấy vua và một số quan lại bảo thủ hãy còn nghi kỵ mình...21",
+        "Mặc dù vậy, Nguyễn Trường Tộ vẫn không nản chí. Về tới Nghệ An, việc đầu tiên ông làm là viết thư cho Triều đình để báo tin về việc Giám mục Gauthier nhận lời đi Pháp để mua các thứ cần thiết về mở trường kỹ thuật ở Huế. Sau đó, ông được lệnh đi cùng Giám mục Gauthier ra Huế để chuẩn bị đi Pháp. Khi ấy là giữa tháng 8 năm 1866.",
+        "Trong khoảng 3 tháng ở quê nhà, ông giúp Tổng đốc Nghệ An Hoàng Tá Viêm đào kênh Sắt ở Hưng Nguyên. Truyện \"Sự tích ông Nguyễn Trường Tộ\" kể:",
+        "Ngày 17 tháng 8 năm 1866, Nguyễn Trường Tộ cùng với Giám mục Gauthier và Linh mục Nguyễn Điều tới Huế. Lần này, Nguyễn Trường Tộ được vua Tự Đức tiếp kiến ở nhà Tả Vu trong Tử Cấm thành (Huế), được hỏi han nhiều điều, và được nhà vua nghe theo.",
+        "Ngày 15 tháng 9 năm đó, phái đoàn Giám mục Gauthier và Nguyễn Trường Tộ đi tàu của nhà vua vào Sài Gòn, và ở đó chờ tàu. Trong thời gian lưu lại, hai ông đã có những cuộc tiếp xúc với Đô đốc Lagrandière và Lãnh sự Tây Ban Nha để nắm tình hình theo yêu cầu của Triều đình. Sau đó, Nguyễn Trường Tộ đã có sáu bản báo cáo gởi về Huế. Qua các văn bản này, ông trình bày cho Triều đình thấy là có một khác nhau giữa ý đồ của Pháp soái (tức Đô đốc Lagrandière) ở Sài Gòn và chính sách của chính phủ ở Pháp. Pháp soái thì muốn bằng mọi cách thôn tính hoàn toàn sáu tỉnh Nam Kỳ và áp đặt trên phần đất còn lại của Việt Nam một hiệp ước bảo hộ; trong khi ấy ở chính quốc, thì có nhiều dư luận chống đối các cuộc phiêu lưu quân sự ở các vùng đất xa xôi...23 .",
+        "Ngày 10 tháng 1 năm 1867, phái đoàn đáp tàu L\u2019orne đi Pháp. Trong 8 tháng ở đây, họ đã mua sách vở, dụng cụ, máy móc...để lập trường học kỹ thuật ở Huế. Ngoài ra, Giám mục Gauthier cũng đã tới Bộ Ngoại giao Pháp, Bộ Hàng hải và Thuộc địa Pháp để xin tài trợ cho các chương trình của mình; đồng thời tiếp xúc với một số thương gia và kỹ nghệ gia người Pháp. Ngày 25 tháng 11 năm 1867, phái đoàn trở về Việt Nam.",
+        "Theo Linh mục Trương Bá Cần (tác giả sách Nguyễn Trường Tộ: Con người và di thảo), thì có lẽ Nguyễn Trường Tộ đã theo Giám mục Gauthier sang Rôma (Ý), rồi được vào chầu Giáo hoàng Piô IX nhân chuyến đi này 23 .",
+        "Ngày 29 tháng 2 năm 1868, phái đoàn Giám mục Gauthier và Nguyễn Trường Tộ về tới Huế. Cùng theo về còn có hai Linh mục, một giáo dân (bác sĩ Hemaiz5) và một người thợ máy (tất cả đều là người Pháp, và đều do Giám mục Gauthier vận động được). Sau khi xem xét các thứ mua về cho trường học và các thứ mà Bộ Hàng hải Pháp gửi tặng, vua Tự Đức cho phép Giám mục Sohier được xây trường học kỹ thuật trên mảnh đất đã đề nghị (nằm giữa nhà thờ Kim Long và Tòa Giám mục Huế)...24 . Theo tờ tấu của Viện Cơ mật đề ngày 4 tháng 3 năm 1868, thì sau đó các thành viên trong đoàn đều được nhà vua ban thưởng tiền và lụa...",
+        "Đi Pháp về, trong thời gian từ cuối tháng 2 cho tới cuối tháng 4 năm 1868, Nguyễn Trường Tộ đã gởi cho Triều đình, ít nhất là 9 văn bản. Ngoài văn bản đầu tiên (sau khi về tới Huế), còn nói về việc mở trường và phát triển đất nước, hầu hết các văn bản khác đều xoay chung quanh vấn đề sứ bộ đi Pháp. Bởi Triều đình vua Tự Đức lúc bấy giờ chỉ quan tâm tới việc làm sao lấy lại được 6 tỉnh Nam Kỳ đã mất vào tay Pháp. Sau những cuộc thương thuyết không thành công giữa Trần Tiễn Thành và Đô đốc Lagrandière tại Sài Gòn cuối tháng 1 năm 1868, vua Tự Đức nhất định cử một phái bộ sang Pháp để điều đình với chính phủ Pháp. Đối với vấn đề quan trọng này, quan điểm trước sau như một của Nguyễn Trường Tộ là phải tự lực tự cường để lấy lại phần đất đã mất, chứ không thể van xin nài nỉ. Tuy nhiên, ông vẫn sẵn sàng đi theo sứ bộ và đã có những kiến nghị rất cụ thể cho chuyến đi.",
+        "Khoảng giữa tháng 3 năm 1868, Nguyễn Trường Tộ được cấp phát ngựa và chi phí về Nghệ An thăm mẹ già trước lúc lên đường sang Pháp. Tuy nhiên, sau khi trở lại Huế, ông đổi ý, kiến nghị với Triều đình là không nên sai sứ bộ sang Pháp điều đình mà chỉ nên gởi sứ bộ vào Sài Gòn thương thuyết.",
+        "Việc đi Pháp vì thế phải đình hoãn không thời hạn. Ngày 18 tháng 4 năm 1868, Bộ Lễ lại cấp phép cho Nguyễn Trường Tộ trở về Nghệ An. Trước đó, ngày 7 tháng 4 năm 1868, Giám mục Gauthier cũng đã lên đường trở về Xã Đoài vì thấy việc mở trường kỹ thuật không được nói tới nữa 25 .",
+        "Về lại Nghệ An, Nguyễn Trường Tộ bắt tay vào việc vận động dân vùng Xuân Mỹ (Nghệ An) thường xuyên bị úng lụt đến nơi ở mới 26 , đồng thời xây cất Nhà Chung Xã Đoài27 . Trong những năm này, ông vẫn đều đặn gửi lên triều đình Huế các bản điều trần về thời sự.",
+        "Tháng 10 (âm lịch) năm Tự Đức thứ 23 (1870), Nguyễn Trường Tộ gửi thư lên Triều đình đề nghị lập lãnh sự ở Sài Gòn và sứ quán ở Pháp để nắm tình hình. Đầu tháng 11 năm đó, ông lại xin được vào Nam tổ chức đánh úp quân Pháp để thu hồi 6 tỉnh Nam Kỳ, nhân lúc Pháp đang thua Phổ (Đức) và Cách mạng Pháp đang nổi dậy.",
+        "Ngày 28 tháng 12 năm 1870, trong bản tấu của Viện Cơ mật dâng lên vua Tự Đức có đoạn:",
+        "Đầu năm 1871, ông nhận được lệnh cấp tốc ra Huế với lý do \"đưa học sinh đi Pháp\", nhưng kỳ thực là để bàn bạc với vua Tự Đức về phương lược quân sự và ngoại giao mà ông đã trình bày trong các văn bản gởi cho Triều đình cuối năm 1870. Nhưng Triều đình Huế bàn đi tính lại mà không đi đến được một quyết định nào: Sứ bộ không được cử đi các nước, kế hoạch đánh úp Pháp để thu hồi 6 tỉnh ở Nam Kỳ cũng không được thực hiện...",
+        "Sau mấy tháng ở Huế, có thể là vì không có việc gì để làm, hoặc có thể vì bệnh cũ tái phát, Nguyễn Trường Tộ đã xin phép trở về Xã Đoài (Nghệ An).",
+        "Giữa năm ấy, ông về lại Xã Đoài, và đến ngày 22 tháng 11 năm 1871 thì đột ngột từ trần. Lúc ấy, ông chỉ mới 41 tuổi.",
+        "Con ông là Nguyễn Trường Cửu, trong Sự tích ông Nguyễn Trường Tộ chỉ nói ngắn gọn rằng: \"Qua năm sau, Tự Đức 24 (1871), ngày 10 tháng 10, ông Tộ làm câu thơ rằng: \"Nhất thất túc thành thiên cổ hận / Tái hồi đầu thị bách niên cơ\" (Một kiếp sa chân, muôn kiếp hận / Ngoảnh đầu cơ nghiệp ấy trăm năm) đoạn thì qua đời. Thọ 41 tuổi\".",
+        "Nhiều chứng cứ cho thấy ông mất vì bệnh xuất huyết bao tử28 . Riêng Giám mục Gauthier cho rằng ông bị đầu độc. Trong một thư đề ngày 1 tháng 11 năm 1871, vị Giám mục này viết: \"Người Giáo hữu Việt Nam mà tôi đem theo năm 1867 và người ta gọi là Kiến trúc sư (...) đã là nạn nhân của một âm mưu đầu độc\"29 .",
+        "Sau khi qua đời, di hài của ông được an táng tại thôn Bùi Chu (nay ở xóm 1, làng Bùi Chu, xã Hưng Trung, huyện Hưng Nguyên, tỉnh Nghệ An). Ban đầu, phần mộ ông chỉ là một nấm mộ đất thấp, tại một bãi đá mài bên sông của làng Bùi Chu. Sau được cải táng về phía tây, trên một gò đất cao giữa khu đất bằng phẳng, gần đường chính, cách vị trí mộ cũ khoảng 300 m. Năm 1943, giáo sư Từ Ngọc Nguyễn Lân đã đứng ra tổ chức, kêu gọi các cá nhân, tổ chức đóng góp công của để xây dựng lăng mộ cho Nguyễn Trường Tộ. Bản thân giáo sư Nguyễn Lân đã gửi số tiền 133 đồng 30 cho linh mục địa phận Xã Đoài là Laygue để xây lại mộ Nguyễn Trường Tộ31 32 . Trong đó bao gồm 110 đồng là tiền bán 900 quyển \" Nguyễn Trường Tộ\" của ông, còn 23 đồng là tiền của những người bạn của giáo sư đóng góp vào. Nhờ đó ngôi mộ của Nguyễn Trường Tộ được xây lại bằng đá cẩm thạch Thanh Hóa cùng với những họa tiết tương đối hoàn chỉnh. Ngày 21 tháng 1 năm 1992, Bộ Văn hóa đã xếp hạng di tích cấp quốc gia. Năm 1996 huyện Hưng Nguyên đã đầu tư kinh phí xây dựng, nâng cấp khu di tích với diện tích 1062m², gồm 2 phần: phần mộ và phần vườn mộ, xung quanh được xây hàng rào bảo vệ, bên trong trồng hoa và cây cảnh, trở thành khu lăng mộ hoàn chỉnh.",
+        "Không biết chắc Nguyễn Trường Tộ đã lập gia đình lúc nào. Có thể là trong khoảng thời gian ông trở về Nghệ An, sau khi các dự án canh tân của ông gởi vua Tự Đức bị chống đối nên bị bỏ dở (sau tháng 4 năm 1868). Con ông gồm một trai, một gái. Người con gái lấy chồng ở một làng kế cận. Người con trai là Nguyễn Trường Cửu (ông mất khi Trường Cửu mới được 18 tháng), có tư chất thông minh, được học hành, thường được gọi là \"Đồ Cửu\". Ông Cửu mất vào khoảng năm 1942, và đã để lại tác phẩm Sự tích ông Nguyễn Trường Tộ.",
+        "Kể từ khi về nước (khoảng 1861) cho đến năm cuối đời (1871), Nguyễn Trường Tộ đã đều đặn gửi lên vua Tự Đức và triều đình Huế các bản điều trần và phúc trình về thời sự. Đáng chú ý có:",
+        "Ngoài ra, Nguyễn Trường Tộ còn để lại một số di cảo thơ.",
+        "Nguyễn Trường Tộ đã liên tiếp gửi lên triều đình Huế 58 bản điều trần (theo tập họp của Linh mục Nguyễn Bá Cần) đề xuất canh tân xây dựng đất nước. Nội dung các bản điều trần đề cập đủ mọi lĩnh vực. Tóm tắt các mặt chủ yếu:",
+        "Ông trình bày những chiến lược cơ bản, về những thế lớn phân và hợp trong thiên hạ (\"Thiên hạ phân hợp đại thế luận\", 1863) và đề xuất \"Kế ly gián giữa Anh và Pháp\" (1866). Không hề ảo tưởng về dã tâm của thực dân Pháp, nhưng ông rất sáng suốt chủ trương tạm hòa hoãn với Pháp, gợi ý với nhà vua về lợi ích lớn của việc \"Mở rộng quan hệ với Pháp và các nước khác\" (1871)...",
+        "Ông đề nghị triều đình tinh giản bộ máy chính quyền để đỡ hao tốn công quỹ, xác định rõ chức năng công việc của từng loại quan lại để khỏi phải có rất nhiều người ăn lương mà không biết làm gì. Mặt khác, nên có chính sách đối với những nho sinh để họ không thể dựa vào chút chữ nghĩa, trốn tránh nghĩa vụ đối với nước nhà. Ngoài ra, muốn cho đội ngũ viên chức giữ được thanh liêm thì phải tạo điều kiện cho họ làm giàu chính đáng...",
+        "Ông đề nghị sắp đặt lại hệ thống thuế khóa cho thật công bằng hợp lý. Muốn thế phải đo đạc lại ruộng đất, kê khai nhân khẩu, tăng thuế người giàu và hàng xa xỉ ngoại nhập, đánh thuế thật nặng vào những tệ nạn như cờ bạc, rượu chè,...Ngoài ra, còn phải khuyến khích nhà giàu bỏ tiền ra cho vay, và vay tiền của nước ngoài...",
+        "Ông đề nghị chấn hưng \"nông, công, thương nghiệp\" để làm cho dân giàu nước thịnh, bằng những hành động cụ thể như: tổ chức khai hoang, bảo vệ rừng, thành lập các đoàn tàu đem hàng nông sản đi bán, cử người thăm dò tài nguyên, khai thác mỏ, thành lập các cơ sở sản xuất công nghệ và đào tạo thợ kỹ thuật\u2026Và để nền kinh tế cả nước có thể giao thông dễ dàng, thì phải chú ý đến việc làm mới và tu bổ đường bộ và đường thủy....",
+        "Ông đề nghị cải cách \"việc học, việc thi\" để chọn được nhân tài hữu ích. Không nên tiếp tục lối học \"máy móc, tín điều\" kiểu Trung Hoa. Đáng chú ý là việc ông đề nghị đem các môn khoa học vào trong chương trình học, nhất quyết phải dùng quốc văn (chữ Nôm) để dạy học và soạn sách, kể cả trong các giấy tờ hành chính...",
+        "Ông chủ trương quan hệ mềm mỏng với Pháp, và không chỉ có Pháp mà còn phải đặt ngoại giao với nhiều nước khác như Anh, Tây Ban Nha... Phải biết lợi dụng mâu thuẫn giữa các nước này để có lợi cho mình. Phải đào tạo được các thông dịch viên giỏi công việc và tiếng nước ngoài...",
+        "Ông đề nghị cải tu võ bị nhằm tăng chất lượng của quân đội, như tổ chức lại đội ngũ, cho quân lính được học tập các binh pháp mới, mua sắm tàu thuyền và vũ khí33 , xây dựng phòng tuyến cả ở thành thị lẫn nông thôn, đề phòng quân Pháp xâm lược lan ra cả nước...",
+        "Bên cạnh đó, ông còn đề nghị cải cách về các mặt khác như văn hóa, tôn giáo34 , bảo tồn di tích lịch sử, v.v...Tuy nhiên, phần lớn những đề nghị của ông đã không được triều đình nhà Nguyễn nghe theo do tầm nhìn hạn hẹp của họ và hạn chế của thời đại 35 .",
+        "Giám mục Gauthier:",
+        "\"Tên Trường Tộ trước là linh mục. Từ khi thuyền Tây đến Gia Định thì phần nhiều kém đạo hạnh, lệch lạc ra ngoài phạm vi đạo trưởng, năng lui tới Tây soái tìm vui.\"36",
+        "Vũ Ngự Chiêu, Tiến sĩ sử học:",
+        "\"...Cuộc đời Nguyễn Trường Tộ phần lớn gồm những mẩu truyền kể khó kiểm chứng... Điều có thể kiểm chứng là Nguyễn Trường Tộ từng theo hầu Giám mục Gauthier (Ngô Gia Hậu), người cai quản giáo phận Xã Đoài (Nghệ An). Chi tiết thứ hai là Nguyễn Trường Tộ đã theo Gauthier lưu lạc qua Hong Kong, rồi trở lại Sài-gòn năm 1861 trên hạm đội của Charner.\"37",
+        "Theo GS. Nguyễn Huệ Chi, thì:",
+        "Các bản điều trần của Nguyễn Trường Tộ đã nói lên rất rõ tấm lòng yêu nước thiết tha của ông. Ông tin tưởng vào triển vọng canh tân của Nhật Bản, đặt hết hy vọng vào thế hệ trẻ được đào tạo bằng thực nghiệp có thể làm mạnh thế nước... Tuy chưa có ý thức thay thế thể chế phong kiến bằng một thể chế dân chủ, bởi tình thế đất nước chưa có phép làm điều đó, nhưng tư tưởng của ông đã tiến rất gần các nhà tư tưởng tiến hóa luận của phương Tây. Có thể nói, ông đã gợi ra cho người lãnh đạo đất nước những cách nghĩ, cách nhìn cởi mở và táo bạo mà hàng thế kỷ về sau vẫn đáng để suy gẫm. Tóm lại, ông quả là một con người có trí thông minh, nhìn xa thấy rộng, có khả năng ứng dụng vào thực tế vốn liếng tri thức uyên bác cũng như những điều mình sở đắc. Tiếc thay, ông lại \"sinh không gặp thời\", do đó ông đã không thực sự đóng một vai trò nào trong lịch sử, ngoài vai trò \"làm chứng về tấm lòng của một con người, về vận hội của một đất nước\".",
+        "Về đóng góp cho văn học Việt, ông đã để lại một lối văn mang phong cách \"chính luận - trữ tình\": vừa phải đảm bảo sự chặt chẽ, sắt bén, khúc chiết trong phân tích (chịu ảnh hưởng khá rõ tư duy lôgic phương Tây); nhưng cũng vừa thấm đẫm cảm hứng trữ tình của tác giả (vì ông phơi trải hết lòng mình), nên có sức thuyết rất mạnh. Ngoài ra, ông còn để lại một số di cảo thơ. Nhìn chung thơ ông mang phong cách trữ tình khoáng đạt, và có thể chia thành hai mảng: những bài \"tức cảnh, sinh tình\" và những bài \"Ngôn chí, tự tình\"...38",
+        "Trích thêm ý kiến của nhà nghiên cứu Trần Bạch Đằng:",
+        "...Tôi không đi vào khía cạnh \"đổi mới tư duy\" mà ông kiên trì, tôi chỉ muốn nhấn mạnh những kiến nghị vì lợi ích của đất nước, mà với tư cách một tín đồ đạo Công giáo đang bị Triều đình ngược đãi, dân chúng nghi kỵ, ông không ngần ngại trình bày, hy vọng nhà vua đảo ngược thế cờ, chuyển nguy thành an, chuyển yếu thành mạnh, chuyển lạc hậu thành tiên tiến cho cả quốc gia, bấy giờ, đứng trước khả năng sụp đổ không phải khó thấy.",
+        "Nguyễn Trường Tộ là một trí thức - theo nghĩa gần với hiện đại. Phân tích kỹ các \"điều trần\", chúng ta dễ dàng phát hiện tính \"không tưởng\" ở một số chủ trương của Nguyễn Trường Tộ - Ông nóng vội và nhất là ông không biết cơ chế của triều Tự Đức không bao giờ cho phép suy nghĩ của ông trở thành hiện thực bởi chúng đụng đến bức tường lạc hậu kinh khủng về học vấn, về khoa học, sự mụ mẫm trong đầu các quan lại cao cấp, kể cả đấng chí tôn - nhưng ông vẫn không mệt mỏi. Tấm lòng yêu nước thúc đẩy ông. Ta quý Nguyễn Trường Tộ ở chỗ đó....39",
+        "Và của GS. Nguyễn Hữu Tá:",
+        "...Ở tuổi 30, Nguyễn Trường Tộ đã có một vốn kiến thức rộng và sâu cả về phương diện chính trị, kinh tế, văn hóa, khoa học kỹ thuật. Với tiềm lực chất xám rất quý như thế, nếu ông được tin dùng, được tạo điều kiện để hoạt động, tình thế có thể sẽ rất khác. Bi kịch của Nguyễn Trường Tộ, ngẫm ra là một nghịch lý khó tin nhưng có thật. Yêu nước nhưng không được giúp nước vượt qua đại họa ngoại xâm; thực sự có tài năng xuất chúng nhưng vấp phải vật cản quá lớn \u2013 sự trì trệ bảo thủ, dị ứng với chủ trương duy tân, tự cường của triều đình Tự Đức và sự nghi ngờ dai dẳng của họ với những người tin theo Công giáo.",
+        "Bi kịch lớn lao ấy bình thường ra có thể nhấn sâu những con người nặng lòng với đất nước vào tình trạng trầm cảm, u uất, bế tắc. Nhưng với Nguyễn Trường Tộ thì không. Ông đã bộc lộ một phẩm chất đáng tôn trọng: sự kiên trì nhẫn nại \u2013 nhẫn nại đến mức phi thường. Trong vòng 10 năm (1861 \u2013 1871), Nguyễn Trường Tộ liên tục gửi đến vua Tự Đức và triều đình Huế rất nhiều bản điều trần. Riêng Linh mục Trương Bá Cần đã tập hợp được 58 bản và công bố trong tập Nguyễn Trường Tộ \u2013 con người và di thảo. Gửi mà không có hồi âm, nhưng lại tiếp tục gửi nữa. Đề tài không lặp lại, nội dung hết sức phong phú đề cập đến hầu hết những vấn đề chiến lược ở tầm \"quốc sách\"...40",
+        "Vinh danh Nguyễn Tường Tộ, tên ông được đặt cho nhiều trường học và đường phố tại Việt Nam.",
+        "Giới thiệu hai đoạn văn, để hiểu phần nào lối văn nghị luận và tấm lòng yêu nước của ông.",
+        "(Nguồn: Wikipedia)"
+    ]
+}

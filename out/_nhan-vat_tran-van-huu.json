@@ -1,0 +1,881 @@
+{
+    "tables": [],
+    "keywords": [],
+    "headings": [
+        "Nhân Vật Lịch Sử",
+        "Trần Văn Hữu",
+        "Tiểu sử",
+        "Thời trẻ",
+        "Tham gia chính trường",
+        "Cuộc đàn áp sinh viên năm 1950",
+        "Lên làm thủ tướng",
+        "Sau hiệp định Genève 1954",
+        "Hy vọng trở lại chính trường",
+        "Viếng tang Hồ Chí Minh",
+        "Chú thích",
+        "Tham khảo",
+        "Bài viết cùng thư mục",
+        "CÁC THỜI KỲ LỊCH SỬ",
+        "Tư Liệu",
+        "Anh Hùng Dân Tộc Tiêu Biểu",
+        "Anh Hùng Dân Tộc Tiêu Biểu",
+        "Tư Liệu Lịch Sử",
+        "Di Tích Lịch Sử"
+    ],
+    "anchors": [
+        {
+            "text": "",
+            "href": "/"
+        },
+        {
+            "text": "Trang Chủ",
+            "href": "/"
+        },
+        {
+            "text": "Dòng Lịch Sử",
+            "href": "/dong-lich-su"
+        },
+        {
+            "text": "Hồng Bàng & Văn Lang",
+            "href": "/dong-lich-su/hong-bang-va-van-lang"
+        },
+        {
+            "text": "Âu Lạc & Nam Việt",
+            "href": "/dong-lich-su/au-lac-va-nam-viet"
+        },
+        {
+            "text": "Bắc thuộc lần I",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat"
+        },
+        {
+            "text": "Trưng Nữ Vương",
+            "href": "/dong-lich-su/trung-nu-vuong"
+        },
+        {
+            "text": "Bắc thuộc lần II",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-hai"
+        },
+        {
+            "text": "Nhà Lý & Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu"
+        },
+        {
+            "text": "Bắc thuộc lần III",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-ba"
+        },
+        {
+            "text": "Thời kỳ xây nền tự chủ",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu"
+        },
+        {
+            "text": "Nhà Ngô",
+            "href": "/dong-lich-su/nha-ngo"
+        },
+        {
+            "text": "Nhà Đinh",
+            "href": "/dong-lich-su/nha-dinh"
+        },
+        {
+            "text": "Nhà Tiền Lê",
+            "href": "/dong-lich-su/nha-tien-le"
+        },
+        {
+            "text": "Nhà Lý",
+            "href": "/dong-lich-su/nha-ly"
+        },
+        {
+            "text": "Nhà Trần",
+            "href": "/dong-lich-su/nha-tran"
+        },
+        {
+            "text": "Nhà Hồ",
+            "href": "/dong-lich-su/nha-ho"
+        },
+        {
+            "text": "Nhà Hậu Trần",
+            "href": "/dong-lich-su/nha-hau-tran"
+        },
+        {
+            "text": "Bắc thuộc lần IV",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-tu"
+        },
+        {
+            "text": "Nhà Hậu Lê",
+            "href": "/dong-lich-su/nha-hau-le"
+        },
+        {
+            "text": "Nam Bắc Triều",
+            "href": "/dong-lich-su/nam-bac-trieu"
+        },
+        {
+            "text": "Trịnh Nguyễn Phân Tranh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh"
+        },
+        {
+            "text": "Nhà Tây Sơn",
+            "href": "/dong-lich-su/nha-tay-son"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/nha-nguyen"
+        },
+        {
+            "text": "Pháp Thuộc",
+            "href": "/dong-lich-su/phap-thuoc"
+        },
+        {
+            "text": "Việt Nam Dân Chủ Cộng Hoà",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Cộng hoà xã hội chủ nghĩa Việt Nam",
+            "href": "/dong-lich-su/viet-nam-xhcn"
+        },
+        {
+            "text": "Tư Liệu",
+            "href": "/tu-lieu"
+        },
+        {
+            "text": "Quân Sự",
+            "href": "/tu-lieu/quan-su?filter_tag[0]="
+        },
+        {
+            "text": "Tác Phẩm",
+            "href": "/tu-lieu/tac-pham?filter_tag[0]="
+        },
+        {
+            "text": "Bang Giao",
+            "href": "/tu-lieu/bang-giao"
+        },
+        {
+            "text": "Biểu đồ thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Nhân Vật",
+            "href": "/nhan-vat"
+        },
+        {
+            "text": "Anh Hùng Dân Tộc",
+            "href": "/anh-hung-dan-toc?types[0]=1"
+        },
+        {
+            "text": "Danh nhân văn hóa",
+            "href": "/danh-nhan-van-hoa?types[0]=1"
+        },
+        {
+            "text": "Di Tích",
+            "href": "/di-tich-lich-su?types[0]=1"
+        },
+        {
+            "text": "Ngày Nay",
+            "href": "/thoi-su"
+        },
+        {
+            "text": "Sách",
+            "href": "/sach"
+        },
+        {
+            "text": "Video",
+            "href": "/video"
+        },
+        {
+            "text": "Q&A",
+            "href": "/hoi-dap"
+        },
+        {
+            "text": "Lịch sử lớp 12",
+            "href": "/hoi-dap/lop-12"
+        },
+        {
+            "text": "Lịch sử lớp 11",
+            "href": "/hoi-dap/lop-11"
+        },
+        {
+            "text": "Lịch sử lớp 10",
+            "href": "/hoi-dap/lop-10"
+        },
+        {
+            "text": "Lịch sử lớp 9",
+            "href": "/hoi-dap/lop-9"
+        },
+        {
+            "text": "Lịch sử lớp 8",
+            "href": "/hoi-dap/lop-8"
+        },
+        {
+            "text": "Lịch sử lớp 7",
+            "href": "/hoi-dap/lop-7"
+        },
+        {
+            "text": "Lịch sử lớp 6",
+            "href": "/hoi-dap/lop-6"
+        },
+        {
+            "text": "Trang chủ",
+            "href": "/"
+        },
+        {
+            "text": "Nhân Vật",
+            "href": "/nhan-vat"
+        },
+        {
+            "text": "Nhân Vật Lịch Sử",
+            "href": "/nhan-vat"
+        },
+        {
+            "text": "Thu / Mở",
+            "href": "#"
+        },
+        {
+            "text": "Tiểu sử",
+            "href": "#tieu-su"
+        },
+        {
+            "text": "Thời trẻ",
+            "href": "#thoi-tre"
+        },
+        {
+            "text": "Tham gia chính trường",
+            "href": "#tham-gia-chinh-truong"
+        },
+        {
+            "text": "Cuộc đàn áp sinh viên năm 1950",
+            "href": "#cuoc-dan-ap-sinh-vien-nam-1950"
+        },
+        {
+            "text": "Lên làm thủ tướng",
+            "href": "#len-lam-thu-tuong"
+        },
+        {
+            "text": "Sau hiệp định Genève 1954",
+            "href": "#sau-hiep-dinh-geneve-1954"
+        },
+        {
+            "text": "Hy vọng trở lại chính trường",
+            "href": "#hy-vong-tro-lai-chinh-truong"
+        },
+        {
+            "text": "Viếng tang Hồ Chí Minh",
+            "href": "#vieng-tang-ho-chi-minh"
+        },
+        {
+            "text": "Chú thích",
+            "href": "#chu-thich"
+        },
+        {
+            "text": "Tham khảo",
+            "href": "#tham-khao"
+        },
+        {
+            "text": "tỉnh Vĩnh Long",
+            "href": "/dia-danh/tinh-vinh-long"
+        },
+        {
+            "text": "tỉnh Vĩnh Long",
+            "href": "/dia-danh/tinh-vinh-long"
+        },
+        {
+            "text": "Trần Văn Hương",
+            "href": "/nhan-vat/tran-van-huong"
+        },
+        {
+            "text": "Phạm Hùng",
+            "href": "/nhan-vat/pham-hung"
+        },
+        {
+            "text": "Lê Văn Hoạch",
+            "href": "/nhan-vat/le-van-hoach"
+        },
+        {
+            "text": "Lê Văn Hoạch",
+            "href": "/nhan-vat/le-van-hoach"
+        },
+        {
+            "text": "Nguyễn Văn Xuân",
+            "href": "/nhan-vat/nguyen-van-xuan"
+        },
+        {
+            "text": "Ngô Đình Diệm",
+            "href": "/nhan-vat/ngo-dinh-diem"
+        },
+        {
+            "text": "Phan Huy Quát",
+            "href": "/nhan-vat/phan-huy-quat"
+        },
+        {
+            "text": "Lê Văn Hoạch",
+            "href": "/nhan-vat/le-van-hoach"
+        },
+        {
+            "text": "Trần Văn Ơn",
+            "href": "/nhan-vat/tran-van-on"
+        },
+        {
+            "text": "Nguyễn Phan Long",
+            "href": "/nhan-vat/nguyen-phan-long"
+        },
+        {
+            "text": "quần đảo Trường Sa",
+            "href": "/dia-danh/quan-dao-truong-sa"
+        },
+        {
+            "text": "quần đảo Trường Sa",
+            "href": "/dia-danh/quan-dao-truong-sa"
+        },
+        {
+            "text": "Nguyễn Văn Tâm",
+            "href": "/nhan-vat/nguyen-van-tam"
+        },
+        {
+            "text": "Ngô Đình Diệm",
+            "href": "/nhan-vat/ngo-dinh-diem"
+        },
+        {
+            "text": "Ngô Đình Diệm",
+            "href": "/nhan-vat/ngo-dinh-diem"
+        },
+        {
+            "text": "Nguyễn Hữu Thọ",
+            "href": "/nhan-vat/nguyen-huu-tho"
+        },
+        {
+            "text": "Dương Văn Minh",
+            "href": "/nhan-vat/duong-van-minh"
+        },
+        {
+            "text": "Ngô Đình Diệm",
+            "href": "/nhan-vat/ngo-dinh-diem"
+        },
+        {
+            "text": "Hồ Chí Minh",
+            "href": "/nhan-vat/ho-chi-minh"
+        },
+        {
+            "text": "Hồ Chí Minh",
+            "href": "/nhan-vat/ho-chi-minh"
+        },
+        {
+            "text": "Hồ Nam",
+            "href": "/dia-danh/ho-nam"
+        },
+        {
+            "text": "nước Pháp",
+            "href": "/dia-danh/nuoc-phap"
+        },
+        {
+            "text": "Bài viết trước: Trần Văn Hương Trước",
+            "href": "/nhan-vat/tran-van-huong"
+        },
+        {
+            "text": "Bài viết kế tiếp: Trần Văn Huy Tiếp tục",
+            "href": "/nhan-vat/tran-van-huy"
+        },
+        {
+            "text": "Kinh Dương Vương",
+            "href": "/nhan-vat/kinh-duong-vuong"
+        },
+        {
+            "text": "Lạc Long Quân",
+            "href": "/nhan-vat/lac-long-quan"
+        },
+        {
+            "text": "nhà Chu",
+            "href": "/nhan-vat/nha-chu"
+        },
+        {
+            "text": "Ngô Sĩ Liên",
+            "href": "/nhan-vat/ngo-si-lien"
+        },
+        {
+            "text": "Lý Thái Tổ",
+            "href": "/nhan-vat/ly-thai-to"
+        },
+        {
+            "text": "nhà Thương",
+            "href": "/nhan-vat/nha-thuong"
+        },
+        {
+            "text": "nhà Đường",
+            "href": "/nhan-vat/nha-duong"
+        },
+        {
+            "text": "Triệu Việt Vương",
+            "href": "/nhan-vat/trieu-viet-vuong"
+        },
+        {
+            "text": "nhà Tần",
+            "href": "/nhan-vat/nha-tan"
+        },
+        {
+            "text": "Triệu Đà",
+            "href": "/nhan-vat/trieu-da"
+        },
+        {
+            "text": "Hồng Bàng & Văn Lang",
+            "href": "/dong-lich-su/hong-bang-va-van-lang"
+        },
+        {
+            "text": "Âu Lạc & Nam Việt",
+            "href": "/dong-lich-su/au-lac-va-nam-viet"
+        },
+        {
+            "text": "Bắc thuộc lần I",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat"
+        },
+        {
+            "text": "Nhà Triệu",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat/nha-trieu"
+        },
+        {
+            "text": "Trưng Nữ Vương",
+            "href": "/dong-lich-su/trung-nu-vuong"
+        },
+        {
+            "text": "Bắc thuộc lần II",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-hai"
+        },
+        {
+            "text": "Nhà Lý & Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu"
+        },
+        {
+            "text": "Nhà Tiền Lý",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-tien-ly"
+        },
+        {
+            "text": "Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-trieu"
+        },
+        {
+            "text": "Nhà Hậu Lý",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-hau-ly"
+        },
+        {
+            "text": "Bắc thuộc lần III",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-ba"
+        },
+        {
+            "text": "Thời kỳ xây nền tự chủ",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu"
+        },
+        {
+            "text": "Họ Khúc",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu/ho-khuc"
+        },
+        {
+            "text": "Nhà Ngô",
+            "href": "/dong-lich-su/nha-ngo"
+        },
+        {
+            "text": "Nhà Đinh",
+            "href": "/dong-lich-su/nha-dinh"
+        },
+        {
+            "text": "Nhà Tiền Lê",
+            "href": "/dong-lich-su/nha-tien-le"
+        },
+        {
+            "text": "Nhà Lý",
+            "href": "/dong-lich-su/nha-ly"
+        },
+        {
+            "text": "Nhà Trần",
+            "href": "/dong-lich-su/nha-tran"
+        },
+        {
+            "text": "Nhà Hồ",
+            "href": "/dong-lich-su/nha-ho"
+        },
+        {
+            "text": "Nhà Hậu Trần",
+            "href": "/dong-lich-su/nha-hau-tran"
+        },
+        {
+            "text": "Bắc thuộc lần IV",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-tu"
+        },
+        {
+            "text": "Nhà Hậu Lê",
+            "href": "/dong-lich-su/nha-hau-le"
+        },
+        {
+            "text": "Nam Bắc Triều",
+            "href": "/dong-lich-su/nam-bac-trieu"
+        },
+        {
+            "text": "Nhà Lê Trung Hưng",
+            "href": "/dong-lich-su/nam-bac-trieu/nha-le-trung-hung"
+        },
+        {
+            "text": "Nhà Mạc",
+            "href": "/dong-lich-su/nam-bac-trieu/nha-mac"
+        },
+        {
+            "text": "Trịnh Nguyễn Phân Tranh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh"
+        },
+        {
+            "text": "Nhà Lê Trung Hưng",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/nha-le-trung-hung"
+        },
+        {
+            "text": "Chúa Trịnh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-trinh"
+        },
+        {
+            "text": "Chúa Nguyễn",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen"
+        },
+        {
+            "text": "Nhà Tây Sơn",
+            "href": "/dong-lich-su/nha-tay-son"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/nha-nguyen"
+        },
+        {
+            "text": "Pháp Thuộc",
+            "href": "/dong-lich-su/phap-thuoc"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/phap-thuoc/nha-nguyen"
+        },
+        {
+            "text": "Những cuộc khởi nghĩa chống thực dân Pháp",
+            "href": "/dong-lich-su/phap-thuoc/khoi-nghia-chong-phap"
+        },
+        {
+            "text": "Đảng Cộng Sản Việt Nam",
+            "href": "/dong-lich-su/phap-thuoc/dang-cong-san-viet-nam"
+        },
+        {
+            "text": "Việt Nam Dân Chủ Cộng Hoà",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Kháng chiến chống Pháp",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-phap"
+        },
+        {
+            "text": "Kháng chiến chống Mĩ",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-mi"
+        },
+        {
+            "text": "Cộng hoà xã hội chủ nghĩa Việt Nam",
+            "href": "/dong-lich-su/viet-nam-xhcn"
+        },
+        {
+            "text": "Trận Điện Biên Phủ trên không năm 1972",
+            "href": "/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972"
+        },
+        {
+            "text": "Chiến tranh biên giới Tây Nam năm 1975 - 1978",
+            "href": "/tu-lieu/quan-su/chien-tranh-bien-gioi-tay-nam-nam-1975-1978"
+        },
+        {
+            "text": "Chiến dịch Mùa Xuân năm 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-mua-xuan-nam-1975"
+        },
+        {
+            "text": "Hải chiến Trường Sa năm 1988",
+            "href": "/tu-lieu/quan-su/hai-chien-truong-sa-nam-1988"
+        },
+        {
+            "text": "Chiến dịch Đường 14 - Phước Long năm 1974 - 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-duong-14-phuoc-long-nam-1974-1975"
+        },
+        {
+            "text": "Chiến dịch Tây Nguyên năm 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-tay-nguyen-nam-1975"
+        },
+        {
+            "text": "Trận Mậu Thân tại Huế năm 1968",
+            "href": "/tu-lieu/quan-su/tran-mau-than-tai-hue-nam-1968"
+        },
+        {
+            "text": "Bảng đối chiếu các triều đại Việt Nam và các triều đại Trung Quốc",
+            "href": "/tu-lieu/bang-doi-chieu-cac-trieu-dai-viet-nam-va-cac-trieu-dai-trung-quoc"
+        },
+        {
+            "text": "Bình Ngô đại cáo - bản tuyên ngôn độc lập thứ hai",
+            "href": "/tu-lieu/tac-pham/binh-ngo-dai-cao-ban-tuyen-ngon-doc-lap-thu-hai"
+        },
+        {
+            "text": "Lãnh thổ Việt Nam qua từng thời kỳ",
+            "href": "/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky"
+        },
+        {
+            "text": "Trận Đồi Thịt Băm năm 1969",
+            "href": "/tu-lieu/quan-su/tran-doi-thit-bam-nam-1969"
+        },
+        {
+            "text": "Chiến dịch Đắk Tô năm 1972",
+            "href": "/tu-lieu/quan-su/chien-dich-dak-to-nam-1972"
+        },
+        {
+            "text": "Nam quốc sơn hà - Bản tuyên ngôn độc lập đầu tiên",
+            "href": "/tu-lieu/tac-pham/nam-quoc-son-ha-ban-tuyen-ngon-doc-lap-dau-tien"
+        },
+        {
+            "text": "Tuyên ngôn độc lập Việt Nam Dân chủ Cộng hòa",
+            "href": "/tu-lieu/tac-pham/tuyen-ngon-doc-lap-viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Trận Bản Đông năm 1971",
+            "href": "/tu-lieu/quan-su/tran-ban-dong-nam-1971"
+        },
+        {
+            "text": "Trận Rạch Gầm \u2013 Xoài Mút năm 1785",
+            "href": "/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785"
+        },
+        {
+            "text": "Lịch sử Chữ viết tiếng Việt",
+            "href": "/tu-lieu/lich-su-chu-viet-tieng-viet"
+        },
+        {
+            "text": "Hịch tướng sĩ - Dụ chư tỳ tướng hịch văn",
+            "href": "/tu-lieu/tac-pham/hich-tuong-si-du-chu-ty-tuong-hich-van"
+        },
+        {
+            "text": "Danh sách Trạng nguyên Việt Nam",
+            "href": "/tu-lieu/danh-sach-trang-nguyen-viet-nam"
+        },
+        {
+            "text": "Hội nghị Paris, mặt trận ngoại giao năm 1968-1972",
+            "href": "/tu-lieu/bang-giao/hoi-nghi-paris-mat-tran-ngoai-giao-nam-1968-1972"
+        },
+        {
+            "text": "Hùng Vương",
+            "href": "/nhan-vat/hung-vuong"
+        },
+        {
+            "text": "Lê Thái Tổ",
+            "href": "/nhan-vat/le-thai-to"
+        },
+        {
+            "text": "Lý Nam Đế",
+            "href": "/nhan-vat/ly-nam-de"
+        },
+        {
+            "text": "Lý Thái Tổ",
+            "href": "/nhan-vat/ly-thai-to"
+        },
+        {
+            "text": "Lê Đại Hành",
+            "href": "/nhan-vat/le-dai-hanh"
+        },
+        {
+            "text": "Đinh Tiên Hoàng",
+            "href": "/nhan-vat/dinh-tien-hoang"
+        },
+        {
+            "text": "Ngô Quyền",
+            "href": "/nhan-vat/ngo-quyen"
+        },
+        {
+            "text": "Trần Hưng Đạo",
+            "href": "/nhan-vat/tran-hung-dao"
+        },
+        {
+            "text": "Nguyễn Trãi",
+            "href": "/nhan-vat/nguyen-trai"
+        },
+        {
+            "text": "Hồ Chí Minh",
+            "href": "/nhan-vat/ho-chi-minh"
+        },
+        {
+            "text": "Nguyễn Huệ",
+            "href": "/nhan-vat/nguyen-hue"
+        },
+        {
+            "text": "Hai Bà Trưng",
+            "href": "/nhan-vat/hai-ba-trung"
+        },
+        {
+            "text": "Lý Thường Kiệt",
+            "href": "/nhan-vat/ly-thuong-kiet"
+        },
+        {
+            "text": "Trần Nhân Tông",
+            "href": "/nhan-vat/tran-nhan-tong"
+        },
+        {
+            "text": "Đinh Tiên Hoàng",
+            "href": "/nhan-vat/dinh-tien-hoang"
+        },
+        {
+            "text": "Lê Thái Tổ",
+            "href": "/nhan-vat/le-thai-to"
+        },
+        {
+            "text": "Nguyễn Trãi",
+            "href": "/nhan-vat/nguyen-trai"
+        },
+        {
+            "text": "Hai Bà Trưng",
+            "href": "/nhan-vat/hai-ba-trung"
+        },
+        {
+            "text": "Hùng Vương",
+            "href": "/nhan-vat/hung-vuong"
+        },
+        {
+            "text": "Lý Nam Đế",
+            "href": "/nhan-vat/ly-nam-de"
+        },
+        {
+            "text": "Lê Đại Hành",
+            "href": "/nhan-vat/le-dai-hanh"
+        },
+        {
+            "text": "Lý Thường Kiệt",
+            "href": "/nhan-vat/ly-thuong-kiet"
+        },
+        {
+            "text": "Lý Thái Tổ",
+            "href": "/nhan-vat/ly-thai-to"
+        },
+        {
+            "text": "Nguyễn Huệ",
+            "href": "/nhan-vat/nguyen-hue"
+        },
+        {
+            "text": "Vấn đề biên giới Việt-Trung thời Mạc",
+            "href": "/tu-lieu/bang-giao/van-de-bien-gioi-viet-trung-thoi-mac"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Tây Sơn",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-tay-son"
+        },
+        {
+            "text": "Biểu đồ các nhân vật lịch sử theo dòng thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Danh sách Trạng nguyên Việt Nam",
+            "href": "/tu-lieu/danh-sach-trang-nguyen-viet-nam"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Nguyễn",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-nguyen"
+        },
+        {
+            "text": "Trận Điện Biên Phủ trên không năm 1972",
+            "href": "/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972"
+        },
+        {
+            "text": "Trận Ngọc Hồi - Đống Đa năm 1789",
+            "href": "/tu-lieu/quan-su/tran-ngoc-hoi-dong-da-nam-1789"
+        },
+        {
+            "text": "Trận Cẩm Sa năm 1775",
+            "href": "/tu-lieu/quan-su/tran-cam-sa-nam-1775"
+        },
+        {
+            "text": "Trận Rạch Gầm \u2013 Xoài Mút năm 1785",
+            "href": "/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785"
+        },
+        {
+            "text": "Lãnh thổ Việt Nam qua từng thời kỳ",
+            "href": "/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky"
+        },
+        {
+            "text": "Khu lưu niệm Chủ tịch Tôn Đức Thắng",
+            "href": "/dia-danh/khu-luu-niem-chu-tich-ton-duc-thang"
+        },
+        {
+            "text": "Đền Hùng",
+            "href": "/dia-danh/den-hung"
+        },
+        {
+            "text": "Đền Trần (Nam Định)",
+            "href": "/dia-danh/den-tran-nam-dinh"
+        },
+        {
+            "text": "Văn Miếu - Quốc Tử Giám",
+            "href": "/dia-danh/van-mieu-quoc-tu-giam"
+        },
+        {
+            "text": "Khu di tích Chủ tịch Hồ Chí Minh tại Phủ Chủ tịch",
+            "href": "/dia-danh/khu-di-tich-chu-tich-ho-chi-minh-tai-phu-chu-tich"
+        },
+        {
+            "text": "chùa Thầy",
+            "href": "/dia-danh/chua-thay"
+        },
+        {
+            "text": "Quần thể di tích Cố đô Huế",
+            "href": "/dia-danh/quan-the-di-tich-co-do-hue"
+        },
+        {
+            "text": "Đền Trần (Thái Bình)",
+            "href": "/dia-danh/den-tran-thai-binh"
+        },
+        {
+            "text": "Hồ Hoàn Kiếm",
+            "href": "/dia-danh/ho-hoan-kiem"
+        },
+        {
+            "text": "Đền Phù Đổng",
+            "href": "/dia-danh/den-phu-dong"
+        },
+        {
+            "text": "Giới thiệu",
+            "href": "/gioi-thieu"
+        },
+        {
+            "text": "Quyền riêng tư",
+            "href": "/quyen-rieng-tu"
+        },
+        {
+            "text": "Liên hệ",
+            "href": "/lien-he"
+        },
+        {
+            "text": "Địa Danh",
+            "href": "/dia-danh"
+        },
+        {
+            "text": "Trang Facebook",
+            "href": "https://www.facebook.com/nguoikesu/"
+        },
+        {
+            "text": "DanhMucBDS.com",
+            "href": "https://danhmucbds.com"
+        },
+        {
+            "text": "HocTotNguVan.com",
+            "href": "https://hoctotnguvan.com"
+        }
+    ],
+    "title": "Trần Văn Hữu - Người Kể Sử",
+    "paragraphs": [
+        "Trần Văn Hữu (1895 \u2013 1985), quê ở Vĩnh Long, là thủ tướng kiêm bộ trưởng ngoại giao của chính phủ Quốc gia Việt Nam từ tháng 5 năm 1950 đến tháng 6 năm 1952.",
+        "",
+        "",
+        "Trần Văn Hữu sinh năm 1895, tại làng Long Mỹ, quận Châu Thành, tỉnh Vĩnh Long (nay là xã Thanh Đức, huyện Long Hồ, tỉnh Vĩnh Long) trong một gia đình địa chủ giàu có. Cha ông giữ chức hương cả trong làng. Lúc nhỏ, Trần Văn Hữu học chương trình Pháp. Lớn lên ông sang Pháp du học và tốt nghiệp với bằng kỹ sư canh nông. Khi về nước, ông làm việc ở ngân hàng địa ốc.1 Có điều đặc biệt là ông Trần Văn Hữu sống cùng làng với cựu thủ tướng Việt Nam Cộng hòa Trần Văn Hương, còn nhà ông Phạm Hùng, cựu thủ tướng nước Cộng hòa xã hội chủ nghĩa Việt Nam lại nằm đối diện phía bên kia bờ sông Long Hồ (làng Long Phước, quận Châu Thành, nay là xã Long Phước, huyện Long Hồ). Ba thủ tướng trên cùng một dòng sông.",
+        "Ngày 23 tháng 9 năm 1945, sau khi Cách mạng tháng Tám nổ ra và nhà nước Việt Nam dân chủ cộng hòa được thành lập, quân đội Pháp nổ súng chiếm Sài Gòn, mở đầu cuộc chiến tranh Đông Dương. Với mục tiêu khôi phục chế độ thuộc địa ở Việt Nam và Đông Dương, Pháp đã thành lập chính phủ thân Pháp \"Nam Kỳ tự trị\". Trần Văn Hữu bắt đầu tham gia chính trị từ đây. Tháng 7 năm 1946, với tư cách là thành viên trong phái đoàn Pháp, ông lên tàu Dumont Durville của Pháp đi dự hội nghị Fontainebleau.",
+        "Tháng 12 năm 1946, tại Nam Kỳ một nội các thân Pháp do bác sĩ Lê Văn Hoạch làm Thủ tướng được thành lập. Trần Văn Hữu được trao chức Bộ trưởng Tài chính. Do tình hình chính trị bất ổn vào giai đoạn này, nhiều công nhân viên chức bỏ việc, hoặc bỏ vào vùng kháng chiến. Để đối phó, Trần Văn Hữu quyết định tăng lương cho công chức, kêu gọi họ trở về làm việc cho chính phủ. Tuy nhiên, hoạt động của chính phủ Lê Văn Hoạch tỏ ra kém hiệu quả. Một chính phủ khác, do Trung tướng Nguyễn Văn Xuân đứng đầu, được thành lập.1",
+        "Năm 1947, trước khi về nước lập chính phủ, cựu hoàng Bảo Đại mời nhiều nhân vật như ông Ngô Đình Diệm, bác sĩ Phan Huy Quát, bác sĩ Lê Văn Hoạch, Trần Văn Hữu, Nguyễn Tôn Hoàn... qua gặp mặt tại Hong Kong. Tháng 10 năm 1947, Trần Văn Hữu được thăng chức Phó Thủ tướng trong chính quyền mới. Ông tổ chức lại bộ máy hành chính từ trung ương đến địa phương, đưa nhiều người Việt vào nắm quyền với nỗ lực tạo một hình ảnh chính phủ thực quyền của người Việt. Tuy nhiên, các cố gắng của ông không đem lại nhiều kết quả vì trên thực tế, chính quyền thực dân Pháp, cả dân sự và quân sự ở Việt Nam, vẫn là tiếng nói có ảnh hưởng quyết định.2",
+        "Tháng 10 năm 1949, một cuộc đấu tranh của sinh viên, học sinh ở Sài Gòn yêu cầu sử dụng tiếng Việt thay cho tiếng Pháp trong nhà trường nổ ra và nhanh chóng lan rộng. Cuộc đấu tranh của sinh viên gây tiếng vang và nhận được sự ủng hộ từ giới trí thức và báo chí ở Sài Gòn. Cùng nhau, 125 trí thức Sài Gòn đã lên tiếng đòi thả các học sinh bị bắt.",
+        "Trong lúc cuộc vận động của phong trào sinh viên, học sinh đang lên đến cao trào, Trần Văn Hữu đang giữ chức Thủ hiến Nam Việt tại Sài Gòn. Ngày 9 tháng 1 năm 1950, một đoàn biểu tình khoảng 2.000 người kéo đến dinh thủ hiến đòi Trần Văn Hữu thực hiện lời hứa trả tự do cho 12 học sinh bị bắt trong cuộc bãi khóa vừa xảy ra trước đó. Họ yêu cầu ông thả người mới chịu giải tán. Khoảng 12 giờ 30 phút, Trần Văn Hữu ra tiếp ban đại diện sinh viên, học sinh trước thềm dinh thủ hiến, đe dọa đoàn biểu tình phải giải tán sau 13 giờ 30 phút, nếu không sẽ bị đàn áp. Các sinh viên, học sinh đã không giải tán và Trần Văn Hữu ra lệnh cho khoảng 500 binh lính và cảnh sát đàn áp cuộc biểu tình bằng vũ lực. Một học sinh, Trần Văn Ơn, thiệt mạng, nhiều người khác bị thương và bị bắt. Cuộc chống đối bị dập tắt. Ngày 9 tháng 1 sau này được chính quyền Cộng hòa xã hội chủ nghĩa Việt Nam lấy làm Ngày học sinh, sinh viên Việt Nam.3",
+        "Ngày 6 tháng 5 năm 1950, chỉ ba tháng sau vụ đàn áp sinh viên, Trần Văn Hữu thay thế Nguyễn Phan Long nắm giữ chức vụ thủ tướng chính quyền Quốc gia Việt Nam. Trong khoảng hai năm làm thủ tướng, ông đã góp phần xây dựng quân đội Quốc gia Việt Nam, thành lập bộ tổng tham mưu quân đội, mở trường đào tạo sĩ quan người Việt nhằm thay thế cho sĩ quan Pháp, vũ trang cho các lực lượng giáo phái như Cao Đài, Hòa Hảo, Thiên Chúa và cả quân Bình Xuyên.",
+        "Đầu tháng 9 năm 1951, Trần Văn Hữu dẫn đầu đoàn Quốc gia Việt Nam tham gia hội nghị 51 nước có đóng góp trong việc đánh bại Nhật Bản trong Chiến tranh thế giới thứ hai tại San Francisco, Mỹ theo lời mời của chính phủ Mỹ. Tại hội nghị, ông bày tỏ quan điểm ủng hộ các nước đồng minh phương tây và yêu cầu Nhật Bản bồi thường chiến phí. Ông cũng nhân hội nghị này khẳng định chủ quyền của Việt Nam với hai quần đảo Trường Sa và Hoàng Sa, nguyên văn:",
+        "Trong thời gian Trần Văn Hữu làm thủ tướng còn diễn ra sự kiện ngày 29 tháng 6 năm 1950, Pháp chính thức công nhận Quốc gia Việt Nam là một thành viên có chủ quyền trong khối Liên hiệp Pháp, theo thỏa ước Pau. Ngày 7 tháng 2 năm 1950, Mỹ và Anh cùng một số quốc gia chính thức công nhận và thiết lập quan hệ ngoại giao với Quốc gia Việt Nam. Tòa đại sứ Mỹ đầu tiên đặt tại Sài Gòn do ông Donald Heath, một nhân vật ngoại giao kỳ cựu làm đại sứ.",
+        "Dưới thời ông Trần Văn Hữu, Mỹ bắt đầu dính líu sâu hơn vào tình hình Việt Nam với việc đặt phái bộ quân sự, mở chương trình Việt ngữ trên Đài tiếng nói Hoa Kỳ (VOA) và tăng cường viện trợ. Ngày 16 tháng 2 năm 1951, Trần Văn Hữu trình diện một nội các mới. Một tháng sau, chính phủ Quốc gia Việt Nam phê chuẩn hiệp định chấp nhận khoản viện trợ 16 triệu đô-la Mỹ (tương đương 117 triệu đô-la Mỹ trong năm 2014) của Mỹ cho ba nước Đông Dương. Ngày 7 tháng 9 năm 1951, Mỹ ký hiệp định tương trợ với chính quyền Quốc gia Việt Nam.",
+        "Tháng 6 năm 1952, Trần Văn Hữu rời ghế thủ tướng, thay ông là Nguyễn Văn Tâm.2",
+        "Trong hội nghị Genève về hòa bình ở Đông Dương vào năm 1954, các bên tham dự từng cân nhắc ý định thành lập một chính quyền mới do Trần Văn Hữu đừng đầu ở miền nam. Mặc dù thân Pháp, nhưng ông cũng có chủ trương giao hảo với chính quyền Hà Nội, nên được xem như một thủ tướng có thể chấp nhận được cho miền nam Việt Nam. Ông cũng là cựu thủ tướng duy nhất tại Sài Gòn dưới thời Bảo Đại công khai tán thành Hiệp định Genève và chủ trương một chính sách trung lập tại miền nam và chung sống hòa bình với miền bắc.",
+        "Tuy nhiên, ý định này không thành do phe thân Pháp đã thất thế trước phe thân Mỹ ở miền nam Việt Nam. Trần Văn Hữu bắt đầu được hưởng quy chế tị nạn chính trị tại Pháp. Năm 1955, ông từ Pháp trở về Sài Gòn giữa lúc chính quyền Ngô Đình Diệm đang vất vả đối phó với Mặt trận toàn lực quốc gia bao gồm tất cả các giáo phái và đoàn thể chính trị.",
+        "Sự hiện diện của ông tại Sài Gòn vào thời điểm đó là một cái gai trong mắt chính quyền Diệm - Nhu. Báo chí Sài Gòn lúc bấy giờ đưa tin công an mật vụ đã chặn xe của Trần Văn Hữu khi ông từ Sài Gòn lên Tây Ninh gặp giáo chủ Cao Đài Phạm Công Tắc, và buộc ông phải quay xe trở về Sài Gòn. Những ngày sau, công an mật vụ có những cử chỉ có tính cách hù dọa để sau cùng ông phải lên phi cơ trở về Pháp. Đến đây, vai trò chính trị của Trần Văn Hữu trên chính trường Việt Nam kết thúc.5",
+        "Những hy vọng tham gia chính trường của Trần Văn Hữu lại hồi sinh khi chính quyền Ngô Đình Diệm ở miền nam lâm nguy. Ngày 22 tháng 7 năm 1962, ông có cuộc hội kiến tại Thụy Sĩ với một nhóm những nhân vật cao cấp của chính quyền Hà Nội để thảo luận về tình hình Việt Nam. Cũng trong tháng 7 năm 1962, ông còn nhận được một bức thư đầy thiện chí từ luật sư Nguyễn Hữu Thọ, Chủ tịch Mặt trận dân tộc giải phóng miền nam Việt Nam.",
+        "Đầu tháng 11 năm 1963, khi hay tin tướng Dương Văn Minh thành công trong việc cầm đầu cuộc đảo chính lật đổ chế độ Ngô Đình Diệm, ông Trần Văn Hữu có gửi cho tướng Minh một điện văn khen ngợi ông này đã giải thoát cho miền nam Việt Nam khỏi một chế độ độc tài thời Trung cổ.",
+        "Cũng trong thời gian này, Trần Văn Hữu thường lui tới một nhà thờ Tin Lành Mỹ tại Paris nhờ một mục sư truyền đạt lên Tổng thống Hoa Kỳ John F. Kennedy việc ông tình nguyện đứng ra thành lập một chính phủ chuyển tiếp tại Sài Gòn, nhưng ý nguyện của ông hoàn toàn không được chú ý. Những hoạt động chính trị của Trần Văn Hữu chỉ dừng lại ở mức độ như thế và không có ảnh hưởng thực tế gì tại Việt Nam.5",
+        "Năm 1969, khi Chủ tịch Hồ Chí Minh của chính quyền Việt Nam Dân chủ Cộng hòa qua đời, ông Trần Văn Hữu có đến viếng tại Paris. Ông Hồ Nam, cán bộ ngoại giao của Cơ quan tổng đại diện Việt Nam Dân chủ Cộng hòa tại Pháp, viết trong bài Vài kỷ niệm về lễ truy điệu Bác Hồ ở Paris đăng trên tạp chí Sông Hương số 3 (42), năm 1990:",
+        "Ông Trần Văn Hữu qua đời ngày 15 tháng 12 năm 1985 tại Paris, thủ đô nước Pháp.",
+        "(Nguồn: Wikipedia)"
+    ]
+}

@@ -1,0 +1,841 @@
+{
+    "tables": ["<table class=\"infobox\">\n <tbody>\n  <tr>\n   <th colspan=\"2\">Sông Nhật Lệ<\/th>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\"><img class=\"jch-lazyload\" alt=\"Nhat Le River.jpg\" src=\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxIiBoZWlnaHQ9IjEiPjwvc3ZnPg==\" data-src=\"/images/wiki/song-nhat-le/7dc4c5675b90ec80637f7e1d264cd514.jpg\">\n    <noscript>\n     <img alt=\"Nhat Le River.jpg\" src=\"/images/wiki/song-nhat-le/7dc4c5675b90ec80637f7e1d264cd514.jpg\">\n    <\/noscript>\n    <div>\n     Sông Nhật Lệ đoạn qua Đồng Hới\n    <\/div><\/td>\n  <\/tr>\n  <tr>\n   <th colspan=\"2\">Đặc điểm<\/th>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Dài<\/th>\n   <td>85 km<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Lưu vực<\/th>\n   <td>? km²<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Lưu lượng<\/th>\n   <td>?m³ nước/năm<\/td>\n  <\/tr>\n  <tr>\n   <th colspan=\"2\">Dòng chảy<\/th>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Thượng nguồn<\/th>\n   <td>Quảng Bình, Việt Nam<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Cửa sông<\/th>\n   <td>Cửa Nhật Lệ<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\"><span>&nbsp;Cao độ<\/span><\/th>\n   <td>?<\/td>\n  <\/tr>\n  <tr>\n   <th colspan=\"2\">Địa lý<\/th>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Các quốc gia lưu vực<\/th>\n   <td>Việt Nam<\/td>\n  <\/tr>\n <\/tbody>\n<\/table>"],
+    "keywords": [],
+    "headings": [
+        "Địa Danh",
+        "sông Nhật Lệ",
+        "Đặc điểm",
+        "Sông Nhật Lệ trong lịch sử Việt Nam",
+        "Sông Nhật Lệ là thắng cảnh du lịch",
+        "Xem thêm",
+        "Tài liệu tham khảo chính",
+        "Tham khảo",
+        "Bài viết cùng thư mục",
+        "CÁC THỜI KỲ LỊCH SỬ",
+        "Tư Liệu",
+        "Di Tích Lịch Sử",
+        "Anh Hùng Dân Tộc Tiêu Biểu",
+        "Tư Liệu Lịch Sử",
+        "Di Tích Lịch Sử"
+    ],
+    "anchors": [
+        {
+            "text": "",
+            "href": "/"
+        },
+        {
+            "text": "Trang Chủ",
+            "href": "/"
+        },
+        {
+            "text": "Dòng Lịch Sử",
+            "href": "/dong-lich-su"
+        },
+        {
+            "text": "Hồng Bàng & Văn Lang",
+            "href": "/dong-lich-su/hong-bang-va-van-lang"
+        },
+        {
+            "text": "Âu Lạc & Nam Việt",
+            "href": "/dong-lich-su/au-lac-va-nam-viet"
+        },
+        {
+            "text": "Bắc thuộc lần I",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat"
+        },
+        {
+            "text": "Trưng Nữ Vương",
+            "href": "/dong-lich-su/trung-nu-vuong"
+        },
+        {
+            "text": "Bắc thuộc lần II",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-hai"
+        },
+        {
+            "text": "Nhà Lý & Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu"
+        },
+        {
+            "text": "Bắc thuộc lần III",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-ba"
+        },
+        {
+            "text": "Thời kỳ xây nền tự chủ",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu"
+        },
+        {
+            "text": "Nhà Ngô",
+            "href": "/dong-lich-su/nha-ngo"
+        },
+        {
+            "text": "Nhà Đinh",
+            "href": "/dong-lich-su/nha-dinh"
+        },
+        {
+            "text": "Nhà Tiền Lê",
+            "href": "/dong-lich-su/nha-tien-le"
+        },
+        {
+            "text": "Nhà Lý",
+            "href": "/dong-lich-su/nha-ly"
+        },
+        {
+            "text": "Nhà Trần",
+            "href": "/dong-lich-su/nha-tran"
+        },
+        {
+            "text": "Nhà Hồ",
+            "href": "/dong-lich-su/nha-ho"
+        },
+        {
+            "text": "Nhà Hậu Trần",
+            "href": "/dong-lich-su/nha-hau-tran"
+        },
+        {
+            "text": "Bắc thuộc lần IV",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-tu"
+        },
+        {
+            "text": "Nhà Hậu Lê",
+            "href": "/dong-lich-su/nha-hau-le"
+        },
+        {
+            "text": "Nam Bắc Triều",
+            "href": "/dong-lich-su/nam-bac-trieu"
+        },
+        {
+            "text": "Trịnh Nguyễn Phân Tranh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh"
+        },
+        {
+            "text": "Nhà Tây Sơn",
+            "href": "/dong-lich-su/nha-tay-son"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/nha-nguyen"
+        },
+        {
+            "text": "Pháp Thuộc",
+            "href": "/dong-lich-su/phap-thuoc"
+        },
+        {
+            "text": "Việt Nam Dân Chủ Cộng Hoà",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Cộng hoà xã hội chủ nghĩa Việt Nam",
+            "href": "/dong-lich-su/viet-nam-xhcn"
+        },
+        {
+            "text": "Tư Liệu",
+            "href": "/tu-lieu"
+        },
+        {
+            "text": "Quân Sự",
+            "href": "/tu-lieu/quan-su?filter_tag[0]="
+        },
+        {
+            "text": "Tác Phẩm",
+            "href": "/tu-lieu/tac-pham?filter_tag[0]="
+        },
+        {
+            "text": "Bang Giao",
+            "href": "/tu-lieu/bang-giao"
+        },
+        {
+            "text": "Biểu đồ thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Nhân Vật",
+            "href": "/nhan-vat"
+        },
+        {
+            "text": "Anh Hùng Dân Tộc",
+            "href": "/anh-hung-dan-toc?types[0]=1"
+        },
+        {
+            "text": "Danh nhân văn hóa",
+            "href": "/danh-nhan-van-hoa?types[0]=1"
+        },
+        {
+            "text": "Di Tích",
+            "href": "/di-tich-lich-su?types[0]=1"
+        },
+        {
+            "text": "Ngày Nay",
+            "href": "/thoi-su"
+        },
+        {
+            "text": "Sách",
+            "href": "/sach"
+        },
+        {
+            "text": "Video",
+            "href": "/video"
+        },
+        {
+            "text": "Q&A",
+            "href": "/hoi-dap"
+        },
+        {
+            "text": "Lịch sử lớp 12",
+            "href": "/hoi-dap/lop-12"
+        },
+        {
+            "text": "Lịch sử lớp 11",
+            "href": "/hoi-dap/lop-11"
+        },
+        {
+            "text": "Lịch sử lớp 10",
+            "href": "/hoi-dap/lop-10"
+        },
+        {
+            "text": "Lịch sử lớp 9",
+            "href": "/hoi-dap/lop-9"
+        },
+        {
+            "text": "Lịch sử lớp 8",
+            "href": "/hoi-dap/lop-8"
+        },
+        {
+            "text": "Lịch sử lớp 7",
+            "href": "/hoi-dap/lop-7"
+        },
+        {
+            "text": "Lịch sử lớp 6",
+            "href": "/hoi-dap/lop-6"
+        },
+        {
+            "text": "Trang chủ",
+            "href": "/"
+        },
+        {
+            "text": "Địa Danh",
+            "href": "/dia-danh"
+        },
+        {
+            "text": "Địa Danh Lịch Sử",
+            "href": "/dia-danh"
+        },
+        {
+            "text": "Thu / Mở",
+            "href": "#"
+        },
+        {
+            "text": "Đặc điểm",
+            "href": "#dac-diem"
+        },
+        {
+            "text": "Sông Nhật Lệ trong lịch sử Việt Nam",
+            "href": "#song-nhat-le-trong-lich-su-viet-nam"
+        },
+        {
+            "text": "Sông Nhật Lệ là thắng cảnh du lịch",
+            "href": "#song-nhat-le-la-thang-canh-du-lich"
+        },
+        {
+            "text": "Xem thêm",
+            "href": "#xem-them"
+        },
+        {
+            "text": "Tài liệu tham khảo chính",
+            "href": "#tai-lieu-tham-khao-chinh"
+        },
+        {
+            "text": "Tham khảo",
+            "href": "#tham-khao"
+        },
+        {
+            "text": "tỉnh Quảng Bình",
+            "href": "/dia-danh/tinh-quang-binh"
+        },
+        {
+            "text": "huyện Quảng Ninh",
+            "href": "/dia-danh/huyen-quang-ninh"
+        },
+        {
+            "text": "huyện Lệ Thủy",
+            "href": "/dia-danh/huyen-le-thuy"
+        },
+        {
+            "text": "Trần Xá",
+            "href": "/nhan-vat/tran-xa"
+        },
+        {
+            "text": "sông Gianh",
+            "href": "/dia-danh/song-gianh"
+        },
+        {
+            "text": "tỉnh Quảng Bình",
+            "href": "/dia-danh/tinh-quang-binh"
+        },
+        {
+            "text": "nhà Tần",
+            "href": "/nhan-vat/nha-tan"
+        },
+        {
+            "text": "nhà Triệu",
+            "href": "/nhan-vat/nha-trieu"
+        },
+        {
+            "text": "Lý Thánh Tông",
+            "href": "/nhan-vat/ly-thanh-tong"
+        },
+        {
+            "text": "Lý Nhân Tông",
+            "href": "/nhan-vat/ly-nhan-tong"
+        },
+        {
+            "text": "Lý Thường Kiệt",
+            "href": "/nhan-vat/ly-thuong-kiet"
+        },
+        {
+            "text": "Lý Nhân Tông",
+            "href": "/nhan-vat/ly-nhan-tong"
+        },
+        {
+            "text": "Lý Thường Kiệt",
+            "href": "/nhan-vat/ly-thuong-kiet"
+        },
+        {
+            "text": "sông Gianh",
+            "href": "/dia-danh/song-gianh"
+        },
+        {
+            "text": "sông Gianh",
+            "href": "/dia-danh/song-gianh"
+        },
+        {
+            "text": "tỉnh Quảng Bình",
+            "href": "/dia-danh/tinh-quang-binh"
+        },
+        {
+            "text": "sông Gianh",
+            "href": "/dia-danh/song-gianh"
+        },
+        {
+            "text": "Hồ Chí Minh",
+            "href": "/nhan-vat/ho-chi-minh"
+        },
+        {
+            "text": "Hồ Chí Minh",
+            "href": "/nhan-vat/ho-chi-minh"
+        },
+        {
+            "text": "sông Gianh",
+            "href": "/dia-danh/song-gianh"
+        },
+        {
+            "text": "Võ Nguyên Giáp",
+            "href": "/nhan-vat/vo-nguyen-giap"
+        },
+        {
+            "text": "Võ Nguyên Giáp",
+            "href": "/nhan-vat/vo-nguyen-giap"
+        },
+        {
+            "text": "Hồ Chí Minh",
+            "href": "/nhan-vat/ho-chi-minh"
+        },
+        {
+            "text": "Võ Nguyên Giáp",
+            "href": "/nhan-vat/vo-nguyen-giap"
+        },
+        {
+            "text": "Lê Văn Hưu",
+            "href": "/nhan-vat/le-van-huu"
+        },
+        {
+            "text": "Trần Trọng Kim",
+            "href": "/nhan-vat/tran-trong-kim"
+        },
+        {
+            "text": "Bài viết trước: sông Nguyệt Đức Trước",
+            "href": "/dia-danh/song-nguyet-duc"
+        },
+        {
+            "text": "Bài viết kế tiếp: sông Nhị Tiếp tục",
+            "href": "/dia-danh/song-nhi"
+        },
+        {
+            "text": "nước Việt",
+            "href": "/dia-danh/nuoc-viet"
+        },
+        {
+            "text": "núi Tản Viên",
+            "href": "/dia-danh/nui-tan-vien"
+        },
+        {
+            "text": "sông Đà",
+            "href": "/dia-danh/song-da"
+        },
+        {
+            "text": "sông Hát",
+            "href": "/dia-danh/song-hat"
+        },
+        {
+            "text": "chùa Kiến Sơ",
+            "href": "/dia-danh/chua-kien-so"
+        },
+        {
+            "text": "hồ Động Đình",
+            "href": "/dia-danh/ho-dong-dinh"
+        },
+        {
+            "text": "nước Quắc",
+            "href": "/dia-danh/nuoc-quac"
+        },
+        {
+            "text": "nước Trịnh",
+            "href": "/dia-danh/nuoc-trinh"
+        },
+        {
+            "text": "châu Vũ Ninh",
+            "href": "/dia-danh/chau-vu-ninh"
+        },
+        {
+            "text": "Nước Tần",
+            "href": "/dia-danh/nuoc-tan"
+        },
+        {
+            "text": "Hồng Bàng & Văn Lang",
+            "href": "/dong-lich-su/hong-bang-va-van-lang"
+        },
+        {
+            "text": "Âu Lạc & Nam Việt",
+            "href": "/dong-lich-su/au-lac-va-nam-viet"
+        },
+        {
+            "text": "Bắc thuộc lần I",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat"
+        },
+        {
+            "text": "Nhà Triệu",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat/nha-trieu"
+        },
+        {
+            "text": "Trưng Nữ Vương",
+            "href": "/dong-lich-su/trung-nu-vuong"
+        },
+        {
+            "text": "Bắc thuộc lần II",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-hai"
+        },
+        {
+            "text": "Nhà Lý & Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu"
+        },
+        {
+            "text": "Nhà Tiền Lý",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-tien-ly"
+        },
+        {
+            "text": "Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-trieu"
+        },
+        {
+            "text": "Nhà Hậu Lý",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-hau-ly"
+        },
+        {
+            "text": "Bắc thuộc lần III",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-ba"
+        },
+        {
+            "text": "Thời kỳ xây nền tự chủ",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu"
+        },
+        {
+            "text": "Họ Khúc",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu/ho-khuc"
+        },
+        {
+            "text": "Nhà Ngô",
+            "href": "/dong-lich-su/nha-ngo"
+        },
+        {
+            "text": "Nhà Đinh",
+            "href": "/dong-lich-su/nha-dinh"
+        },
+        {
+            "text": "Nhà Tiền Lê",
+            "href": "/dong-lich-su/nha-tien-le"
+        },
+        {
+            "text": "Nhà Lý",
+            "href": "/dong-lich-su/nha-ly"
+        },
+        {
+            "text": "Nhà Trần",
+            "href": "/dong-lich-su/nha-tran"
+        },
+        {
+            "text": "Nhà Hồ",
+            "href": "/dong-lich-su/nha-ho"
+        },
+        {
+            "text": "Nhà Hậu Trần",
+            "href": "/dong-lich-su/nha-hau-tran"
+        },
+        {
+            "text": "Bắc thuộc lần IV",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-tu"
+        },
+        {
+            "text": "Nhà Hậu Lê",
+            "href": "/dong-lich-su/nha-hau-le"
+        },
+        {
+            "text": "Nam Bắc Triều",
+            "href": "/dong-lich-su/nam-bac-trieu"
+        },
+        {
+            "text": "Nhà Lê Trung Hưng",
+            "href": "/dong-lich-su/nam-bac-trieu/nha-le-trung-hung"
+        },
+        {
+            "text": "Nhà Mạc",
+            "href": "/dong-lich-su/nam-bac-trieu/nha-mac"
+        },
+        {
+            "text": "Trịnh Nguyễn Phân Tranh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh"
+        },
+        {
+            "text": "Nhà Lê Trung Hưng",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/nha-le-trung-hung"
+        },
+        {
+            "text": "Chúa Trịnh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-trinh"
+        },
+        {
+            "text": "Chúa Nguyễn",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen"
+        },
+        {
+            "text": "Nhà Tây Sơn",
+            "href": "/dong-lich-su/nha-tay-son"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/nha-nguyen"
+        },
+        {
+            "text": "Pháp Thuộc",
+            "href": "/dong-lich-su/phap-thuoc"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/phap-thuoc/nha-nguyen"
+        },
+        {
+            "text": "Những cuộc khởi nghĩa chống thực dân Pháp",
+            "href": "/dong-lich-su/phap-thuoc/khoi-nghia-chong-phap"
+        },
+        {
+            "text": "Đảng Cộng Sản Việt Nam",
+            "href": "/dong-lich-su/phap-thuoc/dang-cong-san-viet-nam"
+        },
+        {
+            "text": "Việt Nam Dân Chủ Cộng Hoà",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Kháng chiến chống Pháp",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-phap"
+        },
+        {
+            "text": "Kháng chiến chống Mĩ",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-mi"
+        },
+        {
+            "text": "Cộng hoà xã hội chủ nghĩa Việt Nam",
+            "href": "/dong-lich-su/viet-nam-xhcn"
+        },
+        {
+            "text": "Trận Điện Biên Phủ trên không năm 1972",
+            "href": "/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972"
+        },
+        {
+            "text": "Chiến tranh biên giới Tây Nam năm 1975 - 1978",
+            "href": "/tu-lieu/quan-su/chien-tranh-bien-gioi-tay-nam-nam-1975-1978"
+        },
+        {
+            "text": "Chiến dịch Mùa Xuân năm 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-mua-xuan-nam-1975"
+        },
+        {
+            "text": "Hải chiến Trường Sa năm 1988",
+            "href": "/tu-lieu/quan-su/hai-chien-truong-sa-nam-1988"
+        },
+        {
+            "text": "Chiến dịch Đường 14 - Phước Long năm 1974 - 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-duong-14-phuoc-long-nam-1974-1975"
+        },
+        {
+            "text": "Chiến dịch Tây Nguyên năm 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-tay-nguyen-nam-1975"
+        },
+        {
+            "text": "Trận Mậu Thân tại Huế năm 1968",
+            "href": "/tu-lieu/quan-su/tran-mau-than-tai-hue-nam-1968"
+        },
+        {
+            "text": "Bảng đối chiếu các triều đại Việt Nam và các triều đại Trung Quốc",
+            "href": "/tu-lieu/bang-doi-chieu-cac-trieu-dai-viet-nam-va-cac-trieu-dai-trung-quoc"
+        },
+        {
+            "text": "Bình Ngô đại cáo - bản tuyên ngôn độc lập thứ hai",
+            "href": "/tu-lieu/tac-pham/binh-ngo-dai-cao-ban-tuyen-ngon-doc-lap-thu-hai"
+        },
+        {
+            "text": "Lãnh thổ Việt Nam qua từng thời kỳ",
+            "href": "/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky"
+        },
+        {
+            "text": "Trận Đồi Thịt Băm năm 1969",
+            "href": "/tu-lieu/quan-su/tran-doi-thit-bam-nam-1969"
+        },
+        {
+            "text": "Chiến dịch Đắk Tô năm 1972",
+            "href": "/tu-lieu/quan-su/chien-dich-dak-to-nam-1972"
+        },
+        {
+            "text": "Nam quốc sơn hà - Bản tuyên ngôn độc lập đầu tiên",
+            "href": "/tu-lieu/tac-pham/nam-quoc-son-ha-ban-tuyen-ngon-doc-lap-dau-tien"
+        },
+        {
+            "text": "Tuyên ngôn độc lập Việt Nam Dân chủ Cộng hòa",
+            "href": "/tu-lieu/tac-pham/tuyen-ngon-doc-lap-viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Trận Bản Đông năm 1971",
+            "href": "/tu-lieu/quan-su/tran-ban-dong-nam-1971"
+        },
+        {
+            "text": "Trận Rạch Gầm \u2013 Xoài Mút năm 1785",
+            "href": "/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785"
+        },
+        {
+            "text": "Lịch sử Chữ viết tiếng Việt",
+            "href": "/tu-lieu/lich-su-chu-viet-tieng-viet"
+        },
+        {
+            "text": "Hịch tướng sĩ - Dụ chư tỳ tướng hịch văn",
+            "href": "/tu-lieu/tac-pham/hich-tuong-si-du-chu-ty-tuong-hich-van"
+        },
+        {
+            "text": "Danh sách Trạng nguyên Việt Nam",
+            "href": "/tu-lieu/danh-sach-trang-nguyen-viet-nam"
+        },
+        {
+            "text": "Hội nghị Paris, mặt trận ngoại giao năm 1968-1972",
+            "href": "/tu-lieu/bang-giao/hoi-nghi-paris-mat-tran-ngoai-giao-nam-1968-1972"
+        },
+        {
+            "text": "Thành nhà Hồ",
+            "href": "/dia-danh/thanh-nha-ho"
+        },
+        {
+            "text": "chùa Thầy",
+            "href": "/dia-danh/chua-thay"
+        },
+        {
+            "text": "Khu lăng mộ và đền thờ các vị vua triều Lý",
+            "href": "/dia-danh/khu-lang-mo-va-den-tho-cac-vi-vua-trieu-ly"
+        },
+        {
+            "text": "Đền Trần (Thái Bình)",
+            "href": "/dia-danh/den-tran-thai-binh"
+        },
+        {
+            "text": "Khu lưu niệm Chủ tịch Tôn Đức Thắng",
+            "href": "/dia-danh/khu-luu-niem-chu-tich-ton-duc-thang"
+        },
+        {
+            "text": "Chiến khu Tân Trào",
+            "href": "/dia-danh/chien-khu-tan-trao"
+        },
+        {
+            "text": "Khu di tích chiến thắng Điện Biên Phủ",
+            "href": "/dia-danh/khu-di-tich-chien-thang-dien-bien-phu"
+        },
+        {
+            "text": "thành Cổ Loa",
+            "href": "/dia-danh/thanh-co-loa"
+        },
+        {
+            "text": "Dinh Độc Lập",
+            "href": "/dia-danh/dinh-doc-lap"
+        },
+        {
+            "text": "Đền Ngọc Sơn",
+            "href": "/dia-danh/den-ngoc-son"
+        },
+        {
+            "text": "Nguyễn Trãi",
+            "href": "/nhan-vat/nguyen-trai"
+        },
+        {
+            "text": "Hùng Vương",
+            "href": "/nhan-vat/hung-vuong"
+        },
+        {
+            "text": "Đinh Tiên Hoàng",
+            "href": "/nhan-vat/dinh-tien-hoang"
+        },
+        {
+            "text": "Lý Nam Đế",
+            "href": "/nhan-vat/ly-nam-de"
+        },
+        {
+            "text": "Ngô Quyền",
+            "href": "/nhan-vat/ngo-quyen"
+        },
+        {
+            "text": "Hai Bà Trưng",
+            "href": "/nhan-vat/hai-ba-trung"
+        },
+        {
+            "text": "Nguyễn Huệ",
+            "href": "/nhan-vat/nguyen-hue"
+        },
+        {
+            "text": "Hồ Chí Minh",
+            "href": "/nhan-vat/ho-chi-minh"
+        },
+        {
+            "text": "Trần Nhân Tông",
+            "href": "/nhan-vat/tran-nhan-tong"
+        },
+        {
+            "text": "Lê Đại Hành",
+            "href": "/nhan-vat/le-dai-hanh"
+        },
+        {
+            "text": "Vấn đề biên giới Việt-Trung thời Mạc",
+            "href": "/tu-lieu/bang-giao/van-de-bien-gioi-viet-trung-thoi-mac"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Tây Sơn",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-tay-son"
+        },
+        {
+            "text": "Biểu đồ các nhân vật lịch sử theo dòng thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Danh sách Trạng nguyên Việt Nam",
+            "href": "/tu-lieu/danh-sach-trang-nguyen-viet-nam"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Nguyễn",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-nguyen"
+        },
+        {
+            "text": "Trận Điện Biên Phủ trên không năm 1972",
+            "href": "/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972"
+        },
+        {
+            "text": "Trận Ngọc Hồi - Đống Đa năm 1789",
+            "href": "/tu-lieu/quan-su/tran-ngoc-hoi-dong-da-nam-1789"
+        },
+        {
+            "text": "Trận Cẩm Sa năm 1775",
+            "href": "/tu-lieu/quan-su/tran-cam-sa-nam-1775"
+        },
+        {
+            "text": "Trận Rạch Gầm \u2013 Xoài Mút năm 1785",
+            "href": "/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785"
+        },
+        {
+            "text": "Lãnh thổ Việt Nam qua từng thời kỳ",
+            "href": "/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky"
+        },
+        {
+            "text": "Đền Trần (Thái Bình)",
+            "href": "/dia-danh/den-tran-thai-binh"
+        },
+        {
+            "text": "Dinh Độc Lập",
+            "href": "/dia-danh/dinh-doc-lap"
+        },
+        {
+            "text": "Khu lưu niệm Chủ tịch Tôn Đức Thắng",
+            "href": "/dia-danh/khu-luu-niem-chu-tich-ton-duc-thang"
+        },
+        {
+            "text": "Đền Trần (Nam Định)",
+            "href": "/dia-danh/den-tran-nam-dinh"
+        },
+        {
+            "text": "Hồ Hoàn Kiếm",
+            "href": "/dia-danh/ho-hoan-kiem"
+        },
+        {
+            "text": "Khu di tích Chủ tịch Hồ Chí Minh tại Phủ Chủ tịch",
+            "href": "/dia-danh/khu-di-tich-chu-tich-ho-chi-minh-tai-phu-chu-tich"
+        },
+        {
+            "text": "chùa Thầy",
+            "href": "/dia-danh/chua-thay"
+        },
+        {
+            "text": "chùa Phổ Minh",
+            "href": "/dia-danh/chua-pho-minh"
+        },
+        {
+            "text": "Khu lăng mộ và đền thờ các vị vua triều Lý",
+            "href": "/dia-danh/khu-lang-mo-va-den-tho-cac-vi-vua-trieu-ly"
+        },
+        {
+            "text": "Quần thể di tích Cố đô Huế",
+            "href": "/dia-danh/quan-the-di-tich-co-do-hue"
+        },
+        {
+            "text": "Giới thiệu",
+            "href": "/gioi-thieu"
+        },
+        {
+            "text": "Quyền riêng tư",
+            "href": "/quyen-rieng-tu"
+        },
+        {
+            "text": "Liên hệ",
+            "href": "/lien-he"
+        },
+        {
+            "text": "Địa Danh",
+            "href": "/dia-danh"
+        },
+        {
+            "text": "Trang Facebook",
+            "href": "https://www.facebook.com/nguoikesu/"
+        },
+        {
+            "text": "DanhMucBDS.com",
+            "href": "https://danhmucbds.com"
+        },
+        {
+            "text": "HocTotNguVan.com",
+            "href": "https://hoctotnguvan.com"
+        }
+    ],
+    "title": "sông Nhật Lệ - Người Kể Sử",
+    "paragraphs": [
+        "Sông Nhật Lệ chảy qua địa phận tỉnh Quảng Bình, bắt nguồn từ núi U Bò, Co Roi (Trường Sơn) chảy ra Biển Đông tại cửa Nhật Lệ.",
+        "",
+        "",
+        "Sông có chiều dài 85 km với hai nhánh chính: sông Long Đại (hay Đại Giang) chảy qua huyện Quảng Ninh và sông Kiến Giang chảy qua huyện Lệ Thủy, gặp nhau ở Trần Xá.",
+        "Sông Nhật Lệ cùng sông Gianh, Hoành Sơn, Đèo Ngang là những địa danh nổi tiếng của tỉnh Quảng Bình trong dòng chảy lịch sử,văn hoá của dân tộc Việt. Sông Nhật Lệ còn có tên là Đại Uyên được đổi thành sông Nhật Lệ khoảng năm 1069-1075. Theo Đại Nam nhất thống chí,từ thời Văn Lang, Âu Lạc (năm 2879 đến 257 trước Công nguyên) thuở vua Hùng dựng nước thì nước ta đã có 15 bộ (xấp xỉ 15 tỉnh). Từ Hoành Sơn trở vào gọi là bộ Việt Thường. Đến các Triều đại Tần, Hán, Đường bên Trung Quốc thì nước ta bị thôn tính và chia làm quận huyện để cai trị. Thời nhà Tần (221-206 trước Công nguyên), vùng đất Quảng Bình thuộc quận Tượng Lâm, đến thời nhà Triệu (207-111 trước Công nguyên) đổi thành quận Cửu Chân, sang thời Tây Hán (111 trước Công nguyên -39 sau Công nguyên)thuộc quận Nhật Nam. Cuối thời Động Hán, bộ tộc Khu Liên lợi dựng nhà Đông Hán suy yếu đã nổi dậy chiếm Tượng Quận và Nhật Nam lập nên Lâm Ấp (sau này gọi là Chiêm Thành). Quảng Bình là vùng ranh giới thời Đại Việt và Chiêm Thành sau khi người Việt giành được độc lập (939) và trước thời kỳ Nam Tiến của người Việt (1069).",
+        "Vua Lý Thánh Tông năm 1054 đã đổi tên nước thành Đại Việt. Do Chiêm Thành thường ra quấy nhiễu, năm 1063 vua Lý Nhân Tông đã đích thân nam chinh. Vua chọn thái uý Lý Thường Kiệt làm nguyên soái tiên phong chỉ huy 5 vạn quân theo đường thuỷ tiến vào cửa biển Nhật Lệ, đánh bại quân Chiêm, bắt sống Chế Củ. Vua Chiêm đã chuộc mạng bằng cách tôn trọng chủ quyền của Đại Việt ở ba châu Bố Chính (Tuyên Hoá, Quảng Trạch, Bố Trạch ngày nay), Địa Lý (Lệ Thuỷ và Quảng Ninh bây giờ), Ma Linh (Quảng Trị hiện tại). Năm 1074, Chế Củ chết, người kế vị lại đánh chiếm ba châu. Năm 1075, vua Lý Nhân Tông cử Lý Thường Kiệt vào bình định lại, chính thức vẽ bản đồ cương giới ba châu, đổi lại tên của nhiều địa danh, giữ tên châu Bố Chính, đổi tên châu Địa Lý thành châu Lâm Bình, châu Ma Linh thành châu Minh Linh, xuống chiếu mộ dân vào giữ vùng đất mới và tổ chức việc cai trị. Đây là đợt di dân đầu tiên để vào giữ đất và khai khẩn đất phương Nam. Tên sông Nhật Lệ dường như được đặt lại trong dịp đó.",
+        "Thời Trịnh - Nguyễn phân tranh (1570-1786) với xung đột vũ trang gần nửa thế kỷ (1627-1672) giữa Đàng Trong và Đàng Ngoài thì chiến trường chính là miền Bố Chính, từ đèo Ngang đến Nhật Lệ. Trong cuộc chiến Trịnh Nguyễn, quân Trịnh án ngữ ở đèo Ngang đến bờ bắc sông Gianh. Bờ nam sông Gianh đến sông Nhật Lệ là tuyến phòng thủ của quân Nguyễn với những thành lũy chắc chắn do Đào Duy Từ tổ chức xây đắp, luỹ Thầy dài 18 km, luỹ Trường Dục dài 10 km. Di tích Lũy Thầy, Quảng Bình quan, thành quách của thời Trịnh Nguyễn nay vẫn còn.",
+        "Trong Chiến tranh Việt Nam (1954-1975), không lực Hoa Kỳ đã đánh phá miền Bắc Việt Nam ác liệt nhất tại tỉnh Quảng Bình. Những trọng điểm nổi tiếng ác liệt, lưu dấu nhiều chứng tích chiến tranh là phà Long Đại (nay là cầu Long Đại), phà Xuân Sơn, phà sông Gianh (nay là cầu Sông Gianh), đèo Ngang, quốc lộ 1, đường 15, hệ thống đường 559 (đường Trường Sơn, đường mòn Hồ Chí Minh), thành phố Đồng Hới, cửa biển Nhật Lệ.",
+        "Nhật Lệ là dòng sông tuyệt đẹp của vùng đất miền Trung. Tên sông có nghĩa là \"sự rực rỡ của ánh sáng mặt trời\" đã được ngợi ca trong câu thơ cổ của Hồ Thiên Du \"nhật chi lệ bất vô chi chúc giả\" nghĩa là \"sự rực rỡ của ánh sáng mặt trời thì không nơi nào là nó không chiếu đến được\". Khi mặt trời nhô lên khỏi cồn cát Bảo Ninh, đứng ở bờ nam sông Nhật Lệ nhìn về hướng đông sẽ thấy con sông lấp lánh sáng rực rỡ suốt dọc chiều dài hàng trăm mét. \"Người Đồng Hới vẫn có cái thú ra bờ sông ngắm mặt trời mọc. Dẫu có đến ngàn lần thì cứ vẫn háo hức như mới thấy lần đầu\".",
+        "Ngay tại thành phố Đồng Hới du khách dễ dàng tham quan thành Đồng Hới, Quảng Bình quan, lũy Thầy. Trong một bán kính không xa từ thành phố Đồng Hới, về hướng đông nam là bãi tắm Nhật Lệ và di tích Bàu Tró,làng du lịch Bảo Ninh; về hướng tây là khu di sản thiên nhiên thế giới Phong Nha - Kẻ Bàng, các di tích lịch sử đường Hồ Chí Minh, khu thương mại cửa khẩu quốc tế Cha Lo-Nà Phàu; về phía bắc là các khu danh thắng Lý Hoà, xa hơn một chút là sông Gianh, Đèo Ngang, vũng Chùa, đảo Yến; về hướng nam du khách có thể tham quan nhà lưu niệm Võ Nguyên Giáp, đền thờ Nguyễn Hữu Cảnh, suối nước khoáng nóng Bang (nguồn nước khoáng duy nhất tại Việt Nam có nhiệt độ sôi tại lỗ phun là 105 độ C), tham quan hồ An Mã với cảnh đẹp nên thơ và nhiều di tích văn hoá, lịch sử khác.",
+        "(Nguồn: Wikipedia)"
+    ]
+}

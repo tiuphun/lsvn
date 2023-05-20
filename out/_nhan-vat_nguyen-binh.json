@@ -1,0 +1,896 @@
+{
+    "tables": ["<table class=\"infobox vcard\">\n <tbody>\n  <tr>\n   <th colspan=\"2\" class=\"fn\">Nguyễn Bính<\/th>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\"><img class=\"jch-lazyload\" alt=\"\" src=\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxIiBoZWlnaHQ9IjEiPjwvc3ZnPg==\" data-src=\"/images/wiki/nguyen-binh/4f16833386eecb49cdd8347f5b9e1ef8.jpg\">\n    <noscript>\n     <img alt=\"\" src=\"/images/wiki/nguyen-binh/4f16833386eecb49cdd8347f5b9e1ef8.jpg\">\n    <\/noscript>\n    <div>\n     Nhà thơ Nguyễn Bính\n    <\/div><\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Sinh<\/th>\n   <td>13 tháng 2, 1918<br>\n     Nam Định<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Mất<\/th>\n   <td>20 tháng 1, 1966 (47&nbsp;tuổi)<br>\n     Hà Nam Ninh<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Bút danh<\/th>\n   <td class=\"nickname\">Nguyễn Bính<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Công việc<\/th>\n   <td class=\"role\">Nhà thơ<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Quốc gia<\/th>\n   <td class=\"category\">Việt Nam<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Dân tộc<\/th>\n   <td>Kinh<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Thể loại<\/th>\n   <td class=\"category\">Thơ trữ tình<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Tác phẩm nổi bật<\/th>\n   <td>Chân quê, Lỡ bước sang ngang, Những bóng người trên sân ga, Tương tư, Viếng hồn trinh nữ, Cô hái mơ, Cô lái đò, Tiểu đoàn 307, Đêm sao sáng<\/td>\n  <\/tr>\n <\/tbody>\n<\/table>"],
+    "keywords": [],
+    "headings": [
+        "Nhân Vật Lịch Sử",
+        "Nguyễn Bính",
+        "Tiểu sử",
+        "Thân thế",
+        "Thi sĩ giang hồ",
+        "Báo Trăm hoa",
+        "Những năm tháng ở Nam Định",
+        "Các tác phẩm",
+        "Những bài thơ phổ nhạc",
+        "Đánh giá",
+        "Tác phẩm",
+        "Tính cách",
+        "Qua đời",
+        "Điềm báo",
+        "Giai thoại",
+        "Gia đình",
+        "Anh em",
+        "Vợ",
+        "Con",
+        "Chú thích",
+        "Bài viết cùng thư mục",
+        "CÁC THỜI KỲ LỊCH SỬ",
+        "Tư Liệu",
+        "Anh Hùng Dân Tộc Tiêu Biểu",
+        "Anh Hùng Dân Tộc Tiêu Biểu",
+        "Tư Liệu Lịch Sử",
+        "Di Tích Lịch Sử"
+    ],
+    "anchors": [
+        {
+            "text": "",
+            "href": "/"
+        },
+        {
+            "text": "Trang Chủ",
+            "href": "/"
+        },
+        {
+            "text": "Dòng Lịch Sử",
+            "href": "/dong-lich-su"
+        },
+        {
+            "text": "Hồng Bàng & Văn Lang",
+            "href": "/dong-lich-su/hong-bang-va-van-lang"
+        },
+        {
+            "text": "Âu Lạc & Nam Việt",
+            "href": "/dong-lich-su/au-lac-va-nam-viet"
+        },
+        {
+            "text": "Bắc thuộc lần I",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat"
+        },
+        {
+            "text": "Trưng Nữ Vương",
+            "href": "/dong-lich-su/trung-nu-vuong"
+        },
+        {
+            "text": "Bắc thuộc lần II",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-hai"
+        },
+        {
+            "text": "Nhà Lý & Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu"
+        },
+        {
+            "text": "Bắc thuộc lần III",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-ba"
+        },
+        {
+            "text": "Thời kỳ xây nền tự chủ",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu"
+        },
+        {
+            "text": "Nhà Ngô",
+            "href": "/dong-lich-su/nha-ngo"
+        },
+        {
+            "text": "Nhà Đinh",
+            "href": "/dong-lich-su/nha-dinh"
+        },
+        {
+            "text": "Nhà Tiền Lê",
+            "href": "/dong-lich-su/nha-tien-le"
+        },
+        {
+            "text": "Nhà Lý",
+            "href": "/dong-lich-su/nha-ly"
+        },
+        {
+            "text": "Nhà Trần",
+            "href": "/dong-lich-su/nha-tran"
+        },
+        {
+            "text": "Nhà Hồ",
+            "href": "/dong-lich-su/nha-ho"
+        },
+        {
+            "text": "Nhà Hậu Trần",
+            "href": "/dong-lich-su/nha-hau-tran"
+        },
+        {
+            "text": "Bắc thuộc lần IV",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-tu"
+        },
+        {
+            "text": "Nhà Hậu Lê",
+            "href": "/dong-lich-su/nha-hau-le"
+        },
+        {
+            "text": "Nam Bắc Triều",
+            "href": "/dong-lich-su/nam-bac-trieu"
+        },
+        {
+            "text": "Trịnh Nguyễn Phân Tranh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh"
+        },
+        {
+            "text": "Nhà Tây Sơn",
+            "href": "/dong-lich-su/nha-tay-son"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/nha-nguyen"
+        },
+        {
+            "text": "Pháp Thuộc",
+            "href": "/dong-lich-su/phap-thuoc"
+        },
+        {
+            "text": "Việt Nam Dân Chủ Cộng Hoà",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Cộng hoà xã hội chủ nghĩa Việt Nam",
+            "href": "/dong-lich-su/viet-nam-xhcn"
+        },
+        {
+            "text": "Tư Liệu",
+            "href": "/tu-lieu"
+        },
+        {
+            "text": "Quân Sự",
+            "href": "/tu-lieu/quan-su?filter_tag[0]="
+        },
+        {
+            "text": "Tác Phẩm",
+            "href": "/tu-lieu/tac-pham?filter_tag[0]="
+        },
+        {
+            "text": "Bang Giao",
+            "href": "/tu-lieu/bang-giao"
+        },
+        {
+            "text": "Biểu đồ thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Nhân Vật",
+            "href": "/nhan-vat"
+        },
+        {
+            "text": "Anh Hùng Dân Tộc",
+            "href": "/anh-hung-dan-toc?types[0]=1"
+        },
+        {
+            "text": "Danh nhân văn hóa",
+            "href": "/danh-nhan-van-hoa?types[0]=1"
+        },
+        {
+            "text": "Di Tích",
+            "href": "/di-tich-lich-su?types[0]=1"
+        },
+        {
+            "text": "Ngày Nay",
+            "href": "/thoi-su"
+        },
+        {
+            "text": "Sách",
+            "href": "/sach"
+        },
+        {
+            "text": "Video",
+            "href": "/video"
+        },
+        {
+            "text": "Q&A",
+            "href": "/hoi-dap"
+        },
+        {
+            "text": "Lịch sử lớp 12",
+            "href": "/hoi-dap/lop-12"
+        },
+        {
+            "text": "Lịch sử lớp 11",
+            "href": "/hoi-dap/lop-11"
+        },
+        {
+            "text": "Lịch sử lớp 10",
+            "href": "/hoi-dap/lop-10"
+        },
+        {
+            "text": "Lịch sử lớp 9",
+            "href": "/hoi-dap/lop-9"
+        },
+        {
+            "text": "Lịch sử lớp 8",
+            "href": "/hoi-dap/lop-8"
+        },
+        {
+            "text": "Lịch sử lớp 7",
+            "href": "/hoi-dap/lop-7"
+        },
+        {
+            "text": "Lịch sử lớp 6",
+            "href": "/hoi-dap/lop-6"
+        },
+        {
+            "text": "Trang chủ",
+            "href": "/"
+        },
+        {
+            "text": "Nhân Vật",
+            "href": "/nhan-vat"
+        },
+        {
+            "text": "Nhân Vật Lịch Sử",
+            "href": "/nhan-vat"
+        },
+        {
+            "text": "Thu / Mở",
+            "href": "#"
+        },
+        {
+            "text": "Tiểu sử",
+            "href": "#tieu-su"
+        },
+        {
+            "text": "Thân thế",
+            "href": "#than-the"
+        },
+        {
+            "text": "Thi sĩ giang hồ",
+            "href": "#thi-si-giang-ho"
+        },
+        {
+            "text": "Báo Trăm hoa",
+            "href": "#bao-tram-hoa"
+        },
+        {
+            "text": "Những năm tháng ở Nam Định",
+            "href": "#nhung-nam-thang-o-nam-dinh"
+        },
+        {
+            "text": "Các tác phẩm",
+            "href": "#cac-tac-pham"
+        },
+        {
+            "text": "Những bài thơ phổ nhạc",
+            "href": "#nhung-bai-tho-pho-nhac"
+        },
+        {
+            "text": "Đánh giá",
+            "href": "#danh-gia"
+        },
+        {
+            "text": "Tác phẩm",
+            "href": "#tac-pham"
+        },
+        {
+            "text": "Tính cách",
+            "href": "#tinh-cach"
+        },
+        {
+            "text": "Qua đời",
+            "href": "#qua-doi"
+        },
+        {
+            "text": "Điềm báo",
+            "href": "#diem-bao"
+        },
+        {
+            "text": "Giai thoại",
+            "href": "#giai-thoai"
+        },
+        {
+            "text": "Gia đình",
+            "href": "#gia-dinh"
+        },
+        {
+            "text": "Anh em",
+            "href": "#anh-em"
+        },
+        {
+            "text": "Vợ",
+            "href": "#vo"
+        },
+        {
+            "text": "Con",
+            "href": "#con"
+        },
+        {
+            "text": "Chú thích",
+            "href": "#chu-thich"
+        },
+        {
+            "text": "huyện Vụ Bản",
+            "href": "/dia-danh/huyen-vu-ban"
+        },
+        {
+            "text": "tỉnh Nam Định",
+            "href": "/dia-danh/tinh-nam-dinh"
+        },
+        {
+            "text": "Nguyễn Văn Thinh",
+            "href": "/nhan-vat/nguyen-van-thinh"
+        },
+        {
+            "text": "Trần Văn Trà",
+            "href": "/nhan-vat/tran-van-tra"
+        },
+        {
+            "text": "Lê Duẩn",
+            "href": "/nhan-vat/le-duan"
+        },
+        {
+            "text": "Lê Văn Hưu",
+            "href": "/nhan-vat/le-van-huu"
+        },
+        {
+            "text": "Nguyễn Hữu Trí",
+            "href": "/nhan-vat/nguyen-huu-tri"
+        },
+        {
+            "text": "nước Việt",
+            "href": "/dia-danh/nuoc-viet"
+        },
+        {
+            "text": "tỉnh Hà Nam",
+            "href": "/dia-danh/tinh-ha-nam"
+        },
+        {
+            "text": "Nguyễn Hiền",
+            "href": "/nhan-vat/nguyen-hien"
+        },
+        {
+            "text": "Nguyễn Mạnh Hùng",
+            "href": "/nhan-vat/nguyen-manh-hung"
+        },
+        {
+            "text": "Bài viết trước: Nguyễn Biểu Trước",
+            "href": "/nhan-vat/nguyen-bieu"
+        },
+        {
+            "text": "Bài viết kế tiếp: Nguyễn Bỉnh Khiêm Tiếp tục",
+            "href": "/nhan-vat/nguyen-binh-khiem"
+        },
+        {
+            "text": "Kinh Dương Vương",
+            "href": "/nhan-vat/kinh-duong-vuong"
+        },
+        {
+            "text": "Lạc Long Quân",
+            "href": "/nhan-vat/lac-long-quan"
+        },
+        {
+            "text": "nhà Chu",
+            "href": "/nhan-vat/nha-chu"
+        },
+        {
+            "text": "Ngô Sĩ Liên",
+            "href": "/nhan-vat/ngo-si-lien"
+        },
+        {
+            "text": "Lý Thái Tổ",
+            "href": "/nhan-vat/ly-thai-to"
+        },
+        {
+            "text": "nhà Thương",
+            "href": "/nhan-vat/nha-thuong"
+        },
+        {
+            "text": "nhà Đường",
+            "href": "/nhan-vat/nha-duong"
+        },
+        {
+            "text": "Triệu Việt Vương",
+            "href": "/nhan-vat/trieu-viet-vuong"
+        },
+        {
+            "text": "nhà Tần",
+            "href": "/nhan-vat/nha-tan"
+        },
+        {
+            "text": "Triệu Đà",
+            "href": "/nhan-vat/trieu-da"
+        },
+        {
+            "text": "Hồng Bàng & Văn Lang",
+            "href": "/dong-lich-su/hong-bang-va-van-lang"
+        },
+        {
+            "text": "Âu Lạc & Nam Việt",
+            "href": "/dong-lich-su/au-lac-va-nam-viet"
+        },
+        {
+            "text": "Bắc thuộc lần I",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat"
+        },
+        {
+            "text": "Nhà Triệu",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat/nha-trieu"
+        },
+        {
+            "text": "Trưng Nữ Vương",
+            "href": "/dong-lich-su/trung-nu-vuong"
+        },
+        {
+            "text": "Bắc thuộc lần II",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-hai"
+        },
+        {
+            "text": "Nhà Lý & Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu"
+        },
+        {
+            "text": "Nhà Tiền Lý",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-tien-ly"
+        },
+        {
+            "text": "Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-trieu"
+        },
+        {
+            "text": "Nhà Hậu Lý",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-hau-ly"
+        },
+        {
+            "text": "Bắc thuộc lần III",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-ba"
+        },
+        {
+            "text": "Thời kỳ xây nền tự chủ",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu"
+        },
+        {
+            "text": "Họ Khúc",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu/ho-khuc"
+        },
+        {
+            "text": "Nhà Ngô",
+            "href": "/dong-lich-su/nha-ngo"
+        },
+        {
+            "text": "Nhà Đinh",
+            "href": "/dong-lich-su/nha-dinh"
+        },
+        {
+            "text": "Nhà Tiền Lê",
+            "href": "/dong-lich-su/nha-tien-le"
+        },
+        {
+            "text": "Nhà Lý",
+            "href": "/dong-lich-su/nha-ly"
+        },
+        {
+            "text": "Nhà Trần",
+            "href": "/dong-lich-su/nha-tran"
+        },
+        {
+            "text": "Nhà Hồ",
+            "href": "/dong-lich-su/nha-ho"
+        },
+        {
+            "text": "Nhà Hậu Trần",
+            "href": "/dong-lich-su/nha-hau-tran"
+        },
+        {
+            "text": "Bắc thuộc lần IV",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-tu"
+        },
+        {
+            "text": "Nhà Hậu Lê",
+            "href": "/dong-lich-su/nha-hau-le"
+        },
+        {
+            "text": "Nam Bắc Triều",
+            "href": "/dong-lich-su/nam-bac-trieu"
+        },
+        {
+            "text": "Nhà Lê Trung Hưng",
+            "href": "/dong-lich-su/nam-bac-trieu/nha-le-trung-hung"
+        },
+        {
+            "text": "Nhà Mạc",
+            "href": "/dong-lich-su/nam-bac-trieu/nha-mac"
+        },
+        {
+            "text": "Trịnh Nguyễn Phân Tranh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh"
+        },
+        {
+            "text": "Nhà Lê Trung Hưng",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/nha-le-trung-hung"
+        },
+        {
+            "text": "Chúa Trịnh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-trinh"
+        },
+        {
+            "text": "Chúa Nguyễn",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen"
+        },
+        {
+            "text": "Nhà Tây Sơn",
+            "href": "/dong-lich-su/nha-tay-son"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/nha-nguyen"
+        },
+        {
+            "text": "Pháp Thuộc",
+            "href": "/dong-lich-su/phap-thuoc"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/phap-thuoc/nha-nguyen"
+        },
+        {
+            "text": "Những cuộc khởi nghĩa chống thực dân Pháp",
+            "href": "/dong-lich-su/phap-thuoc/khoi-nghia-chong-phap"
+        },
+        {
+            "text": "Đảng Cộng Sản Việt Nam",
+            "href": "/dong-lich-su/phap-thuoc/dang-cong-san-viet-nam"
+        },
+        {
+            "text": "Việt Nam Dân Chủ Cộng Hoà",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Kháng chiến chống Pháp",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-phap"
+        },
+        {
+            "text": "Kháng chiến chống Mĩ",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-mi"
+        },
+        {
+            "text": "Cộng hoà xã hội chủ nghĩa Việt Nam",
+            "href": "/dong-lich-su/viet-nam-xhcn"
+        },
+        {
+            "text": "Trận Điện Biên Phủ trên không năm 1972",
+            "href": "/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972"
+        },
+        {
+            "text": "Chiến tranh biên giới Tây Nam năm 1975 - 1978",
+            "href": "/tu-lieu/quan-su/chien-tranh-bien-gioi-tay-nam-nam-1975-1978"
+        },
+        {
+            "text": "Chiến dịch Mùa Xuân năm 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-mua-xuan-nam-1975"
+        },
+        {
+            "text": "Hải chiến Trường Sa năm 1988",
+            "href": "/tu-lieu/quan-su/hai-chien-truong-sa-nam-1988"
+        },
+        {
+            "text": "Chiến dịch Đường 14 - Phước Long năm 1974 - 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-duong-14-phuoc-long-nam-1974-1975"
+        },
+        {
+            "text": "Chiến dịch Tây Nguyên năm 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-tay-nguyen-nam-1975"
+        },
+        {
+            "text": "Trận Mậu Thân tại Huế năm 1968",
+            "href": "/tu-lieu/quan-su/tran-mau-than-tai-hue-nam-1968"
+        },
+        {
+            "text": "Bảng đối chiếu các triều đại Việt Nam và các triều đại Trung Quốc",
+            "href": "/tu-lieu/bang-doi-chieu-cac-trieu-dai-viet-nam-va-cac-trieu-dai-trung-quoc"
+        },
+        {
+            "text": "Bình Ngô đại cáo - bản tuyên ngôn độc lập thứ hai",
+            "href": "/tu-lieu/tac-pham/binh-ngo-dai-cao-ban-tuyen-ngon-doc-lap-thu-hai"
+        },
+        {
+            "text": "Lãnh thổ Việt Nam qua từng thời kỳ",
+            "href": "/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky"
+        },
+        {
+            "text": "Trận Đồi Thịt Băm năm 1969",
+            "href": "/tu-lieu/quan-su/tran-doi-thit-bam-nam-1969"
+        },
+        {
+            "text": "Chiến dịch Đắk Tô năm 1972",
+            "href": "/tu-lieu/quan-su/chien-dich-dak-to-nam-1972"
+        },
+        {
+            "text": "Nam quốc sơn hà - Bản tuyên ngôn độc lập đầu tiên",
+            "href": "/tu-lieu/tac-pham/nam-quoc-son-ha-ban-tuyen-ngon-doc-lap-dau-tien"
+        },
+        {
+            "text": "Tuyên ngôn độc lập Việt Nam Dân chủ Cộng hòa",
+            "href": "/tu-lieu/tac-pham/tuyen-ngon-doc-lap-viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Trận Bản Đông năm 1971",
+            "href": "/tu-lieu/quan-su/tran-ban-dong-nam-1971"
+        },
+        {
+            "text": "Trận Rạch Gầm \u2013 Xoài Mút năm 1785",
+            "href": "/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785"
+        },
+        {
+            "text": "Lịch sử Chữ viết tiếng Việt",
+            "href": "/tu-lieu/lich-su-chu-viet-tieng-viet"
+        },
+        {
+            "text": "Hịch tướng sĩ - Dụ chư tỳ tướng hịch văn",
+            "href": "/tu-lieu/tac-pham/hich-tuong-si-du-chu-ty-tuong-hich-van"
+        },
+        {
+            "text": "Danh sách Trạng nguyên Việt Nam",
+            "href": "/tu-lieu/danh-sach-trang-nguyen-viet-nam"
+        },
+        {
+            "text": "Hội nghị Paris, mặt trận ngoại giao năm 1968-1972",
+            "href": "/tu-lieu/bang-giao/hoi-nghi-paris-mat-tran-ngoai-giao-nam-1968-1972"
+        },
+        {
+            "text": "Ngô Quyền",
+            "href": "/nhan-vat/ngo-quyen"
+        },
+        {
+            "text": "Đinh Tiên Hoàng",
+            "href": "/nhan-vat/dinh-tien-hoang"
+        },
+        {
+            "text": "Hồ Chí Minh",
+            "href": "/nhan-vat/ho-chi-minh"
+        },
+        {
+            "text": "Trần Nhân Tông",
+            "href": "/nhan-vat/tran-nhan-tong"
+        },
+        {
+            "text": "Lý Thường Kiệt",
+            "href": "/nhan-vat/ly-thuong-kiet"
+        },
+        {
+            "text": "Hùng Vương",
+            "href": "/nhan-vat/hung-vuong"
+        },
+        {
+            "text": "Lê Đại Hành",
+            "href": "/nhan-vat/le-dai-hanh"
+        },
+        {
+            "text": "Nguyễn Trãi",
+            "href": "/nhan-vat/nguyen-trai"
+        },
+        {
+            "text": "Trần Hưng Đạo",
+            "href": "/nhan-vat/tran-hung-dao"
+        },
+        {
+            "text": "Lý Nam Đế",
+            "href": "/nhan-vat/ly-nam-de"
+        },
+        {
+            "text": "Lê Thái Tổ",
+            "href": "/nhan-vat/le-thai-to"
+        },
+        {
+            "text": "Hai Bà Trưng",
+            "href": "/nhan-vat/hai-ba-trung"
+        },
+        {
+            "text": "Nguyễn Huệ",
+            "href": "/nhan-vat/nguyen-hue"
+        },
+        {
+            "text": "Lý Thái Tổ",
+            "href": "/nhan-vat/ly-thai-to"
+        },
+        {
+            "text": "Ngô Quyền",
+            "href": "/nhan-vat/ngo-quyen"
+        },
+        {
+            "text": "Hồ Chí Minh",
+            "href": "/nhan-vat/ho-chi-minh"
+        },
+        {
+            "text": "Trần Hưng Đạo",
+            "href": "/nhan-vat/tran-hung-dao"
+        },
+        {
+            "text": "Hai Bà Trưng",
+            "href": "/nhan-vat/hai-ba-trung"
+        },
+        {
+            "text": "Trần Nhân Tông",
+            "href": "/nhan-vat/tran-nhan-tong"
+        },
+        {
+            "text": "Nguyễn Huệ",
+            "href": "/nhan-vat/nguyen-hue"
+        },
+        {
+            "text": "Lý Thường Kiệt",
+            "href": "/nhan-vat/ly-thuong-kiet"
+        },
+        {
+            "text": "Lý Thái Tổ",
+            "href": "/nhan-vat/ly-thai-to"
+        },
+        {
+            "text": "Lý Nam Đế",
+            "href": "/nhan-vat/ly-nam-de"
+        },
+        {
+            "text": "Đinh Tiên Hoàng",
+            "href": "/nhan-vat/dinh-tien-hoang"
+        },
+        {
+            "text": "Vấn đề biên giới Việt-Trung thời Mạc",
+            "href": "/tu-lieu/bang-giao/van-de-bien-gioi-viet-trung-thoi-mac"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Tây Sơn",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-tay-son"
+        },
+        {
+            "text": "Biểu đồ các nhân vật lịch sử theo dòng thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Danh sách Trạng nguyên Việt Nam",
+            "href": "/tu-lieu/danh-sach-trang-nguyen-viet-nam"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Nguyễn",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-nguyen"
+        },
+        {
+            "text": "Trận Điện Biên Phủ trên không năm 1972",
+            "href": "/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972"
+        },
+        {
+            "text": "Trận Ngọc Hồi - Đống Đa năm 1789",
+            "href": "/tu-lieu/quan-su/tran-ngoc-hoi-dong-da-nam-1789"
+        },
+        {
+            "text": "Trận Cẩm Sa năm 1775",
+            "href": "/tu-lieu/quan-su/tran-cam-sa-nam-1775"
+        },
+        {
+            "text": "Trận Rạch Gầm \u2013 Xoài Mút năm 1785",
+            "href": "/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785"
+        },
+        {
+            "text": "Lãnh thổ Việt Nam qua từng thời kỳ",
+            "href": "/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky"
+        },
+        {
+            "text": "Chiến khu Tân Trào",
+            "href": "/dia-danh/chien-khu-tan-trao"
+        },
+        {
+            "text": "Thành cổ Quảng Trị",
+            "href": "/dia-danh/thanh-co-quang-tri"
+        },
+        {
+            "text": "Dinh Độc Lập",
+            "href": "/dia-danh/dinh-doc-lap"
+        },
+        {
+            "text": "Đền Trần (Thái Bình)",
+            "href": "/dia-danh/den-tran-thai-binh"
+        },
+        {
+            "text": "Khu di tích Pác Bó",
+            "href": "/dia-danh/khu-di-tich-pac-bo"
+        },
+        {
+            "text": "Khu lăng mộ và đền thờ các vị vua triều Lý",
+            "href": "/dia-danh/khu-lang-mo-va-den-tho-cac-vi-vua-trieu-ly"
+        },
+        {
+            "text": "Khu lưu niệm Chủ tịch Tôn Đức Thắng",
+            "href": "/dia-danh/khu-luu-niem-chu-tich-ton-duc-thang"
+        },
+        {
+            "text": "Đền Phù Đổng",
+            "href": "/dia-danh/den-phu-dong"
+        },
+        {
+            "text": "Văn Miếu - Quốc Tử Giám",
+            "href": "/dia-danh/van-mieu-quoc-tu-giam"
+        },
+        {
+            "text": "Đền Hùng",
+            "href": "/dia-danh/den-hung"
+        },
+        {
+            "text": "Giới thiệu",
+            "href": "/gioi-thieu"
+        },
+        {
+            "text": "Quyền riêng tư",
+            "href": "/quyen-rieng-tu"
+        },
+        {
+            "text": "Liên hệ",
+            "href": "/lien-he"
+        },
+        {
+            "text": "Địa Danh",
+            "href": "/dia-danh"
+        },
+        {
+            "text": "Trang Facebook",
+            "href": "https://www.facebook.com/nguoikesu/"
+        },
+        {
+            "text": "DanhMucBDS.com",
+            "href": "https://danhmucbds.com"
+        },
+        {
+            "text": "HocTotNguVan.com",
+            "href": "https://hoctotnguvan.com"
+        }
+    ],
+    "title": "Nguyễn Bính - Người Kể Sử",
+    "paragraphs": [
+        "Nguyễn Bính (tên thật là Nguyễn Trọng Bính; 1918\u20131966) là một nhà thơ lãng mạn nổi tiếng của Việt Nam. Ông được coi như là nhà thơ của làng quê Việt Nam với những bài thơ mang sắc thái dân dã, mộc mạc.",
+        "",
+        "",
+        "Nguyễn Bính sinh ngày 13-2-1918, tức mồng ba Tết năm Mậu Ngọ với tên thật là Nguyễn Trọng Bính tại xóm Trạm, thôn Thiện Vịnh, xã Đồng Đội (nay là xã Cộng Hòa), huyện Vụ Bản, tỉnh Nam Định.1",
+        "Cha Nguyễn Bính tên là Nguyễn Đạo Bình, làm nghề dạy học, còn mẹ ông là bà Bùi Thị Miện, con gái một gia đình khá giả. Ông bà sinh được ba người con trai là Nguyễn Mạnh Phác (Trúc Đường), Nguyễn Ngọc Thụ và Nguyễn Bính.",
+        "Bà Miện bị rắn độc cắn rồi mất năm 1918, lúc đó bà mới 24 tuổi. Để lại cho ông Bình ba đứa con thơ, khi đó Nguyễn Mạnh Phác mới sáu tuổi, Nguyễn Ngọc Thụ ba tuổi và Nguyễn Bính mới sinh được ba tháng. Đúng như câu thơ ông viết:",
+        "Mấy năm sau ông Bình cưới bà Phạm Thị Duyên làm vợ kế (bà sinh được bốn người con, hai trai hai gái).",
+        "Bà cả Giần là chị ruột của mẹ Nguyễn Bính, nhà bà lại giàu có, nên bà cùng ông Bùi Trình Khiêm là cậu ruột của Nguyễn Bính và là cha của nhà văn Bùi Hạnh Cẩn, đón ba anh em Nguyễn Bính về nuôi cho ăn học. Nguyễn Bính làm thơ từ thuở bé, được cậu Khiêm khen hay nên được cưng",
+        "Năm 13 tuổi Nguyễn Bính được giải nhất trong cuộc thi hát trống quân đầu xuân ở hội làng với sáng tác:",
+        "Trúc Đường thi đỗ thành trung (đíp-lôm) vào loại giỏi ở Hà Nội, rồi dạy học trong một trường tư thục ở Hà Đông, Trúc Đường bắt đầu viết văn và làm thơ. Ông đón Nguyễn Bính lên và truyền đạt cho Nguyễn Bính văn học Pháp. Cuộc đời của Nguyễn Bính gắn bó Với Trúc Đường cả về văn chương và đời sống.",
+        "Năm 1932, 1933 Nguyễn Bính có theo người bạn học ở thôn Vân lên Đồng Hỷ, Thái Nguyên dạy học, có lẽ những vần thơ như:",
+        "Là được Nguyễn Bính viết trong thời gian này.",
+        "Bài thơ của ông được đăng báo đầu tiên là bài Cô hái mơ. Năm 1937 Nguyễn Bính gửi tập thơ Tâm hồn tôi tới dự thi và đã được giải khuyến khích của nhóm Tự lực văn đoàn. Họa sĩ Nguyệt Hồ nhớ lại: Tôi quen Nguyễn Bính từ khi anh chưa có tiếng tăm gì, ngày ngày ôm tập thơ đến làm quen với các tòa soạn báo. Tôi thích thơ anh và đã giới thiệu anh với Lê Tràng Kiều, chủ bút Tiểu thuyết Thứ Năm, đã đăng bài \"Cô hái mơ\", bài thơ đầu tiên của anh đăng báo. Tôi khuyên anh gửi thơ dự thi, và anh đã chiếm giải thưởng của Tự Lực Văn Đoàn... chúng tôi thân nhau từ đó, khoảng 1936-1940, quãng đầu đời thơ của anh,...3",
+        "Từ năm 1940, Nguyễn Bính bắt đầu nổi tiếng với số lượng thơ khá dày, đề tài phong phú, trong đó chủ yếu là thơ tình. Cũng trong năm này Trúc Đường chuyển ra Hà Nội ở và đang viết truyện dài Nhan sắc, Nguyễn Bính tỏ ý muốn đi Huế tìm đề tài sáng tác. Trúc Đường tán thành nhưng không có tiền, ông đã cho Nguyễn Bính chiếc máy ảnh và về quê bán dãy thềm đá xanh (vật báu duy nhất của gia đình) đưa tất cả số tiền cho Nguyễn Bính.",
+        "Vào Huế Nguyễn Bính Gửi thơ ra cho Trúc Đường đọc trước, rồi đăng báo sau. Cuối năm 1941, đầu năm 1942, Trúc Đường nhận được nhiều bài thơ của Nguyễn Bính trong đó có: Xuân tha hương và Oan nghiệt. Sau đó Nguyễn Bính lại trở về Hà Nội, rồi lại đi vào Sài Gòn.",
+        "Lần chia tay cuối cùng với Trúc Đường là vào năm 1943, đến năm 1945 tin tức thưa dần. Năm 1946 thì mất liên lạc hẳn. Trong thời gian này Nguyễn Bính đã gặp nhà thơ Đông Hồ, Kiên Giang. Có lúc ông cư ngụ trong nhà Kiên Giang. Đó là thời ông viết những bài Hành Phương Nam, Tặng Kiên Giang, Từ Độ Về Đây,...",
+        "Cũng trong thời gian này Nguyễn Văn Thinh (Thủ tướng chính phủ \"Nam Kỳ tự trị\") có treo giải: Ai đưa được nhà thơ Nguyễn Bính \"dinh tê\" (vào thành) theo chính phủ (\"Nam Kỳ tự trị\") sẽ được thưởng 1000 đồng Đông Dương! Nếu nhà thơ tự vào thành cũng được hưởng như thế (1000 đồng Đông Dương hồi đó là cả một cơ nghiệp). Nhiều thi sĩ là bạn Nguyễn Bính viết thư \"thuyết khách\" mời ông vào. Hồi đó ông đang lang thang ở Rạch Giá, ngày thì ăn ở nhờ một người bạn, đêm ra đình ngủ, ông chỉ có cái bao cói để chui vào cho khỏi muỗi, nên có nhiều người tưởng ông vào thành với Chính phủ Cộng hòa Nam Kỳ. Ấy vậy mà trong một bài thơ của mình ông đã viết hai câu khẳng định:",
+        "Năm 1947 Nguyễn Bính đi theo Việt Minh, việc này được Bảo Định Giang nhớ lại: Tôi không nhớ rõ cuối 1947 hay đầu năm 1948, khoảng 3 giờ chiều, em bé giúp việc cho tôi chạy vào nơi tôi làm việc bảo: \"Có một người xưng là Nguyễn Bính đến đây muốn gặp chú\"... Trên thực tế, Nguyễn Bính đã gia nhập đội ngũ Vệ quốc đoàn từ 3 giờ chiều hôm đó vì Bộ Tư lệnh là đồng chí Trần Văn Trà và đồng chí Nguyễn Văn Vịnh đã chấp nhận yêu cầu của tôi ngay ngày hôm sau. Chẳng những chấp nhận mà các đồng chí còn dặn tôi: \"đối đãi đàng hoàng, chăm sóc chu đáo tác giả Lỡ bước sang ngang\"",
+        "Nhưng theo lời giới thiệu của Đỗ Đình Thọ trong tập Thơ tình Nguyễn Bính, xuất bản năm 1991 thì Nguyễn Bính đã đến với cách mạng khá sớm - ngay từ 1945 trước ngày khởi nghĩa tháng tám.",
+        "Một thời gian sau, nhờ sự mai mối của ông Lê Duẩn, ông kết hôn với bà Nguyễn Hồng Châu (một cán bộ Việt Minh), ông sinh một con gái với bà này, đặt tên là Nguyễn Bính Hồng Cầu. Sau đó ông lại kết hôn với bà Mai Thị Mới, ở ấp Hương Mai, xã Khánh Lâm, huyện U Minh và lại sinh một con gái được đặt tên là Nguyễn Hương Mai. Trong thời gian này máy bay Pháp lượn vòng từ đập đá dài theo kênh Chắc Băng xuống Thới Bình, rải truyền đơn kêu gọi đích danh tác giả \"Lỡ bước sang ngang\" - Nguyễn Bính \"quay về với chính nghĩa Quốc gia để được trọng đãi\".4",
+        "Năm 1954 theo Hiệp định Genève, Nguyễn Bính cũng như bao cán bộ Việt Minh khác tập kết ra Bắc. Ông về công tác tại Nhà xuất bản Văn nghệ, sau đó ông làm chủ bút báo Trăm hoa.",
+        "Lúc đầu Trăm hoa là một tờ báo do Nguyễn Mạnh Phác làm Chủ nhiệm, còn có phụ đề là \"tuần báo tiểu thuyết\", toà soạn đặt tại 15 Hai Bà Trưng, Hà Nội, gọi là tuần báo nhưng khuôn khổ lại có vẻ \"tạp chí\" nhiều hơn. Số 1 ra ngày 2/9/1955. Tờ Trăm hoa loại cũ cỡ nhỏ này ra được cả thảy 31 số, tồn tại từ tháng 9/1955 đến giữa tháng 5/1956; mỗi số thường có 26 trang ruột và 4 trang bìa, khổ báo 18x26 cm; ban đầu trang bìa chỉ ghi chức danh Chủ nhiệm Nguyễn Mạnh Phác; từ số 11 (19/11/1955) trên tiêu đề mới xuất hiện thêm chức danh Chủ bút Nguyễn Bính.",
+        "Tuần báo Trăm hoa do Nguyễn Bính làm Chủ nhiệm kiêm Chủ bút là Trăm hoa loại mới, toà soạn đặt tại 17 Lê Văn Hưu, Hà Nội; số một loại mới ra ngày thứ bảy 20/10/1956; sau số 11 (chủ nhật 6/1/1957) là hai số cuối cùng, đều không đánh số: Trăm hoa Xuân, và Trăm hoa số đặc biệt đầu Xuân, đều phát hành trước và sau Tết Ất tỵ. Trăm hoa số thường gồm 8 trang in typo 28x40cm giá bán 300 đ; hai số cuối là hai đặc san: Trăm hoa Xuân gồm 24 trang giá bán 1000 đ, phát hành từ 23 Tết; Trăm hoa số đặc biệt đầu Xuân gồm 16 trang giá bán 600 đ, phát hành đầu xuân Ất tỵ.",
+        "Gọi là ban biên tập tòa soạn nhưng thực tế chỉ có bốn người đó là: Nguyễn Bính; Nguyễn Thị Hạnh (con gái Nguyễn Mạnh Phác); Phạm Vân Thanh (vợ Nguyễn Bính); và một người được Nguyễn Bính tuyển từ Nam Định lên tên là Trần Đức Quyền, ông này lấy bút danh là Tùng Quân",
+        "Cả hai tờ Trăm hoa và Trăm hoa loại mới đều là báo tư nhân. Trăm hoa của Nguyễn Mạnh Phác (Trúc Đường) bị \"chết\" vì lỗ vốn, thì ít lâu sau Nguyễn Bính tục bản thành Trăm hoa loại mới, và tờ này cũng lại \"chết\" vì lỗ vốn. Ở miền Bắc khi đó báo chí và xuất bản tư nhân còn được phép tồn tại, nhưng phải bán với giá cao vì phải mua giấy giá cao hơn so với giá cung cấp dành cho các báo nhà nước và đoàn thể; các cơ sở phát hành lớn của hệ thống \"hiệu sách nhân dân\" không nhận bán các báo tư nhân; ngoài ra còn một trở ngại đáng kể là cán bộ chính quyền và đoàn thể các địa phương thường gây trở ngại cho phóng viên và người phát hành các báo tư nhân.",
+        "Theo hồi ức của Tô Hoài: không biết ai đã giúp tiền cho Nguyễn Bính ra những số báo Trăm hoa đầu tiên, thế rồi \"cấp trên\" có sáng kiến lấy giấy và tiền nhà xuất bản Văn nghệ giúp Trăm hoa, và chính Tô Hoài được giao nhiệm vụ \"thuyết phục một tờ báo tư nhân nhưng có tiếng nói chống những luận điệu ngang ngược của báo Nhân văn giai phẩm. Theo Tô Hoài, do sự can thiệp này, \"tờ Trăm hoa rõ ra một vẻ khác. Không về bè với Nhân văn giai phẩm, nhưng chẳng đi với ai \". Cấp trên của Tô Hoài nhận xét từng số từng bài, \"cho là chưa đủ hơi sức hỗ trợ cần thiết\". Tô Hoài đem nhận xét ấy bàn lại với Nguyễn Bính. Nguyễn Bính bảo Tô Hoài: Trăm hoa phải thế mới là báo của Nguyễn Bính chứ. Nếu không thì mày làm quách cho xong !. Sáng kiến \"đầu tư\" cho Trăm hoa kết thúc ở đấy. Một buổi tối, Nguyễn Bính rủ Tô Hoài đến ăn ở nhà hàng Lục Quốc. Nguyễn Bính bảo: Hôm nay ăn cỗ đám ma Trăm hoa!5 .",
+        "Chu Văn viết về Nguyễn Bính trong lời bạt của cuốn Tuyển tập Nguyễn Bính như sau: Nguyễn Bính về Nam Hà, tuổi gần năm mươi, gầy, đen, tóc cắt ngắn gần như trọc. Anh ăn mặc thật giản dị: một sơ mi nâu, một quần ka ki bạc màu, và đôi dép cao su. Toàn bộ hình thức ấy không gợi một vẻ gì một nhà thơ lớn trước - sau này người ta gọi là \"thi nhân tiền chiến\". Anh cười đôi mắt nâu, sắc sảo, ánh hơi lạnh, và nụ cười khô, hàm răng ám khói thuốc lào. 6",
+        "Trong suốt 30 năm, Nguyễn Bính đã sáng tác nhiều thể loại như thơ, kịch, truyện thơ... Ông sáng tác rất mạnh, viết rất đều và sống hết mình cho sự nghiệp thi ca. Ông được đông đảo độc giả công nhận như một trong các nhà thơ xuất sắc nhất của thi ca Việt Nam hiện đại.: Một số tác phẩm:",
+        "Ngoài những tác phẩm kể trên, còn một số bài thơ viết trong năm 1964, 1965 và 1966 chưa kịp xuất bản.",
+        "Thơ Nguyễn Bính có nhiều bài được phổ nhạc và cũng có nhiều nhạc sĩ phổ nhạc cho thơ của ông:",
+        "Các tác phẩm của Nguyễn Bính có thể chia làm hai dòng \"lãng mạn\" và \"cách mạng\" mà dòng nào cũng có số lượng đồ sộ nhưng khi nói về Nguyễn Bính là nói về nhà thơ lãng mạn của làng quê Việt Nam. Thơ Nguyễn Bính đến với bạn đọc như một cô gái quê kín đáo, mịn mà, duyên dáng. Người đọc thấy ở thơ ông những nét dung dị, đằm thắm, thiết tha, đậm sắc hồn dân tộc, gần gũi với ca dao. Cái tình trong thơ Nguyễn Bính luôn luôn mặn mà, mộc mạc, sâu sắc và tế nhị hợp với phong cách, tâm hồn của người Á Đông. Vì vậy thơ Nguyễn Bính sớm đi sâu vào tâm hồn của nhiều lớp người và đã chiếm lĩnh được cảm tình của đông đảo bạn đọc từ thành thị đến nông thôn. Đặc biệt là lớp người bình dân, họ thuộc lòng, ngâm nga nhiều nhất. Vì ngoài phần ngôn ngữ bình dân dễ hiểu, dễ thuộc còn một vấn đề khác khiến thơ ông trường tồn chính là tiếng nói trong thơ ông cũng là tiếng nói của trái tim nhân dân thời đó.",
+        "Trong khi hầu hết các thi sĩ trong phong trào Thơ mới chịu ảnh hưởng của thơ phương Tây, Nguyễn Bính lại gắn bó và hấp thụ tinh hoa ca dao, dân ca, truyện thơ dân gian cả về nội dung lẫn hình thức. Bài thơ \"Chân quê\" chính là tuyên ngôn của thơ Nguyễn Bính.",
+        "Thơ ông biểu hiện cảnh quê, thắm được tình quê, hồn quê nước Việt với một sắc thái lãng mạn. Người ta gặp trong thơ Nguyễn Bính những hình ảnh bình dị, thân quen: hàng cau, giàn trầu, rặng mùng tơi, cây bưởi, thôn Đoài, thôn Đông,.... Tâm sự của người con gái trong Lỡ bước sang ngang của ông cũng là tâm sự của rất nhiều phụ nữ Việt Nam thời kỳ đó. Hình ảnh những cô thôn nữ trong trắng, những chàng trai quê chất phác luôn được Nguyễn Bính mô tả trong tình yêu lãng mạn nhưng đều dang dở, chua xót đã đi vào lòng độc giả nhiều thế hệ Việt Nam. Nguyễn Bính sử dụng rất nhuần nhuyễn thể thơ lục bát, vì vậy thơ ông càng dễ phổ cập.",
+        "Hầu như ai cũng biết rằng nhà thơ Nguyễn Bính qua đời vào một ngày giáp Tết Bính Ngọ (1966), chính xác là ngày 29 Tết (tháng chạp này không có ngày 30). Tuy nhiên, kể về cái chết của ông thì mỗi người nói một kiểu, không thống nhất. Theo nhà văn Vũ Bão, người bạn thân thiết với Nguyễn Bính ở Ty Văn hóa Hà Nam và là người hỏi những người chứng kiến sự ra đi của Nguyễn Bính sớm nhất (mùng 4 tết) ông đã kể lại như sau:",
+        "Thường những bài thơ tuyệt mệnh cuối cùng, người ta hay tìm ra những \"dấu hiệu\" vĩnh biệt cõi đời và người ta cho là sái, là điềm gở chết.",
+        "Ví như Tản Đà, khi ông viết bài thơ xuân 1939, có câu: Tính trăm tuổi đời người ta có nửa. Tháng 6 năm ấy ông mất thọ đúng 50 tuổi, câu thơ thật sái.",
+        "Nguyễn Bính cũng vậy, trong cuốn Tuyển tập Nguyễn Bính, nhà văn Chu Văn kể: Cuối năm 1965, nhằm chuẩn bị cho kỷ niệm 200 năm ngày sinh Nguyễn Du - người mà Nguyễn Bính vốn coi như \"tổ sư\" của mình trong lĩnh vực làm thơ (Nguyễn Bính chẳng phục nhà thơ nào, chỉ trừ... Nguyễn Du!), báo Xuân năm Bính Ngọ ra số đặc biệt với nhiều bài vở về Nguyễn Du (1966). Hôm duyệt bài báo Tết, Nguyễn Bính cười thật tươi, tay cầm một xấp giấy mỏng, khoe: \"Chỉ trong một đêm, tôi đã viết được một bài tập Kiều, vịnh cụ Tiên Điền\". Nguyễn Bính không cho ai xem mà chờ cho đến lúc đông đủ anh em mới trịnh trọng giở những trang giấy được viết thật công phu, chữ đẹp như xếp, rồi hắng giọng ngân nga: \"Kính tặng cụ Nguyễn Du và Truyện Kiều\":",
+        "Cả hội đồng duyệt bài số báo Tết hôm ấy, cùng lặng đi. Một bài tập Kiều thật hay. Nhưng nghe ra... đây tuy đề là tặng cụ Tiên Điền mà sao cứ như tâm sự của Nguyễn Bính, tổng kết cái cuộc đời thơ tài hoa long đong lận đận về... Những câu sau cùng, sao mà nó sái quá. Một lời là một vận vào khó nghe. Nguyễn Bính cười trừ: \"Các ông mê tín! Cứ hay là được rồi. Tôi xin nộp bài này. Một câu một chữ không sửa!\"...",
+        "... Mùng sáu tháng giêng ta, tôi lên Hội Nhà văn thông báo về việc anh Bính mất. Gặp Tô Hoài, cũng ngậm ngùi nói chuyện về người bạn mới mất. Sau đó, tôi tìm đến nhà Trần Lê Văn. Nghe tin Bính mất, Trần Lê Văn tròn xoe mắt kinh ngạc: \"Bính chết thật ư? Bao giờ?\". \"Ba mươi Tết, trước giao thừa\". Trần Lê Văn bỗng xịu mặt, đấm vào đùi bình bịch: \"Biết mà! Biết mà! Chết trước mồng một, đã lường thấy từ bao giờ\". Tôi gặng hỏi: \"Sao anh lại nói vậy?\". Trần Lê Văn nói như gắt: \"Ô kìa! Năm mới tháng giêng mồng một Tết. Còn nguyên vẹn cả một mùa xuân\",7 rồi \"... Giờ đây chín vạn bông hoa nở/Riêng có tình ta khép lại thôi\".8 Nó để mùa xuân nguyên vẹn cho người. Nó đi mà\". Tôi sực nhớ bài tập Kiều Lời lời lệ sa máu rỏ đăng trân trọng trong số báo Tết. Ôi, thương quá! Chẳng lẽ trong thơ có quỷ, có ma thật chăng?!...",
+        "Cùng cha mẹ (con bà Bùi Thị Miện)",
+        "Cùng cha khác mẹ (con bà Phạm Thị Duyên)",
+        "Vợ đầu: Nguyễn Lục Hà (Tức Nguyễn Hồng Châu - cán bộ Việt Minh)",
+        "Vợ hai: Mai Thị Mới",
+        "Vợ ba: Phạm Vân Thanh (không chính thức)",
+        "Vợ tư: Trần Thị Lai",
+        "Nguyễn Bính Hồng Cầu - Con bà Hồng Châu (vợ đầu)",
+        "Nguyễn Hương Mai - con bà Mai Thị Mới",
+        "Nguyễn Hiền (mất tích khi còn nhỏ) - con bà Phạm Vân Thanh (vợ không chính thức)",
+        "Nguyễn Mạnh Hùng (hiện đang sinh sống ở Nga) - con bà Trần Thị Lai",
+        "(Nguồn: Wikipedia)"
+    ]
+}

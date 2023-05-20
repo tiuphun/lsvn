@@ -1,0 +1,909 @@
+{
+    "tables": [
+        "<table class=\"infobox\">\n <tbody>\n  <tr>\n   <th colspan=\"2\">Núi Thành<\/th>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\">Huyện<\/td>\n  <\/tr>\n  <tr>\n   <th colspan=\"2\">Địa lý<\/th>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Diện tích<\/th>\n   <td>533,02<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Dân số<\/th>\n   <td>&nbsp;<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\"><span>&nbsp;Tổng cộng<\/span><\/th>\n   <td>142.020 người<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\"><span>&nbsp;Mật độ<\/span><\/th>\n   <td>266<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Dân tộc<\/th>\n   <td>Người Kinh, Người Cor<\/td>\n  <\/tr>\n  <tr>\n   <th colspan=\"2\">Hành chính<\/th>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Huyện lỵ<\/th>\n   <td>Thị trấn Núi Thành<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\"><span>&nbsp;Chủ tịch&nbsp;UBND<\/span><\/th>\n   <td>Nguyễn Văn Mau<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\"><span>&nbsp;Chủ&nbsp;tịch&nbsp;HĐND<\/span><\/th>\n   <td>Nguyễn Tiến<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\"><span>&nbsp;Bí&nbsp;thư&nbsp;Huyện&nbsp;ủy<\/span><\/th>\n   <td>Nguyễn Tiến<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Phân&nbsp;chia hành&nbsp;chính<\/th>\n   <td>16 và 1 thị trấn<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Website<\/th>\n   <td>www.nuithanh.gov.vn<\/td>\n  <\/tr>\n <\/tbody>\n<\/table>",
+        "<table class=\"wikitable table table-striped\">\n <tbody>\n  <tr>\n   <th>STT<\/th>\n   <th>Tên đơn vị hành chính<\/th>\n   <th>Diện tích (ha)<\/th>\n   <th>Dân số (người)<\/th>\n  <\/tr>\n  <tr>\n   <td>1<\/td>\n   <td>Thị trấn Núi Thành<\/td>\n   <td>457,48<\/td>\n   <td>10.001<\/td>\n  <\/tr>\n  <tr>\n   <td>2<\/td>\n   <td>Xã Tam Xuân 1<\/td>\n   <td>1.727,25<\/td>\n   <td>12.341<\/td>\n  <\/tr>\n  <tr>\n   <td>3<\/td>\n   <td>Xã Tam Xuân 2<\/td>\n   <td>2.359,28<\/td>\n   <td>11.891<\/td>\n  <\/tr>\n  <tr>\n   <td>4<\/td>\n   <td>Xã Tam Tiến<\/td>\n   <td>2.091,43<\/td>\n   <td>11.371<\/td>\n  <\/tr>\n  <tr>\n   <td>5<\/td>\n   <td>Xã Tam Sơn<\/td>\n   <td>5.402,46<\/td>\n   <td>4.664<\/td>\n  <\/tr>\n  <tr>\n   <td>6<\/td>\n   <td>Xã Tam Thạnh<\/td>\n   <td>5.395,80<\/td>\n   <td>4.056<\/td>\n  <\/tr>\n  <tr>\n   <td>7<\/td>\n   <td>Xã Tam Anh Bắc<\/td>\n   <td>2.100<\/td>\n   <td>6.409<\/td>\n  <\/tr>\n  <tr>\n   <td>8<\/td>\n   <td>Xã Tam Anh Nam<\/td>\n   <td>2.191<\/td>\n   <td>9.316<\/td>\n  <\/tr>\n  <tr>\n   <td>9<\/td>\n   <td>Xã Tam Hòa<\/td>\n   <td>2.260,81<\/td>\n   <td>8.563<\/td>\n  <\/tr>\n  <tr>\n   <td>10<\/td>\n   <td>Xã Tam Hiệp<\/td>\n   <td>3.758,36<\/td>\n   <td>10.217<\/td>\n  <\/tr>\n  <tr>\n   <td>11<\/td>\n   <td>Xã Tam Hải<\/td>\n   <td>1.560,71<\/td>\n   <td>7.925<\/td>\n  <\/tr>\n  <tr>\n   <td>12<\/td>\n   <td>Xã Tam Giang<\/td>\n   <td>1.150,75<\/td>\n   <td>5.995<\/td>\n  <\/tr>\n  <tr>\n   <td>13<\/td>\n   <td>Xã Tam Quang<\/td>\n   <td>1.137,97<\/td>\n   <td>13.026<\/td>\n  <\/tr>\n  <tr>\n   <td>14<\/td>\n   <td>Xã Tam Nghĩa<\/td>\n   <td>5.167,75<\/td>\n   <td>11.815<\/td>\n  <\/tr>\n  <tr>\n   <td>15<\/td>\n   <td>Xã Tam Mỹ Đông<\/td>\n   <td>1.727<\/td>\n   <td>6.400<\/td>\n  <\/tr>\n  <tr>\n   <td>16<\/td>\n   <td>Xã Tam Mỹ Tây<\/td>\n   <td>5.104<\/td>\n   <td>5.869<\/td>\n  <\/tr>\n  <tr>\n   <td>17<\/td>\n   <td>Xã Tam Trà<\/td>\n   <td>9.712,62<\/td>\n   <td>2.886<\/td>\n  <\/tr>\n <\/tbody>\n<\/table>"
+    ],
+    "keywords": [],
+    "headings": [
+        "Địa Danh",
+        "núi Thành",
+        "Lịch sử",
+        "Hành chính",
+        "Điều kiện tự nhiên",
+        "Vị trí địa lý",
+        "Diện tích",
+        "Địa hình",
+        "Sông ngòi",
+        "Khí hậu",
+        "Kinh tế-xã hội",
+        "Dân số",
+        "Giáo dục",
+        "Y tế",
+        "Tình hình phát triển kinh tế",
+        "Giao thông vận tải",
+        "Các điểm tham quan",
+        "Bàn Than",
+        "Hố Giang Thơm",
+        "Hố Rinh",
+        "Làng biển Tam Hải",
+        "Biển Rạng",
+        "Tượng đài Núi Thành",
+        "Tham khảo",
+        "Bài viết cùng thư mục",
+        "CÁC THỜI KỲ LỊCH SỬ",
+        "Tư Liệu",
+        "Di Tích Lịch Sử",
+        "Anh Hùng Dân Tộc Tiêu Biểu",
+        "Tư Liệu Lịch Sử",
+        "Di Tích Lịch Sử"
+    ],
+    "anchors": [
+        {
+            "text": "",
+            "href": "/"
+        },
+        {
+            "text": "Trang Chủ",
+            "href": "/"
+        },
+        {
+            "text": "Dòng Lịch Sử",
+            "href": "/dong-lich-su"
+        },
+        {
+            "text": "Hồng Bàng & Văn Lang",
+            "href": "/dong-lich-su/hong-bang-va-van-lang"
+        },
+        {
+            "text": "Âu Lạc & Nam Việt",
+            "href": "/dong-lich-su/au-lac-va-nam-viet"
+        },
+        {
+            "text": "Bắc thuộc lần I",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat"
+        },
+        {
+            "text": "Trưng Nữ Vương",
+            "href": "/dong-lich-su/trung-nu-vuong"
+        },
+        {
+            "text": "Bắc thuộc lần II",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-hai"
+        },
+        {
+            "text": "Nhà Lý & Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu"
+        },
+        {
+            "text": "Bắc thuộc lần III",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-ba"
+        },
+        {
+            "text": "Thời kỳ xây nền tự chủ",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu"
+        },
+        {
+            "text": "Nhà Ngô",
+            "href": "/dong-lich-su/nha-ngo"
+        },
+        {
+            "text": "Nhà Đinh",
+            "href": "/dong-lich-su/nha-dinh"
+        },
+        {
+            "text": "Nhà Tiền Lê",
+            "href": "/dong-lich-su/nha-tien-le"
+        },
+        {
+            "text": "Nhà Lý",
+            "href": "/dong-lich-su/nha-ly"
+        },
+        {
+            "text": "Nhà Trần",
+            "href": "/dong-lich-su/nha-tran"
+        },
+        {
+            "text": "Nhà Hồ",
+            "href": "/dong-lich-su/nha-ho"
+        },
+        {
+            "text": "Nhà Hậu Trần",
+            "href": "/dong-lich-su/nha-hau-tran"
+        },
+        {
+            "text": "Bắc thuộc lần IV",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-tu"
+        },
+        {
+            "text": "Nhà Hậu Lê",
+            "href": "/dong-lich-su/nha-hau-le"
+        },
+        {
+            "text": "Nam Bắc Triều",
+            "href": "/dong-lich-su/nam-bac-trieu"
+        },
+        {
+            "text": "Trịnh Nguyễn Phân Tranh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh"
+        },
+        {
+            "text": "Nhà Tây Sơn",
+            "href": "/dong-lich-su/nha-tay-son"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/nha-nguyen"
+        },
+        {
+            "text": "Pháp Thuộc",
+            "href": "/dong-lich-su/phap-thuoc"
+        },
+        {
+            "text": "Việt Nam Dân Chủ Cộng Hoà",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Cộng hoà xã hội chủ nghĩa Việt Nam",
+            "href": "/dong-lich-su/viet-nam-xhcn"
+        },
+        {
+            "text": "Tư Liệu",
+            "href": "/tu-lieu"
+        },
+        {
+            "text": "Quân Sự",
+            "href": "/tu-lieu/quan-su?filter_tag[0]="
+        },
+        {
+            "text": "Tác Phẩm",
+            "href": "/tu-lieu/tac-pham?filter_tag[0]="
+        },
+        {
+            "text": "Bang Giao",
+            "href": "/tu-lieu/bang-giao"
+        },
+        {
+            "text": "Biểu đồ thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Nhân Vật",
+            "href": "/nhan-vat"
+        },
+        {
+            "text": "Anh Hùng Dân Tộc",
+            "href": "/anh-hung-dan-toc?types[0]=1"
+        },
+        {
+            "text": "Danh nhân văn hóa",
+            "href": "/danh-nhan-van-hoa?types[0]=1"
+        },
+        {
+            "text": "Di Tích",
+            "href": "/di-tich-lich-su?types[0]=1"
+        },
+        {
+            "text": "Ngày Nay",
+            "href": "/thoi-su"
+        },
+        {
+            "text": "Sách",
+            "href": "/sach"
+        },
+        {
+            "text": "Video",
+            "href": "/video"
+        },
+        {
+            "text": "Q&A",
+            "href": "/hoi-dap"
+        },
+        {
+            "text": "Lịch sử lớp 12",
+            "href": "/hoi-dap/lop-12"
+        },
+        {
+            "text": "Lịch sử lớp 11",
+            "href": "/hoi-dap/lop-11"
+        },
+        {
+            "text": "Lịch sử lớp 10",
+            "href": "/hoi-dap/lop-10"
+        },
+        {
+            "text": "Lịch sử lớp 9",
+            "href": "/hoi-dap/lop-9"
+        },
+        {
+            "text": "Lịch sử lớp 8",
+            "href": "/hoi-dap/lop-8"
+        },
+        {
+            "text": "Lịch sử lớp 7",
+            "href": "/hoi-dap/lop-7"
+        },
+        {
+            "text": "Lịch sử lớp 6",
+            "href": "/hoi-dap/lop-6"
+        },
+        {
+            "text": "Trang chủ",
+            "href": "/"
+        },
+        {
+            "text": "Địa Danh",
+            "href": "/dia-danh"
+        },
+        {
+            "text": "Địa Danh Lịch Sử",
+            "href": "/dia-danh"
+        },
+        {
+            "text": "Thu / Mở",
+            "href": "#"
+        },
+        {
+            "text": "Lịch sử",
+            "href": "#lich-su"
+        },
+        {
+            "text": "Hành chính",
+            "href": "#hanh-chinh"
+        },
+        {
+            "text": "Điều kiện tự nhiên",
+            "href": "#dieu-kien-tu-nhien"
+        },
+        {
+            "text": "Vị trí địa lý",
+            "href": "#vi-tri-dia-ly"
+        },
+        {
+            "text": "Diện tích",
+            "href": "#dien-tich"
+        },
+        {
+            "text": "Địa hình",
+            "href": "#dia-hinh"
+        },
+        {
+            "text": "Sông ngòi",
+            "href": "#song-ngoi"
+        },
+        {
+            "text": "Khí hậu",
+            "href": "#khi-hau"
+        },
+        {
+            "text": "Kinh tế-xã hội",
+            "href": "#kinh-te-xa-hoi"
+        },
+        {
+            "text": "Dân số",
+            "href": "#dan-so"
+        },
+        {
+            "text": "Giáo dục",
+            "href": "#giao-duc"
+        },
+        {
+            "text": "Y tế",
+            "href": "#y-te"
+        },
+        {
+            "text": "Tình hình phát triển kinh tế",
+            "href": "#tinh-hinh-phat-trien-kinh-te"
+        },
+        {
+            "text": "Giao thông vận tải",
+            "href": "#giao-thong-van-tai"
+        },
+        {
+            "text": "Các điểm tham quan",
+            "href": "#cac-diem-tham-quan"
+        },
+        {
+            "text": "Bàn Than",
+            "href": "#ban-than"
+        },
+        {
+            "text": "Hố Giang Thơm",
+            "href": "#ho-giang-thom"
+        },
+        {
+            "text": "Hố Rinh",
+            "href": "#ho-rinh"
+        },
+        {
+            "text": "Làng biển Tam Hải",
+            "href": "#lang-bien-tam-hai"
+        },
+        {
+            "text": "Biển Rạng",
+            "href": "#bien-rang"
+        },
+        {
+            "text": "Tượng đài Núi Thành",
+            "href": "#tuong-dai-nui-thanh"
+        },
+        {
+            "text": "Tham khảo",
+            "href": "#tham-khao"
+        },
+        {
+            "text": "tỉnh Quảng Nam",
+            "href": "/dia-danh/tinh-quang-nam"
+        },
+        {
+            "text": "tỉnh Quảng Nam",
+            "href": "/dia-danh/tinh-quang-nam"
+        },
+        {
+            "text": "tỉnh Quảng Nam",
+            "href": "/dia-danh/tinh-quang-nam"
+        },
+        {
+            "text": "tỉnh Quảng Nam",
+            "href": "/dia-danh/tinh-quang-nam"
+        },
+        {
+            "text": "tỉnh Quảng Nam",
+            "href": "/dia-danh/tinh-quang-nam"
+        },
+        {
+            "text": "tỉnh Quảng Nam",
+            "href": "/dia-danh/tinh-quang-nam"
+        },
+        {
+            "text": "sông Trường Giang",
+            "href": "/dia-danh/song-truong-giang"
+        },
+        {
+            "text": "sông Trường Giang",
+            "href": "/dia-danh/song-truong-giang"
+        },
+        {
+            "text": "sông Thu Bồn",
+            "href": "/dia-danh/song-thu-bon"
+        },
+        {
+            "text": "tỉnh Quảng Nam",
+            "href": "/dia-danh/tinh-quang-nam"
+        },
+        {
+            "text": "Nguyễn Huệ",
+            "href": "/nhan-vat/nguyen-hue"
+        },
+        {
+            "text": "tỉnh Quảng Nam",
+            "href": "/dia-danh/tinh-quang-nam"
+        },
+        {
+            "text": "tỉnh Quảng Nam",
+            "href": "/dia-danh/tinh-quang-nam"
+        },
+        {
+            "text": "Thành phố Hồ Chí Minh",
+            "href": "/dia-danh/thanh-pho-ho-chi-minh"
+        },
+        {
+            "text": "sông Trường Giang",
+            "href": "/dia-danh/song-truong-giang"
+        },
+        {
+            "text": "tỉnh Quảng Nam",
+            "href": "/dia-danh/tinh-quang-nam"
+        },
+        {
+            "text": "Bài viết trước: núi Thái Sơn Trước",
+            "href": "/dia-danh/nui-thai-son"
+        },
+        {
+            "text": "Bài viết kế tiếp: Núi Thị Tiếp tục",
+            "href": "/dia-danh/nui-thi"
+        },
+        {
+            "text": "nước Việt",
+            "href": "/dia-danh/nuoc-viet"
+        },
+        {
+            "text": "núi Tản Viên",
+            "href": "/dia-danh/nui-tan-vien"
+        },
+        {
+            "text": "sông Đà",
+            "href": "/dia-danh/song-da"
+        },
+        {
+            "text": "sông Hát",
+            "href": "/dia-danh/song-hat"
+        },
+        {
+            "text": "chùa Kiến Sơ",
+            "href": "/dia-danh/chua-kien-so"
+        },
+        {
+            "text": "hồ Động Đình",
+            "href": "/dia-danh/ho-dong-dinh"
+        },
+        {
+            "text": "nước Quắc",
+            "href": "/dia-danh/nuoc-quac"
+        },
+        {
+            "text": "nước Trịnh",
+            "href": "/dia-danh/nuoc-trinh"
+        },
+        {
+            "text": "châu Vũ Ninh",
+            "href": "/dia-danh/chau-vu-ninh"
+        },
+        {
+            "text": "Nước Tần",
+            "href": "/dia-danh/nuoc-tan"
+        },
+        {
+            "text": "Hồng Bàng & Văn Lang",
+            "href": "/dong-lich-su/hong-bang-va-van-lang"
+        },
+        {
+            "text": "Âu Lạc & Nam Việt",
+            "href": "/dong-lich-su/au-lac-va-nam-viet"
+        },
+        {
+            "text": "Bắc thuộc lần I",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat"
+        },
+        {
+            "text": "Nhà Triệu",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat/nha-trieu"
+        },
+        {
+            "text": "Trưng Nữ Vương",
+            "href": "/dong-lich-su/trung-nu-vuong"
+        },
+        {
+            "text": "Bắc thuộc lần II",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-hai"
+        },
+        {
+            "text": "Nhà Lý & Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu"
+        },
+        {
+            "text": "Nhà Tiền Lý",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-tien-ly"
+        },
+        {
+            "text": "Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-trieu"
+        },
+        {
+            "text": "Nhà Hậu Lý",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-hau-ly"
+        },
+        {
+            "text": "Bắc thuộc lần III",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-ba"
+        },
+        {
+            "text": "Thời kỳ xây nền tự chủ",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu"
+        },
+        {
+            "text": "Họ Khúc",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu/ho-khuc"
+        },
+        {
+            "text": "Nhà Ngô",
+            "href": "/dong-lich-su/nha-ngo"
+        },
+        {
+            "text": "Nhà Đinh",
+            "href": "/dong-lich-su/nha-dinh"
+        },
+        {
+            "text": "Nhà Tiền Lê",
+            "href": "/dong-lich-su/nha-tien-le"
+        },
+        {
+            "text": "Nhà Lý",
+            "href": "/dong-lich-su/nha-ly"
+        },
+        {
+            "text": "Nhà Trần",
+            "href": "/dong-lich-su/nha-tran"
+        },
+        {
+            "text": "Nhà Hồ",
+            "href": "/dong-lich-su/nha-ho"
+        },
+        {
+            "text": "Nhà Hậu Trần",
+            "href": "/dong-lich-su/nha-hau-tran"
+        },
+        {
+            "text": "Bắc thuộc lần IV",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-tu"
+        },
+        {
+            "text": "Nhà Hậu Lê",
+            "href": "/dong-lich-su/nha-hau-le"
+        },
+        {
+            "text": "Nam Bắc Triều",
+            "href": "/dong-lich-su/nam-bac-trieu"
+        },
+        {
+            "text": "Nhà Lê Trung Hưng",
+            "href": "/dong-lich-su/nam-bac-trieu/nha-le-trung-hung"
+        },
+        {
+            "text": "Nhà Mạc",
+            "href": "/dong-lich-su/nam-bac-trieu/nha-mac"
+        },
+        {
+            "text": "Trịnh Nguyễn Phân Tranh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh"
+        },
+        {
+            "text": "Nhà Lê Trung Hưng",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/nha-le-trung-hung"
+        },
+        {
+            "text": "Chúa Trịnh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-trinh"
+        },
+        {
+            "text": "Chúa Nguyễn",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen"
+        },
+        {
+            "text": "Nhà Tây Sơn",
+            "href": "/dong-lich-su/nha-tay-son"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/nha-nguyen"
+        },
+        {
+            "text": "Pháp Thuộc",
+            "href": "/dong-lich-su/phap-thuoc"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/phap-thuoc/nha-nguyen"
+        },
+        {
+            "text": "Những cuộc khởi nghĩa chống thực dân Pháp",
+            "href": "/dong-lich-su/phap-thuoc/khoi-nghia-chong-phap"
+        },
+        {
+            "text": "Đảng Cộng Sản Việt Nam",
+            "href": "/dong-lich-su/phap-thuoc/dang-cong-san-viet-nam"
+        },
+        {
+            "text": "Việt Nam Dân Chủ Cộng Hoà",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Kháng chiến chống Pháp",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-phap"
+        },
+        {
+            "text": "Kháng chiến chống Mĩ",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-mi"
+        },
+        {
+            "text": "Cộng hoà xã hội chủ nghĩa Việt Nam",
+            "href": "/dong-lich-su/viet-nam-xhcn"
+        },
+        {
+            "text": "Trận Điện Biên Phủ trên không năm 1972",
+            "href": "/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972"
+        },
+        {
+            "text": "Chiến tranh biên giới Tây Nam năm 1975 - 1978",
+            "href": "/tu-lieu/quan-su/chien-tranh-bien-gioi-tay-nam-nam-1975-1978"
+        },
+        {
+            "text": "Chiến dịch Mùa Xuân năm 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-mua-xuan-nam-1975"
+        },
+        {
+            "text": "Hải chiến Trường Sa năm 1988",
+            "href": "/tu-lieu/quan-su/hai-chien-truong-sa-nam-1988"
+        },
+        {
+            "text": "Chiến dịch Đường 14 - Phước Long năm 1974 - 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-duong-14-phuoc-long-nam-1974-1975"
+        },
+        {
+            "text": "Chiến dịch Tây Nguyên năm 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-tay-nguyen-nam-1975"
+        },
+        {
+            "text": "Trận Mậu Thân tại Huế năm 1968",
+            "href": "/tu-lieu/quan-su/tran-mau-than-tai-hue-nam-1968"
+        },
+        {
+            "text": "Bảng đối chiếu các triều đại Việt Nam và các triều đại Trung Quốc",
+            "href": "/tu-lieu/bang-doi-chieu-cac-trieu-dai-viet-nam-va-cac-trieu-dai-trung-quoc"
+        },
+        {
+            "text": "Bình Ngô đại cáo - bản tuyên ngôn độc lập thứ hai",
+            "href": "/tu-lieu/tac-pham/binh-ngo-dai-cao-ban-tuyen-ngon-doc-lap-thu-hai"
+        },
+        {
+            "text": "Lãnh thổ Việt Nam qua từng thời kỳ",
+            "href": "/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky"
+        },
+        {
+            "text": "Trận Đồi Thịt Băm năm 1969",
+            "href": "/tu-lieu/quan-su/tran-doi-thit-bam-nam-1969"
+        },
+        {
+            "text": "Chiến dịch Đắk Tô năm 1972",
+            "href": "/tu-lieu/quan-su/chien-dich-dak-to-nam-1972"
+        },
+        {
+            "text": "Nam quốc sơn hà - Bản tuyên ngôn độc lập đầu tiên",
+            "href": "/tu-lieu/tac-pham/nam-quoc-son-ha-ban-tuyen-ngon-doc-lap-dau-tien"
+        },
+        {
+            "text": "Tuyên ngôn độc lập Việt Nam Dân chủ Cộng hòa",
+            "href": "/tu-lieu/tac-pham/tuyen-ngon-doc-lap-viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Trận Bản Đông năm 1971",
+            "href": "/tu-lieu/quan-su/tran-ban-dong-nam-1971"
+        },
+        {
+            "text": "Trận Rạch Gầm \u2013 Xoài Mút năm 1785",
+            "href": "/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785"
+        },
+        {
+            "text": "Lịch sử Chữ viết tiếng Việt",
+            "href": "/tu-lieu/lich-su-chu-viet-tieng-viet"
+        },
+        {
+            "text": "Hịch tướng sĩ - Dụ chư tỳ tướng hịch văn",
+            "href": "/tu-lieu/tac-pham/hich-tuong-si-du-chu-ty-tuong-hich-van"
+        },
+        {
+            "text": "Danh sách Trạng nguyên Việt Nam",
+            "href": "/tu-lieu/danh-sach-trang-nguyen-viet-nam"
+        },
+        {
+            "text": "Hội nghị Paris, mặt trận ngoại giao năm 1968-1972",
+            "href": "/tu-lieu/bang-giao/hoi-nghi-paris-mat-tran-ngoai-giao-nam-1968-1972"
+        },
+        {
+            "text": "Khu lăng mộ và đền thờ các vị vua triều Lý",
+            "href": "/dia-danh/khu-lang-mo-va-den-tho-cac-vi-vua-trieu-ly"
+        },
+        {
+            "text": "Đền Hùng",
+            "href": "/dia-danh/den-hung"
+        },
+        {
+            "text": "Đền Trần (Thái Bình)",
+            "href": "/dia-danh/den-tran-thai-binh"
+        },
+        {
+            "text": "Khu di tích chiến thắng Điện Biên Phủ",
+            "href": "/dia-danh/khu-di-tich-chien-thang-dien-bien-phu"
+        },
+        {
+            "text": "thành Cổ Loa",
+            "href": "/dia-danh/thanh-co-loa"
+        },
+        {
+            "text": "Khu di tích Chủ tịch Hồ Chí Minh tại Phủ Chủ tịch",
+            "href": "/dia-danh/khu-di-tich-chu-tich-ho-chi-minh-tai-phu-chu-tich"
+        },
+        {
+            "text": "Khu lưu niệm Chủ tịch Tôn Đức Thắng",
+            "href": "/dia-danh/khu-luu-niem-chu-tich-ton-duc-thang"
+        },
+        {
+            "text": "Đền Ngọc Sơn",
+            "href": "/dia-danh/den-ngoc-son"
+        },
+        {
+            "text": "Quần thể di tích danh thắng Yên Tử",
+            "href": "/dia-danh/quan-the-di-tich-danh-thang-yen-tu"
+        },
+        {
+            "text": "Thành cổ Quảng Trị",
+            "href": "/dia-danh/thanh-co-quang-tri"
+        },
+        {
+            "text": "Ngô Quyền",
+            "href": "/nhan-vat/ngo-quyen"
+        },
+        {
+            "text": "Hồ Chí Minh",
+            "href": "/nhan-vat/ho-chi-minh"
+        },
+        {
+            "text": "Lý Thái Tổ",
+            "href": "/nhan-vat/ly-thai-to"
+        },
+        {
+            "text": "Trần Nhân Tông",
+            "href": "/nhan-vat/tran-nhan-tong"
+        },
+        {
+            "text": "Nguyễn Trãi",
+            "href": "/nhan-vat/nguyen-trai"
+        },
+        {
+            "text": "Hai Bà Trưng",
+            "href": "/nhan-vat/hai-ba-trung"
+        },
+        {
+            "text": "Lý Nam Đế",
+            "href": "/nhan-vat/ly-nam-de"
+        },
+        {
+            "text": "Lê Thái Tổ",
+            "href": "/nhan-vat/le-thai-to"
+        },
+        {
+            "text": "Lý Thường Kiệt",
+            "href": "/nhan-vat/ly-thuong-kiet"
+        },
+        {
+            "text": "Nguyễn Huệ",
+            "href": "/nhan-vat/nguyen-hue"
+        },
+        {
+            "text": "Vấn đề biên giới Việt-Trung thời Mạc",
+            "href": "/tu-lieu/bang-giao/van-de-bien-gioi-viet-trung-thoi-mac"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Tây Sơn",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-tay-son"
+        },
+        {
+            "text": "Biểu đồ các nhân vật lịch sử theo dòng thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Danh sách Trạng nguyên Việt Nam",
+            "href": "/tu-lieu/danh-sach-trang-nguyen-viet-nam"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Nguyễn",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-nguyen"
+        },
+        {
+            "text": "Trận Điện Biên Phủ trên không năm 1972",
+            "href": "/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972"
+        },
+        {
+            "text": "Trận Ngọc Hồi - Đống Đa năm 1789",
+            "href": "/tu-lieu/quan-su/tran-ngoc-hoi-dong-da-nam-1789"
+        },
+        {
+            "text": "Trận Cẩm Sa năm 1775",
+            "href": "/tu-lieu/quan-su/tran-cam-sa-nam-1775"
+        },
+        {
+            "text": "Trận Rạch Gầm \u2013 Xoài Mút năm 1785",
+            "href": "/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785"
+        },
+        {
+            "text": "Lãnh thổ Việt Nam qua từng thời kỳ",
+            "href": "/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky"
+        },
+        {
+            "text": "Thành cổ Quảng Trị",
+            "href": "/dia-danh/thanh-co-quang-tri"
+        },
+        {
+            "text": "Đền Trần (Thái Bình)",
+            "href": "/dia-danh/den-tran-thai-binh"
+        },
+        {
+            "text": "Khu di tích Pác Bó",
+            "href": "/dia-danh/khu-di-tich-pac-bo"
+        },
+        {
+            "text": "thành Cổ Loa",
+            "href": "/dia-danh/thanh-co-loa"
+        },
+        {
+            "text": "Khu di tích Chủ tịch Hồ Chí Minh tại Phủ Chủ tịch",
+            "href": "/dia-danh/khu-di-tich-chu-tich-ho-chi-minh-tai-phu-chu-tich"
+        },
+        {
+            "text": "Đền Phù Đổng",
+            "href": "/dia-danh/den-phu-dong"
+        },
+        {
+            "text": "Khu lăng mộ và đền thờ các vị vua triều Lý",
+            "href": "/dia-danh/khu-lang-mo-va-den-tho-cac-vi-vua-trieu-ly"
+        },
+        {
+            "text": "chùa Thầy",
+            "href": "/dia-danh/chua-thay"
+        },
+        {
+            "text": "Hồ Hoàn Kiếm",
+            "href": "/dia-danh/ho-hoan-kiem"
+        },
+        {
+            "text": "Quần thể di tích Cố đô Huế",
+            "href": "/dia-danh/quan-the-di-tich-co-do-hue"
+        },
+        {
+            "text": "Giới thiệu",
+            "href": "/gioi-thieu"
+        },
+        {
+            "text": "Quyền riêng tư",
+            "href": "/quyen-rieng-tu"
+        },
+        {
+            "text": "Liên hệ",
+            "href": "/lien-he"
+        },
+        {
+            "text": "Địa Danh",
+            "href": "/dia-danh"
+        },
+        {
+            "text": "Trang Facebook",
+            "href": "https://www.facebook.com/nguoikesu/"
+        },
+        {
+            "text": "DanhMucBDS.com",
+            "href": "https://danhmucbds.com"
+        },
+        {
+            "text": "HocTotNguVan.com",
+            "href": "https://hoctotnguvan.com"
+        }
+    ],
+    "title": "núi Thành - Người Kể Sử",
+    "paragraphs": [
+        "Núi Thành là một huyện nằm phía Nam của tỉnh Quảng Nam, được thành lập năm 1983 trên cơ sở tách huyện Tam Kỳ (cũ) thành huyện Núi Thành và thị xã Tam Kỳ (nay là Thành phố Tam Kỳ, tỉnh lị của Quảng Nam). Phía bắc giáp thành phố Tam Kỳ, phía nam giáp huyện Bình Sơn và huyện Trà Bồng tỉnh Quảng Ngãi, phía tây giáp huyện Bắc Trà My.Tên được đặt tên cho một con đường tại quận Tân Bình",
+        "",
+        "",
+        "Huyện này được thành lập ngày 3 tháng 12 năm 1983 khi huyện Tam Kỳ được chia thành huyện Núi Thành và Thị xã Tam Kỳ thuộc tỉnh Quảng Nam-Đà Nẵng. Khi mới tách ra, huyện Núi Thành có thị trấn Núi Thành và 13 xã: Tam Anh, Tam Giang, Tam Hải, Tam Hiệp, Tam Hòa, Tam Mỹ, Tam Nghĩa, Tam Quang, Tam Sơn, Tam Thạnh, Tam Tiến, Tam Trà, Tam Xuân.",
+        "Ngày 29 tháng 8 năm 1994, chia xã Tam Xuân thành 2 xã: Tam Xuân 1 và Tam Xuân 2.",
+        "Từ ngày 26 tháng 11 năm 1996 thuộc tỉnh Quảng Nam.",
+        "Ngày 7 tháng 7 năm 2005, chia xã Tam Mỹ thuộc huyện Núi Thành thành xã Tam Mỹ Đông và xã Tam Mỹ Tây; chia xã Tam Anh thuộc huyện Núi Thành thành xã Tam Anh Bắc và xã Tam Anh Nam.",
+        "Huyện gồm có thị trấn Núi Thành là huyện lị và 16 xã: Tam Anh Bắc, Tam Anh Nam, Tam Giang, Tam Hải, Tam Hiệp, Tam Hòa, Tam Mỹ Đông, Tam Mỹ Tây, Tam Nghĩa, Tam Quang, Tam Sơn, Tam Thạnh, Tam Tiến, Tam Trà, Tam Xuân 1, Tam Xuân 2.",
+        "Nguồn: Sở Nội vụ Quảng Nam, 2008",
+        "Núi Thành là huyện nằm phía Nam của tỉnh Quảng Nam, được thành lập năm 1983 trên cơ sở tách huyện Tam Kỳ thành thị xã Tam Kỳ và huyện Núi Thành.1 Phía bắc giáp thành phố Tam Kỳ, phía nam giáp huyện Bình Sơn và huyện Trà Bồng tỉnh Quảng Ngãi, phía Tây giáp huyện Nam Trà My, phía đông giáp Biển Đông. Huyện có đường bờ biển dài 37 km với nhiều bãi tắm đẹp như biển Rạng, Tam Hải, Tam Tiến. Hiện có nhiều dự án du lịch biển lớn đang hoạt động như Le Domaine De Tam Hai, Cát Vàng Tam Tiến, Chu Lai Resort. Tam Hải là xã đảo duy nhất của huyện.",
+        "Tọa độ địa lý: từ 108°34' đến 108°37' kinh độ Đông, từ 15°33' đến 15°36' vĩ độ Bắc. Với hệ tọa độ trên, Núi Thành nằm trong vùng nhiệt đới gió mùa thuộc phân vùng khí hậu Nam Việt Nam.",
+        "Diện tích tự nhiên của huyện là 533.03 km². Đất trồng cây hằng năm là 110.048 km² (chiếm 21% diện tích đất tự nhiên của huyện) và phần lớn được dành cho trồng lúa 2 vụ. Tam Xuân I, Tam Xuân II, Tam Hòa là các vựa lúa chính của huyện. Núi Thành cũng là huyện có diện tích mặt nước nuôi trồng thủy sản lớn nhất tỉnh Quảng Nam. Với 172.09 km², đất lâm nghiệp chiếm 32.3% diện tích đất tự nhiên của huyện và phân bố chủ yếu ở các xã phía tây gồm Tam Sơn, Tam Thạnh, Tam Trà, Tam Mỹ Đông, và Tam Mỹ Tây. Đất thổ cư đạt 6 km² (chiếm hơn 1% diện tích đất tự nhiên của huyện). Điểm đáng chú ý là trong thành phần sử dụng đất, đất quân sự chiếm diện tích khá lớn so với các địa phương khác do có sự hiện diện của căn cứ Chu Lai với sân bay Chu Lai với diện tích hơn 40 km² chiếm gần 10% diện tích tự nhiên của huyện. Cũng cần nói thêm là Chu Lai trước đây là một trong những cứ điểm quân sự lớn nhất của chế độ Việt Nam cộng hòa.",
+        "Núi Thành là trọng điểm đầu tư của Khu kinh tế mở Chu Lai nên tập trung nhiều khu công nghiệp lớn. Chính vì vậy, trong cơ cấu sử dụng đất, một diện tích đất nông nghiệp trước đây được chuyển thành đất công nghiệp.",
+        "Núi Thành là huyện đồng bằng cực Nam của tỉnh Quảng Nam với địa hình nghiên từ Tây Bắc xuống Đông Nam. Bằng đường bộ đi theo hướng Đông Tây từ các xã ven biển lên các xã vùng núi phía Tây ta có thể dễ dàng nhận ra sự thay đổi này. Nhìn tổng thể Núi Thành có các dạng địa hình sau:",
+        "Hệ thống sông ngòi chảy qua huyện gồm sông Tam Kỳ, sông Trường Giang, sông Ba Túc, sông An Tân, sông Trầu. Các con sông này đều bắt nguồn từ phía tây, tây bắc chảy về phía đông đổ ra biển qua cửa An Hòa và cửa Lở. Các sông đều có lưu vực nhỏ, từ 50 đến 100 km², độ dốc lớn, chiều dài từ 20 đến 40 km, lưu lượng nước thay đổi theo mùa. Lượng nước các sông dồi dào vào mùa mưa từ tháng 9 đến tháng 12 và khô hạn trong mùa khô từ tháng 2 đến tháng 8. Một số con sông được ngăn lại ở thượng nguồn làm hồ chứa nước như: hồ Phú Ninh trên sông Tam Kỳ và hồ Thái Xuân trên sông Trầu, trong đó hồ Phú Ninh là công trình thủy lợi lớn của Việt Nam, có nhiệm vụ tưới cho 20,000 ha lúa các huyện duyên hải phía nam sông Thu Bồn cũng như cấp nước sinh hoạt cho Tam Kỳ và các vùng lân cận. Hạ lưu sông có hệ sinh thái đất ngập nước tại các xã Tam Quang, Tam Anh Nam, Tam Anh Bắc, Tam Hòa, Tam Giang, Tam Hải, Tam Tiến.",
+        "Huyện Núi Thành nằm phía đông dãy Trường Sơn và phía nam đèo Hải Vân, thuộc vùng khí hậu nhiệt đới ẩm, gió mùa. Nhiệt độ trung bình hằng năm: 25.7 °C, nhiệt độ cao từ tháng 4 đến tháng 8, nhiệt độ thấp từ tháng 12 đến tháng 2 năm sau. Mùa mưa kéo dài từ tháng 9 đến tháng 12. Lượng mưa trung bình trong năm là 2,531.5 mm. Huyện Núi Thành chịu sự chi phối của gió tây nam và gió đông nam hoạt động từ tháng 3 đến tháng 7, gió đông bắc hoạt động từ tháng 10 đến tháng 2 năm sau. Hằng năm thường xuất hiện từ 8 đến 10 cơn bão ảnh hưởng đến huyện. Bão thường xuất hiện từ tháng 8 đến tháng 11 kết hợp với mưa lớn gây ra lũ lụt.",
+        "Tính đến ngày 01 tháng 04 năm 2009, dân số của Núi Thành đạt 142.020 người, trong đó nam giới chiếm 48.6%, nữ giới chiếm 51.8%. Người Kinh chiếm đại bộ phận dân số (98%), phần còn lại là người Kor với dân số khoảng 1.085 người sống chủ yếu tại các thôn 4, 6 và 8 của xã Tam Trà. Tổng số hộ dân trong toàn huyện là 34,280 hộ, trung bình mỗi hộ có 4.2 người, một tỷ lệ thấp so với các địa phương trong cả nước. Đa phần dân cư sống tại các xã đồng bằng ven biển, các xã vùng núi có diện tích lớn nhưng dân cư thưa thớt. Cùng với quá trình phát triển nhanh chóng của công nghiệp và dịch vụ, cụm các đô thị với trung tâm là thị trấn Chu Lai đang dần hình thành và mở rộng về phía Nam (Tam Nghĩa), phía Đông (Tam Quang) và phía Bắc (Tam Hiệp). Theo quy hoạch phát triển đô thị của tỉnh Quảng Nam, Núi Thành sẽ cùng với Tam Kỳ là hai đô thị loại II của tỉnh.",
+        "Phần đông dân cư hoạt động trong khu vực nông-lâm-ngư nghiệp. Năm 2006, trong tổng số 68,896 người trong độ tuổi lao động, số lao động trong khu vực 1 đạt 50,478 người (chiếm 73,26%. Các ngành công nghiệp, xây dựng thu hút 7,351 lao động (chiếm 10,66%). Khu vực III dịch vụ thu dụng 7,479 người (chiếm 11,07%). Tuy nhiên quá trình dịch chuyển kinh tế kéo theo sự dịch chuyển lao động rất nhanh từ khu vực nông nghiệp sang khu vực công nghiệp và dịch vụ.",
+        "Toàn huyện có 3 trường THPT gồm PTTH Núi Thành, PTTH Nguyễn Huệ và PTTH Cao Bá Quát, một Trung tâm Giáo dục Thường xuyên - Hướng nghiệp Dạy nghề. Cấp THCS có 15 trường phân bố rải đều trong các xã, thị trấn trên địa bàn huyện. Cấp Tiểu học có 26. Ngoài ra huyện còn có 16 trường mẫu giáo, 1 lớp bán trú cho học sinh người dân tộc thiểu số, 14 Trung tâm Học tập Cộng đồng. Tổng số học sinh (năm học 2006 - 2007) là 31.822 học sinh.",
+        "Huyện đã được công nhận phổ cập tiểu học 12/2002; có 16/17 xã, thị trấn được công nhận phổ cập THCS. Huyện Núi Thành được tỉnh kiểm tra công nhận hoàn thành PCGD THCS tại thời điểm tháng 10 năm 2004, 10 trường học được công nhận đạt chuẩn quốc gia.",
+        "Huyện có 1 bệnh viện với 80 giường bệnh, có 17 trạm y tế xã, thị trấn; tổng số y, bác sĩ: 100 người. Bệnh viện Đa Khoa Trung ương Quảng Nam với 500 giường bệnh được đưa vào sử dụng cuối năm 2012 góp phần nâng cao việc khám chữa bệnh cho nhân dân.",
+        "Núi Thành là trung tâm phát triển công nghiệp nhanh và mạnh nhất của tỉnh Quảng Nam. Với Khu Kinh tế Mở Chu Lai được đánh giá là khu kinh tế thành công nhất Việt Nam, Núi Thành đóng góp hơn 60% tổng thu ngân sách Quảng Nam. Kinh tế chuyển dịch rõ rệt theo hướng công nghiệp hóa, hiện đại hóa.",
+        "Các KCN Bắc Chu Lai, KCN Cảng và Dịch vụ Hậu cần Tam Hiệp, KCN Tam Anh, và Khu Phi thuế quan cảng Kỳ Hà là động lực phát triển của huyện trong những năm tới. Những dự án du lịch lớn tạo điều kiện thuận lợi để khai thác tốt hơn tiềm năng du lịch biển của địa phương. Khu Liên Hiệp Cơ khí Ô Tô Chu Lai-Trường Hải, nhà máy Kính nổi, nhà máy sản xuất xút là các cơ sở sản xuất công nghiệp trọng điểm của huyện (tính đến năm 2011).",
+        "Bên cạnh việc phát triển rất nhanh công nghiệp, ngành nông nghiệp với trọng tâm đánh bắt xa bờ và nuôi trồng thủy hải sản cũng đem lại nguồn thu ổn định cho cư dân ven biển. Núi Thành là tỉnh có sản lượng đánh bắt thủy hải sản lớn nhất tỉnh Quảng Nam và là một trong những trung tâm ngư nghiệp mạnh của duyên Hải Miền Trung.[cần dẫn nguồn]",
+        "Vùng núi của huyện là địa bàn phát triển mạnh cây keo lá tràm (làm nguyên liệu giấy) và cây cao su được trồng trên diện rộng trong những năm gần đây.",
+        "Huyện Núi Thành có hệ thống giao thông vận tải phát triển mạnh. Sân bay Chu Lai có các chuyến bay đi và đến Hà Nội, Thành phố Hồ Chí Minh. Cụm cảng Kỳ Hà có năng lực tiếp nhận các tàu có trọng tải đến 6.6000 tấn2 và cảng Tam Hiệp lên tới 10.000 tấn.3 Đường quốc lộ 1A đoạn chạy qua địa bàn huyện dài 31 km theo chiều Bắc-Nam, tỉnh lộ TL 617 nối các xã miền núi với đồng bằng. Ga Núi Thành là một điểm nhận trả hàng quan trọng của hệ thống đường sắt Thống Nhất. Hệ thống sông Trường Giang, Tam Kỳ tạo điều kiện thuận lợi cho giao thông thủy của huyện phát triển.",
+        "Bàn Than là một thắng cảnh thiên nhiên đẹp lộng lẫy phân bố trên 2 km bờ biển xã Tam Hải. Các mỏm đá đen lởm chởm ăn sát bờ biển tạo cảm giác chênh vênh với một bên là núi đá, một bên là sóng biển trắng xóa. Cách bờ biển 1 km là hòn Út, bãi Út hay cù lao Út. Trải qua thời gian dài chịu sự tác động của sóng biển, thủy triều và gió, các mỏm đá ở đây bị xâm thực, xói mòn tạo thành những đường vân có hình thù dị biệt. Đỉnh vách đá có một diện tích tương đối bằng phẳng rộng chừng 20ha. Chính vì vậy địa danh này có tên là Bàn Than (Bàn: mặt bàn - bằng phẳng và Than: đen như than). Bàn Than chưa được phát triển thành điểm du lịch, vì vậy nó vẫn chưa được biết đến nhiều, vấn nạn ô nhiễm môi trường đang dần tàn phá cảnh quan nơi đây.",
+        "Hố Giang Thơm (Xăng Thơm) thuộc Thôn 9, xã Tam Mỹ Tây, là một nơi có phong cảnh thiên nhiên hoang sơ tuyệt đẹp.",
+        "Hố Rinh thuộc thôn 7, Tam Mỹ tây, Nơi đây còn nguyên sơ chưa có quy hoạch tham quan du lịch nên rất phù hợp cho những ai thích \"Du lịch Bụi\". Đến nơi này bạn phải đi qua những con đường quanh co uốn lượng, nhưng cánh đồng nhỏ, điệp trùng núi non. Những ai trưởng thành nơi đây chắc chắc có tuổi thơ ấu tuyệt đẹp với: cánh diều, cảnh chăn trâu, bò, tắm mát trên nhưng con sông, suối.",
+        "Về đêm ốc đá rất nhiều với chiếc đèn pin có thể ăn ốc đá no \"Say\"",
+        "Là khu du lịch biển đang phát triển của Núi Thành hiện nay. Hãy tới đây để thương thức những món hải sản tươi rói: Mực hấp, mực nướng, cá Chuồn hấp quấn bánh tráng, các loại cháo hải sản, Đặc biệt tôm hùm.v.v. Ngồi ở đây để tân hưởng mùi của biển, mùi của thiên nhiên. Bãi tắm sạch còn đôi chút hoang sơ làm cho con người càng gần gũi với thiên nhiên hơn.",
+        "Nổ ra trận đánh đầu tiên trong phong trào chống Mỹ cứu nước nên được tặng 8 chữ vàng \" Trung Dũng Kiên Cường, Đi Đầu Diệt Mỹ\" Khi người ta xây tượng đài Núi thành không rõ vì lý do gì mà bị nứt và nghiêng....",
+        "Bài này phần nhiều lấy nguồn từ mục từ \"Núi Thành\" trong Từ điển Việt-Việt của Free Vietnamese Dictionary Project, được phát hành dưới Giấy phép Công cộng GNU (GPL).",
+        "Số liệu được lấy từ Phòng thống kê Huyện Núi Thành, 2006",
+        "",
+        "(Nguồn: Wikipedia)"
+    ]
+}

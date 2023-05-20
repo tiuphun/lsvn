@@ -1,0 +1,810 @@
+{
+    "tables": [],
+    "keywords": [],
+    "headings": [
+        "Tiên Vương - Nguyễn Hoàng",
+        "Sãi vương - Nguyễn Phúc Nguyên",
+        "Thượng vương - Nguyễn Phúc Lan",
+        "Hiền vương - Nguyễn Phúc Tần",
+        "Nghĩa vương - Nguyễn Phúc Trăn",
+        "Minh vương - Nguyễn Phúc Chu",
+        "Ninh vương - Nguyễn Phúc Thụ",
+        "Võ Vương - Nguyễn Phúc Khoát",
+        "Định Vương - Nguyễn Phúc Thuần",
+        "Chúa Nguyễn",
+        "Tiên Vương - Nguyễn Hoàng",
+        "Sãi vương - Nguyễn Phúc Nguyên",
+        "Thượng vương - Nguyễn Phúc Lan",
+        "Hiền vương - Nguyễn Phúc Tần",
+        "Nghĩa vương - Nguyễn Phúc Trăn",
+        "Minh vương - Nguyễn Phúc Chu",
+        "CÁC THỜI KỲ LỊCH SỬ",
+        "Tư Liệu",
+        "Anh Hùng Dân Tộc Tiêu Biểu",
+        "Tư Liệu Lịch Sử",
+        "Di Tích Lịch Sử"
+    ],
+    "anchors": [
+        {
+            "text": "",
+            "href": "/"
+        },
+        {
+            "text": "Trang Chủ",
+            "href": "/"
+        },
+        {
+            "text": "Dòng Lịch Sử",
+            "href": "/dong-lich-su"
+        },
+        {
+            "text": "Hồng Bàng & Văn Lang",
+            "href": "/dong-lich-su/hong-bang-va-van-lang"
+        },
+        {
+            "text": "Âu Lạc & Nam Việt",
+            "href": "/dong-lich-su/au-lac-va-nam-viet"
+        },
+        {
+            "text": "Bắc thuộc lần I",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat"
+        },
+        {
+            "text": "Trưng Nữ Vương",
+            "href": "/dong-lich-su/trung-nu-vuong"
+        },
+        {
+            "text": "Bắc thuộc lần II",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-hai"
+        },
+        {
+            "text": "Nhà Lý & Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu"
+        },
+        {
+            "text": "Bắc thuộc lần III",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-ba"
+        },
+        {
+            "text": "Thời kỳ xây nền tự chủ",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu"
+        },
+        {
+            "text": "Nhà Ngô",
+            "href": "/dong-lich-su/nha-ngo"
+        },
+        {
+            "text": "Nhà Đinh",
+            "href": "/dong-lich-su/nha-dinh"
+        },
+        {
+            "text": "Nhà Tiền Lê",
+            "href": "/dong-lich-su/nha-tien-le"
+        },
+        {
+            "text": "Nhà Lý",
+            "href": "/dong-lich-su/nha-ly"
+        },
+        {
+            "text": "Nhà Trần",
+            "href": "/dong-lich-su/nha-tran"
+        },
+        {
+            "text": "Nhà Hồ",
+            "href": "/dong-lich-su/nha-ho"
+        },
+        {
+            "text": "Nhà Hậu Trần",
+            "href": "/dong-lich-su/nha-hau-tran"
+        },
+        {
+            "text": "Bắc thuộc lần IV",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-tu"
+        },
+        {
+            "text": "Nhà Hậu Lê",
+            "href": "/dong-lich-su/nha-hau-le"
+        },
+        {
+            "text": "Nam Bắc Triều",
+            "href": "/dong-lich-su/nam-bac-trieu"
+        },
+        {
+            "text": "Trịnh Nguyễn Phân Tranh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh"
+        },
+        {
+            "text": "Nhà Tây Sơn",
+            "href": "/dong-lich-su/nha-tay-son"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/nha-nguyen"
+        },
+        {
+            "text": "Pháp Thuộc",
+            "href": "/dong-lich-su/phap-thuoc"
+        },
+        {
+            "text": "Việt Nam Dân Chủ Cộng Hoà",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Cộng hoà xã hội chủ nghĩa Việt Nam",
+            "href": "/dong-lich-su/viet-nam-xhcn"
+        },
+        {
+            "text": "Tư Liệu",
+            "href": "/tu-lieu"
+        },
+        {
+            "text": "Quân Sự",
+            "href": "/tu-lieu/quan-su?filter_tag[0]="
+        },
+        {
+            "text": "Tác Phẩm",
+            "href": "/tu-lieu/tac-pham?filter_tag[0]="
+        },
+        {
+            "text": "Bang Giao",
+            "href": "/tu-lieu/bang-giao"
+        },
+        {
+            "text": "Biểu đồ thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Nhân Vật",
+            "href": "/nhan-vat"
+        },
+        {
+            "text": "Anh Hùng Dân Tộc",
+            "href": "/anh-hung-dan-toc?types[0]=1"
+        },
+        {
+            "text": "Danh nhân văn hóa",
+            "href": "/danh-nhan-van-hoa?types[0]=1"
+        },
+        {
+            "text": "Di Tích",
+            "href": "/di-tich-lich-su?types[0]=1"
+        },
+        {
+            "text": "Ngày Nay",
+            "href": "/thoi-su"
+        },
+        {
+            "text": "Sách",
+            "href": "/sach"
+        },
+        {
+            "text": "Video",
+            "href": "/video"
+        },
+        {
+            "text": "Q&A",
+            "href": "/hoi-dap"
+        },
+        {
+            "text": "Lịch sử lớp 12",
+            "href": "/hoi-dap/lop-12"
+        },
+        {
+            "text": "Lịch sử lớp 11",
+            "href": "/hoi-dap/lop-11"
+        },
+        {
+            "text": "Lịch sử lớp 10",
+            "href": "/hoi-dap/lop-10"
+        },
+        {
+            "text": "Lịch sử lớp 9",
+            "href": "/hoi-dap/lop-9"
+        },
+        {
+            "text": "Lịch sử lớp 8",
+            "href": "/hoi-dap/lop-8"
+        },
+        {
+            "text": "Lịch sử lớp 7",
+            "href": "/hoi-dap/lop-7"
+        },
+        {
+            "text": "Lịch sử lớp 6",
+            "href": "/hoi-dap/lop-6"
+        },
+        {
+            "text": "Tiên Vương - Nguyễn Hoàng",
+            "href": "#tien-vuong-nguyen-hoang"
+        },
+        {
+            "text": "Sãi vương - Nguyễn Phúc Nguyên",
+            "href": "#sai-vuong-nguyen-phuc-nguyen"
+        },
+        {
+            "text": "Thượng vương - Nguyễn Phúc Lan",
+            "href": "#thuong-vuong-nguyen-phuc-lan"
+        },
+        {
+            "text": "Hiền vương - Nguyễn Phúc Tần",
+            "href": "#hien-vuong-nguyen-phuc-tan"
+        },
+        {
+            "text": "Nghĩa vương - Nguyễn Phúc Trăn",
+            "href": "#nghia-vuong-nguyen-phuc-tran"
+        },
+        {
+            "text": "Minh vương - Nguyễn Phúc Chu",
+            "href": "#minh-vuong-nguyen-phuc-chu"
+        },
+        {
+            "text": "Ninh vương - Nguyễn Phúc Thụ",
+            "href": "#ninh-vuong-nguyen-phuc-thu"
+        },
+        {
+            "text": "Võ Vương - Nguyễn Phúc Khoát",
+            "href": "#vo-vuong-nguyen-phuc-khoat"
+        },
+        {
+            "text": "Định Vương - Nguyễn Phúc Thuần",
+            "href": "#dinh-vuong-nguyen-phuc-thuan"
+        },
+        {
+            "text": "Tiên Vương - Nguyễn Hoàng",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen/tien-vuong-nguyen-hoang"
+        },
+        {
+            "text": "Sãi vương - Nguyễn Phúc Nguyên",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen/sai-vuong-nguyen-phuc-nguyen"
+        },
+        {
+            "text": "Thượng vương - Nguyễn Phúc Lan",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen/thuong-vuong-nguyen-phuc-lan"
+        },
+        {
+            "text": "Hiền vương - Nguyễn Phúc Tần",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen/hien-vuong-nguyen-phuc-tan"
+        },
+        {
+            "text": "Nghĩa vương - Nguyễn Phúc Trăn",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen/nghia-vuong-nguyen-phuc-tran"
+        },
+        {
+            "text": "Minh vương - Nguyễn Phúc Chu",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen/minh-vuong-nguyen-phuc-chu"
+        },
+        {
+            "text": "Ninh vương - Nguyễn Phúc Thụ",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen/ninh-vuong-nguyen-phuc-thu"
+        },
+        {
+            "text": "Võ Vương - Nguyễn Phúc Khoát",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen/vo-vuong-nguyen-phuc-khoat"
+        },
+        {
+            "text": "Định Vương - Nguyễn Phúc Thuần",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen/dinh-vuong-nguyen-phuc-thuan"
+        },
+        {
+            "text": "+",
+            "href": "#"
+        },
+        {
+            "text": "-",
+            "href": "#"
+        },
+        {
+            "text": "Trang chủ",
+            "href": "/"
+        },
+        {
+            "text": "Dòng Lịch Sử",
+            "href": "/dong-lich-su"
+        },
+        {
+            "text": "Trịnh Nguyễn Phân Tranh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh"
+        },
+        {
+            "text": "Tiên Vương - Nguyễn Hoàng",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen/tien-vuong-nguyen-hoang"
+        },
+        {
+            "text": "Chúa Nguyễn",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen"
+        },
+        {
+            "text": "Sãi vương - Nguyễn Phúc Nguyên",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen/sai-vuong-nguyen-phuc-nguyen"
+        },
+        {
+            "text": "Chúa Nguyễn",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen"
+        },
+        {
+            "text": "Thượng vương - Nguyễn Phúc Lan",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen/thuong-vuong-nguyen-phuc-lan"
+        },
+        {
+            "text": "Chúa Nguyễn",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen"
+        },
+        {
+            "text": "Hiền vương - Nguyễn Phúc Tần",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen/hien-vuong-nguyen-phuc-tan"
+        },
+        {
+            "text": "Chúa Nguyễn",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen"
+        },
+        {
+            "text": "Nghĩa vương - Nguyễn Phúc Trăn",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen/nghia-vuong-nguyen-phuc-tran"
+        },
+        {
+            "text": "Chúa Nguyễn",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen"
+        },
+        {
+            "text": "Minh vương - Nguyễn Phúc Chu",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen/minh-vuong-nguyen-phuc-chu"
+        },
+        {
+            "text": "Chúa Nguyễn",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen"
+        },
+        {
+            "text": "1",
+            "href": "#"
+        },
+        {
+            "text": "2",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen?start=6"
+        },
+        {
+            "text": "",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen?start=6"
+        },
+        {
+            "text": "",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen?start=6"
+        },
+        {
+            "text": "Hồng Bàng & Văn Lang",
+            "href": "/dong-lich-su/hong-bang-va-van-lang"
+        },
+        {
+            "text": "Âu Lạc & Nam Việt",
+            "href": "/dong-lich-su/au-lac-va-nam-viet"
+        },
+        {
+            "text": "Bắc thuộc lần I",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat"
+        },
+        {
+            "text": "Nhà Triệu",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat/nha-trieu"
+        },
+        {
+            "text": "Trưng Nữ Vương",
+            "href": "/dong-lich-su/trung-nu-vuong"
+        },
+        {
+            "text": "Bắc thuộc lần II",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-hai"
+        },
+        {
+            "text": "Nhà Lý & Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu"
+        },
+        {
+            "text": "Nhà Tiền Lý",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-tien-ly"
+        },
+        {
+            "text": "Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-trieu"
+        },
+        {
+            "text": "Nhà Hậu Lý",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-hau-ly"
+        },
+        {
+            "text": "Bắc thuộc lần III",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-ba"
+        },
+        {
+            "text": "Thời kỳ xây nền tự chủ",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu"
+        },
+        {
+            "text": "Họ Khúc",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu/ho-khuc"
+        },
+        {
+            "text": "Nhà Ngô",
+            "href": "/dong-lich-su/nha-ngo"
+        },
+        {
+            "text": "Nhà Đinh",
+            "href": "/dong-lich-su/nha-dinh"
+        },
+        {
+            "text": "Nhà Tiền Lê",
+            "href": "/dong-lich-su/nha-tien-le"
+        },
+        {
+            "text": "Nhà Lý",
+            "href": "/dong-lich-su/nha-ly"
+        },
+        {
+            "text": "Nhà Trần",
+            "href": "/dong-lich-su/nha-tran"
+        },
+        {
+            "text": "Nhà Hồ",
+            "href": "/dong-lich-su/nha-ho"
+        },
+        {
+            "text": "Nhà Hậu Trần",
+            "href": "/dong-lich-su/nha-hau-tran"
+        },
+        {
+            "text": "Bắc thuộc lần IV",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-tu"
+        },
+        {
+            "text": "Nhà Hậu Lê",
+            "href": "/dong-lich-su/nha-hau-le"
+        },
+        {
+            "text": "Nam Bắc Triều",
+            "href": "/dong-lich-su/nam-bac-trieu"
+        },
+        {
+            "text": "Nhà Lê Trung Hưng",
+            "href": "/dong-lich-su/nam-bac-trieu/nha-le-trung-hung"
+        },
+        {
+            "text": "Nhà Mạc",
+            "href": "/dong-lich-su/nam-bac-trieu/nha-mac"
+        },
+        {
+            "text": "Trịnh Nguyễn Phân Tranh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh"
+        },
+        {
+            "text": "Nhà Lê Trung Hưng",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/nha-le-trung-hung"
+        },
+        {
+            "text": "Chúa Trịnh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-trinh"
+        },
+        {
+            "text": "Chúa Nguyễn",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen"
+        },
+        {
+            "text": "Nhà Tây Sơn",
+            "href": "/dong-lich-su/nha-tay-son"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/nha-nguyen"
+        },
+        {
+            "text": "Pháp Thuộc",
+            "href": "/dong-lich-su/phap-thuoc"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/phap-thuoc/nha-nguyen"
+        },
+        {
+            "text": "Những cuộc khởi nghĩa chống thực dân Pháp",
+            "href": "/dong-lich-su/phap-thuoc/khoi-nghia-chong-phap"
+        },
+        {
+            "text": "Đảng Cộng Sản Việt Nam",
+            "href": "/dong-lich-su/phap-thuoc/dang-cong-san-viet-nam"
+        },
+        {
+            "text": "Việt Nam Dân Chủ Cộng Hoà",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Kháng chiến chống Pháp",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-phap"
+        },
+        {
+            "text": "Kháng chiến chống Mĩ",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-mi"
+        },
+        {
+            "text": "Cộng hoà xã hội chủ nghĩa Việt Nam",
+            "href": "/dong-lich-su/viet-nam-xhcn"
+        },
+        {
+            "text": "Trận Điện Biên Phủ trên không năm 1972",
+            "href": "/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972"
+        },
+        {
+            "text": "Chiến tranh biên giới Tây Nam năm 1975 - 1978",
+            "href": "/tu-lieu/quan-su/chien-tranh-bien-gioi-tay-nam-nam-1975-1978"
+        },
+        {
+            "text": "Chiến dịch Mùa Xuân năm 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-mua-xuan-nam-1975"
+        },
+        {
+            "text": "Hải chiến Trường Sa năm 1988",
+            "href": "/tu-lieu/quan-su/hai-chien-truong-sa-nam-1988"
+        },
+        {
+            "text": "Chiến dịch Đường 14 - Phước Long năm 1974 - 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-duong-14-phuoc-long-nam-1974-1975"
+        },
+        {
+            "text": "Chiến dịch Tây Nguyên năm 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-tay-nguyen-nam-1975"
+        },
+        {
+            "text": "Trận Mậu Thân tại Huế năm 1968",
+            "href": "/tu-lieu/quan-su/tran-mau-than-tai-hue-nam-1968"
+        },
+        {
+            "text": "Bảng đối chiếu các triều đại Việt Nam và các triều đại Trung Quốc",
+            "href": "/tu-lieu/bang-doi-chieu-cac-trieu-dai-viet-nam-va-cac-trieu-dai-trung-quoc"
+        },
+        {
+            "text": "Bình Ngô đại cáo - bản tuyên ngôn độc lập thứ hai",
+            "href": "/tu-lieu/tac-pham/binh-ngo-dai-cao-ban-tuyen-ngon-doc-lap-thu-hai"
+        },
+        {
+            "text": "Lãnh thổ Việt Nam qua từng thời kỳ",
+            "href": "/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky"
+        },
+        {
+            "text": "Trận Đồi Thịt Băm năm 1969",
+            "href": "/tu-lieu/quan-su/tran-doi-thit-bam-nam-1969"
+        },
+        {
+            "text": "Chiến dịch Đắk Tô năm 1972",
+            "href": "/tu-lieu/quan-su/chien-dich-dak-to-nam-1972"
+        },
+        {
+            "text": "Nam quốc sơn hà - Bản tuyên ngôn độc lập đầu tiên",
+            "href": "/tu-lieu/tac-pham/nam-quoc-son-ha-ban-tuyen-ngon-doc-lap-dau-tien"
+        },
+        {
+            "text": "Tuyên ngôn độc lập Việt Nam Dân chủ Cộng hòa",
+            "href": "/tu-lieu/tac-pham/tuyen-ngon-doc-lap-viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Trận Bản Đông năm 1971",
+            "href": "/tu-lieu/quan-su/tran-ban-dong-nam-1971"
+        },
+        {
+            "text": "Trận Rạch Gầm \u2013 Xoài Mút năm 1785",
+            "href": "/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785"
+        },
+        {
+            "text": "Lịch sử Chữ viết tiếng Việt",
+            "href": "/tu-lieu/lich-su-chu-viet-tieng-viet"
+        },
+        {
+            "text": "Hịch tướng sĩ - Dụ chư tỳ tướng hịch văn",
+            "href": "/tu-lieu/tac-pham/hich-tuong-si-du-chu-ty-tuong-hich-van"
+        },
+        {
+            "text": "Danh sách Trạng nguyên Việt Nam",
+            "href": "/tu-lieu/danh-sach-trang-nguyen-viet-nam"
+        },
+        {
+            "text": "Hội nghị Paris, mặt trận ngoại giao năm 1968-1972",
+            "href": "/tu-lieu/bang-giao/hoi-nghi-paris-mat-tran-ngoai-giao-nam-1968-1972"
+        },
+        {
+            "text": "Trần Nhân Tông",
+            "href": "/nhan-vat/tran-nhan-tong"
+        },
+        {
+            "text": "Lý Thái Tổ",
+            "href": "/nhan-vat/ly-thai-to"
+        },
+        {
+            "text": "Lê Đại Hành",
+            "href": "/nhan-vat/le-dai-hanh"
+        },
+        {
+            "text": "Ngô Quyền",
+            "href": "/nhan-vat/ngo-quyen"
+        },
+        {
+            "text": "Đinh Tiên Hoàng",
+            "href": "/nhan-vat/dinh-tien-hoang"
+        },
+        {
+            "text": "Lý Nam Đế",
+            "href": "/nhan-vat/ly-nam-de"
+        },
+        {
+            "text": "Hùng Vương",
+            "href": "/nhan-vat/hung-vuong"
+        },
+        {
+            "text": "Nguyễn Trãi",
+            "href": "/nhan-vat/nguyen-trai"
+        },
+        {
+            "text": "Trần Hưng Đạo",
+            "href": "/nhan-vat/tran-hung-dao"
+        },
+        {
+            "text": "Lê Thái Tổ",
+            "href": "/nhan-vat/le-thai-to"
+        },
+        {
+            "text": "Vấn đề biên giới Việt-Trung thời Mạc",
+            "href": "/tu-lieu/bang-giao/van-de-bien-gioi-viet-trung-thoi-mac"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Tây Sơn",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-tay-son"
+        },
+        {
+            "text": "Biểu đồ các nhân vật lịch sử theo dòng thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Danh sách Trạng nguyên Việt Nam",
+            "href": "/tu-lieu/danh-sach-trang-nguyen-viet-nam"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Nguyễn",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-nguyen"
+        },
+        {
+            "text": "Trận Điện Biên Phủ trên không năm 1972",
+            "href": "/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972"
+        },
+        {
+            "text": "Trận Ngọc Hồi - Đống Đa năm 1789",
+            "href": "/tu-lieu/quan-su/tran-ngoc-hoi-dong-da-nam-1789"
+        },
+        {
+            "text": "Trận Cẩm Sa năm 1775",
+            "href": "/tu-lieu/quan-su/tran-cam-sa-nam-1775"
+        },
+        {
+            "text": "Trận Rạch Gầm \u2013 Xoài Mút năm 1785",
+            "href": "/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785"
+        },
+        {
+            "text": "Lãnh thổ Việt Nam qua từng thời kỳ",
+            "href": "/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky"
+        },
+        {
+            "text": "Đền Trần (Nam Định)",
+            "href": "/dia-danh/den-tran-nam-dinh"
+        },
+        {
+            "text": "Khu di tích Chủ tịch Hồ Chí Minh tại Phủ Chủ tịch",
+            "href": "/dia-danh/khu-di-tich-chu-tich-ho-chi-minh-tai-phu-chu-tich"
+        },
+        {
+            "text": "Văn Miếu - Quốc Tử Giám",
+            "href": "/dia-danh/van-mieu-quoc-tu-giam"
+        },
+        {
+            "text": "Thành cổ Quảng Trị",
+            "href": "/dia-danh/thanh-co-quang-tri"
+        },
+        {
+            "text": "Dinh Độc Lập",
+            "href": "/dia-danh/dinh-doc-lap"
+        },
+        {
+            "text": "chùa Thầy",
+            "href": "/dia-danh/chua-thay"
+        },
+        {
+            "text": "Khu lăng mộ và đền thờ các vị vua triều Lý",
+            "href": "/dia-danh/khu-lang-mo-va-den-tho-cac-vi-vua-trieu-ly"
+        },
+        {
+            "text": "chùa Phổ Minh",
+            "href": "/dia-danh/chua-pho-minh"
+        },
+        {
+            "text": "Hồ Hoàn Kiếm",
+            "href": "/dia-danh/ho-hoan-kiem"
+        },
+        {
+            "text": "Thành nhà Hồ",
+            "href": "/dia-danh/thanh-nha-ho"
+        },
+        {
+            "text": "Giới thiệu",
+            "href": "/gioi-thieu"
+        },
+        {
+            "text": "Quyền riêng tư",
+            "href": "/quyen-rieng-tu"
+        },
+        {
+            "text": "Liên hệ",
+            "href": "/lien-he"
+        },
+        {
+            "text": "Địa Danh",
+            "href": "/dia-danh"
+        },
+        {
+            "text": "Trang Facebook",
+            "href": "https://www.facebook.com/nguoikesu/"
+        },
+        {
+            "text": "DanhMucBDS.com",
+            "href": "https://danhmucbds.com"
+        },
+        {
+            "text": "HocTotNguVan.com",
+            "href": "https://hoctotnguvan.com"
+        }
+    ],
+    "title": "Chúa Nguyễn - Người Kể Sử",
+    "paragraphs": [
+        "Chúa Nguyễn là cách gọi chung trong sử sách và dân gian về một vương triều đã cai trị dải đất đất từ Thuận Hóa (phía nam đèo Ngang hiện nay) vào miền nam của Việt Nam, bắt đầu từ đầu giai đoạn Lê Trung Hưng của nhà Hậu Lê, hay giữa thế kỷ 16, cho đến khi bị nhà Tây Sơn tiêu diệt năm 1777. Các chúa Nguyễn là tiền thân của nhà Nguyễn, triều đại phong kiến cuối cùng của Việt Nam.",
+        "Năm 1527, Mạc Đăng Dung cướp ngôi nhà Lê và lập ra nhà Mạc. Nguyễn Kim (1468-1545), vốn là một tướng giỏi của nhà Hậu Lê, nhờ có công giúp vua Lê chống lại nhà Mạc nên được phong chức Thái Sư Hưng Quốc Công, sau này khi nhà Nguyễn thống nhất đất nước đã truy tôn ông là Triệu tổ Tĩnh hoàng đế. Nguyễn Kim có ba người con. Con gái đầu tên Ngọc Bảo, lấy Trịnh Kiểm, người sau này trở thành người mở đầu cho sự nghiệp của các chúa Trịnh ở Đàng Ngoài; hai người con trai kế của Nguyễn Kim cũng là tướng giỏi và được phong chức Quận công. Sau khi người con trai lớn là Nguyễn Uông, bị anh rể là Trịnh Kiểm giết, người con trai còn lại là Nguyễn Hoàng đã xin vua Lê cho vào cai trị vùng đất Thuận Hóa để rời xa tầm ảnh hưởng của anh rể, nhằm mưu đồ tạo dựng cơ nghiệp riêng cho họ Nguyễn.",
+        "Các chúa Nguyễn về danh nghĩa là quan của Nhà Lê trung hưng, nhận sắc phong của vua Lê, nhưng trên thực tế họ cai trị lãnh thổ Đàng Trong một cách tương đối độc lập với vua Lê. Tổng cộng có 10 chúa Nguyễn cai quản xứ Đàng Trong trong hơn 2 thế kỷ. Tình trạng chia cắt Việt Nam thành Đàng Trong (của Chúa Nguyễn) với Đàng Ngoài (của Chúa Trịnh) kéo dài suốt khoảng thời gian đó, và chỉ chấm dứt sau khi nhà Tây Sơn nổi dậy và đánh đổ cả hai tập đoàn Chúa Trịnh và Chúa Nguyễn vào cuối thế kỷ 18.",
+        "Nguyễn Hoàng (Chúa Tiên, 1558-1613)",
+        "Nguyễn Kim quê ở Gia Miêu, Tống Sơn, Hà Trung, Thanh Hóa, là con của Trừng quốc công Nguyễn Hoàng Dụ đã từng giúp vua Lê Tương Dực khởi binh ở Thanh Hóa lật đổ Lê Uy Mục, nhân đó được phong là Thái phó Trừng quốc công.",
+        "Mạc Đǎng Dung cướp ngôi nhà Lê, Nguyễn Kim lánh sang Ai Lao, thu nạp hào kiệt, phò giúp nhà Lê trung hưng, được vua Lê Trang Tông phong là Thượng phụ Thái sư Hưng quốc công. Nǎm Canh Tý - l540 Nguyễn Kim đem quân về chiếm Nghệ An, nǎm l542 chiếm được Tây Đô - Thanh Hóa. Nǎm ất Tị - 1545, Nguyễn Kim bị hàng tướng nhà Mạc là Dương Chấp Nhất đầu độc chết, thọ 75 tuổi, quyền hành rơi vào tay con rể là Trịnh Kiểm.",
+        "Khi Nguyễn Kim chạy sang Ai Lao thì Nguyễn Hoàng mới 2 tuổi, được Thái phó Nguyễn Ư Dĩ là cậu ruột nuôi dạy nên người.",
+        "Trịnh Kiểm là anh rể, muốn thâu tóm quyền hành nên đã ngấm ngầm ám hại các em vợ. Nguyễn Uông, con trưởng của Nguyễn Kim đã bị hãm hại. Nguyễn Hoàng rất lo sợ, sai người đến yết kiến Trạng Trình Nguyễn Bỉnh Khiêm xin mách cho kế an toàn, Trạng Trình đã ứng khẩu câu thơ: ''Hoành Sơn nhất đái, vạn đại dung thân!'' (một dãy núi Hoành Sơn có thể dung thân muôn đời).",
+        "Nguyễn Hoàng nghĩ ra, đến nói với chị gái là Ngọc Bảo xin với anh rể là Trịnh Kiểm cho vào trấn thủ Thuận Hoá là nơi hoang vu nhiều giặc dã. Trịnh Kiểm đồng ý cho Nguyễn Hoàng vào trấn thủ Thuận Hoá với ý đồ mượn tay giặc giết em vợ.",
+        "Nǎm Mậu Ngọ - 1558, Trịnh Kiểm tâu với vua Lê Anh Tông cho Nguyễn Hoàng vào trấn thủ Thuận Hoá.",
+        "Được lệnh vào Nam, bất chấp mùa đông giá rét, Nguyễn Hoàng giong buồm đi ngay, những người họ hàng ở huyện Tống Sơn cùng quân lính ở đất Thanh - Nghệ nhiều người đem cả vợ con đi theo có đến nghìn người. Các danh thần cùng đi có Nguyễn Ư Dĩ, Tống Phước Trị, Mạc Cảnh Huống...",
+        "Vào Nam, đoàn người của Nguyễn Hoàng đổ bộ lên cảng Cửa Việt, dựng dinh thự ở ái Tử thuộc huyện Đǎng Xương, Quảng Trị.",
+        "Nguyễn Hoàng là người khôn ngoan, nhân hậu, lưu tâm đến dân tình, hết lòng thu dung hào kiệt. ông giảm sưu, hạ thuế khiến lòng người ai cũng mến phục. Nhân dân xưng tụng ông là chúa Tiên.",
+        "Để tránh sự nghi kỵ của chúa Trịnh, nǎm 1569, ông ra chầu vua Lê ở An Trường, được vua Lê, chúa Trịnh khen ngợi. Nǎm 1570, Nguyễn Hoàng được giao trấn thủ luôn đất Quảng Nam với ấn Tổng trấn. ông dời đô vào làng Trà Bát (tức Cát Dinh) cũng thuộc huyện Đǎng Xương.",
+        "Nǎm 1572, tướng Lập Bạo của nhà Mạc theo đường biển đem quân vào đóng ở hai làng Hồ Xá và Lang Uyển (Quảng Trị) định phá sự nghiệp ở Thuận - Quảng của Nguyễn Hoàng. Nguyễn Hoàng đã dùng kế mỹ nhân phá được âm mưu của Lập Bạo và đánh tan được quân nhà Mạc.",
+        "Nǎm 1593, Nguyễn Hoàng đem quân ra Đông Đô giúp Trịnh Tùng đánh dẹp dư đảng họ Mạc. Vì lập được nhiều chiến công, ông được vua Lê tấn phong làm Trung quân Đô đốc phủ tả đô đốc chưởng phủ sự thái uý Đoan quốc công. Để tránh Trịnh Tùng hãm hại, nǎm Canh Tý - 1600 Nguyễn Hoàng lấy cớ đem quân đi dẹp cuộc nổi loạn ở Nam Định, sau đó cùng các tướng tâm phúc ra biển giong thẳng vào đất Thuận - Quảng để con trai thứ 5 là Hải và cháu là Hắc ở lại làm con tin. Vua Lê sai sứ giả vào phủ dụ và vẫn để Nguyễn Hoàng trấn thủ Thuận - Quảng. Tháng 10 nǎm Canh Tý - 1600, Nguyễn Hoàng gả con gái là Ngọc Tú cho Trịnh Tráng (con cả Trịnh Tùng).",
+        "Có thể nói từ nǎm 1600, Nguyễn Hoàng bắt đầu xây dựng giang sơn riêng cho họ Nguyễn ở Đàng Trong.",
+        "Thuận - Quảng vốn là đất cũ của người Chǎm chịu ảnh hưởng vǎn hóa Chǎmpa, chúa Tiên dã dùng Phật giáo để thuần hoá nhân dân. ông sửa sang và xây dựng nhiều ngôi chùa.",
+        "Đặc biệt, nǎm 1601 ông cho xây dựng chùa Thiên Mụ là công việc to lớn có giá trị nhất. Ngôi chùa lịch sử này đã có quan hệ mật thiết với quá trình phát triển đất Thuận Hoá và triều Nguyễn ở Việt Nam.",
+        "Nguyễn Hoàng sinh ngày 28/8/1525, mất ngày 21/5/1613 thọ 89 tuổi, trấn thủ Thuận - Quảng 55 nǎm (1558-1613). ông sinh 10 con trai và 2 con gái. Sau này, triều Nguyễn truy tôn ông là Thái tổ Gia dụ Hoàng đế.",
+        "Nguyễn Phúc Nguyên (Chúa Sãi, 1613-1635) Nguyễn Hoàng sắp mất, gọi con thứ 6 là Nguyễn Phúc Nguyên vào dặn dò: Đất Thuận - Quảng này phía bắc thì có núi Hoành Sơn, sông Linh Giang, phía nam thì có núi Hải Vân và núi Bi Sơn thật là nơi trời để cho người anh hùng dụng võ. Vậy con phải thương yêu nhân dân, luyện tập binh sĩ mới gây dựng cơ nghiệp muôn đời. Nguyễn Phúc Nguyên khóc và bái tạ lãnh mạng. Vua Lê sai sứ giả vào viếng và truy tặng Nguyễn Hoàng là Cẩn nghi công, vẫn cho Nguyễn Phúc Nguyên làm trấn thủ Thuận - Quảng với hàm Thái bảo, tước Thuỵ quận công. Nguyễn Phúc Nguyên xưng là Sãi vương và cho rời cung phủ về xã Phúc Yên, huyện Quảng Điền, ngày đêm lo việc chính sự, thu dụng nhân tài. Quan khám lý Trần Đức Hoà tiến cử Đào Duy Từ cho chúa Nguyễn, chúa mừng lắm phong cho Đào Duy Từ tước Lộc kê hầu, chức Nha uý nội tán. Đào Duy Từ giúp chúa Nguyễn đắp luỹ Trường Dục luỹ Thầy để phòng ngự, chống nhau với quân Trịnh, Đào Duy Từ còn bày kế sách cho chúa Nguyễn trả lại sắc phong của vua Lê, không chịu nộp thuế cống cho chúa Trịnh. Chuyện kể rằng nǎm Đinh Mão - 1627, Trịnh Tráng sai sứ mang sắc vua Lê dụ chúa Sãi cho con vào chầu và nộp 30 con voi cùng 30 chiếc thuyền để đưa cống nhà Minh. Nhận được sắc vua, chúa Sãi họp triều thần hỏi mưu kế. Đào Duy Từ dâng kế, cho người làm một cái mâm hai đáy, trên sắp đầy sản vật, giữa để sắc thư, rồi cử Lại Vǎn Khuông làm chánh sứ đem phẩm vật ra tạ ơn chúa Trịnh. Nhờ đã được chuẩn bị trước, khi ra kinh đô yết kiến chúa Trịnh, Lại Vǎn Khuông ứng đối khá trôi chảy. Chúa hậu đãi, cho phép Khuông cùng phái đoàn đi thǎm kinh thành để chờ chúa dạy bảo. Trên đường đi, Khuông lén mở cẩm nang của Đào Duy Từ trao cho từ trước. Sau khi đọc cẩm nang, Khuông cùng cả phái đoàn lẻn trốn về Nam. Thấy phái đoàn đột ngột trốn về, chúa Trịnh nghi hoặc, bèn cho người đập vỡ mâm mới thấy tờ sắc trước, và một bài thơ, mỗi câu bốn chữ như sau.",
+        "Mâu nhi địch Mịch phi kiến tích Ái lạc tâm trường Lực lai tương địch",
+        "Cả triều thần không ai hiểu ý nghĩa. Trịnh Tráng phải mời Trạng Bùng Phùng Khắc Hoan giải mã... Đọc xong Phùng Khắc Khoan giải thích: Đấy là lối chơi chữ của Đào Duy Từ, chữ mâu không có dấu phẩy là chữ dư, chữ mịch không thấy chữ kiến thì còn chữ bất, chữ ái rơi chữ tâm thành chữ thụ, chữ lực cùng đối địch với chữ lai thành chữ sắc. Vậy ý nghĩa của bài thơ 4 câu trên là Dư bất thụ sắc tức là Ta không nhận sắc. Nghe xong, Trịnh Tráng vội cho người tìm bắt Lại Vǎn Khuông, nhưng Khuông đã cao chạy xa bay rồi. Tráng muốn phát binh vào đánh chúa Nguyễn, nhưng gặp lúc Cao Bằng và Hải Dương đều có giặc, đành phải hoãn lại chưa đi hỏi tội chúa Nguyễn. Đào Duy Từ còn tiến cử cho chúa Nguyễn một viên tướng tài ba, mưu lược là Nguyễn Hữu Tiến, quân lực của chúa Nguyễn từ đó ngày thêm mạnh. Đào Duy Từ chỉ giúp chúa Nguyễn 8 nǎm mà cơ nghiệp chúa Nguyễn thay đổi hẳn về chất, đất Đàng Trong trở nên có vǎn hiến và quy củ hơn trước nhiều. Đối với lân bang, chúa Sãi chủ trương thân thiện với Chiêm Thành và Chân Lạp. Nǎm 1620, chúa gả công nữ Ngọc Vạn cho vua Chân Lạp Chetta II (1618?1686) để tạo thuận lợi cho dân chúng vào khai khẩn đất hoang ở Thuỷ Chân Lạp. Nǎm 1631, chúa Sãi lại gả công nữ Ngọc Khoa cho vua Chiêm Pô Romê để củng cố nền hoà hiếu một thời gian khá dài giữa hai nước Chiêm ? Việt. Chúa Nguyễn Phúc Nguyên, sinh 16/8/1563, mất ngày 19/12/1635 thọ 73 tuổi, ở ngôi chúa 22 nǎm. Sau triều Nguyễn truy tôn Hy tông Hiếu vǎn Hoàng đế. Chúa Sãi có 15 người con (11 con trai và 4 con gái).",
+        "Chúa Nguyễn Phúc Lan (chúa Thượng, 1635-1648)",
+        "Nguyễn Phúc Nguyên có 11 con trai. Nguyễn Phúc Lan là con trai thứ hai được truyền ngôi chúa.",
+        "Năm Ất Hợi (1635) chúa Sãi mất, Nguyễn Phúc Lan lên ngôi chúa gọi là chúa Thượng.",
+        "Nghe tin Phúc Lan nối nghiệp, hoàng tử thứ 3 là Nguyễn Phúc Anh đang trấn giữ Quảng Nam âm mưu phản nghịch, liên kết với chúa Trịnh đem quân vào đánh miền Nam. Phúc Anh sai đắp luỹ Câu Ðê làm kế cố thủ. Phúc Lan đánh bắt được, không nỡ giết người ruột thịt, nhưng tướng sĩ và ông chú là Trường quận công Nguyễn Phúc Khê đều xin giết để trừ hậu hoạ.",
+        "Chúa dù đau xót cũng phải nghe theo.",
+        "Năm Kỷ Mão (1639), Tống Thị (vợ goá của Phúc Anh) dâng cho chúa chuỗi hoa vòng ngọc liên châu rất đẹp. Chúa cầm lên ngửi thấy mùi hương thơm ngát xúc động lòng yêu. Tống Thị lại vào sụp lạy dưới thềm, thưa trình về tình cảnh goá bụa thảm thiết, nhan sắc lại cực kỳ diễm lệ. Chúa Thượng nổi tình riêng, sau đó mời nàng vào nội thất chung chăn gối.",
+        "Từ đó chúa rất mực sủng ái Tống Thị. Nàng trình bẩm việc gì chúa cũng nghe theo. Tống Thị lựa lời khéo léo để chúa vui lòng, nghĩ cách chiếm đoạt của cải của dân để làm giàu riêng. Các quan đại thần căm ghét Tống Thị, tìm cách can gián nhưng chúa không nghe. Cho hay, nhan sắc, gái đẹp có mãnh lực vô biên, làm lung lạc cả đấng quân vương.",
+        "Làm chúa được 9 năm, vị chúa đa tình này lập được chiến công vang dội. Lần đầu tiên trong lịch sử, thuỷ quân Việt Nam đã đánh thắng thủy quân Âu Châu.",
+        "Ðó là năm 1643, Hà Lan theo yêu cầu của chúa Trịnh đã cho 3 chiếc tàu đồng kiểu tròn, trang bị nhiều trọng pháo tiến vào cửa Eo (Thuận An) mưu đồ xâm lược nước ta.",
+        "Chúa Thượng họp quần thần bàn định có nên đưa chiến thuyền của mình ra đánh tàu Hà Lan hay không. Các quần thần không dám hứa là chắc thắng. Chúa hỏi một người Hà Lan đang giúp việc cho chúa. Người ấy tự phụ trả lời: Tầu Hà Lan chỉ sợ mãnh lực và quân đội của trời thôi. Nghe vậy, chúa cảm thấy bị xúc phạm. Ông thân hành đến Eo, ra lệnh cho thuỷ quân chèo thuyền ra đánh thẳng vào 3 chiếc tàu của Hà Lan.",
+        "Hàng trăm chiếc thuyền Việt Nam xông thẳng vào các chiếc tàu Hà Lan, mặc đại bác bắn ra như mưa. Bốn mặt tàu Hà Lan đều bị tấn công. Nhờ thuyền nhỏ cơ động, nhanh nhẹn nên mặc dù bị một số đạn, thuyền Việt Nam vẫn bao vây tấn công vào tàu Hà Lan quyết liệt. Chúng vô cùng kinh hoàng, không ngờ thủy quân chúa Nguyễn lại gan dạ đến thế. Chiếc nhỏ nhất vội luồn lách chạy thoát thân. Chiếc thứ hai thảng thốt đâm vào đá, cả đoàn thuỷ thủ và tàu chìm nghỉm xuống biển. Chiếc thứ 3 lớn nhất chống cự lại, các thuỷ quân chúa Nguyễn bám sát tàu bẻ bánh lái. Một số nhảy lên tàu, chặt gẫy cột buồm. Bị dồn vào thế tuyệt vọng, thuyền trưởng Hà Lan cho nổ kho thuốc súng. Thế là tất cả thủy thủ bị hoả thiêu chết la liệt trên biển. Có 7 tên trên tàu nhảy xuống biển, cố bơi thoát nhưng đều bị tóm cổ.",
+        "Thắng trận trở về, chúa Thượng dẫn 7 tên tù binh đến trước mặt người Hà Lan nói:",
+        "- Cần chi mãnh lực và quân đội của trời mới phá được. Chiến thuyền của ta cũng khá đấy chứ.",
+        "Năm 1648, Trịnh Tráng cho các đạo quân thuỷ bộ đánh vào miền Nam. Bộ binh đóng ở đất Nam Bố Chính, còn thuỷ quân thì đánh vào cửa Nhật Lệ. Nguyễn Phúc Lan phải tự cầm quân đánh lại. Sau Phúc Lan thấy trong người không được khoẻ, mới trao binh quyền cho con trai là Nguyễn Phúc Tần và tướng Nguyễn Hữu Dật chỉ huy còn mình thì rút về. Ðến phá Tam Giang thì chúa mất, thọ đến 48 tuổi, ở ngôi chúa 13 năm. Sau triều Nguyễn truy tôn là Thần tôn Hiến chiêu Hoàng đế. Chúa Thượng có 4 người con (3 con trai, 1 con gái).",
+        "Nguyễn Phúc Tần (chúa Hiền, 1648-1687)",
+        "Nguyễn Phúc Tần sinh năm Canh Thìn (1620). Lúc đầu được phong Phó tướng Dũng lễ hầu, đã từng đánh giặc ở cửa biển, được chúa Phúc Lan rất khen ngợi. Năm Mậu Tý - 1648 được tấn phong là tiết chế chủ quân, thay Phúc Lan phá quân Trịnh ở sông Gianh. Bấy giờ ông 29 tuổi. Chúa Nguyễn Phúc Lan mất đột ngột, bày tôi tôn Nguyễn Phúc Tần lên ngôi chúa, gọi là chúa Hiền. Chúa Nguyễn Phúc Tần là người chăm chỉ chính sự, không chuộng yến tiệc vui chơi.",
+        "Phúc Tần biết tận dụng hai tướng tài giỏi là Nguyễn Hữu Dật và Nguyễn Hữu Tiến. Quân chúa Nguyễn nhiều lần vượt sông Gianh tiến ra đất Đàng Ngoài. Năm 1656, sau hai năm tấn công ta Bắc, quân Nguyễn đã chiếm được 7 huyện của Nghệ An. Tự thân Nguyễn Phúc Tần đã đem quân ra đến Nghệ An đóng tại xã Vân Cát, quân Nguyễn có thể tiến sâu thêm nữa, nhưng nghe tin Trịnh Tráng mất, con là Trịnh Tạc lên ngôi chúa đang chịu tang, chúa Nguyễn cho người sang điếu rồi rút quân về, lưu các tướng đóng đồn từ sông Lam trở về Nam, đắp luỹ từ núi đến cửa biển để phòng ngự. Sau đợt tấn công đó, quân Nguyễn còn chiếm đất Nghệ An thêm 5 lần nữa, năm 1660 chúa Trịnh mới khôi phục lại được. Từ đó Trịnh - Nguyễn cầm cự nhau suốt mấy chục năm không phân thắng bại.",
+        "Năm Kỷ Mùi - 1679, chúa Nguyễn cho phép Dương Ngạn Địch, một tướng cũ của triều Minh cùng với Trần Thượng Xuyên đem gia thuộc hơn 3000 người và hơn 50 chiến thuyền đến khai phá vùng đất Gia Định - Mỹ Tho. Từ đó phố xá, chợ búa mọc lên sầm uất, thuyền buôn của các nước Thanh, Nhật Bản và các nước phương Tây ra vào tấp nập, do đó phong hoá ngày càng mở mang",
+        "Dưới thời chúa Hiền, nhiều kênh dẫn nước tưới ruộng được khơi đào, như Trung Đàn, Mai Xá. Bấy giờ bờ cõi được thái bình, thóc lúa được mùa. Chúa càng chăm lo chính sự, không xây đền đài, không gần gái đẹp, bớt lao dịch thuế khoá, nhân dân đều khen ngợi thời thái bình thịnh trị.",
+        "Năm Đinh Mão - 1687, chúa Hiền mất, thọ 65 tuổi, ở ngôi chúa 39 năm. Triều Nguyễn truy tôn ông là Thái tông hiền triết hoàng đế. Chúa Hiền có 9 người con (6 con trai, 3 con gái).",
+        "Nguyễn Phúc Thái (chúa Nghĩa, 1687-1691)",
+        "Nguyễn Phúc Tần có 6 người con trai, Nguyễn Phúc Thái là con thứ 2 của bà vợ thứ hai người họ Tống, nhưng lớn tuổi và hiền đức. Khi Nguyễn Phúc Tần mất, Thái đã 39 tuổi.",
+        "Nguyễn Phúc Thái nổi tiếng là người rộng rãi, hình phạt và phú thuế đã nhẹ, trăm họ ai cũng vui mừng. Quan lại cũ của triều trước đều được trọng đãi.",
+        "Người đời sau nhắc đến chúa Nghĩa Nguyễn Phúc Thái là nhớ chúa đã dời phủ từ Kim Long về Phú Xuân địa thế bằng phẳng, đẹp đẽ, tiếp nối nhiều đời chọn làm kinh đô.",
+        "Chúa không thọ được lâu. Sau 4 năm ở ngôi chúa, năm Tân Mùi - 1691, Nguyễn Phúc Thái mất, thọ 43 tuổi. Triều Nguyễn truy tôn ông là Anh tông hiếu nghĩa hoàng đế. Chúa Nghĩa có 10 người con (5 con trai, 5 con gái).",
+        "Nguyễn Phúc Chu là con cả Nguyễn Phúc Thái, sinh nǎm ất Mão - 1675, được ǎn học khá cẩn thận vì thế vǎn hay chữ tốt, đủ tài lược vǎn võ. Khi nối ngôi Chúa mới 17 tuổi. Chúa Nguyễn Phúc Chu mộ đạo Phật. Nǎm 1710 chúa sai đúc chuông lớn nặng tới 3.285 cân, đặt ở chùa Thiên Mụ và xây dựng một loạt chùa miếu khác. Chúa cho mở hội lớn ở chùa Thiên Mụ, chùa núi Mỹ An. Tự chúa cũng ǎn chay ở vườn Côn Gia một tháng trời. Chúa phát tiền gạo cho người nghèo. Đây là thời kỳ mà chiến tranh Trịnh - Nguyễn đã tạm ngừng hơn 30 nǎm, đất nước bình yên, chúa Nguyễn Phúc Chu có điều kiện mở mang đất đai về phía Nam và đạt được những thành tựu đáng kể: đặt phủ Bình Thuận nǎm Đinh Sửu - 1697 gồm đất Phan Rang, Phan Rí, chia làm hai huyện An Phúc và Hoà Đa; bắt đầu đặt phủ Gia Định, chia đất Đông Phố lấy xứ Đồng Nai làm huyện Phúc Long; dựng dinh Trấn Biên (tức Biên Hoà) lấy xứ Sài Gòn làm huyện Tân Bình; dựng dinh Phiên Trấn; lập xã Minh Hương... Từ đó người Thanh đi lại buôn bán rất sầm uất. Nǎm 1702, Công ty ấn Độ của Anh do Allen Catohpole đem 200 quân đến chiếm đảo Côn Lôn, chúa Quốc lập tức sai con là Nguyễn Phúc Phan dùng mưu đánh đuổi ra khỏi đảo. Nǎm 1708, chúa Quốc dùng Mạc Cửu làm Tổng binh trấn Hà Tiên. Nǎm 1709, chúa Quốc cho đúc ấn Quốc Bửu \"Đại Việt Quốc, Nguyễn Phúc Vĩnh Trấn chi bửu\" ấn ấy về sau trở thành vật báu truyền ngôi. Nǎm 1714, chúa Quốc đại trùng tu chùa Thiên Mụ và đi thǎm phố Hội An. Nhân thấy cầu do người Nhật làm tụ tập nhiều thuyền buôn các nước, chúa bèn đặt là Lai Viễn Kiều và ban biển chữ vàng ngày nay vẫn còn biển đó. Ngày 1/6/1725, chúa Quốc mất, thọ 51 tuổi, ở ngôi 34 nǎm. Sau triều Nguyễn truy tôn là Hiến Tông Hiếu Minh Hoàng đế. Chúa Quốc có 42 người con (38 con trai và 4 con gái).",
+        "Trang 1 / 2"
+    ]
+}

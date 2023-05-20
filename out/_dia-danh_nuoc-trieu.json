@@ -1,0 +1,930 @@
+{
+    "tables": [
+        "<table class=\"infobox geography vcard vevent\">\n <tbody>\n  <tr class=\"mergedtoprow\">\n   <td colspan=\"3\" class=\"fn org summary\">Triệu quốc<\/td>\n  <\/tr>\n  <tr class=\"mergedbottomrow\">\n   <td colspan=\"3\" class=\"fn org summary\">趙國<\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"3\">Hầu quốc, sau là Vương quốc<\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"3\">\n    <table>\n     <tbody>\n      <tr>\n       <td><span>←<\/span> <img alt=\"\" src=\"/images/wiki/nuoc-trieu/1fb203c663d95b1cfb96a706a58115bc.png\" width=\"30\" height=\"20\" class=\"thumbborder jch-lazyload\" srcset=\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMCIgaGVpZ2h0PSIyMCI+PC9zdmc+\" data-srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/1/11/3by2white.svg/45px-3by2white.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/11/3by2white.svg/60px-3by2white.svg.png 2x\" data-file-width=\"3\" data-file-height=\"2\">\n        <noscript>\n         <img alt=\"\" src=\"/images/wiki/nuoc-trieu/1fb203c663d95b1cfb96a706a58115bc.png\" width=\"30\" height=\"20\" class=\"thumbborder\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/1/11/3by2white.svg/45px-3by2white.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/11/3by2white.svg/60px-3by2white.svg.png 2x\" data-file-width=\"3\" data-file-height=\"2\">\n        <\/noscript><br><\/td>\n       <td><b>403 TCN\u2013222 TCN<\/b><\/td>\n       <td><img alt=\"\" src=\"/images/wiki/nuoc-trieu/1fb203c663d95b1cfb96a706a58115bc.png\" width=\"30\" height=\"20\" class=\"thumbborder jch-lazyload\" srcset=\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMCIgaGVpZ2h0PSIyMCI+PC9zdmc+\" data-srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/1/11/3by2white.svg/45px-3by2white.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/11/3by2white.svg/60px-3by2white.svg.png 2x\" data-file-width=\"3\" data-file-height=\"2\">\n        <noscript>\n         <img alt=\"\" src=\"/images/wiki/nuoc-trieu/1fb203c663d95b1cfb96a706a58115bc.png\" width=\"30\" height=\"20\" class=\"thumbborder\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/1/11/3by2white.svg/45px-3by2white.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/11/3by2white.svg/60px-3by2white.svg.png 2x\" data-file-width=\"3\" data-file-height=\"2\">\n        <\/noscript><span>→<\/span><br><\/td>\n      <\/tr>\n     <\/tbody>\n    <\/table><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"3\">\n    <div class=\"center\">\n     <div class=\"floatnone\">\n      <img class=\"jch-lazyload\" alt=\"\" src=\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxIiBoZWlnaHQ9IjEiPjwvc3ZnPg==\" data-src=\"/images/wiki/nuoc-trieu/d376d30b66e162585fa350d0f464fc42.jpg\">\n      <noscript>\n       <img alt=\"\" src=\"/images/wiki/nuoc-trieu/d376d30b66e162585fa350d0f464fc42.jpg\">\n      <\/noscript>\n     <\/div>\n    <\/div>\n    <div>\n     Năm 260 TCN\n    <\/div><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\"><b>Thủ đô<\/b><\/td>\n   <td>Tấn Dương (晋阳; nay là Thái Nguyên,Sơn Tây)<br>\n     Trung Mưu (中牟; nay là Hạc Bích, Hà Nam)<br>\n     Hàm Đan (邯郸; nay là Hàm Đan, Hà Bắc)<\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\"><b>Tôn giáo<\/b><\/td>\n   <td>Tín ngưỡng dân gian, thờ cúng tổ tiên<\/td>\n  <\/tr>\n  <tr class=\"mergedtoprow\">\n   <td colspan=\"2\"><b>Chính quyền<\/b><\/td>\n   <td>Quân chủ<\/td>\n  <\/tr>\n  <tr class=\"mergedtoprow\">\n   <td colspan=\"2\"><b>Lịch sử<\/b><\/td>\n   <td><\/td>\n  <\/tr>\n  <tr class=\"mergedrow\">\n   <td>&nbsp;\u2022&nbsp;<\/td>\n   <td>Chia tách Tấn<\/td>\n   <td>403 TCN<\/td>\n  <\/tr>\n  <tr class=\"mergedbottomrow\">\n   <td>&nbsp;\u2022&nbsp;<\/td>\n   <td>Bị Tần diệt<\/td>\n   <td>222 TCN<\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\"><b>Tiền tệ<\/b><\/td>\n   <td>Tiền Trung Quốc<\/td>\n  <\/tr>\n <\/tbody>\n<\/table>",
+        "<table>\n <tbody>\n  <tr>\n   <td><span>←<\/span> <img alt=\"\" src=\"/images/wiki/nuoc-trieu/1fb203c663d95b1cfb96a706a58115bc.png\" width=\"30\" height=\"20\" class=\"thumbborder jch-lazyload\" srcset=\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMCIgaGVpZ2h0PSIyMCI+PC9zdmc+\" data-srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/1/11/3by2white.svg/45px-3by2white.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/11/3by2white.svg/60px-3by2white.svg.png 2x\" data-file-width=\"3\" data-file-height=\"2\">\n    <noscript>\n     <img alt=\"\" src=\"/images/wiki/nuoc-trieu/1fb203c663d95b1cfb96a706a58115bc.png\" width=\"30\" height=\"20\" class=\"thumbborder\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/1/11/3by2white.svg/45px-3by2white.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/11/3by2white.svg/60px-3by2white.svg.png 2x\" data-file-width=\"3\" data-file-height=\"2\">\n    <\/noscript><br><\/td>\n   <td><b>403 TCN\u2013222 TCN<\/b><\/td>\n   <td><img alt=\"\" src=\"/images/wiki/nuoc-trieu/1fb203c663d95b1cfb96a706a58115bc.png\" width=\"30\" height=\"20\" class=\"thumbborder jch-lazyload\" srcset=\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMCIgaGVpZ2h0PSIyMCI+PC9zdmc+\" data-srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/1/11/3by2white.svg/45px-3by2white.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/11/3by2white.svg/60px-3by2white.svg.png 2x\" data-file-width=\"3\" data-file-height=\"2\">\n    <noscript>\n     <img alt=\"\" src=\"/images/wiki/nuoc-trieu/1fb203c663d95b1cfb96a706a58115bc.png\" width=\"30\" height=\"20\" class=\"thumbborder\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/1/11/3by2white.svg/45px-3by2white.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/11/3by2white.svg/60px-3by2white.svg.png 2x\" data-file-width=\"3\" data-file-height=\"2\">\n    <\/noscript><span>→<\/span><br><\/td>\n  <\/tr>\n <\/tbody>\n<\/table>",
+        "<table cellspacing=\"0\" cellpadding=\"0\" border=\"0\">\n <tbody>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\"><b>Quý Thắng<\/b><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\"><b>Mạnh Tăng<\/b><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\"><b>Hành Phụ<\/b><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\"><b>Tạo Phụ<\/b><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">□<\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">□<\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">□<\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">□<\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">□<\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\"><b>Yêm Phụ<\/b><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\"><sup>(1)<\/sup><b>Thúc Đái<\/b><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">□<\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">□<\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\"><sup>(4)<\/sup><b>Công Minh<\/b><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td><\/td>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\"><sup>(5)<\/sup><b><a class=\"annotation\" href=\"/nhan-vat/trieu-tuc\" title=\"Triệu Túc có thể là một trong những nhân vật sau:...\" target=\"_blank\">Triệu Túc<\/a><\/b><br>\n     Cảnh thị<\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\"><sup>(6)<\/sup><b>Triệu Thành tử<\/b><br>\n     Triệu Thôi<br>\n     ?-622 TCN<\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">Cung Mạnh<\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\"><sup>(7)<\/sup><b>Triệu Tuyên tử<\/b><br><a class=\"annotation\" href=\"/nhan-vat/trieu-thuan\" title=\"Triệu Thuẫn (chữ Hán: 趙盾; 656 TCN-601 TCN), tức Triệu Tuyên tử (赵宣子) là vị tông chủ thứ tư của họ Triệu, một trong Lục khanh của nước Tấn dưới thời Xuân Thu và là tổ tiên của nước Triệu sau này. \n Ông nổi tiếng trong sử sách với vụ án thí quân ở Đào Viên, dẫn đến cái chết của Tấn Linh công và gián t...\" target=\"_blank\">Triệu Thuẫn<\/a><br>\n     ?-601 TCN<\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">Triệu Đồng<br>\n     Nguyên thị<br>\n     ?-583<\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\"><sup>(8)<\/sup><b>Triệu Quát<\/b><br>\n     Bình thị<br>\n     ?-583 TCN<\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\"><a class=\"annotation\" href=\"/nhan-vat/trieu-anh-te\" title=\"Triệu Minh Vương (趙明王), húy Triệu Anh Tề (趙嬰齊) là vị vua thứ ba nhà Triệu nước Nam Việt, ở ngôi từ năm 125 TCN đến 113 TCN....\" target=\"_blank\">Triệu Anh Tề<\/a><br>\n     Lâu thị<\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">Triệu Xuyên<br>\n     Hàm Đan thị<\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">thúc phụ của Triệu Chiên<\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">Triệu Trang tử<br><a class=\"annotation\" href=\"/nhan-vat/trieu-soc\" title=\"Triệu Sóc (chữ Hán: 趙朔,&amp;#160;?-597 TCN), tức Triệu Trang tử (趙莊子), là vị tông chủ thứ năm của họ Triệu, một trong Lục khanh nước Tấn thời Xuân Thu trong lịch sử Trung Quốc. \n Ông là con trai của Triệu Thuẫn, tông chủ thứ tư của họ Triệu....\" target=\"_blank\">Triệu Sóc<\/a><br>\n     ?-597 TCN<\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td><\/td>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"6\" rowspan=\"2\">huynh của Triệu Chiên<\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">Triệu Chiên<\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\"><sup>(9)<\/sup><b>Triệu Văn tử<\/b><br><a class=\"annotation\" href=\"/nhan-vat/trieu-vu\" title=\"Triệu Vũ (chữ Hán: 趙武;&amp;#160;?-541 TCN), tức Triệu Văn tử (趙文子) là vị tông chủ thứ sáu của họ Triệu, một trong Lục khanh của nước Tấn và là tổ tiên của quân chủ nước Triệu thời Chiến Quốc sau đó. Triệu Vũ nổi tiếng với sự tích Con côi nhà họ Triệu được ghi chép trong sử sách....\" target=\"_blank\">Triệu Vũ<\/a><br>\n     ?-541 TCN<\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td><\/td>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">Triệu Thắng<\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">Triệu Hoạch<\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\"><sup>(10)<\/sup><b>Triệu Cảnh tử<\/b><br>\n     Triệu Thành<br>\n     ?-518<\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td><\/td>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"6\" rowspan=\"2\">Triệu Ngọ<br>\n     ?-497 TCN<\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">□<\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\"><sup>(11)<\/sup><b>Triệu Giản tử<\/b><br>\n     Triệu Ưởng<br>\n     ?-476<\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"6\" rowspan=\"2\">Triệu Tắc<\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">□<\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">Triệu Bá Lỗ<\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\"><sup>(12)<\/sup><b>Triệu Tương tử<\/b><br>\n     Triệu Vô Tuất<br>\n     ?-425 TCN<\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">Triệu Triêu<\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">Đại Thành quân<br>\n     Triệu Chu<\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\"><sup>(13)<\/sup><b>Triệu Hoàn tử<\/b><br>\n     Triệu Gia<br>\n     ?-424 TCN<\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\"><sup>(14)<\/sup><b>Triệu Hiến hầu<\/b><br>\n     Triệu Hoán<br>\n     ?-409 TCN<\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\"><b>Triệu Liệt hầu<\/b><br>\n     Triệu Tịch<br>\n     ?-<b>409 TCN - 400 TCN<\/b><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\"><b><a class=\"annotation\" href=\"/nhan-vat/trieu-vu\" title=\"Triệu Vũ (chữ Hán: 趙武;&amp;#160;?-541 TCN), tức Triệu Văn tử (趙文子) là vị tông chủ thứ sáu của họ Triệu, một trong Lục khanh của nước Tấn và là tổ tiên của quân chủ nước Triệu thời Chiến Quốc sau đó. Triệu Vũ nổi tiếng với sự tích Con côi nhà họ Triệu được ghi chép trong sử sách....\" target=\"_blank\">Triệu Vũ<\/a> hầu<\/b><br>\n     ?-<b>400 TCN - 387 TCN<\/b><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\"><b>Triệu Kính hầu<\/b><br>\n     Triệu Chương<br>\n     ?-<b>387 TCN - 375 TCN<\/b><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">Công tử Triêu<\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\"><b>Triệu Thành hầu<\/b><br>\n     Triệu Chủng<br>\n     ?-<b>375 TCN - 350 TCN<\/b><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\"><b><a class=\"annotation\" href=\"/nhan-vat/trieu-tuc\" title=\"Triệu Túc có thể là một trong những nhân vật sau:...\" target=\"_blank\">Triệu Túc<\/a> hầu<\/b><br>\n     Triệu Ngữ<br>\n     ?-<b>350 TCN - 326 TCN<\/b><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">An Bình quân<br>\n     Triệu Thành<\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\"><b><a class=\"annotation\" href=\"/nhan-vat/trieu-vu\" title=\"Triệu Vũ (chữ Hán: 趙武;&amp;#160;?-541 TCN), tức Triệu Văn tử (趙文子) là vị tông chủ thứ sáu của họ Triệu, một trong Lục khanh của nước Tấn và là tổ tiên của quân chủ nước Triệu thời Chiến Quốc sau đó. Triệu Vũ nổi tiếng với sự tích Con côi nhà họ Triệu được ghi chép trong sử sách....\" target=\"_blank\">Triệu Vũ<\/a> Linh vương<\/b><br>\n     Triệu Ung<br>\n     340 TCN -<b>326 TCN - 298 TCN<\/b> -295 TCN<\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td><\/td>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">An Dương quân<br>\n     Triệu Chương<br>\n     ?- 295 TCN<\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\"><b>Triệu Huệ Văn vương<\/b><br>\n     Triệu Hà<br>\n     310 TCN-<b>298 TCN - 266 TCN<\/b><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">Bình Dương quân<br>\n     Triệu Báo<\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">Bình Nguyên quân<br>\n     Triệu Thăng<br>\n     ?-251 TCN<\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\"><b>Triệu Hiếu Thành vương<\/b><br>\n     Triệu Đan<br>\n     ?-<b>266 TCN - 245 TCN<\/b><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">Trường An quân<\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">Lư Lăng quân<\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\"><b>Triệu Điệu Tương vương<\/b><br>\n     Triệu Yển<br>\n     ?-<b>245 TCN - 236 TCN<\/b><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td><\/td>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\"><b>Đại vương<\/b><br>\n     Triệu Gia<br>\n     250 TCN -<b>228 TCN - 222 TCN<\/b>-?<\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\"><b>Triệu U Mục vương<\/b><br>\n     Triệu Thiên<br>\n     245 TCN-<b>236 TCN - 228 TCN<\/b>-?<\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n <\/tbody>\n<\/table>",
+        "<table class=\"wikitable table table-striped\">\n <tbody>\n  <tr>\n   <th>Tước hiệu<\/th>\n   <th>Họ tên<\/th>\n   <th>Số năm trị vì<\/th>\n   <th>Thời gian<\/th>\n  <\/tr>\n  <tr>\n   <td>Triệu Liệt hầu<\/td>\n   <td>Triệu Tịch<\/td>\n   <td>9<\/td>\n   <td>408 TCN-400 TCN<\/td>\n  <\/tr>\n  <tr>\n   <td><a class=\"annotation\" href=\"/nhan-vat/trieu-vu\" title=\"Triệu Vũ (chữ Hán: 趙武;&amp;#160;?-541 TCN), tức Triệu Văn tử (趙文子) là vị tông chủ thứ sáu của họ Triệu, một trong Lục khanh của nước Tấn và là tổ tiên của quân chủ nước Triệu thời Chiến Quốc sau đó. Triệu Vũ nổi tiếng với sự tích Con côi nhà họ Triệu được ghi chép trong sử sách....\" target=\"_blank\">Triệu Vũ<\/a> hầu<\/td>\n   <td><\/td>\n   <td>13<\/td>\n   <td>399 TCN-387 TCN<\/td>\n  <\/tr>\n  <tr>\n   <td>Triệu Kính hầu<\/td>\n   <td>Triệu Chương<\/td>\n   <td>12<\/td>\n   <td>386 TCN-375 TCN<\/td>\n  <\/tr>\n  <tr>\n   <td>Triệu Thành hầu<\/td>\n   <td>Triệu Chủng<\/td>\n   <td>25<\/td>\n   <td>374 TCN-350 TCN<\/td>\n  <\/tr>\n  <tr>\n   <td><a class=\"annotation\" href=\"/nhan-vat/trieu-tuc\" title=\"Triệu Túc có thể là một trong những nhân vật sau:...\" target=\"_blank\">Triệu Túc<\/a> hầu<\/td>\n   <td>Triệu Ngữ<\/td>\n   <td>24<\/td>\n   <td>349 TCN-326 TCN<\/td>\n  <\/tr>\n  <tr>\n   <td><a class=\"annotation\" href=\"/nhan-vat/trieu-vu\" title=\"Triệu Vũ (chữ Hán: 趙武;&amp;#160;?-541 TCN), tức Triệu Văn tử (趙文子) là vị tông chủ thứ sáu của họ Triệu, một trong Lục khanh của nước Tấn và là tổ tiên của quân chủ nước Triệu thời Chiến Quốc sau đó. Triệu Vũ nổi tiếng với sự tích Con côi nhà họ Triệu được ghi chép trong sử sách....\" target=\"_blank\">Triệu Vũ<\/a> Linh vương<\/td>\n   <td>Triệu Ung<\/td>\n   <td>27<\/td>\n   <td>325 TCN-299 TCN<\/td>\n  <\/tr>\n  <tr>\n   <td>Triệu Huệ Văn vương<\/td>\n   <td>Triệu Hà<\/td>\n   <td>33<\/td>\n   <td>298 TCN-266 TCN<\/td>\n  <\/tr>\n  <tr>\n   <td>Triệu Hiếu Thành vương<\/td>\n   <td>Triệu Đan<\/td>\n   <td>21<\/td>\n   <td>265 TCN-245 TCN<\/td>\n  <\/tr>\n  <tr>\n   <td>Triệu Điệu Tương vương<\/td>\n   <td>Triệu Yển<\/td>\n   <td>9<\/td>\n   <td>244 TCN-236 TCN<\/td>\n  <\/tr>\n  <tr>\n   <td>Triệu U Mục vương<\/td>\n   <td>Triệu Thiên<\/td>\n   <td>8<\/td>\n   <td>235 TCN-228 TCN<\/td>\n  <\/tr>\n  <tr>\n   <td>Đại vương Gia<\/td>\n   <td>Triệu Gia<\/td>\n   <td>6<\/td>\n   <td>227 TCN-222 TCN<\/td>\n  <\/tr>\n <\/tbody>\n<\/table>",
+        "<table cellspacing=\"0\" cellpadding=\"0\" border=\"0\">\n <tbody>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\"><b>Quý Thắng<\/b><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\"><b>Mạnh Tăng<\/b><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\"><b>Hành Phụ<\/b><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\"><b>Tạo Phụ<\/b><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">□<\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">□<\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">□<\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">□<\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">□<\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\"><b>Yêm Phụ<\/b><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\"><sup>(1)<\/sup><b>Thúc Đái<\/b><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">□<\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">□<\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\"><sup>(4)<\/sup><b>Công Minh<\/b><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td><\/td>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\"><sup>(5)<\/sup><b><a class=\"annotation\" href=\"/nhan-vat/trieu-tuc\" title=\"Triệu Túc có thể là một trong những nhân vật sau:...\" target=\"_blank\">Triệu Túc<\/a><\/b><br>\n     Cảnh thị<\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\"><sup>(6)<\/sup><b>Triệu Thành tử<\/b><br>\n     Triệu Thôi<br>\n     ?-622 TCN<\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">Cung Mạnh<\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\"><sup>(7)<\/sup><b>Triệu Tuyên tử<\/b><br><a class=\"annotation\" href=\"/nhan-vat/trieu-thuan\" title=\"Triệu Thuẫn (chữ Hán: 趙盾; 656 TCN-601 TCN), tức Triệu Tuyên tử (赵宣子) là vị tông chủ thứ tư của họ Triệu, một trong Lục khanh của nước Tấn dưới thời Xuân Thu và là tổ tiên của nước Triệu sau này. \n Ông nổi tiếng trong sử sách với vụ án thí quân ở Đào Viên, dẫn đến cái chết của Tấn Linh công và gián t...\" target=\"_blank\">Triệu Thuẫn<\/a><br>\n     ?-601 TCN<\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">Triệu Đồng<br>\n     Nguyên thị<br>\n     ?-583<\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\"><sup>(8)<\/sup><b>Triệu Quát<\/b><br>\n     Bình thị<br>\n     ?-583 TCN<\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\"><a class=\"annotation\" href=\"/nhan-vat/trieu-anh-te\" title=\"Triệu Minh Vương (趙明王), húy Triệu Anh Tề (趙嬰齊) là vị vua thứ ba nhà Triệu nước Nam Việt, ở ngôi từ năm 125 TCN đến 113 TCN....\" target=\"_blank\">Triệu Anh Tề<\/a><br>\n     Lâu thị<\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">Triệu Xuyên<br>\n     Hàm Đan thị<\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">thúc phụ của Triệu Chiên<\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">Triệu Trang tử<br><a class=\"annotation\" href=\"/nhan-vat/trieu-soc\" title=\"Triệu Sóc (chữ Hán: 趙朔,&amp;#160;?-597 TCN), tức Triệu Trang tử (趙莊子), là vị tông chủ thứ năm của họ Triệu, một trong Lục khanh nước Tấn thời Xuân Thu trong lịch sử Trung Quốc. \n Ông là con trai của Triệu Thuẫn, tông chủ thứ tư của họ Triệu....\" target=\"_blank\">Triệu Sóc<\/a><br>\n     ?-597 TCN<\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td><\/td>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"6\" rowspan=\"2\">huynh của Triệu Chiên<\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">Triệu Chiên<\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\"><sup>(9)<\/sup><b>Triệu Văn tử<\/b><br><a class=\"annotation\" href=\"/nhan-vat/trieu-vu\" title=\"Triệu Vũ (chữ Hán: 趙武;&amp;#160;?-541 TCN), tức Triệu Văn tử (趙文子) là vị tông chủ thứ sáu của họ Triệu, một trong Lục khanh của nước Tấn và là tổ tiên của quân chủ nước Triệu thời Chiến Quốc sau đó. Triệu Vũ nổi tiếng với sự tích Con côi nhà họ Triệu được ghi chép trong sử sách....\" target=\"_blank\">Triệu Vũ<\/a><br>\n     ?-541 TCN<\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td><\/td>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">Triệu Thắng<\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">Triệu Hoạch<\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\"><sup>(10)<\/sup><b>Triệu Cảnh tử<\/b><br>\n     Triệu Thành<br>\n     ?-518<\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td><\/td>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"6\" rowspan=\"2\">Triệu Ngọ<br>\n     ?-497 TCN<\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">□<\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\"><sup>(11)<\/sup><b>Triệu Giản tử<\/b><br>\n     Triệu Ưởng<br>\n     ?-476<\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"6\" rowspan=\"2\">Triệu Tắc<\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">□<\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">Triệu Bá Lỗ<\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\"><sup>(12)<\/sup><b>Triệu Tương tử<\/b><br>\n     Triệu Vô Tuất<br>\n     ?-425 TCN<\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">Triệu Triêu<\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">Đại Thành quân<br>\n     Triệu Chu<\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\"><sup>(13)<\/sup><b>Triệu Hoàn tử<\/b><br>\n     Triệu Gia<br>\n     ?-424 TCN<\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\"><sup>(14)<\/sup><b>Triệu Hiến hầu<\/b><br>\n     Triệu Hoán<br>\n     ?-409 TCN<\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\"><b>Triệu Liệt hầu<\/b><br>\n     Triệu Tịch<br>\n     ?-<b>409 TCN - 400 TCN<\/b><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\"><b><a class=\"annotation\" href=\"/nhan-vat/trieu-vu\" title=\"Triệu Vũ (chữ Hán: 趙武;&amp;#160;?-541 TCN), tức Triệu Văn tử (趙文子) là vị tông chủ thứ sáu của họ Triệu, một trong Lục khanh của nước Tấn và là tổ tiên của quân chủ nước Triệu thời Chiến Quốc sau đó. Triệu Vũ nổi tiếng với sự tích Con côi nhà họ Triệu được ghi chép trong sử sách....\" target=\"_blank\">Triệu Vũ<\/a> hầu<\/b><br>\n     ?-<b>400 TCN - 387 TCN<\/b><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\"><b>Triệu Kính hầu<\/b><br>\n     Triệu Chương<br>\n     ?-<b>387 TCN - 375 TCN<\/b><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">Công tử Triêu<\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\"><b>Triệu Thành hầu<\/b><br>\n     Triệu Chủng<br>\n     ?-<b>375 TCN - 350 TCN<\/b><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\"><b><a class=\"annotation\" href=\"/nhan-vat/trieu-tuc\" title=\"Triệu Túc có thể là một trong những nhân vật sau:...\" target=\"_blank\">Triệu Túc<\/a> hầu<\/b><br>\n     Triệu Ngữ<br>\n     ?-<b>350 TCN - 326 TCN<\/b><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">An Bình quân<br>\n     Triệu Thành<\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\"><b><a class=\"annotation\" href=\"/nhan-vat/trieu-vu\" title=\"Triệu Vũ (chữ Hán: 趙武;&amp;#160;?-541 TCN), tức Triệu Văn tử (趙文子) là vị tông chủ thứ sáu của họ Triệu, một trong Lục khanh của nước Tấn và là tổ tiên của quân chủ nước Triệu thời Chiến Quốc sau đó. Triệu Vũ nổi tiếng với sự tích Con côi nhà họ Triệu được ghi chép trong sử sách....\" target=\"_blank\">Triệu Vũ<\/a> Linh vương<\/b><br>\n     Triệu Ung<br>\n     340 TCN -<b>326 TCN - 298 TCN<\/b> -295 TCN<\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td><\/td>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">An Dương quân<br>\n     Triệu Chương<br>\n     ?- 295 TCN<\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\"><b>Triệu Huệ Văn vương<\/b><br>\n     Triệu Hà<br>\n     310 TCN-<b>298 TCN - 266 TCN<\/b><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">Bình Dương quân<br>\n     Triệu Báo<\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">Bình Nguyên quân<br>\n     Triệu Thăng<br>\n     ?-251 TCN<\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\"><b>Triệu Hiếu Thành vương<\/b><br>\n     Triệu Đan<br>\n     ?-<b>266 TCN - 245 TCN<\/b><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">Trường An quân<\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\">Lư Lăng quân<\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\"><b>Triệu Điệu Tương vương<\/b><br>\n     Triệu Yển<br>\n     ?-<b>245 TCN - 236 TCN<\/b><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td><\/td>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n   <td rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n   <td><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td colspan=\"2\"><\/td>\n   <td><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\"><b>Đại vương<\/b><br>\n     Triệu Gia<br>\n     250 TCN -<b>228 TCN - 222 TCN<\/b>-?<\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n   <td colspan=\"6\" rowspan=\"2\"><b>Triệu U Mục vương<\/b><br>\n     Triệu Thiên<br>\n     245 TCN-<b>236 TCN - 228 TCN<\/b>-?<\/td>\n   <td colspan=\"2\" rowspan=\"2\"><\/td>\n  <\/tr>\n  <tr>\n   <td><\/td>\n  <\/tr>\n <\/tbody>\n<\/table>"
+    ],
+    "keywords": [],
+    "headings": [
+        "Địa Danh",
+        "nước Triệu",
+        "Khởi nguyên",
+        "Nổi lên",
+        "Lãnh thổ",
+        "Phát triển",
+        "Suy vong",
+        "Các vị quân chủ",
+        "Thủ lĩnh họ Triệu",
+        "Quân chủ nước Triệu",
+        "Phả hệ",
+        "Xem thêm",
+        "Bài viết cùng thư mục",
+        "CÁC THỜI KỲ LỊCH SỬ",
+        "Tư Liệu",
+        "Di Tích Lịch Sử",
+        "Anh Hùng Dân Tộc Tiêu Biểu",
+        "Tư Liệu Lịch Sử",
+        "Di Tích Lịch Sử"
+    ],
+    "anchors": [
+        {
+            "text": "",
+            "href": "/"
+        },
+        {
+            "text": "Trang Chủ",
+            "href": "/"
+        },
+        {
+            "text": "Dòng Lịch Sử",
+            "href": "/dong-lich-su"
+        },
+        {
+            "text": "Hồng Bàng & Văn Lang",
+            "href": "/dong-lich-su/hong-bang-va-van-lang"
+        },
+        {
+            "text": "Âu Lạc & Nam Việt",
+            "href": "/dong-lich-su/au-lac-va-nam-viet"
+        },
+        {
+            "text": "Bắc thuộc lần I",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat"
+        },
+        {
+            "text": "Trưng Nữ Vương",
+            "href": "/dong-lich-su/trung-nu-vuong"
+        },
+        {
+            "text": "Bắc thuộc lần II",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-hai"
+        },
+        {
+            "text": "Nhà Lý & Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu"
+        },
+        {
+            "text": "Bắc thuộc lần III",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-ba"
+        },
+        {
+            "text": "Thời kỳ xây nền tự chủ",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu"
+        },
+        {
+            "text": "Nhà Ngô",
+            "href": "/dong-lich-su/nha-ngo"
+        },
+        {
+            "text": "Nhà Đinh",
+            "href": "/dong-lich-su/nha-dinh"
+        },
+        {
+            "text": "Nhà Tiền Lê",
+            "href": "/dong-lich-su/nha-tien-le"
+        },
+        {
+            "text": "Nhà Lý",
+            "href": "/dong-lich-su/nha-ly"
+        },
+        {
+            "text": "Nhà Trần",
+            "href": "/dong-lich-su/nha-tran"
+        },
+        {
+            "text": "Nhà Hồ",
+            "href": "/dong-lich-su/nha-ho"
+        },
+        {
+            "text": "Nhà Hậu Trần",
+            "href": "/dong-lich-su/nha-hau-tran"
+        },
+        {
+            "text": "Bắc thuộc lần IV",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-tu"
+        },
+        {
+            "text": "Nhà Hậu Lê",
+            "href": "/dong-lich-su/nha-hau-le"
+        },
+        {
+            "text": "Nam Bắc Triều",
+            "href": "/dong-lich-su/nam-bac-trieu"
+        },
+        {
+            "text": "Trịnh Nguyễn Phân Tranh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh"
+        },
+        {
+            "text": "Nhà Tây Sơn",
+            "href": "/dong-lich-su/nha-tay-son"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/nha-nguyen"
+        },
+        {
+            "text": "Pháp Thuộc",
+            "href": "/dong-lich-su/phap-thuoc"
+        },
+        {
+            "text": "Việt Nam Dân Chủ Cộng Hoà",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Cộng hoà xã hội chủ nghĩa Việt Nam",
+            "href": "/dong-lich-su/viet-nam-xhcn"
+        },
+        {
+            "text": "Tư Liệu",
+            "href": "/tu-lieu"
+        },
+        {
+            "text": "Quân Sự",
+            "href": "/tu-lieu/quan-su?filter_tag[0]="
+        },
+        {
+            "text": "Tác Phẩm",
+            "href": "/tu-lieu/tac-pham?filter_tag[0]="
+        },
+        {
+            "text": "Bang Giao",
+            "href": "/tu-lieu/bang-giao"
+        },
+        {
+            "text": "Biểu đồ thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Nhân Vật",
+            "href": "/nhan-vat"
+        },
+        {
+            "text": "Anh Hùng Dân Tộc",
+            "href": "/anh-hung-dan-toc?types[0]=1"
+        },
+        {
+            "text": "Danh nhân văn hóa",
+            "href": "/danh-nhan-van-hoa?types[0]=1"
+        },
+        {
+            "text": "Di Tích",
+            "href": "/di-tich-lich-su?types[0]=1"
+        },
+        {
+            "text": "Ngày Nay",
+            "href": "/thoi-su"
+        },
+        {
+            "text": "Sách",
+            "href": "/sach"
+        },
+        {
+            "text": "Video",
+            "href": "/video"
+        },
+        {
+            "text": "Q&A",
+            "href": "/hoi-dap"
+        },
+        {
+            "text": "Lịch sử lớp 12",
+            "href": "/hoi-dap/lop-12"
+        },
+        {
+            "text": "Lịch sử lớp 11",
+            "href": "/hoi-dap/lop-11"
+        },
+        {
+            "text": "Lịch sử lớp 10",
+            "href": "/hoi-dap/lop-10"
+        },
+        {
+            "text": "Lịch sử lớp 9",
+            "href": "/hoi-dap/lop-9"
+        },
+        {
+            "text": "Lịch sử lớp 8",
+            "href": "/hoi-dap/lop-8"
+        },
+        {
+            "text": "Lịch sử lớp 7",
+            "href": "/hoi-dap/lop-7"
+        },
+        {
+            "text": "Lịch sử lớp 6",
+            "href": "/hoi-dap/lop-6"
+        },
+        {
+            "text": "Trang chủ",
+            "href": "/"
+        },
+        {
+            "text": "Địa Danh",
+            "href": "/dia-danh"
+        },
+        {
+            "text": "Địa Danh Lịch Sử",
+            "href": "/dia-danh"
+        },
+        {
+            "text": "Thu / Mở",
+            "href": "#"
+        },
+        {
+            "text": "Khởi nguyên",
+            "href": "#khoi-nguyen"
+        },
+        {
+            "text": "Nổi lên",
+            "href": "#noi-len"
+        },
+        {
+            "text": "Lãnh thổ",
+            "href": "#lanh-tho"
+        },
+        {
+            "text": "Phát triển",
+            "href": "#phat-trien"
+        },
+        {
+            "text": "Suy vong",
+            "href": "#suy-vong"
+        },
+        {
+            "text": "Các vị quân chủ",
+            "href": "#cac-vi-quan-chu"
+        },
+        {
+            "text": "Thủ lĩnh họ Triệu",
+            "href": "#thu-linh-ho-trieu"
+        },
+        {
+            "text": "Quân chủ nước Triệu",
+            "href": "#quan-chu-nuoc-trieu"
+        },
+        {
+            "text": "Phả hệ",
+            "href": "#pha-he"
+        },
+        {
+            "text": "Xem thêm",
+            "href": "#xem-them"
+        },
+        {
+            "text": "Triệu Vũ",
+            "href": "/nhan-vat/trieu-vu"
+        },
+        {
+            "text": "nhà Thương",
+            "href": "/nhan-vat/nha-thuong"
+        },
+        {
+            "text": "nhà Chu",
+            "href": "/nhan-vat/nha-chu"
+        },
+        {
+            "text": "Hoàng Hà",
+            "href": "/nhan-vat/hoang-ha"
+        },
+        {
+            "text": "Triệu Túc",
+            "href": "/nhan-vat/trieu-tuc"
+        },
+        {
+            "text": "Triệu Túc",
+            "href": "/nhan-vat/trieu-tuc"
+        },
+        {
+            "text": "Triệu Thuẫn",
+            "href": "/nhan-vat/trieu-thuan"
+        },
+        {
+            "text": "tỉnh Sơn Tây",
+            "href": "/dia-danh/tinh-son-tay"
+        },
+        {
+            "text": "nhà Chu",
+            "href": "/nhan-vat/nha-chu"
+        },
+        {
+            "text": "Triệu Vũ",
+            "href": "/nhan-vat/trieu-vu"
+        },
+        {
+            "text": "nhà Tần",
+            "href": "/nhan-vat/nha-tan"
+        },
+        {
+            "text": "Triệu Túc",
+            "href": "/nhan-vat/trieu-tuc"
+        },
+        {
+            "text": "Triệu Thuẫn",
+            "href": "/nhan-vat/trieu-thuan"
+        },
+        {
+            "text": "Triệu Anh Tề",
+            "href": "/nhan-vat/trieu-anh-te"
+        },
+        {
+            "text": "Triệu Sóc",
+            "href": "/nhan-vat/trieu-soc"
+        },
+        {
+            "text": "Triệu Vũ",
+            "href": "/nhan-vat/trieu-vu"
+        },
+        {
+            "text": "Triệu Vũ",
+            "href": "/nhan-vat/trieu-vu"
+        },
+        {
+            "text": "Triệu Túc",
+            "href": "/nhan-vat/trieu-tuc"
+        },
+        {
+            "text": "Triệu Vũ",
+            "href": "/nhan-vat/trieu-vu"
+        },
+        {
+            "text": "Triệu Thuẫn",
+            "href": "/nhan-vat/trieu-thuan"
+        },
+        {
+            "text": "Triệu Thuẫn",
+            "href": "/nhan-vat/trieu-thuan"
+        },
+        {
+            "text": "Triệu Sóc",
+            "href": "/nhan-vat/trieu-soc"
+        },
+        {
+            "text": "Triệu Thuẫn",
+            "href": "/nhan-vat/trieu-thuan"
+        },
+        {
+            "text": "Triệu Vũ",
+            "href": "/nhan-vat/trieu-vu"
+        },
+        {
+            "text": "Triệu Sóc",
+            "href": "/nhan-vat/trieu-soc"
+        },
+        {
+            "text": "Triệu Vũ",
+            "href": "/nhan-vat/trieu-vu"
+        },
+        {
+            "text": "Triệu Vũ",
+            "href": "/nhan-vat/trieu-vu"
+        },
+        {
+            "text": "Triệu Túc",
+            "href": "/nhan-vat/trieu-tuc"
+        },
+        {
+            "text": "Triệu Vũ",
+            "href": "/nhan-vat/trieu-vu"
+        },
+        {
+            "text": "Triệu Túc",
+            "href": "/nhan-vat/trieu-tuc"
+        },
+        {
+            "text": "Triệu Thuẫn",
+            "href": "/nhan-vat/trieu-thuan"
+        },
+        {
+            "text": "Triệu Anh Tề",
+            "href": "/nhan-vat/trieu-anh-te"
+        },
+        {
+            "text": "Triệu Sóc",
+            "href": "/nhan-vat/trieu-soc"
+        },
+        {
+            "text": "Triệu Vũ",
+            "href": "/nhan-vat/trieu-vu"
+        },
+        {
+            "text": "Triệu Vũ",
+            "href": "/nhan-vat/trieu-vu"
+        },
+        {
+            "text": "Triệu Túc",
+            "href": "/nhan-vat/trieu-tuc"
+        },
+        {
+            "text": "Triệu Vũ",
+            "href": "/nhan-vat/trieu-vu"
+        },
+        {
+            "text": "Bài viết trước: nước Trâu Trước",
+            "href": "/dia-danh/nuoc-trau"
+        },
+        {
+            "text": "Bài viết kế tiếp: nước Trịnh Tiếp tục",
+            "href": "/dia-danh/nuoc-trinh"
+        },
+        {
+            "text": "nước Việt",
+            "href": "/dia-danh/nuoc-viet"
+        },
+        {
+            "text": "núi Tản Viên",
+            "href": "/dia-danh/nui-tan-vien"
+        },
+        {
+            "text": "sông Đà",
+            "href": "/dia-danh/song-da"
+        },
+        {
+            "text": "sông Hát",
+            "href": "/dia-danh/song-hat"
+        },
+        {
+            "text": "chùa Kiến Sơ",
+            "href": "/dia-danh/chua-kien-so"
+        },
+        {
+            "text": "hồ Động Đình",
+            "href": "/dia-danh/ho-dong-dinh"
+        },
+        {
+            "text": "nước Quắc",
+            "href": "/dia-danh/nuoc-quac"
+        },
+        {
+            "text": "nước Trịnh",
+            "href": "/dia-danh/nuoc-trinh"
+        },
+        {
+            "text": "châu Vũ Ninh",
+            "href": "/dia-danh/chau-vu-ninh"
+        },
+        {
+            "text": "Nước Tần",
+            "href": "/dia-danh/nuoc-tan"
+        },
+        {
+            "text": "Hồng Bàng & Văn Lang",
+            "href": "/dong-lich-su/hong-bang-va-van-lang"
+        },
+        {
+            "text": "Âu Lạc & Nam Việt",
+            "href": "/dong-lich-su/au-lac-va-nam-viet"
+        },
+        {
+            "text": "Bắc thuộc lần I",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat"
+        },
+        {
+            "text": "Nhà Triệu",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat/nha-trieu"
+        },
+        {
+            "text": "Trưng Nữ Vương",
+            "href": "/dong-lich-su/trung-nu-vuong"
+        },
+        {
+            "text": "Bắc thuộc lần II",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-hai"
+        },
+        {
+            "text": "Nhà Lý & Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu"
+        },
+        {
+            "text": "Nhà Tiền Lý",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-tien-ly"
+        },
+        {
+            "text": "Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-trieu"
+        },
+        {
+            "text": "Nhà Hậu Lý",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-hau-ly"
+        },
+        {
+            "text": "Bắc thuộc lần III",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-ba"
+        },
+        {
+            "text": "Thời kỳ xây nền tự chủ",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu"
+        },
+        {
+            "text": "Họ Khúc",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu/ho-khuc"
+        },
+        {
+            "text": "Nhà Ngô",
+            "href": "/dong-lich-su/nha-ngo"
+        },
+        {
+            "text": "Nhà Đinh",
+            "href": "/dong-lich-su/nha-dinh"
+        },
+        {
+            "text": "Nhà Tiền Lê",
+            "href": "/dong-lich-su/nha-tien-le"
+        },
+        {
+            "text": "Nhà Lý",
+            "href": "/dong-lich-su/nha-ly"
+        },
+        {
+            "text": "Nhà Trần",
+            "href": "/dong-lich-su/nha-tran"
+        },
+        {
+            "text": "Nhà Hồ",
+            "href": "/dong-lich-su/nha-ho"
+        },
+        {
+            "text": "Nhà Hậu Trần",
+            "href": "/dong-lich-su/nha-hau-tran"
+        },
+        {
+            "text": "Bắc thuộc lần IV",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-tu"
+        },
+        {
+            "text": "Nhà Hậu Lê",
+            "href": "/dong-lich-su/nha-hau-le"
+        },
+        {
+            "text": "Nam Bắc Triều",
+            "href": "/dong-lich-su/nam-bac-trieu"
+        },
+        {
+            "text": "Nhà Lê Trung Hưng",
+            "href": "/dong-lich-su/nam-bac-trieu/nha-le-trung-hung"
+        },
+        {
+            "text": "Nhà Mạc",
+            "href": "/dong-lich-su/nam-bac-trieu/nha-mac"
+        },
+        {
+            "text": "Trịnh Nguyễn Phân Tranh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh"
+        },
+        {
+            "text": "Nhà Lê Trung Hưng",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/nha-le-trung-hung"
+        },
+        {
+            "text": "Chúa Trịnh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-trinh"
+        },
+        {
+            "text": "Chúa Nguyễn",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen"
+        },
+        {
+            "text": "Nhà Tây Sơn",
+            "href": "/dong-lich-su/nha-tay-son"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/nha-nguyen"
+        },
+        {
+            "text": "Pháp Thuộc",
+            "href": "/dong-lich-su/phap-thuoc"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/phap-thuoc/nha-nguyen"
+        },
+        {
+            "text": "Những cuộc khởi nghĩa chống thực dân Pháp",
+            "href": "/dong-lich-su/phap-thuoc/khoi-nghia-chong-phap"
+        },
+        {
+            "text": "Đảng Cộng Sản Việt Nam",
+            "href": "/dong-lich-su/phap-thuoc/dang-cong-san-viet-nam"
+        },
+        {
+            "text": "Việt Nam Dân Chủ Cộng Hoà",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Kháng chiến chống Pháp",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-phap"
+        },
+        {
+            "text": "Kháng chiến chống Mĩ",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-mi"
+        },
+        {
+            "text": "Cộng hoà xã hội chủ nghĩa Việt Nam",
+            "href": "/dong-lich-su/viet-nam-xhcn"
+        },
+        {
+            "text": "Trận Điện Biên Phủ trên không năm 1972",
+            "href": "/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972"
+        },
+        {
+            "text": "Chiến tranh biên giới Tây Nam năm 1975 - 1978",
+            "href": "/tu-lieu/quan-su/chien-tranh-bien-gioi-tay-nam-nam-1975-1978"
+        },
+        {
+            "text": "Chiến dịch Mùa Xuân năm 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-mua-xuan-nam-1975"
+        },
+        {
+            "text": "Hải chiến Trường Sa năm 1988",
+            "href": "/tu-lieu/quan-su/hai-chien-truong-sa-nam-1988"
+        },
+        {
+            "text": "Chiến dịch Đường 14 - Phước Long năm 1974 - 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-duong-14-phuoc-long-nam-1974-1975"
+        },
+        {
+            "text": "Chiến dịch Tây Nguyên năm 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-tay-nguyen-nam-1975"
+        },
+        {
+            "text": "Trận Mậu Thân tại Huế năm 1968",
+            "href": "/tu-lieu/quan-su/tran-mau-than-tai-hue-nam-1968"
+        },
+        {
+            "text": "Bảng đối chiếu các triều đại Việt Nam và các triều đại Trung Quốc",
+            "href": "/tu-lieu/bang-doi-chieu-cac-trieu-dai-viet-nam-va-cac-trieu-dai-trung-quoc"
+        },
+        {
+            "text": "Bình Ngô đại cáo - bản tuyên ngôn độc lập thứ hai",
+            "href": "/tu-lieu/tac-pham/binh-ngo-dai-cao-ban-tuyen-ngon-doc-lap-thu-hai"
+        },
+        {
+            "text": "Lãnh thổ Việt Nam qua từng thời kỳ",
+            "href": "/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky"
+        },
+        {
+            "text": "Trận Đồi Thịt Băm năm 1969",
+            "href": "/tu-lieu/quan-su/tran-doi-thit-bam-nam-1969"
+        },
+        {
+            "text": "Chiến dịch Đắk Tô năm 1972",
+            "href": "/tu-lieu/quan-su/chien-dich-dak-to-nam-1972"
+        },
+        {
+            "text": "Nam quốc sơn hà - Bản tuyên ngôn độc lập đầu tiên",
+            "href": "/tu-lieu/tac-pham/nam-quoc-son-ha-ban-tuyen-ngon-doc-lap-dau-tien"
+        },
+        {
+            "text": "Tuyên ngôn độc lập Việt Nam Dân chủ Cộng hòa",
+            "href": "/tu-lieu/tac-pham/tuyen-ngon-doc-lap-viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Trận Bản Đông năm 1971",
+            "href": "/tu-lieu/quan-su/tran-ban-dong-nam-1971"
+        },
+        {
+            "text": "Trận Rạch Gầm \u2013 Xoài Mút năm 1785",
+            "href": "/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785"
+        },
+        {
+            "text": "Lịch sử Chữ viết tiếng Việt",
+            "href": "/tu-lieu/lich-su-chu-viet-tieng-viet"
+        },
+        {
+            "text": "Hịch tướng sĩ - Dụ chư tỳ tướng hịch văn",
+            "href": "/tu-lieu/tac-pham/hich-tuong-si-du-chu-ty-tuong-hich-van"
+        },
+        {
+            "text": "Danh sách Trạng nguyên Việt Nam",
+            "href": "/tu-lieu/danh-sach-trang-nguyen-viet-nam"
+        },
+        {
+            "text": "Hội nghị Paris, mặt trận ngoại giao năm 1968-1972",
+            "href": "/tu-lieu/bang-giao/hoi-nghi-paris-mat-tran-ngoai-giao-nam-1968-1972"
+        },
+        {
+            "text": "chùa Phổ Minh",
+            "href": "/dia-danh/chua-pho-minh"
+        },
+        {
+            "text": "thành Cổ Loa",
+            "href": "/dia-danh/thanh-co-loa"
+        },
+        {
+            "text": "Đền Trần (Nam Định)",
+            "href": "/dia-danh/den-tran-nam-dinh"
+        },
+        {
+            "text": "Khu lưu niệm Chủ tịch Tôn Đức Thắng",
+            "href": "/dia-danh/khu-luu-niem-chu-tich-ton-duc-thang"
+        },
+        {
+            "text": "Khu lăng mộ và đền thờ các vị vua triều Lý",
+            "href": "/dia-danh/khu-lang-mo-va-den-tho-cac-vi-vua-trieu-ly"
+        },
+        {
+            "text": "Văn Miếu - Quốc Tử Giám",
+            "href": "/dia-danh/van-mieu-quoc-tu-giam"
+        },
+        {
+            "text": "Khu di tích Pác Bó",
+            "href": "/dia-danh/khu-di-tich-pac-bo"
+        },
+        {
+            "text": "Quần thể di tích danh thắng Yên Tử",
+            "href": "/dia-danh/quan-the-di-tich-danh-thang-yen-tu"
+        },
+        {
+            "text": "Đền Ngọc Sơn",
+            "href": "/dia-danh/den-ngoc-son"
+        },
+        {
+            "text": "Đền Hùng",
+            "href": "/dia-danh/den-hung"
+        },
+        {
+            "text": "Trần Hưng Đạo",
+            "href": "/nhan-vat/tran-hung-dao"
+        },
+        {
+            "text": "Hồ Chí Minh",
+            "href": "/nhan-vat/ho-chi-minh"
+        },
+        {
+            "text": "Lý Thái Tổ",
+            "href": "/nhan-vat/ly-thai-to"
+        },
+        {
+            "text": "Nguyễn Huệ",
+            "href": "/nhan-vat/nguyen-hue"
+        },
+        {
+            "text": "Hùng Vương",
+            "href": "/nhan-vat/hung-vuong"
+        },
+        {
+            "text": "Lê Đại Hành",
+            "href": "/nhan-vat/le-dai-hanh"
+        },
+        {
+            "text": "Ngô Quyền",
+            "href": "/nhan-vat/ngo-quyen"
+        },
+        {
+            "text": "Lê Thái Tổ",
+            "href": "/nhan-vat/le-thai-to"
+        },
+        {
+            "text": "Trần Nhân Tông",
+            "href": "/nhan-vat/tran-nhan-tong"
+        },
+        {
+            "text": "Lý Thường Kiệt",
+            "href": "/nhan-vat/ly-thuong-kiet"
+        },
+        {
+            "text": "Vấn đề biên giới Việt-Trung thời Mạc",
+            "href": "/tu-lieu/bang-giao/van-de-bien-gioi-viet-trung-thoi-mac"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Tây Sơn",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-tay-son"
+        },
+        {
+            "text": "Biểu đồ các nhân vật lịch sử theo dòng thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Danh sách Trạng nguyên Việt Nam",
+            "href": "/tu-lieu/danh-sach-trang-nguyen-viet-nam"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Nguyễn",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-nguyen"
+        },
+        {
+            "text": "Trận Điện Biên Phủ trên không năm 1972",
+            "href": "/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972"
+        },
+        {
+            "text": "Trận Ngọc Hồi - Đống Đa năm 1789",
+            "href": "/tu-lieu/quan-su/tran-ngoc-hoi-dong-da-nam-1789"
+        },
+        {
+            "text": "Trận Cẩm Sa năm 1775",
+            "href": "/tu-lieu/quan-su/tran-cam-sa-nam-1775"
+        },
+        {
+            "text": "Trận Rạch Gầm \u2013 Xoài Mút năm 1785",
+            "href": "/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785"
+        },
+        {
+            "text": "Lãnh thổ Việt Nam qua từng thời kỳ",
+            "href": "/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky"
+        },
+        {
+            "text": "Khu di tích Pác Bó",
+            "href": "/dia-danh/khu-di-tich-pac-bo"
+        },
+        {
+            "text": "thành Cổ Loa",
+            "href": "/dia-danh/thanh-co-loa"
+        },
+        {
+            "text": "chùa Phổ Minh",
+            "href": "/dia-danh/chua-pho-minh"
+        },
+        {
+            "text": "Quần thể di tích Cố đô Huế",
+            "href": "/dia-danh/quan-the-di-tich-co-do-hue"
+        },
+        {
+            "text": "Văn Miếu - Quốc Tử Giám",
+            "href": "/dia-danh/van-mieu-quoc-tu-giam"
+        },
+        {
+            "text": "Đền Hùng",
+            "href": "/dia-danh/den-hung"
+        },
+        {
+            "text": "Hồ Hoàn Kiếm",
+            "href": "/dia-danh/ho-hoan-kiem"
+        },
+        {
+            "text": "chùa Thầy",
+            "href": "/dia-danh/chua-thay"
+        },
+        {
+            "text": "Chiến khu Tân Trào",
+            "href": "/dia-danh/chien-khu-tan-trao"
+        },
+        {
+            "text": "Quần thể di tích danh thắng Yên Tử",
+            "href": "/dia-danh/quan-the-di-tich-danh-thang-yen-tu"
+        },
+        {
+            "text": "Giới thiệu",
+            "href": "/gioi-thieu"
+        },
+        {
+            "text": "Quyền riêng tư",
+            "href": "/quyen-rieng-tu"
+        },
+        {
+            "text": "Liên hệ",
+            "href": "/lien-he"
+        },
+        {
+            "text": "Địa Danh",
+            "href": "/dia-danh"
+        },
+        {
+            "text": "Trang Facebook",
+            "href": "https://www.facebook.com/nguoikesu/"
+        },
+        {
+            "text": "DanhMucBDS.com",
+            "href": "https://danhmucbds.com"
+        },
+        {
+            "text": "HocTotNguVan.com",
+            "href": "https://hoctotnguvan.com"
+        }
+    ],
+    "title": "nước Triệu - Người Kể Sử",
+    "paragraphs": [
+        "Triệu quốc (Phồn thể: 趙國, Giản thể: 赵国) là một quốc gia chư hầu có chủ quyền trong thời Chiến Quốc trong lịch sử Trung Quốc. Triệu là nước có vai trò đáng kể trong giai đoạn này, cùng với 6 quốc gia hùng mạnh khác lập ra cục diện Chiến quốc thất hùng (戰國七雄). Lãnh thổ Triệu quốc tương ứng với khu vực ngày nay thuộc Nội Mông Cổ, phía nam Hà Bắc.",
+        "Vào đầu thời kỳ Chiến Quốc, nước Triệu là một trong những quốc gia yếu nhất nhưng đã đạt được sức mạnh đáng nể trong thời kỳ trị vì của Triệu Vũ Linh vương. Vào cuối thời kỳ Chiến Quốc, Triệu là nước duy nhất đủ hùng mạnh để chống lại cường quốc khi đó là Tần.",
+        "",
+        "",
+        "Theo truyền thuyết, thủy tổ các đời quân chủ nước Triệu là Bá Ích, từng làm quan ở nước Ngu, được phong ấp Doanh ăn lộc, từ đó hậu duệ Bá Ích lấy họ Doanh. Đến cuối đời nhà Thương, hậu duệ Bá Ích là Phi Liêm cùng với con trai trưởng là Ác Lai phò tá Thương Trụ chống lại Chu Vũ vương nên đều bị giết. Con cháu Phi Liêm ly tán, phân thành 2 dòng chính. Một nhánh lưu lạc đến Khuyển Khâu, đến đời Phi Tử thì được nhà Chu phong cho ấp Tần làm phụ dung, hình thành thủy tổ nước Tần. Người con thứ của Phi Liêm là Quý Thắng di chuyển đến Hoàng Hà định cư, con Quý Thắng là Mạnh Tăng hiệu Trạch Cao Lang sống vào thời Chu Thành vương.",
+        "Mạnh Tăng sinh Hành Phụ, Hành Phụ sinh Tạo Phụ. Tạo Phụ do lập không ít công trạng nên được Chu Mục vương phong làm đại phu, lấy Triệu Thành làm thực ấp, từ đó mang họ Triệu, hình thành thủy tổ nước Triệu. Hậu duệ 6 đời Tạo Phụ là Yêm Phụ có danh hiệu là Công Trọng sống vào thời Chu Tuyên vương, Yêm Phụ sinh Thúc Đới.",
+        "Thời kỳ Tấn Văn hầu, Thúc Đới di cư tới nước Tấn. Cháu 5 đời của Thúc Đới là Triệu Túc lập công lớn được Tấn Hiến Công thưởng cho đất Cảnh, Triệu Túc sinh Cộng Mạnh, Cộng Mạnh sinh Triệu Thôi.",
+        "Năm 656 TCN, Triệu Thôi từng theo công tử Trùng Nhĩ lưu vong ra khỏi Tấn. Sau này Trùng Nhĩ trở thành Tấn Văn công của Tấn thì Triệu Thôi trở thành trọng thần. Con cháu Triệu Thuẫn các đời đều nắm trọng quyền, dần phát triển thế lực của gia tộc họ Triệu thành một trong Lục khanh. Thời Tấn Cảnh công, họ Triệu suýt bị diệt tộc nhưng may mắn đã được phục hồi địa vị.",
+        "Tới thời Tấn Xuất công thì quyền lực thực tế nằm trong tay các trọng thần như Trí Bá, Triệu Tương tử, Hàn Khang tử và Ngụy Hoàn tử. Sử gọi là Tứ khanh. Năm 456 TCN, Tứ khanh đuổi Tấn Xuất công đi để lập Cơ Kiêu, tức Tấn Ai công.",
+        "Năm 454 TCN, Trí Bá hợp cùng hai nhà Hàn, Ngụy tấn công Tấn Dương (nay ở phía nam quận Tấn Nguyên, địa cấp thị Thái Nguyên, tỉnh Sơn Tây). Triệu Tương tử giữ vững thành trì. Sau đó liên hợp với chính hai nhà Hàn, Ngụy diệt Trí Bá.",
+        "Năm 453 TCN, ba nhà Hàn, Triệu, Ngụy chia nhau vùng đất của họ Trí.",
+        "Năm 437 TCN, Tấn Ai công chết. Con là Cơ Liễu (Tấn U công) kế nghiệp. Nước Tấn khi đó thực chất đã bị phân chia giữa 3 thế gia là Hàn, Triệu và Ngụy. U công không có quyền lực gì đối với 3 nhà này.",
+        "Năm 403 TCN, vua Chu Uy Liệt vương phải chính thức công nhận sự tồn tại của nước Triệu cùng với Hàn, Ngụy bên cạnh nước Tấn như là các nước chư hầu của nhà Chu, đánh dấu sự khởi đầu của thời kỳ Chiến Quốc.",
+        "Năm 376 TCN, Triệu cùng Ngụy và Hàn lấy nốt phần đất còn lại của Tấn, đày Tấn Tĩnh công ra Đồn Lưu, chính thức diệt Tấn và chia hết đất đai. Do ba nước hình thành từ nước Tấn nên sử vẫn gọi chung Triệu, Hàn, Ngụy là Tam Tấn.",
+        "Lãnh thổ của nước Triệu bao gồm các khu vực ngày nay thuộc Nội Mông Cổ, nam Hà Bắc, trung Sơn Tây và đông bắc Thiểm Tây.",
+        "Nước Triệu có biên giới với các bộ lạc Hung Nô (như Lâm Hồ, Lâu Phiền, Đông Hồ) ở phía bắc, các nước như Tần ở phía tây, Ngụy ở phía nam, Yên ở đông bắc, Tề ở phía đông. Cận kề còn có tiểu quốc Trung Sơn.",
+        "Kinh đô của nước Triệu đặt tại Hàm Đan (邯郸), ngày nay thuộc vùng ven đô của thành phố Hàm Đan, tỉnh Hà Bắc.",
+        "Ban đầu Triệu là nước yếu nhất. Nước này không có các ưu thế về địa lý như Tần, sức mạnh quân sự như Ngụy, lãnh thổ rộng lớn như Sở, sự giàu có và thịnh vượng như Tề. Bị những kẻ thù hùng mạnh bao quanh từ mọi hướng, nước Triệu phải chiến đấu cực kỳ gian khổ vì sự sinh tồn của mình. Tuy nhiên, nước này vẫn là yếu nhất cho tới khi các cuộc cải cách của Triệu Vũ Linh vương (326 TCN-298 TCN) thành công.",
+        "Trong thời kỳ trị vì của Vũ Linh vương, vương quốc này đã có cải cách quân sự. Sử gọi là \"hồ phục kị xa\". Binh sĩ Triệu được lệnh ăn mặc giống như các láng giềng Hung Nô và thay thế các cỗ chiến xa bằng các cung thủ kị binh. Điều này là cải cách tuyệt vời, cùng với công nghệ tiên tiến của các quốc gia Trung Hoa và chiến thuật của các bộ lạc du mục, kị binh của Triệu trở thành một lực lượng đáng kể phải tính tới.",
+        "Triệu thể hiện sức mạnh quân sự của mình bằng cách chiếm nước nhỏ Trung Sơn năm 295 TCN sau một cuộc chiến tranh kéo dài, và sáp nhập thêm lãnh thổ từ các nước lân cận như Ngụy, Yên và Tần. Kị binh của Triệu đôi khi cũng xâm nhập vào Tề trong các chiến dịch chống lại Sở.",
+        "Một số tướng lĩnh quân sự có danh tiếng của Triệu cũng nổi lên trong thời kỳ này, như Liêm Pha, Triệu Xa và Lý Mục. Liêm Pha là tướng trấn giữ phòng chống nước Tần. Triệu Xa (趙奢) chủ yếu ở phía đông; một vài lần đã xâm lăng vào Yên. Lý Mục ở phía bắc phòng chống các bộ lạc du mục.",
+        "Vào cuối thời kỳ Chiến Quốc, Triệu là nước duy nhất đủ mạnh để chống lại nước Tần đang nổi lên.",
+        "Liên minh với Ngụy bắt đầu năm 287 TCN để chống Tần đã kết thúc bằng thất bại tại Hoa Dương năm 273 TCN. Cuộc tranh đấu lên tới đỉnh điểm trong trận chiến đẫm máu nhất của thời kỳ này là trận Trường Bình năm 260 TCN. Quân đội Triệu do Triệu Quát chỉ huy đã bị quân đội Tần do Bạch Khởi chỉ huy tiêu diệt hoàn toàn. Mặc dù quân đội Ngụy đã cứu được Hàm Đan thoát khỏi cuộc vây hãm có thể xảy ra sau đó của đội quân Tần đang đà chiến thắng, nhưng Triệu thì không bao giờ có thể phục hồi lại được sức mạnh như trước đó.",
+        "Năm 229 TCN, cuộc xâm lăng của quân Tần do tướng Vương Tiễn đã bị quân đội Triệu do Lý Mục và Tư Mã Thượng (司馬尚) chỉ huy kìm chân tại chỗ tới tận năm 228 TCN. Theo ghi chép của một số nguồn thì do Tần sử dụng kế phản gián nên Triệu U Mục vương đã nghi ngờ và ra lệnh xử tử Lý Mục, bãi nhiệm Tư Mã Thượng. Năm 228 TCN, quân Tần tiến vào Hàm Đan, bắt sống U Mục vương và chiếm nước Triệu. Hoàng tử Triệu Gia, anh cùng cha khác mẹ của U Mục vương, đã chạy tới Đại Thành tự xưng vương và chỉ huy các lực lượng còn lại của Triệu chống Tần. Chính quyền này kéo dài tới năm 222 TCN thì quân Tần bắt được Đại vương Gia và xóa sổ nước Triệu.",
+        "Hơn 10 năm sau, các chư hầu nổi dậy chống nhà Tần, một người dòng dõi nước Triệu là Triệu Yết được lập làm Triệu vương để khôi phục nước Triệu, nhưng cuối cùng bị Hán vương Lưu Bang thôn tính vào năm 204 TCN.",
+        "",
+        "Từ thời Xuân Thu, dòng họ Triệu phục vụ cho nước Tấn đã được ban tước tử. Từ khi được Chu Uy Liệt Vương phong chư hầu thì thăng lên tước hầu, đến đời thứ 6 thì xưng vương.",
+        "",
+        "",
+        "(Nguồn: Wikipedia)"
+    ]
+}

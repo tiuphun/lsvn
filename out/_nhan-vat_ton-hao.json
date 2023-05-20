@@ -1,0 +1,911 @@
+{
+    "tables": [
+        "<table class=\"infobox\">\n <tbody>\n  <tr>\n   <th colspan=\"2\">Đông Ngô Mạt Đế<br><font size=\"2\">東吳末帝<\/font><\/th>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\">Hoàng Đế Trung Hoa <small>(chi tiết...)<\/small><\/td>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\"><img class=\"jch-lazyload\" alt=\"Sun Hao Qing portrait.jpg\" src=\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxIiBoZWlnaHQ9IjEiPjwvc3ZnPg==\" data-src=\"/images/wiki/ton-hao/27ab7c0ffe51227eb341ede76d93154f.jpg\">\n    <noscript>\n     <img alt=\"Sun Hao Qing portrait.jpg\" src=\"/images/wiki/ton-hao/27ab7c0ffe51227eb341ede76d93154f.jpg\">\n    <\/noscript>\n    <div>\n     Chân dung Ngô Mạt Đế- tranh vẽ thời <a class=\"annotation\" href=\"/nhan-vat/nha-thanh\" title=\"Nhà Thanh (tiếng Mãn Châu:  daicing gurun; tiếng Mông Cổ: Манж Чин Улс; chữ Hán: 清朝; bính âm: Qīng cháo; Wade-Giles: Ch'ing ch'ao; âm Hán-Việt: Thanh triều) là một triều đại do dòng họ Ái Tân Giác La (Aisin Gioro) ở Mãn Châu thành lập. Khi đó, Mãn Châu là một địa danh nằm tại phía bắc bán đảo Triều ...\" target=\"_blank\">nhà Thanh<\/a>\n    <\/div><\/td>\n  <\/tr>\n  <tr>\n   <th colspan=\"2\">Hoàng đế Đông Ngô<\/th>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Trị vì<\/th>\n   <td>264 - 280 \n    <div class=\"timeline-wrapper\">\n     <map name=\"timeline_5c1c137cd00ac4cf350e93beabf62aee\" id=\"timeline_5c1c137cd00ac4cf350e93beabf62aee\"><\/map><img class=\"jch-lazyload\" usemap=\"#timeline_5c1c137cd00ac4cf350e93beabf62aee\" src=\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxIiBoZWlnaHQ9IjEiPjwvc3ZnPg==\" data-src=\"/images/wiki/ton-hao/7b2a7704372d9706019a81ff6bca5fa4.png\">\n     <noscript>\n      <img usemap=\"#timeline_5c1c137cd00ac4cf350e93beabf62aee\" src=\"/images/wiki/ton-hao/7b2a7704372d9706019a81ff6bca5fa4.png\">\n     <\/noscript>\n    <\/div><\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Tiền nhiệm<\/th>\n   <td>Đông Ngô Cảnh Đế<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Kế nhiệm<\/th>\n   <td>không có (Đông Ngô diệt vong)<\/td>\n  <\/tr>\n  <tr>\n   <th colspan=\"2\">Thông tin chung<\/th>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Tên đầy đủ<\/th>\n   <td>Húy: Tôn Hạo<br>\n     Tên tự: Hạo Tông (皓宗)<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Niên hiệu<\/th>\n   <td>\n    <table width=\"100%\" class=\"collapsible collapsed\" cellpadding=\"0\" cellspacing=\"0\">\n     <tbody>\n      <tr>\n       <th>Niên hiệu<\/th>\n      <\/tr>\n      <tr>\n       <td><p>Nguyên Hưng (元興) <small>264-265<\/small><br>\n          Cam Lộ (甘露) <small>265-266<\/small><br>\n          Bảo Định (寶鼎) <small>266-269<\/small><br>\n          Kiến Hoành (建衡) <small>269-271<\/small><br>\n          Phượng Hoàng (鳳凰) <small>272-274<\/small><br>\n          Thiên Sách (天冊) <small>275-276<\/small><br>\n          Thiên Tỷ (天璽) <small>276<\/small><br>\n          Thiên Ký (天紀) <small>277-280<\/small><br><\/p><\/td>\n      <\/tr>\n     <\/tbody>\n    <\/table><\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Thụy hiệu<\/th>\n   <td>Mạt Hoàng Đế (末皇帝)<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Triều đại<\/th>\n   <td>Nhà Đông Ngô<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Thân phụ<\/th>\n   <td>Tôn Hòa<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Sinh<\/th>\n   <td>242<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Mất<\/th>\n   <td>284<br>\n     Lạc Dương, Hà Nam<\/td>\n  <\/tr>\n <\/tbody>\n<\/table>",
+        "<table width=\"100%\" class=\"collapsible collapsed\" cellpadding=\"0\" cellspacing=\"0\">\n <tbody>\n  <tr>\n   <th>Niên hiệu<\/th>\n  <\/tr>\n  <tr>\n   <td><p>Nguyên Hưng (元興) <small>264-265<\/small><br>\n      Cam Lộ (甘露) <small>265-266<\/small><br>\n      Bảo Định (寶鼎) <small>266-269<\/small><br>\n      Kiến Hoành (建衡) <small>269-271<\/small><br>\n      Phượng Hoàng (鳳凰) <small>272-274<\/small><br>\n      Thiên Sách (天冊) <small>275-276<\/small><br>\n      Thiên Tỷ (天璽) <small>276<\/small><br>\n      Thiên Ký (天紀) <small>277-280<\/small><br><\/p><\/td>\n  <\/tr>\n <\/tbody>\n<\/table>"
+    ],
+    "keywords": [],
+    "headings": [
+        "Nhân Vật Lịch Sử",
+        "Tôn Hạo",
+        "Trước khi lên ngôi",
+        "Làm vua",
+        "Lên ngôi",
+        "Thời kì đầu (265-270)",
+        "Thời kì cuối (271-280)",
+        "Mất nước và qua đời",
+        "Gia đình",
+        "Chú thích",
+        "Bài viết cùng thư mục",
+        "CÁC THỜI KỲ LỊCH SỬ",
+        "Tư Liệu",
+        "Anh Hùng Dân Tộc Tiêu Biểu",
+        "Anh Hùng Dân Tộc Tiêu Biểu",
+        "Tư Liệu Lịch Sử",
+        "Di Tích Lịch Sử"
+    ],
+    "anchors": [
+        {
+            "text": "",
+            "href": "/"
+        },
+        {
+            "text": "Trang Chủ",
+            "href": "/"
+        },
+        {
+            "text": "Dòng Lịch Sử",
+            "href": "/dong-lich-su"
+        },
+        {
+            "text": "Hồng Bàng & Văn Lang",
+            "href": "/dong-lich-su/hong-bang-va-van-lang"
+        },
+        {
+            "text": "Âu Lạc & Nam Việt",
+            "href": "/dong-lich-su/au-lac-va-nam-viet"
+        },
+        {
+            "text": "Bắc thuộc lần I",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat"
+        },
+        {
+            "text": "Trưng Nữ Vương",
+            "href": "/dong-lich-su/trung-nu-vuong"
+        },
+        {
+            "text": "Bắc thuộc lần II",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-hai"
+        },
+        {
+            "text": "Nhà Lý & Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu"
+        },
+        {
+            "text": "Bắc thuộc lần III",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-ba"
+        },
+        {
+            "text": "Thời kỳ xây nền tự chủ",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu"
+        },
+        {
+            "text": "Nhà Ngô",
+            "href": "/dong-lich-su/nha-ngo"
+        },
+        {
+            "text": "Nhà Đinh",
+            "href": "/dong-lich-su/nha-dinh"
+        },
+        {
+            "text": "Nhà Tiền Lê",
+            "href": "/dong-lich-su/nha-tien-le"
+        },
+        {
+            "text": "Nhà Lý",
+            "href": "/dong-lich-su/nha-ly"
+        },
+        {
+            "text": "Nhà Trần",
+            "href": "/dong-lich-su/nha-tran"
+        },
+        {
+            "text": "Nhà Hồ",
+            "href": "/dong-lich-su/nha-ho"
+        },
+        {
+            "text": "Nhà Hậu Trần",
+            "href": "/dong-lich-su/nha-hau-tran"
+        },
+        {
+            "text": "Bắc thuộc lần IV",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-tu"
+        },
+        {
+            "text": "Nhà Hậu Lê",
+            "href": "/dong-lich-su/nha-hau-le"
+        },
+        {
+            "text": "Nam Bắc Triều",
+            "href": "/dong-lich-su/nam-bac-trieu"
+        },
+        {
+            "text": "Trịnh Nguyễn Phân Tranh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh"
+        },
+        {
+            "text": "Nhà Tây Sơn",
+            "href": "/dong-lich-su/nha-tay-son"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/nha-nguyen"
+        },
+        {
+            "text": "Pháp Thuộc",
+            "href": "/dong-lich-su/phap-thuoc"
+        },
+        {
+            "text": "Việt Nam Dân Chủ Cộng Hoà",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Cộng hoà xã hội chủ nghĩa Việt Nam",
+            "href": "/dong-lich-su/viet-nam-xhcn"
+        },
+        {
+            "text": "Tư Liệu",
+            "href": "/tu-lieu"
+        },
+        {
+            "text": "Quân Sự",
+            "href": "/tu-lieu/quan-su?filter_tag[0]="
+        },
+        {
+            "text": "Tác Phẩm",
+            "href": "/tu-lieu/tac-pham?filter_tag[0]="
+        },
+        {
+            "text": "Bang Giao",
+            "href": "/tu-lieu/bang-giao"
+        },
+        {
+            "text": "Biểu đồ thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Nhân Vật",
+            "href": "/nhan-vat"
+        },
+        {
+            "text": "Anh Hùng Dân Tộc",
+            "href": "/anh-hung-dan-toc?types[0]=1"
+        },
+        {
+            "text": "Danh nhân văn hóa",
+            "href": "/danh-nhan-van-hoa?types[0]=1"
+        },
+        {
+            "text": "Di Tích",
+            "href": "/di-tich-lich-su?types[0]=1"
+        },
+        {
+            "text": "Ngày Nay",
+            "href": "/thoi-su"
+        },
+        {
+            "text": "Sách",
+            "href": "/sach"
+        },
+        {
+            "text": "Video",
+            "href": "/video"
+        },
+        {
+            "text": "Q&A",
+            "href": "/hoi-dap"
+        },
+        {
+            "text": "Lịch sử lớp 12",
+            "href": "/hoi-dap/lop-12"
+        },
+        {
+            "text": "Lịch sử lớp 11",
+            "href": "/hoi-dap/lop-11"
+        },
+        {
+            "text": "Lịch sử lớp 10",
+            "href": "/hoi-dap/lop-10"
+        },
+        {
+            "text": "Lịch sử lớp 9",
+            "href": "/hoi-dap/lop-9"
+        },
+        {
+            "text": "Lịch sử lớp 8",
+            "href": "/hoi-dap/lop-8"
+        },
+        {
+            "text": "Lịch sử lớp 7",
+            "href": "/hoi-dap/lop-7"
+        },
+        {
+            "text": "Lịch sử lớp 6",
+            "href": "/hoi-dap/lop-6"
+        },
+        {
+            "text": "Trang chủ",
+            "href": "/"
+        },
+        {
+            "text": "Nhân Vật",
+            "href": "/nhan-vat"
+        },
+        {
+            "text": "Nhân Vật Lịch Sử",
+            "href": "/nhan-vat"
+        },
+        {
+            "text": "Thu / Mở",
+            "href": "#"
+        },
+        {
+            "text": "Trước khi lên ngôi",
+            "href": "#truoc-khi-len-ngoi"
+        },
+        {
+            "text": "Làm vua",
+            "href": "#lam-vua"
+        },
+        {
+            "text": "Lên ngôi",
+            "href": "#len-ngoi"
+        },
+        {
+            "text": "Thời kì đầu (265-270)",
+            "href": "#thoi-ki-dau-265-270"
+        },
+        {
+            "text": "Thời kì cuối (271-280)",
+            "href": "#thoi-ki-cuoi-271-280"
+        },
+        {
+            "text": "Mất nước và qua đời",
+            "href": "#mat-nuoc-va-qua-doi"
+        },
+        {
+            "text": "Gia đình",
+            "href": "#gia-dinh"
+        },
+        {
+            "text": "Chú thích",
+            "href": "#chu-thich"
+        },
+        {
+            "text": "nhà Thanh",
+            "href": "/nhan-vat/nha-thanh"
+        },
+        {
+            "text": "nước Ngô",
+            "href": "/dia-danh/nuoc-ngo"
+        },
+        {
+            "text": "Vũ Đế",
+            "href": "/nhan-vat/vu-de"
+        },
+        {
+            "text": "Vũ Đế",
+            "href": "/nhan-vat/vu-de"
+        },
+        {
+            "text": "nước Thục",
+            "href": "/dia-danh/nuoc-thuc"
+        },
+        {
+            "text": "nước Ngô",
+            "href": "/dia-danh/nuoc-ngo"
+        },
+        {
+            "text": "Vũ Xương",
+            "href": "/dia-danh/vu-xuong"
+        },
+        {
+            "text": "Vũ Xương",
+            "href": "/dia-danh/vu-xuong"
+        },
+        {
+            "text": "nhà Ngụy",
+            "href": "/nhan-vat/nha-nguy"
+        },
+        {
+            "text": "Vũ Đế",
+            "href": "/nhan-vat/vu-de"
+        },
+        {
+            "text": "Vũ Xương",
+            "href": "/dia-danh/vu-xuong"
+        },
+        {
+            "text": "Vũ Xương",
+            "href": "/dia-danh/vu-xuong"
+        },
+        {
+            "text": "Vũ Đế",
+            "href": "/nhan-vat/vu-de"
+        },
+        {
+            "text": "nhà Ngụy",
+            "href": "/nhan-vat/nha-nguy"
+        },
+        {
+            "text": "Vũ Đế",
+            "href": "/nhan-vat/vu-de"
+        },
+        {
+            "text": "Lý Tùng",
+            "href": "/nhan-vat/ly-tung"
+        },
+        {
+            "text": "Vũ Đế",
+            "href": "/nhan-vat/vu-de"
+        },
+        {
+            "text": "nước Ngô",
+            "href": "/dia-danh/nuoc-ngo"
+        },
+        {
+            "text": "Vũ Đế",
+            "href": "/nhan-vat/vu-de"
+        },
+        {
+            "text": "Vũ Xương",
+            "href": "/dia-danh/vu-xuong"
+        },
+        {
+            "text": "sông Trường Giang",
+            "href": "/dia-danh/song-truong-giang"
+        },
+        {
+            "text": "Vũ Xương",
+            "href": "/dia-danh/vu-xuong"
+        },
+        {
+            "text": "Vũ Xương",
+            "href": "/dia-danh/vu-xuong"
+        },
+        {
+            "text": "Vũ Xương",
+            "href": "/dia-danh/vu-xuong"
+        },
+        {
+            "text": "Vũ Đế",
+            "href": "/nhan-vat/vu-de"
+        },
+        {
+            "text": "Vũ Đế",
+            "href": "/nhan-vat/vu-de"
+        },
+        {
+            "text": "Vũ Đế",
+            "href": "/nhan-vat/vu-de"
+        },
+        {
+            "text": "tỉnh Hồ Bắc",
+            "href": "/dia-danh/tinh-ho-bac"
+        },
+        {
+            "text": "Hồ Nam",
+            "href": "/dia-danh/ho-nam"
+        },
+        {
+            "text": "Bài viết trước: Tôn Đức Thắng Trước",
+            "href": "/nhan-vat/ton-duc-thang"
+        },
+        {
+            "text": "Bài viết kế tiếp: Tôn Quyền Tiếp tục",
+            "href": "/nhan-vat/ton-quyen"
+        },
+        {
+            "text": "Kinh Dương Vương",
+            "href": "/nhan-vat/kinh-duong-vuong"
+        },
+        {
+            "text": "Lạc Long Quân",
+            "href": "/nhan-vat/lac-long-quan"
+        },
+        {
+            "text": "nhà Chu",
+            "href": "/nhan-vat/nha-chu"
+        },
+        {
+            "text": "Ngô Sĩ Liên",
+            "href": "/nhan-vat/ngo-si-lien"
+        },
+        {
+            "text": "Lý Thái Tổ",
+            "href": "/nhan-vat/ly-thai-to"
+        },
+        {
+            "text": "nhà Thương",
+            "href": "/nhan-vat/nha-thuong"
+        },
+        {
+            "text": "nhà Đường",
+            "href": "/nhan-vat/nha-duong"
+        },
+        {
+            "text": "Triệu Việt Vương",
+            "href": "/nhan-vat/trieu-viet-vuong"
+        },
+        {
+            "text": "nhà Tần",
+            "href": "/nhan-vat/nha-tan"
+        },
+        {
+            "text": "Triệu Đà",
+            "href": "/nhan-vat/trieu-da"
+        },
+        {
+            "text": "Hồng Bàng & Văn Lang",
+            "href": "/dong-lich-su/hong-bang-va-van-lang"
+        },
+        {
+            "text": "Âu Lạc & Nam Việt",
+            "href": "/dong-lich-su/au-lac-va-nam-viet"
+        },
+        {
+            "text": "Bắc thuộc lần I",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat"
+        },
+        {
+            "text": "Nhà Triệu",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat/nha-trieu"
+        },
+        {
+            "text": "Trưng Nữ Vương",
+            "href": "/dong-lich-su/trung-nu-vuong"
+        },
+        {
+            "text": "Bắc thuộc lần II",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-hai"
+        },
+        {
+            "text": "Nhà Lý & Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu"
+        },
+        {
+            "text": "Nhà Tiền Lý",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-tien-ly"
+        },
+        {
+            "text": "Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-trieu"
+        },
+        {
+            "text": "Nhà Hậu Lý",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-hau-ly"
+        },
+        {
+            "text": "Bắc thuộc lần III",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-ba"
+        },
+        {
+            "text": "Thời kỳ xây nền tự chủ",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu"
+        },
+        {
+            "text": "Họ Khúc",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu/ho-khuc"
+        },
+        {
+            "text": "Nhà Ngô",
+            "href": "/dong-lich-su/nha-ngo"
+        },
+        {
+            "text": "Nhà Đinh",
+            "href": "/dong-lich-su/nha-dinh"
+        },
+        {
+            "text": "Nhà Tiền Lê",
+            "href": "/dong-lich-su/nha-tien-le"
+        },
+        {
+            "text": "Nhà Lý",
+            "href": "/dong-lich-su/nha-ly"
+        },
+        {
+            "text": "Nhà Trần",
+            "href": "/dong-lich-su/nha-tran"
+        },
+        {
+            "text": "Nhà Hồ",
+            "href": "/dong-lich-su/nha-ho"
+        },
+        {
+            "text": "Nhà Hậu Trần",
+            "href": "/dong-lich-su/nha-hau-tran"
+        },
+        {
+            "text": "Bắc thuộc lần IV",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-tu"
+        },
+        {
+            "text": "Nhà Hậu Lê",
+            "href": "/dong-lich-su/nha-hau-le"
+        },
+        {
+            "text": "Nam Bắc Triều",
+            "href": "/dong-lich-su/nam-bac-trieu"
+        },
+        {
+            "text": "Nhà Lê Trung Hưng",
+            "href": "/dong-lich-su/nam-bac-trieu/nha-le-trung-hung"
+        },
+        {
+            "text": "Nhà Mạc",
+            "href": "/dong-lich-su/nam-bac-trieu/nha-mac"
+        },
+        {
+            "text": "Trịnh Nguyễn Phân Tranh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh"
+        },
+        {
+            "text": "Nhà Lê Trung Hưng",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/nha-le-trung-hung"
+        },
+        {
+            "text": "Chúa Trịnh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-trinh"
+        },
+        {
+            "text": "Chúa Nguyễn",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen"
+        },
+        {
+            "text": "Nhà Tây Sơn",
+            "href": "/dong-lich-su/nha-tay-son"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/nha-nguyen"
+        },
+        {
+            "text": "Pháp Thuộc",
+            "href": "/dong-lich-su/phap-thuoc"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/phap-thuoc/nha-nguyen"
+        },
+        {
+            "text": "Những cuộc khởi nghĩa chống thực dân Pháp",
+            "href": "/dong-lich-su/phap-thuoc/khoi-nghia-chong-phap"
+        },
+        {
+            "text": "Đảng Cộng Sản Việt Nam",
+            "href": "/dong-lich-su/phap-thuoc/dang-cong-san-viet-nam"
+        },
+        {
+            "text": "Việt Nam Dân Chủ Cộng Hoà",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Kháng chiến chống Pháp",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-phap"
+        },
+        {
+            "text": "Kháng chiến chống Mĩ",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-mi"
+        },
+        {
+            "text": "Cộng hoà xã hội chủ nghĩa Việt Nam",
+            "href": "/dong-lich-su/viet-nam-xhcn"
+        },
+        {
+            "text": "Trận Điện Biên Phủ trên không năm 1972",
+            "href": "/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972"
+        },
+        {
+            "text": "Chiến tranh biên giới Tây Nam năm 1975 - 1978",
+            "href": "/tu-lieu/quan-su/chien-tranh-bien-gioi-tay-nam-nam-1975-1978"
+        },
+        {
+            "text": "Chiến dịch Mùa Xuân năm 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-mua-xuan-nam-1975"
+        },
+        {
+            "text": "Hải chiến Trường Sa năm 1988",
+            "href": "/tu-lieu/quan-su/hai-chien-truong-sa-nam-1988"
+        },
+        {
+            "text": "Chiến dịch Đường 14 - Phước Long năm 1974 - 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-duong-14-phuoc-long-nam-1974-1975"
+        },
+        {
+            "text": "Chiến dịch Tây Nguyên năm 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-tay-nguyen-nam-1975"
+        },
+        {
+            "text": "Trận Mậu Thân tại Huế năm 1968",
+            "href": "/tu-lieu/quan-su/tran-mau-than-tai-hue-nam-1968"
+        },
+        {
+            "text": "Bảng đối chiếu các triều đại Việt Nam và các triều đại Trung Quốc",
+            "href": "/tu-lieu/bang-doi-chieu-cac-trieu-dai-viet-nam-va-cac-trieu-dai-trung-quoc"
+        },
+        {
+            "text": "Bình Ngô đại cáo - bản tuyên ngôn độc lập thứ hai",
+            "href": "/tu-lieu/tac-pham/binh-ngo-dai-cao-ban-tuyen-ngon-doc-lap-thu-hai"
+        },
+        {
+            "text": "Lãnh thổ Việt Nam qua từng thời kỳ",
+            "href": "/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky"
+        },
+        {
+            "text": "Trận Đồi Thịt Băm năm 1969",
+            "href": "/tu-lieu/quan-su/tran-doi-thit-bam-nam-1969"
+        },
+        {
+            "text": "Chiến dịch Đắk Tô năm 1972",
+            "href": "/tu-lieu/quan-su/chien-dich-dak-to-nam-1972"
+        },
+        {
+            "text": "Nam quốc sơn hà - Bản tuyên ngôn độc lập đầu tiên",
+            "href": "/tu-lieu/tac-pham/nam-quoc-son-ha-ban-tuyen-ngon-doc-lap-dau-tien"
+        },
+        {
+            "text": "Tuyên ngôn độc lập Việt Nam Dân chủ Cộng hòa",
+            "href": "/tu-lieu/tac-pham/tuyen-ngon-doc-lap-viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Trận Bản Đông năm 1971",
+            "href": "/tu-lieu/quan-su/tran-ban-dong-nam-1971"
+        },
+        {
+            "text": "Trận Rạch Gầm \u2013 Xoài Mút năm 1785",
+            "href": "/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785"
+        },
+        {
+            "text": "Lịch sử Chữ viết tiếng Việt",
+            "href": "/tu-lieu/lich-su-chu-viet-tieng-viet"
+        },
+        {
+            "text": "Hịch tướng sĩ - Dụ chư tỳ tướng hịch văn",
+            "href": "/tu-lieu/tac-pham/hich-tuong-si-du-chu-ty-tuong-hich-van"
+        },
+        {
+            "text": "Danh sách Trạng nguyên Việt Nam",
+            "href": "/tu-lieu/danh-sach-trang-nguyen-viet-nam"
+        },
+        {
+            "text": "Hội nghị Paris, mặt trận ngoại giao năm 1968-1972",
+            "href": "/tu-lieu/bang-giao/hoi-nghi-paris-mat-tran-ngoai-giao-nam-1968-1972"
+        },
+        {
+            "text": "Lý Nam Đế",
+            "href": "/nhan-vat/ly-nam-de"
+        },
+        {
+            "text": "Hai Bà Trưng",
+            "href": "/nhan-vat/hai-ba-trung"
+        },
+        {
+            "text": "Trần Nhân Tông",
+            "href": "/nhan-vat/tran-nhan-tong"
+        },
+        {
+            "text": "Lý Thường Kiệt",
+            "href": "/nhan-vat/ly-thuong-kiet"
+        },
+        {
+            "text": "Nguyễn Huệ",
+            "href": "/nhan-vat/nguyen-hue"
+        },
+        {
+            "text": "Nguyễn Trãi",
+            "href": "/nhan-vat/nguyen-trai"
+        },
+        {
+            "text": "Hùng Vương",
+            "href": "/nhan-vat/hung-vuong"
+        },
+        {
+            "text": "Lê Thái Tổ",
+            "href": "/nhan-vat/le-thai-to"
+        },
+        {
+            "text": "Hồ Chí Minh",
+            "href": "/nhan-vat/ho-chi-minh"
+        },
+        {
+            "text": "Trần Hưng Đạo",
+            "href": "/nhan-vat/tran-hung-dao"
+        },
+        {
+            "text": "Lý Thái Tổ",
+            "href": "/nhan-vat/ly-thai-to"
+        },
+        {
+            "text": "Ngô Quyền",
+            "href": "/nhan-vat/ngo-quyen"
+        },
+        {
+            "text": "Lê Đại Hành",
+            "href": "/nhan-vat/le-dai-hanh"
+        },
+        {
+            "text": "Đinh Tiên Hoàng",
+            "href": "/nhan-vat/dinh-tien-hoang"
+        },
+        {
+            "text": "Lê Thái Tổ",
+            "href": "/nhan-vat/le-thai-to"
+        },
+        {
+            "text": "Trần Hưng Đạo",
+            "href": "/nhan-vat/tran-hung-dao"
+        },
+        {
+            "text": "Lý Thường Kiệt",
+            "href": "/nhan-vat/ly-thuong-kiet"
+        },
+        {
+            "text": "Lê Đại Hành",
+            "href": "/nhan-vat/le-dai-hanh"
+        },
+        {
+            "text": "Hùng Vương",
+            "href": "/nhan-vat/hung-vuong"
+        },
+        {
+            "text": "Nguyễn Huệ",
+            "href": "/nhan-vat/nguyen-hue"
+        },
+        {
+            "text": "Lý Thái Tổ",
+            "href": "/nhan-vat/ly-thai-to"
+        },
+        {
+            "text": "Trần Nhân Tông",
+            "href": "/nhan-vat/tran-nhan-tong"
+        },
+        {
+            "text": "Ngô Quyền",
+            "href": "/nhan-vat/ngo-quyen"
+        },
+        {
+            "text": "Nguyễn Trãi",
+            "href": "/nhan-vat/nguyen-trai"
+        },
+        {
+            "text": "Vấn đề biên giới Việt-Trung thời Mạc",
+            "href": "/tu-lieu/bang-giao/van-de-bien-gioi-viet-trung-thoi-mac"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Tây Sơn",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-tay-son"
+        },
+        {
+            "text": "Biểu đồ các nhân vật lịch sử theo dòng thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Danh sách Trạng nguyên Việt Nam",
+            "href": "/tu-lieu/danh-sach-trang-nguyen-viet-nam"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Nguyễn",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-nguyen"
+        },
+        {
+            "text": "Trận Điện Biên Phủ trên không năm 1972",
+            "href": "/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972"
+        },
+        {
+            "text": "Trận Ngọc Hồi - Đống Đa năm 1789",
+            "href": "/tu-lieu/quan-su/tran-ngoc-hoi-dong-da-nam-1789"
+        },
+        {
+            "text": "Trận Cẩm Sa năm 1775",
+            "href": "/tu-lieu/quan-su/tran-cam-sa-nam-1775"
+        },
+        {
+            "text": "Trận Rạch Gầm \u2013 Xoài Mút năm 1785",
+            "href": "/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785"
+        },
+        {
+            "text": "Lãnh thổ Việt Nam qua từng thời kỳ",
+            "href": "/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky"
+        },
+        {
+            "text": "Đền Trần (Nam Định)",
+            "href": "/dia-danh/den-tran-nam-dinh"
+        },
+        {
+            "text": "thành Cổ Loa",
+            "href": "/dia-danh/thanh-co-loa"
+        },
+        {
+            "text": "Khu di tích Pác Bó",
+            "href": "/dia-danh/khu-di-tich-pac-bo"
+        },
+        {
+            "text": "Đền Ngọc Sơn",
+            "href": "/dia-danh/den-ngoc-son"
+        },
+        {
+            "text": "Văn Miếu - Quốc Tử Giám",
+            "href": "/dia-danh/van-mieu-quoc-tu-giam"
+        },
+        {
+            "text": "Cố đô Hoa Lư",
+            "href": "/dia-danh/co-do-hoa-lu"
+        },
+        {
+            "text": "Quần thể di tích danh thắng Yên Tử",
+            "href": "/dia-danh/quan-the-di-tich-danh-thang-yen-tu"
+        },
+        {
+            "text": "Khu di tích chiến thắng Điện Biên Phủ",
+            "href": "/dia-danh/khu-di-tich-chien-thang-dien-bien-phu"
+        },
+        {
+            "text": "Hồ Hoàn Kiếm",
+            "href": "/dia-danh/ho-hoan-kiem"
+        },
+        {
+            "text": "Thành nhà Hồ",
+            "href": "/dia-danh/thanh-nha-ho"
+        },
+        {
+            "text": "Giới thiệu",
+            "href": "/gioi-thieu"
+        },
+        {
+            "text": "Quyền riêng tư",
+            "href": "/quyen-rieng-tu"
+        },
+        {
+            "text": "Liên hệ",
+            "href": "/lien-he"
+        },
+        {
+            "text": "Địa Danh",
+            "href": "/dia-danh"
+        },
+        {
+            "text": "Trang Facebook",
+            "href": "https://www.facebook.com/nguoikesu/"
+        },
+        {
+            "text": "DanhMucBDS.com",
+            "href": "https://danhmucbds.com"
+        },
+        {
+            "text": "HocTotNguVan.com",
+            "href": "https://hoctotnguvan.com"
+        }
+    ],
+    "title": "Tôn Hạo - Người Kể Sử",
+    "paragraphs": [
+        "Nguyên Hưng (元興) 264-265 Cam Lộ (甘露) 265-266 Bảo Định (寶鼎) 266-269 Kiến Hoành (建衡) 269-271 Phượng Hoàng (鳳凰) 272-274 Thiên Sách (天冊) 275-276 Thiên Tỷ (天璽) 276 Thiên Ký (天紀) 277-280",
+        "Tôn Hạo (chữ Hán: 孫皓; bính âm: Sun Hao, 242-284), hay Ngô Mạt đế (吳末帝), là hoàng đế cuối cùng của nhà Đông Ngô thời Tam Quốc trong lịch sử Trung Quốc. Ông là con trai của thái tử Tôn Hòa, cháu đích tôn của Đại Đế Tôn Quyền. Sau khi người chú của ông là Cảnh Đế Tôn Hưu qua đời và thái tử Tôn Quân còn nhỏ tuổi, các đại thần nước Ngô quyết định đưa Tôn Hạo lên ngôi hoàng đế. Trong thời gian trị vì, ông hoang dâm vô đạo, xa xỉ cùng cực, giết hại trung lương, tin dùng hoạn quan, việc chính sự thì ít để tâm tới, vì thế quốc lực Giang Đông suy yếu. Nhân cơ hội đó, năm 280, Tấn Vũ Đế phát động chiến tranh, tiêu diệt được Đông Ngô, Tôn Hạo hàng Tấn rồi bị bắt giải về Lạc Dương, kết thúc thế chân vạc Tam Quốc. Ông qua đời vào năm 284 dưới thời Tấn Vũ Đế.",
+        "",
+        "",
+        "Tôn Hạo chào đời năm 242, là con trai trưởng của thái tử Tôn Hòa (sau được truy tôn là Văn hoàng đế), cháu đích tôn của Ngô Đại Đế Tôn Quyền. Mẹ ông là Hà thị, thiếp của Tôn Hòa1 . Ông có tên tự là Nguyên Tông (元宗), tên ban đầu là Tôn Bành Tổ (孫彭祖), tên tự là Hạo Tông (皓宗)1 . Nguyên Ngô Đại Đế Tôn Quyền có bảy người con trai, con trưởng là Tôn Đăng được tấn phong làm thái tử. Năm Xích Ô thứ hai (241), thái tử qua đời. Theo lệ cũ, Tôn Hòa (con trai thứ hai) được phong lên làm thái tử. Nhưng Tôn Hòa có hiềm khích với Toàn công chúa, vì thế luôn bị gièm pha, lại thêm tranh chấp ngôi vị trữ quân với người em là Tôn Bá. Năm 250 (khi đó Tôn Hạo mới 9 tuổi), Tôn Quyền chán ghét cuộc tranh giành trong cung, lại thêm sự gièm pha của công chúa, cuối cùng quyết định ép Tôn Bá tự vẫn và phế truất Tôn Hòa, đày sang Cố Chương2 . Tôn Hạo do vậy cũng bị liên lụy, bị coi như thứ dân bình thường mặc dù mang thân phận hoàng tôn.",
+        "Năm 252, lúc Tôn Quyền sắp mất mới xuống chiếu phong cho Tôn Hạo tước hầu, nhận lãnh địa ở Trường Sa. Cùng năm Tôn Quyền qua đời, thái tử Tôn Lượng nối ngôi, Gia Cát Khác làm thái phó nắm quyền triều chính. Gia Cát Khác vốn là chú vợ của Tôn Hòa nên có ý khôi phục địa vị cho ông. Nhưng không được bao lâu, vào năm 253, Tôn Tuấn tiến hành đảo chính, lật đổ và sát hại Gia Cát Khác, thu hết quyền lực về tay mình3 . Tôn Tuấn tìm cách loại bỏ các thế lực gây trở ngại cho mình trong đó có Tôn Hòa. Tôn Tuấn vu cho Tôn Hòa có ý khác, rồi đày đến Tân Đô4 , sau đó bức tử. Phu nhân Trương thị cũng bị buộc phải chết, còn Hà thị không đồng ý tự vẫn, lấy cớ mình phải nuôi các con Tôn Hòa (gồm Tôn Hạo, Tôn Đức, Tôn Khiêm và Tôn Tuấn) đến tuổi trưởng thành. Lúc này Tôn Hạo vừa được 11 tuổi.",
+        "Năm 258, Tôn Lượng bị Tôn Lâm (em Tôn Tuấn) phế truất. Tôn Lâm lập con trai thứ sáu của Tôn Quyền, một người chú khác của Tôn Hạo, tên là Tôn Hưu lên ngôi vua, tức là Ngô Cảnh Đế1 . Sau khi lên ngôi, Tôn Hưu phong tước cho các anh em Tôn Hạo, trong đó bản thân ông nhận tước Ô Trình hầu, ấp phong thuộc Hồ Châu, Chiết Giang. Trong thời gian này, ông kết thân với Tả điển quân Vạn Úc, người góp công đưa ông lên ngôi vua sau này.",
+        "Mùa hạ năm 264, Ngô chủ Tôn Hưu bị bệnh nặng, bèn viết thư triệu thừa tướng Bộc Dương Hưng vào cung phó thác thái tử, lại bảo thái tử Tôn Quân chắp tay lạy Bộc Dương Hưng, rồi lại cầm tay Hưng trỏ vào thái tử. Không lâu Tôn Hưu qua đời. Quần thần cùng nhau tôn Chu hoàng hậu là Hoàng thái hậu. Lúc bấy giờ nước Thục vừa bị diệt, cả nước Ngô nhân tâm xáo động, muốn có vua trưởng thành để cai trị. Vạn Úc vốn thân thiện với Hạo, nên đề nghị lập ông làm đế. Bộc Dương Hưng cùng Tả tướng quân Trương Bố cũng tán thành. Cả bọn vào cung tâu với bà thái hậu ý định này. Thái hậu nói",
+        "Bèn đón Tôn Hạo vào cung lập làm hoàng đế, hạ chiếu đại xá, cải nguyên là Nguyên Hưng1 5 .",
+        "Tháng 8 năm 264, Tôn Hạo dùng Thi Tích, Đinh Phụng làm Tả hữu đại tư mã, Trương Bố là Phiêu kị tướng quân, gia Thị trung.",
+        "Tháng 9 ông hạ chiếu biếm Chu Thái hậu làm Cảnh hoàng hậu, tôn cha Tôn Hòa là Văn Hoàng đế, mẹ là Hà thị làm hoàng thái hậu1 5 , phong thái tử Tôn Quân làm Dự Chương vương, ba người em của Quân cũng được phong vương (Nhữ Nam vương, Lương vương, Trần vương), lại lập vợ là Đằng thị làm hoàng hậu; phong cha vợ là Đằng Mục làm Vệ tướng quân, Lục Thượng thư sự.Khi mới lên ngôi, Tôn Hạo cho giảm sưu thuế, mở kho lúa phát chẩn cho dân nghèo, thả những cung nữ chưa được ngự hạnh cho về quê, ai cũng tưởng ông là vua anh minh. Nhưng chỉ được bấy nhiêu thì Tôn Hạo trở nên thô bạo và đắm chìm vào tửu sắc. Tháng 11 ÂL năm 264, Bộc Dương Hưng, Trương Bố ra sức ngăn cản, Tôn Hạo cho bắt lại, dời ra Quảng châu, sau đó giết hại rồi tru di ba họ1 5 .",
+        "Tháng 3 năm 265, Ngô chủ sai Quang lộc đại phu Kỉ Trác, Ngũ quan trung lang tướng Hồng Cầu cùng Từ Thiệu, Tôn Úc đi sứ nhà Tào Ngụy, báo việc lên ngôi. Thiệu đi tới Nhu Tu thì trong triều có kẻ gièm pha với Tôn Hạo rằng Thiệu ca ngợi đất Trung Nguyêm. Hạo tức giận, cho triệu về, giết đi. Tháng sau cải nguyên là Cam Lộ năm đầu. Đến tháng bảy, Hạo giết Cảnh hoàng hậu, dời bốn người con của Cảnh Đế sang đất Ngô và còn giết mất hai người trong số họ là thái tử Tôn Quân và Nhữ Nam vương Tôn Cung1 6 . Mùa đông, Tây Lăng đốc Bộ Xiển dâng biểu xin dời đô từ Kiến Nghiệp thuộc Dương châu7 sang Vũ Xương8 . Ngô chủ nghe theo, dời đô sang Vũ Xương, để Ngự sử đại phu Đinh Cố, Hữu tướng quân Gia Cát Tĩnh trấn giữ Kiến Nghiệp. Cuối năm này ở Trung Nguyên, nhà Ngụy mất, Tư Mã Viêm lên ngôi xưng là Vũ Đế, lập ra nhà Tấn (265-420)6 9 .",
+        "Tán kị thường thị, Lư Giang vương Tôn Phàn được nhiều người nể trọng, tỏ ra bất bình trước những hành động của Tôn Hạo, Hạo không vừa lòng. Tán kị thường thị Vạn Úc, Trung thư thừa Trần Thanh biết vậy cùng nhau ra sức gièm pha. Ngô chủ nghi Phàn có điều gian trá, bèn đuổi khỏi kinh đô, giữa đường bỗng triệu về. Khi về tới, Phàn có thái độ làm Ngô chủ không vừa lòng, liền bị điệu khỏi điện và bị chém, rồi ném thủ cấp vào núi cho hổ lang ăn thịt kì hết. Sang tháng 4 năm 266, Đinh Trung tâu với Ngô chủ rằng Trung Nguyên (nhà Tấn) không lo việc phòng thủ miền biên cương, có thể nhân đó mà đánh lấy. Ngô chủ triệu quần thần vào cung bàn bạc, Trấn Tây tướng quân Lục Khải, người trong họ với Lục Tốn lên tiếng can ngăn vì Tấn quốc đang thịnh. Ngô chủ tuy không xuất binh nhưng cũng tuyệt giao với Tấn từ đó. Sang mùa thu cải nguyên là Bảo Đỉnh, cất nhắc Lục Khải, Vạn Úc làm Tả, Hữu thừa tướng6 . Từ khi dời về thành Vũ Xương, nhân dân trong xứ Dương Châu phải ngược thuyền cung cấp, khổ ải trăm bề; tính Hạo lại xa xỉ không có chừng mực, của công của tư khan cạn. Lục Khải dâng sớ can ngăn. Tôn Hạo không nghe. Đến cuối năm 266, Ngô chủ mới dời đô trở về Kiến Nghiệp, cử Đằng Mục lưu trấn Vũ Xương. Lúc này Đằng hậu nhan sắc suy kém, bị Ngô chủ bỏ bê. Tuy không phế bỏ Đằng hậu, nhưng Ngô chủ không đoái hoài đến nữa, hậu phụ Đằng Mục do vậy cũng bị đẩy khỏi triều đình, sau uất mà chết. Ngô chủ lại sai Hoàng môn đến các châu quận lập danh sách mĩ nữ tuổi khoảng 15, 16 trong các gia đình tướng lại, văn thần đem vào cho mình thẩm duyệt. Hễ được chọn thì sung vào cung, không được chọn mới cho phép xuất giá. Từ đó mĩ nữ chật ních cung Ngô, đếm không hết nổi.",
+        "Tháng 6 ÂL năm 267, Tôn Hạo cho xây cung Chiêu Minh, sai bá quan văn võ phải vào rừng kiếm gỗ1 6 . Xây nhiều vườn tược, cung điện, đền đài vô cùng tinh tế đẹp đẽ tốn kém ngân khố không biết bao nhiêu mà kể. Lục Khải can ngăn, Hạo không nghe. Trung thư thừa Hoa Hạch hai lần dâng sớ can gián cũng không được.",
+        "Sang năm 268, tháng hai, lấy Tả Hữu ngự sử đại phu Đinh Cố và Mạnh Nhân làm Tư đồ, Tư không. Mùa đông năm này, Ngô chủ xuất Đông quan, sai Thi Tích, Vạn Úc quấy nhiễu Giang Hạ và Tương Dương của triều đình. Vũ Đế sai Nghĩa Dương vương Vọng lĩnh 20000 quân kị và bộ đến Long Bi làm thanh viên. Kinh châu thứ sử Hồ Liệt chống cự lại, phá quân Tấn, Vọng dẫn quân về. Trong khi đó ở Giao châu phát sinh nội biến. Trước đó vào năm 263, Lã Hưng làm loạn ở Giao châu, giết thái thú Tôn Tư đem đất này theo hàng nhà Ngụy. Cảnh Đế Tôn Hưu vội chia tách Giao châu thành hai châu Giao, Quảng một lần nữa, trong đó Giao châu mới chỉ gồm 4 quận còn lại phía nam là Hợp Phố, Giao Chỉ, Cửu Chân và Nhật Nam10 . Cuối năm 264, khi Lã Hưng bị giết, Nhà Tấn cử các tướng của mình sang coi giữ Giao Chỉ.",
+        "Năm 268, Tôn Hạo bèn phong cho Lưu Tuấn làm thứ sử Giao Châu, cùng với Tu Tắc làm Đại đô đốc, cùng tướng quân Cố Dung, đem quân chiếm lại Giao châu, nhưng bị quân Tấn đánh bại tới ba lần, phải rút chạy. Dương Tắc thừa thắng tiến công lên Quảng châu, lấy được quận Uất Lâm, giết chết Lưu Tuấn và Tu Tắc. Nhà Tấn sai Mao Linh đến làm thái thú Uất Lâm11 12 .",
+        "Tháng 11, Đinh Phụng, Gia Cát Tịnh xuất Thược Bi, đánh Hợp Phì, bị An Đông tướng quân nhà Tấn là Nhữ Âm vương Tư Mã Tuấn đánh lui. Đầu năm 269, Tôn Hạo lập Hoàng tử Cẩn làm Hoàng thái tử1 6 . Lúc này Tấn Vũ Đế có ý thống nhất Trung Nguyên, chuẩn bị việc đánh Ngô, sai Thượng thư Tả bộc xạ Dương Hựu làm đô đốc Kinh châu, trấn Tương Dương cùng Vệ Cẩn, Tư Mã Nhân... đóng quân ở các vùng gần biên giới. Dương Hựu thi hành ân đức, rất được lòng dân. Tháng 10 năm này, Ngô đại xá, cải nguyên Kiến Hành. Trong cùng năm Lục Khải qua đời.",
+        "Tháng giêng năm 270, Đinh Phụng nhập Qua Khẩu, bị quân Tấn đánh bại phải chạy về. Tháng 4 năm này, Đại tư mã Thi Tích qua đời. Tôn Hạo dùng Trấn quân Đại tướng quân Lục Kháng giữ Tín Lăng, Tây Lăng, Di Đạo, Nhạc Hương, Công An chư quân sự. Lúc Kháng thấy chính sự suy bại, dâng thư can ngăn Tôn Hạo, xin cải cách chế độ, ông không nghe. Cuối năm này, tòng đệ của Tôn Hạo là Tôn Tú đang giữ chức Hạ Khẩu đốc, bị Ngô chủ nghi ngờ. Hạo sai 5000 quân đi săn ở Hạ Khẩu, Tú sợ Hạo muốn bắt mình bèn bỏ sang hàng nhà Tấn6 .",
+        "Đầu năm 271 (khi đó là mùa đông), Tôn Hạo chuẩn bị tấn công Trung Nguyên, đưa cả Thái hậu, Hoàng hậu cùng phi tần mĩ nữ trong hậu cung đi theo mình. Đông quan lệnh Hoa Trấm can gián, không nghe. Ông bắt quân sĩ một trăm người thành một nhóm kéo các toa xe để chuẩn bị chiến đấu. Quân sĩ oán thán, nghĩ đến chuyện đào tẩu. Tôn Hạo nghe được tin đó đành hạ lệnh rút lui. Riêng Vạn Úc, Đinh Phụng, Lưu Bình lại lui quân về trước, Hạo từ đó oán ghét họ, có ý diệt trừ.",
+        "Trở lại tình hình Giao châu. Tháng 10 năm 269, Tôn Hạo lại cử Ngu Dĩ làm Giám quân, Tiết Vũ làm Uy Nam tướng quân, cùng với Đào Hoàng, người Đơn Dương làm Uy Nam tướng quân đưa quân trở lại Giao châu theo đường Kinh châu, lại cử Giám quân là Lý Đỉnh, Đốc quân là Từ Tồn đi theo đường biển qua vùng Kiến An, sau đó hội Hợp Phố để đánh Dương Tắc. Vào năm 271, Đào Hoàng đi theo đường biển, tiến thẳng vào Giao châu, dùng kế phá quân mai phục của tướng Đổng Nguyên bên Tấn, rồi lại được hơn vạn người của Lương Tề ở Phù Nghiễm giúp sức, nhanh chóng tiến tới trị sở Giao châu. Lúc này tướng Tấn Vương Tố và Giải Hệ trấn thủ thành. Đào Hoàng lại dùng kế phản gián khiến Vương Tố nghi ngờ Giải Hệ và giết chết Hệ. Ngay sai đó, Đào Hoàng lập tức đem quân đánh vào châu thành, phá được thành và bắt Dương Tắc. Mao Cảnh mưu tính đánh úp Đào Hoàng, bị phát giác, Hoàng bèn giết chết Cảnh rồi thì cầm tù bọn Dương Tắc đưa về Ngô, giữa đường thì Tắc ốm chết, Cán trốn về Tấn, còn Lý Tùng, Xán Năng đều bị quân Ngô giết hại. Ngô lấy lại Giao châu. Cuối năm này, lấy Phạm Thận làm Thái úy. Hữu tướng quân tư mã Đinh Phụng mất.",
+        "Tháng 8 năm 272, Ngô chủ triệu Chiêu Vũ tướng quân, Tây Lăng đốc Bộ Xiển về. Xiển ở Tây Lăng13 , nghi Tôn Hạo có ý giết mình, bèn bỏ trốn vào đầu hàng nhà Tấn vào tháng 9. Lục Kháng nghe tin, sai Tả Dịch và Ngô Ngạn thảo phạt Bộ Xiển. Tấn đế sai Dương Triệu, Dương Hỗ và Từ Dận suất thủy quân đánh Kiến Bình cứu Xiển. Tháng 12 năm này, Lục Kháng đánh tan quân của Dương Triệu, nhân đó tiến vào chiếm lại Tây Lăng, giết Bộ Xiển và tướng lại đồng mưu hơn 10 người, tru di tam tộc hết.",
+        "Tôn Hạo lấy lại Tây Lăng, tỏ ra dương dương tự đắc, cho rằng trời giúp mình. Sai một người thuật sĩ là Thượng Quảng, bói xem việc lấy thiên hạ thế nào. Quảng thưa rằng:",
+        "Hạo càng mừng, từ đó không biết tu sửa đức chính mà chỉ tính việc kiêm tính. Lại nhớ tới thù xưa, nên định dùng rượu độc bí mật sát hại Vạn Úc và Lưu Bình. Cả hai phát giác việc này, nhưng biết ý Tôn Hạo muốn hại mình thì mình khó thoát, nên Vạn Úc tự sát luôn, còn Lưu Bình cũng lo sợ, nhuốm bệnh rồi qua đời6 .",
+        "Lúc bấy giờ Lục Kháng đóng quân ở cửa sông, muốn lấy Tương Dương. Kháng và Dương Hỗ bên Tấn có qua lại. Kháng tặng rượu cho Hỗ, Hỗ uống luôn chứ không nghi ngờ. Khi Kháng có bệnh, Hỗ sai đem thuốc tới tặng, Kháng cũng uống thuốc đó và khỏi bệnh. Tôn Hạo được tin không vừa lòng, cho là Lục Kháng có tư thông với người Tấn. Sau đó Lục Kháng khuyên Tôn Hạo bớt việc chiến tranh, chăm lo nhân dân, nước có giàu mạnh thì mới tính tới chuyện xâm lấn người ta, Hạo không nghe6 . Vào năm 273, ông dùng Lục Kháng làm Đại tư mã, Kinh châu mục. Tháng 9 cùng năm, ông phong vương cho con trai và em 11 người, cấp mỗi người 3000 quân và hạ lệnh đại xá trong nước. Người thiếp yêu của Tôn Hạo cướp đoạt của trong dân, Ti thị trung lang tướng Trần Thanh muốn dùng luật pháp để trị. Người thiếp này tố cáo với Tôn Hạo. Tôn Hạo giận, giết chết Thanh.",
+        "Năm 274, Lục Kháng lâm bệnh nặng, dâng thư lên Tôn Hạo, đại ý khuyên ông tăng cường phòng thủ biên giới phía tây là nơi hiểm yếu, nhưng Tôn Hạo đã không đồng tình14 . Sau đó ông chia quân của Lục Kháng thành 6 phần do các con của Kháng là Yến, Cảnh, Huyền, Cơ, Vân. Mấy hôm sau Lục Kháng qua đời.",
+        "Năm 275, Trung thư lệnh Hạ Thiệu, bị trúng phong không nói được, Ngô chủ nghi ngờ ông ta giả bệnh, liền đem đi chất vấn, Thiệu không nói được, Hạo liền cho cưa tay chân và thiêu ông ta, cuối cùng Thiệu chết bởi tra tấn. Hạo dời gia thuộc của Hạ Thiệu sang Lâm Hải1 14 .",
+        "Những năm cuối, Tôn Hạo ngày càng trở nên mê tín, vì thế nhiều đạo sĩ lấy lòng ông bằng cách nịnh hót rằng ông sẽ mau chóng diệt nhà Tấn, thu Trung Quốc về một mối. Hạo nghe thế càng thích, càng muốn đánh Trung Nguyên. Dương Hỗ nhiều lần dâng biểu xin Tấn Vũ Đế đánh Ngô, nhiều lần đều không được, về sau Hỗ qua đời (278). Trước khi mất, ông tiến cử Đỗ Dự là người tài có thể dùng để tiêu diệt Đông Ngô. Bấy giờ Đinh Phụng, Lục Kháng đã mất. Tôn Hạo mỗi khi hội quần thần ăn yến, bắt uống rượu thật say lả ra mới thôi. Lại sai mười người hoàng môn thị lang làm quan dò xét trong đám uống rượu. Khi tan tiệc, phải tâu các điều nhầm lỗi của các quan, ai phạm phải điều gì, hoặc lột da mặt, hoặc khoét mắt. Bởi thế cả nước ai cũng sợ hãi14 .",
+        "Năm 279, thứ sử Ích châu Vương Tuấn và thái úy Đỗ Dự đều dâng biểu nói Tôn Hạo vô đạo, nước Ngô suy yếu nên nhân lúc này mà tiến đánh, hoàn thành vương nghiệp. Vũ Đế nghe theo. Tháng 11 năm đó, dùng Trấn nam đại tướng quân Đỗ Dự làm đại đô đốc, dẫn mười vạn quân ra mặt Giang Lăng; sai Trấn đông đại tướng quân Lang Nha vương Tư Mã Du ra mặt Từ Trung; Yên đông đại tướng quân Vương Hồn ra mặt Hoành Giang; Kiến uy tướng quân Vương Nhung ra mặt Vũ Xương; Bình nam tướng quân Hồ Phấn ra mặt Hạ Khẩu; mỗi người dẫn năm vạn quân tuân theo hiệu lệnh của Đỗ Dự. Lại sai Long Nhương tướng quân Vương Tuấn, Quảng vũ tướng quân Đường Bân xuôi thuyền xuống phía đông. Quân mã thủy bộ cả thảy hơn hai mươi vạn, chiến thuyền vài vạn. Lại sai Quán quân tướng quân là Dương Tế ra đóng ở Tương Dương để coi xét các mặt.",
+        "Đầu năm 280, Đỗ Dự đưa quân theo hướng Giang Lăng, Vương Hồn xuất Hoành Giang, công đánh Trấn, Thú của Ngô. Tháng 2 ÂL, Vương Tuấn, Đường Bân phá Đan Dương. Người Ngô một trăm cuộn dây xúc xích, mỗi cuộn dài vài trăm trượng, mỗi vòng xúc xích nặng hai ba mươi cân. Dọc theo bờ sông, nội chỗ nào khẩn yếu, thì giăng dây xích ra mà chắn lối thuyền đi. Lại đúc vài vạn cọc sắt, mỗi cái dài hơn một trượng, cắm ngầm ở dưới đáy nước để ngăn quân của Vương Tuấn. Đỗ Dự cho làm người giả, cũng mặc áo giáp cầm khí giới, đứng chung quanh bè, thuận dòng thả xuống. Quân Ngô trông thấy tưởng là người thật, chạy trốn mất cả. Những cọc sắt vướng và bè, đều bị kéo bật cả đi. Trên bè lại có cây đình liệu to, dài vài trượng, to hơn mười ôm, trong vẩy dầu mở, phàm chỗ nào có dây xúc xích, thì đốt cây đình liệu lên, hun vào vòng xích, chỉ một lát xúc xích đứt gẫy, thuyền quân Tấn cứ thế qua sông. Đỗ Dự lần lượt chiếm được các thành Tây Lăng, Kinh Môn, Di Đạo, dùng phục binh đánh bại quân của đô đốc Đông Ngô Hoa Hâm rồi sai Nha môn Chu Chỉ dẫn tám trăm thủy thủ chở thuyền nhỏ sang ngầm sông Trường Giang. Lúc Hoa Hâm chạy về đến thành, thì tám trăm quân của Chu Chỉ nhân lúc xốn xáo, cũng chạy lẫn cả vào trong thành, sau đó bắt được Hoa Hâm. Thủy quân đô đốc Lục Cảnh cũng bị quân Tấn giết mất. Sau đó lại đánh chiếm Giang Lăng. Suốt một dải Nguyên, Tương đến mãi Giao, Quảng, các quận mang ấn ra hàng. Dự sai người cầm cờ tiết đi phủ dụ nhân dân, rồi tiến binh đánh vào Vũ Xương. Giang hạ thái thủ lưu lãng, Đốc Vũ xương chư quân Ngu Bỉnh (con Ngu Phiên) dâng thành hàng Tấn15 .",
+        "Đỗ Dự lại đưa quân đánh lấy Kiến Nghiệp. Trước đó Tôn Hạo theo lời Thừa tướng Trương Đễ, đốc Đơn Dương thái thú Thẩm Oánh, Hộ quân Tôn Chấn, phó quân sư Gia Cát Tịnh đem 30000 quân vượt sông giao chiến. Oánh, Tịnh khuyên Đễ đầu hàng Tấn để bảo toàn gia thuộc, Đễ thà chết không chịu bỏ trốn hoặc đầu hàng, vì đó là nỗi nhục lớn. Nhưng ra quân trận nào cũng thua cả, Gia Cát Tịnh đã bỏ đi. Cuối cùng Trương Đễ, Tôn Chấn, Thẩm Oánh... hơn 7800 người bị giết.",
+        "Vương Tuấn từ Vũ Xương xuôi dòng Trường Giang đến Kiến Nghiệp, Tôn Hạo sai Du Kích tướng quân Trương Thượng đem vạn quân ra chống, nhưng họ đã đầu hàng, người Ngô lo sợ15 . Vốn Tôn Hạo sủng tín tên hoạn quan Sầm Hồn chẳng khác gì Hậu chủ bên Thục tín nhiệm Hoàng Hạo. Đến đây hơn trăm đại thần cùng tâu",
+        "Hạo không biết. Các đại thần nói:",
+        "Bất đắc dĩ Ngô chủ phải đồng ý giết Sầm Hồn để trấn an quân dân. Lúc này Đào Tuấn nghe tin Vũ Xương đã mất bèn về Kiến Nghiệp, xin thêm hai vạn quân và thuyền lớn. Hạo bằng lòng, ban tiết việt và binh lính, nhưng trên đường đi thì quân lính trốn hết trong đêm. Tư đồ Hà Thực, Kiến Uy tướng quân Tôn Yến đều đầu hàng. Tôn Hạo thất kinh, cuối cùng theo lời bàn của Trung thư lệnh Hồ Sung, quang lộc huân Tiết Oánh bắt chước Thục chúa ngày trước, dâng đất nước xin hàng. Ông chuẩn bị một cỗ áo quan và tự trói mình lại, dẫn thái tử Tôn Cẩn, Lỗ vương Tôn Kiền cùng mười mấy quan viên đến dinh Vương Tuấn xin hàng. Ông còn viết thư cho các tướng lĩnh khác, bảo họ hàng nốt. Đông Ngô gồm 4 châu, 43 quận, 523000 hộ, 23000 vạn binh15 đều thuộc về Tây Tấn. Nước Ngô diệt vong kể từ đây. Tam Quốc diễn nghĩa ghi lại bài thơ than rằng:",
+        "Tháng 5 năm đó, Tôn Hạo bị đưa đến thành Lạc Dương, yết kiến Tấn Vũ Đế. Vũ Đế phong ông làm Quy Mệnh hầu, các con được phong chức quan trong triều. Vũ Đế cho ông ngồi, bảo:",
+        "Hạo đáp:",
+        "Giả Sung hỏi:",
+        "Hạo lại đáp:",
+        "Giả Sung nhớ lại chuyện Tào Mao bị giết ở cửa nam khi trước, hổ thẹn lui ra.",
+        "Tháng 12 ÂL năm Thái Khang thứ tư đời nhà Tấn (284), Tôn Hạo qua đời, hưởng dương 43 tuổi1 . Ông làm vua ở Đông Ngô 16 năm rồi mất nước.",
+        "(Nguồn: Wikipedia)"
+    ]
+}

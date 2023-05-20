@@ -1,0 +1,869 @@
+{
+    "tables": [],
+    "keywords": [],
+    "headings": [
+        "Địa Danh",
+        "bộ Giao Chỉ",
+        "Nhà Đông Hán",
+        "Tam Quốc",
+        "Phủ Giao Châu nhà Đường",
+        "Thủ phủ Giao Châu qua các thời kỳ",
+        "Xem thêm",
+        "Ghi chú",
+        "Bài viết cùng thư mục",
+        "CÁC THỜI KỲ LỊCH SỬ",
+        "Tư Liệu",
+        "Di Tích Lịch Sử",
+        "Anh Hùng Dân Tộc Tiêu Biểu",
+        "Tư Liệu Lịch Sử",
+        "Di Tích Lịch Sử"
+    ],
+    "anchors": [
+        {
+            "text": "",
+            "href": "/"
+        },
+        {
+            "text": "Trang Chủ",
+            "href": "/"
+        },
+        {
+            "text": "Dòng Lịch Sử",
+            "href": "/dong-lich-su"
+        },
+        {
+            "text": "Hồng Bàng & Văn Lang",
+            "href": "/dong-lich-su/hong-bang-va-van-lang"
+        },
+        {
+            "text": "Âu Lạc & Nam Việt",
+            "href": "/dong-lich-su/au-lac-va-nam-viet"
+        },
+        {
+            "text": "Bắc thuộc lần I",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat"
+        },
+        {
+            "text": "Trưng Nữ Vương",
+            "href": "/dong-lich-su/trung-nu-vuong"
+        },
+        {
+            "text": "Bắc thuộc lần II",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-hai"
+        },
+        {
+            "text": "Nhà Lý & Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu"
+        },
+        {
+            "text": "Bắc thuộc lần III",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-ba"
+        },
+        {
+            "text": "Thời kỳ xây nền tự chủ",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu"
+        },
+        {
+            "text": "Nhà Ngô",
+            "href": "/dong-lich-su/nha-ngo"
+        },
+        {
+            "text": "Nhà Đinh",
+            "href": "/dong-lich-su/nha-dinh"
+        },
+        {
+            "text": "Nhà Tiền Lê",
+            "href": "/dong-lich-su/nha-tien-le"
+        },
+        {
+            "text": "Nhà Lý",
+            "href": "/dong-lich-su/nha-ly"
+        },
+        {
+            "text": "Nhà Trần",
+            "href": "/dong-lich-su/nha-tran"
+        },
+        {
+            "text": "Nhà Hồ",
+            "href": "/dong-lich-su/nha-ho"
+        },
+        {
+            "text": "Nhà Hậu Trần",
+            "href": "/dong-lich-su/nha-hau-tran"
+        },
+        {
+            "text": "Bắc thuộc lần IV",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-tu"
+        },
+        {
+            "text": "Nhà Hậu Lê",
+            "href": "/dong-lich-su/nha-hau-le"
+        },
+        {
+            "text": "Nam Bắc Triều",
+            "href": "/dong-lich-su/nam-bac-trieu"
+        },
+        {
+            "text": "Trịnh Nguyễn Phân Tranh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh"
+        },
+        {
+            "text": "Nhà Tây Sơn",
+            "href": "/dong-lich-su/nha-tay-son"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/nha-nguyen"
+        },
+        {
+            "text": "Pháp Thuộc",
+            "href": "/dong-lich-su/phap-thuoc"
+        },
+        {
+            "text": "Việt Nam Dân Chủ Cộng Hoà",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Cộng hoà xã hội chủ nghĩa Việt Nam",
+            "href": "/dong-lich-su/viet-nam-xhcn"
+        },
+        {
+            "text": "Tư Liệu",
+            "href": "/tu-lieu"
+        },
+        {
+            "text": "Quân Sự",
+            "href": "/tu-lieu/quan-su?filter_tag[0]="
+        },
+        {
+            "text": "Tác Phẩm",
+            "href": "/tu-lieu/tac-pham?filter_tag[0]="
+        },
+        {
+            "text": "Bang Giao",
+            "href": "/tu-lieu/bang-giao"
+        },
+        {
+            "text": "Biểu đồ thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Nhân Vật",
+            "href": "/nhan-vat"
+        },
+        {
+            "text": "Anh Hùng Dân Tộc",
+            "href": "/anh-hung-dan-toc?types[0]=1"
+        },
+        {
+            "text": "Danh nhân văn hóa",
+            "href": "/danh-nhan-van-hoa?types[0]=1"
+        },
+        {
+            "text": "Di Tích",
+            "href": "/di-tich-lich-su?types[0]=1"
+        },
+        {
+            "text": "Ngày Nay",
+            "href": "/thoi-su"
+        },
+        {
+            "text": "Sách",
+            "href": "/sach"
+        },
+        {
+            "text": "Video",
+            "href": "/video"
+        },
+        {
+            "text": "Q&A",
+            "href": "/hoi-dap"
+        },
+        {
+            "text": "Lịch sử lớp 12",
+            "href": "/hoi-dap/lop-12"
+        },
+        {
+            "text": "Lịch sử lớp 11",
+            "href": "/hoi-dap/lop-11"
+        },
+        {
+            "text": "Lịch sử lớp 10",
+            "href": "/hoi-dap/lop-10"
+        },
+        {
+            "text": "Lịch sử lớp 9",
+            "href": "/hoi-dap/lop-9"
+        },
+        {
+            "text": "Lịch sử lớp 8",
+            "href": "/hoi-dap/lop-8"
+        },
+        {
+            "text": "Lịch sử lớp 7",
+            "href": "/hoi-dap/lop-7"
+        },
+        {
+            "text": "Lịch sử lớp 6",
+            "href": "/hoi-dap/lop-6"
+        },
+        {
+            "text": "Trang chủ",
+            "href": "/"
+        },
+        {
+            "text": "Địa Danh",
+            "href": "/dia-danh"
+        },
+        {
+            "text": "Địa Danh Lịch Sử",
+            "href": "/dia-danh"
+        },
+        {
+            "text": "Thu / Mở",
+            "href": "#"
+        },
+        {
+            "text": "Nhà Đông Hán",
+            "href": "#nha-dong-han"
+        },
+        {
+            "text": "Tam Quốc",
+            "href": "#tam-quoc"
+        },
+        {
+            "text": "Phủ Giao Châu nhà Đường",
+            "href": "#phu-giao-chau-nha-duong"
+        },
+        {
+            "text": "Thủ phủ Giao Châu qua các thời kỳ",
+            "href": "#thu-phu-giao-chau-qua-cac-thoi-ky"
+        },
+        {
+            "text": "Xem thêm",
+            "href": "#xem-them"
+        },
+        {
+            "text": "Ghi chú",
+            "href": "#ghi-chu"
+        },
+        {
+            "text": "đảo Hải Nam",
+            "href": "/dia-danh/dao-hai-nam"
+        },
+        {
+            "text": "huyện Quảng Tín",
+            "href": "/dia-danh/huyen-quang-tin"
+        },
+        {
+            "text": "tỉnh Quảng Đông",
+            "href": "/dia-danh/tinh-quang-dong"
+        },
+        {
+            "text": "nhà Hán",
+            "href": "/nhan-vat/nha-han"
+        },
+        {
+            "text": "quận Nam Hải",
+            "href": "/dia-danh/quan-nam-hai"
+        },
+        {
+            "text": "Vũ Bình",
+            "href": "/dia-danh/vu-binh"
+        },
+        {
+            "text": "tỉnh Quảng Đông",
+            "href": "/dia-danh/tinh-quang-dong"
+        },
+        {
+            "text": "Tôn Hạo",
+            "href": "/nhan-vat/ton-hao"
+        },
+        {
+            "text": "huyện Gia Lâm",
+            "href": "/dia-danh/huyen-gia-lam"
+        },
+        {
+            "text": "nhà Ngụy",
+            "href": "/nhan-vat/nha-nguy"
+        },
+        {
+            "text": "nhà Ngụy",
+            "href": "/nhan-vat/nha-nguy"
+        },
+        {
+            "text": "Tôn Hạo",
+            "href": "/nhan-vat/ton-hao"
+        },
+        {
+            "text": "Tôn Hạo",
+            "href": "/nhan-vat/ton-hao"
+        },
+        {
+            "text": "nhà Đông Tấn",
+            "href": "/nhan-vat/nha-dong-tan"
+        },
+        {
+            "text": "Phạm Hồ Đạt",
+            "href": "/nhan-vat/pham-ho-dat"
+        },
+        {
+            "text": "Đỗ Tuệ Độ",
+            "href": "/nhan-vat/do-tue-do"
+        },
+        {
+            "text": "Vũ Bình",
+            "href": "/dia-danh/vu-binh"
+        },
+        {
+            "text": "Vũ Bình",
+            "href": "/dia-danh/vu-binh"
+        },
+        {
+            "text": "Lý Bí",
+            "href": "/nhan-vat/ly-bi"
+        },
+        {
+            "text": "nhà Lương",
+            "href": "/nhan-vat/nha-luong"
+        },
+        {
+            "text": "Trần Bá Tiên",
+            "href": "/nhan-vat/tran-ba-tien"
+        },
+        {
+            "text": "Lý Bí",
+            "href": "/nhan-vat/ly-bi"
+        },
+        {
+            "text": "nhà Đường",
+            "href": "/nhan-vat/nha-duong"
+        },
+        {
+            "text": "nhà Đường",
+            "href": "/nhan-vat/nha-duong"
+        },
+        {
+            "text": "nhà Tùy",
+            "href": "/nhan-vat/nha-tuy"
+        },
+        {
+            "text": "Vũ Bình",
+            "href": "/dia-danh/vu-binh"
+        },
+        {
+            "text": "Lê Lợi",
+            "href": "/nhan-vat/le-loi"
+        },
+        {
+            "text": "nhà Hán",
+            "href": "/nhan-vat/nha-han"
+        },
+        {
+            "text": "huyện Quảng Tín",
+            "href": "/dia-danh/huyen-quang-tin"
+        },
+        {
+            "text": "huyện Gia Lâm",
+            "href": "/dia-danh/huyen-gia-lam"
+        },
+        {
+            "text": "Bài viết trước: Biển Hồ Trước",
+            "href": "/dia-danh/bien-ho"
+        },
+        {
+            "text": "Bài viết kế tiếp: bộ Lại Tiếp tục",
+            "href": "/dia-danh/bo-lai"
+        },
+        {
+            "text": "nước Việt",
+            "href": "/dia-danh/nuoc-viet"
+        },
+        {
+            "text": "núi Tản Viên",
+            "href": "/dia-danh/nui-tan-vien"
+        },
+        {
+            "text": "sông Đà",
+            "href": "/dia-danh/song-da"
+        },
+        {
+            "text": "sông Hát",
+            "href": "/dia-danh/song-hat"
+        },
+        {
+            "text": "chùa Kiến Sơ",
+            "href": "/dia-danh/chua-kien-so"
+        },
+        {
+            "text": "hồ Động Đình",
+            "href": "/dia-danh/ho-dong-dinh"
+        },
+        {
+            "text": "nước Quắc",
+            "href": "/dia-danh/nuoc-quac"
+        },
+        {
+            "text": "nước Trịnh",
+            "href": "/dia-danh/nuoc-trinh"
+        },
+        {
+            "text": "châu Vũ Ninh",
+            "href": "/dia-danh/chau-vu-ninh"
+        },
+        {
+            "text": "Nước Tần",
+            "href": "/dia-danh/nuoc-tan"
+        },
+        {
+            "text": "Hồng Bàng & Văn Lang",
+            "href": "/dong-lich-su/hong-bang-va-van-lang"
+        },
+        {
+            "text": "Âu Lạc & Nam Việt",
+            "href": "/dong-lich-su/au-lac-va-nam-viet"
+        },
+        {
+            "text": "Bắc thuộc lần I",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat"
+        },
+        {
+            "text": "Nhà Triệu",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat/nha-trieu"
+        },
+        {
+            "text": "Trưng Nữ Vương",
+            "href": "/dong-lich-su/trung-nu-vuong"
+        },
+        {
+            "text": "Bắc thuộc lần II",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-hai"
+        },
+        {
+            "text": "Nhà Lý & Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu"
+        },
+        {
+            "text": "Nhà Tiền Lý",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-tien-ly"
+        },
+        {
+            "text": "Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-trieu"
+        },
+        {
+            "text": "Nhà Hậu Lý",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-hau-ly"
+        },
+        {
+            "text": "Bắc thuộc lần III",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-ba"
+        },
+        {
+            "text": "Thời kỳ xây nền tự chủ",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu"
+        },
+        {
+            "text": "Họ Khúc",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu/ho-khuc"
+        },
+        {
+            "text": "Nhà Ngô",
+            "href": "/dong-lich-su/nha-ngo"
+        },
+        {
+            "text": "Nhà Đinh",
+            "href": "/dong-lich-su/nha-dinh"
+        },
+        {
+            "text": "Nhà Tiền Lê",
+            "href": "/dong-lich-su/nha-tien-le"
+        },
+        {
+            "text": "Nhà Lý",
+            "href": "/dong-lich-su/nha-ly"
+        },
+        {
+            "text": "Nhà Trần",
+            "href": "/dong-lich-su/nha-tran"
+        },
+        {
+            "text": "Nhà Hồ",
+            "href": "/dong-lich-su/nha-ho"
+        },
+        {
+            "text": "Nhà Hậu Trần",
+            "href": "/dong-lich-su/nha-hau-tran"
+        },
+        {
+            "text": "Bắc thuộc lần IV",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-tu"
+        },
+        {
+            "text": "Nhà Hậu Lê",
+            "href": "/dong-lich-su/nha-hau-le"
+        },
+        {
+            "text": "Nam Bắc Triều",
+            "href": "/dong-lich-su/nam-bac-trieu"
+        },
+        {
+            "text": "Nhà Lê Trung Hưng",
+            "href": "/dong-lich-su/nam-bac-trieu/nha-le-trung-hung"
+        },
+        {
+            "text": "Nhà Mạc",
+            "href": "/dong-lich-su/nam-bac-trieu/nha-mac"
+        },
+        {
+            "text": "Trịnh Nguyễn Phân Tranh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh"
+        },
+        {
+            "text": "Nhà Lê Trung Hưng",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/nha-le-trung-hung"
+        },
+        {
+            "text": "Chúa Trịnh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-trinh"
+        },
+        {
+            "text": "Chúa Nguyễn",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen"
+        },
+        {
+            "text": "Nhà Tây Sơn",
+            "href": "/dong-lich-su/nha-tay-son"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/nha-nguyen"
+        },
+        {
+            "text": "Pháp Thuộc",
+            "href": "/dong-lich-su/phap-thuoc"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/phap-thuoc/nha-nguyen"
+        },
+        {
+            "text": "Những cuộc khởi nghĩa chống thực dân Pháp",
+            "href": "/dong-lich-su/phap-thuoc/khoi-nghia-chong-phap"
+        },
+        {
+            "text": "Đảng Cộng Sản Việt Nam",
+            "href": "/dong-lich-su/phap-thuoc/dang-cong-san-viet-nam"
+        },
+        {
+            "text": "Việt Nam Dân Chủ Cộng Hoà",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Kháng chiến chống Pháp",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-phap"
+        },
+        {
+            "text": "Kháng chiến chống Mĩ",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-mi"
+        },
+        {
+            "text": "Cộng hoà xã hội chủ nghĩa Việt Nam",
+            "href": "/dong-lich-su/viet-nam-xhcn"
+        },
+        {
+            "text": "Trận Điện Biên Phủ trên không năm 1972",
+            "href": "/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972"
+        },
+        {
+            "text": "Chiến tranh biên giới Tây Nam năm 1975 - 1978",
+            "href": "/tu-lieu/quan-su/chien-tranh-bien-gioi-tay-nam-nam-1975-1978"
+        },
+        {
+            "text": "Chiến dịch Mùa Xuân năm 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-mua-xuan-nam-1975"
+        },
+        {
+            "text": "Hải chiến Trường Sa năm 1988",
+            "href": "/tu-lieu/quan-su/hai-chien-truong-sa-nam-1988"
+        },
+        {
+            "text": "Chiến dịch Đường 14 - Phước Long năm 1974 - 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-duong-14-phuoc-long-nam-1974-1975"
+        },
+        {
+            "text": "Chiến dịch Tây Nguyên năm 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-tay-nguyen-nam-1975"
+        },
+        {
+            "text": "Trận Mậu Thân tại Huế năm 1968",
+            "href": "/tu-lieu/quan-su/tran-mau-than-tai-hue-nam-1968"
+        },
+        {
+            "text": "Bảng đối chiếu các triều đại Việt Nam và các triều đại Trung Quốc",
+            "href": "/tu-lieu/bang-doi-chieu-cac-trieu-dai-viet-nam-va-cac-trieu-dai-trung-quoc"
+        },
+        {
+            "text": "Bình Ngô đại cáo - bản tuyên ngôn độc lập thứ hai",
+            "href": "/tu-lieu/tac-pham/binh-ngo-dai-cao-ban-tuyen-ngon-doc-lap-thu-hai"
+        },
+        {
+            "text": "Lãnh thổ Việt Nam qua từng thời kỳ",
+            "href": "/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky"
+        },
+        {
+            "text": "Trận Đồi Thịt Băm năm 1969",
+            "href": "/tu-lieu/quan-su/tran-doi-thit-bam-nam-1969"
+        },
+        {
+            "text": "Chiến dịch Đắk Tô năm 1972",
+            "href": "/tu-lieu/quan-su/chien-dich-dak-to-nam-1972"
+        },
+        {
+            "text": "Nam quốc sơn hà - Bản tuyên ngôn độc lập đầu tiên",
+            "href": "/tu-lieu/tac-pham/nam-quoc-son-ha-ban-tuyen-ngon-doc-lap-dau-tien"
+        },
+        {
+            "text": "Tuyên ngôn độc lập Việt Nam Dân chủ Cộng hòa",
+            "href": "/tu-lieu/tac-pham/tuyen-ngon-doc-lap-viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Trận Bản Đông năm 1971",
+            "href": "/tu-lieu/quan-su/tran-ban-dong-nam-1971"
+        },
+        {
+            "text": "Trận Rạch Gầm \u2013 Xoài Mút năm 1785",
+            "href": "/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785"
+        },
+        {
+            "text": "Lịch sử Chữ viết tiếng Việt",
+            "href": "/tu-lieu/lich-su-chu-viet-tieng-viet"
+        },
+        {
+            "text": "Hịch tướng sĩ - Dụ chư tỳ tướng hịch văn",
+            "href": "/tu-lieu/tac-pham/hich-tuong-si-du-chu-ty-tuong-hich-van"
+        },
+        {
+            "text": "Danh sách Trạng nguyên Việt Nam",
+            "href": "/tu-lieu/danh-sach-trang-nguyen-viet-nam"
+        },
+        {
+            "text": "Hội nghị Paris, mặt trận ngoại giao năm 1968-1972",
+            "href": "/tu-lieu/bang-giao/hoi-nghi-paris-mat-tran-ngoai-giao-nam-1968-1972"
+        },
+        {
+            "text": "Hồ Hoàn Kiếm",
+            "href": "/dia-danh/ho-hoan-kiem"
+        },
+        {
+            "text": "Khu lăng mộ và đền thờ các vị vua triều Lý",
+            "href": "/dia-danh/khu-lang-mo-va-den-tho-cac-vi-vua-trieu-ly"
+        },
+        {
+            "text": "Đền Hùng",
+            "href": "/dia-danh/den-hung"
+        },
+        {
+            "text": "Quần thể di tích Cố đô Huế",
+            "href": "/dia-danh/quan-the-di-tich-co-do-hue"
+        },
+        {
+            "text": "Thành nhà Hồ",
+            "href": "/dia-danh/thanh-nha-ho"
+        },
+        {
+            "text": "Khu di tích Pác Bó",
+            "href": "/dia-danh/khu-di-tich-pac-bo"
+        },
+        {
+            "text": "Khu di tích Chủ tịch Hồ Chí Minh tại Phủ Chủ tịch",
+            "href": "/dia-danh/khu-di-tich-chu-tich-ho-chi-minh-tai-phu-chu-tich"
+        },
+        {
+            "text": "Đền Trần (Thái Bình)",
+            "href": "/dia-danh/den-tran-thai-binh"
+        },
+        {
+            "text": "chùa Thầy",
+            "href": "/dia-danh/chua-thay"
+        },
+        {
+            "text": "chùa Phổ Minh",
+            "href": "/dia-danh/chua-pho-minh"
+        },
+        {
+            "text": "Ngô Quyền",
+            "href": "/nhan-vat/ngo-quyen"
+        },
+        {
+            "text": "Đinh Tiên Hoàng",
+            "href": "/nhan-vat/dinh-tien-hoang"
+        },
+        {
+            "text": "Trần Nhân Tông",
+            "href": "/nhan-vat/tran-nhan-tong"
+        },
+        {
+            "text": "Lý Nam Đế",
+            "href": "/nhan-vat/ly-nam-de"
+        },
+        {
+            "text": "Nguyễn Trãi",
+            "href": "/nhan-vat/nguyen-trai"
+        },
+        {
+            "text": "Nguyễn Huệ",
+            "href": "/nhan-vat/nguyen-hue"
+        },
+        {
+            "text": "Hồ Chí Minh",
+            "href": "/nhan-vat/ho-chi-minh"
+        },
+        {
+            "text": "Lê Đại Hành",
+            "href": "/nhan-vat/le-dai-hanh"
+        },
+        {
+            "text": "Lý Thường Kiệt",
+            "href": "/nhan-vat/ly-thuong-kiet"
+        },
+        {
+            "text": "Hùng Vương",
+            "href": "/nhan-vat/hung-vuong"
+        },
+        {
+            "text": "Vấn đề biên giới Việt-Trung thời Mạc",
+            "href": "/tu-lieu/bang-giao/van-de-bien-gioi-viet-trung-thoi-mac"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Tây Sơn",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-tay-son"
+        },
+        {
+            "text": "Biểu đồ các nhân vật lịch sử theo dòng thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Danh sách Trạng nguyên Việt Nam",
+            "href": "/tu-lieu/danh-sach-trang-nguyen-viet-nam"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Nguyễn",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-nguyen"
+        },
+        {
+            "text": "Trận Điện Biên Phủ trên không năm 1972",
+            "href": "/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972"
+        },
+        {
+            "text": "Trận Ngọc Hồi - Đống Đa năm 1789",
+            "href": "/tu-lieu/quan-su/tran-ngoc-hoi-dong-da-nam-1789"
+        },
+        {
+            "text": "Trận Cẩm Sa năm 1775",
+            "href": "/tu-lieu/quan-su/tran-cam-sa-nam-1775"
+        },
+        {
+            "text": "Trận Rạch Gầm \u2013 Xoài Mút năm 1785",
+            "href": "/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785"
+        },
+        {
+            "text": "Lãnh thổ Việt Nam qua từng thời kỳ",
+            "href": "/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky"
+        },
+        {
+            "text": "Cố đô Hoa Lư",
+            "href": "/dia-danh/co-do-hoa-lu"
+        },
+        {
+            "text": "Khu di tích chiến thắng Điện Biên Phủ",
+            "href": "/dia-danh/khu-di-tich-chien-thang-dien-bien-phu"
+        },
+        {
+            "text": "Khu lăng mộ và đền thờ các vị vua triều Lý",
+            "href": "/dia-danh/khu-lang-mo-va-den-tho-cac-vi-vua-trieu-ly"
+        },
+        {
+            "text": "Hồ Hoàn Kiếm",
+            "href": "/dia-danh/ho-hoan-kiem"
+        },
+        {
+            "text": "Khu di tích Chủ tịch Hồ Chí Minh tại Phủ Chủ tịch",
+            "href": "/dia-danh/khu-di-tich-chu-tich-ho-chi-minh-tai-phu-chu-tich"
+        },
+        {
+            "text": "Khu lưu niệm Chủ tịch Tôn Đức Thắng",
+            "href": "/dia-danh/khu-luu-niem-chu-tich-ton-duc-thang"
+        },
+        {
+            "text": "Đền Hùng",
+            "href": "/dia-danh/den-hung"
+        },
+        {
+            "text": "Khu di tích Pác Bó",
+            "href": "/dia-danh/khu-di-tich-pac-bo"
+        },
+        {
+            "text": "Đền Phù Đổng",
+            "href": "/dia-danh/den-phu-dong"
+        },
+        {
+            "text": "Thành cổ Quảng Trị",
+            "href": "/dia-danh/thanh-co-quang-tri"
+        },
+        {
+            "text": "Giới thiệu",
+            "href": "/gioi-thieu"
+        },
+        {
+            "text": "Quyền riêng tư",
+            "href": "/quyen-rieng-tu"
+        },
+        {
+            "text": "Liên hệ",
+            "href": "/lien-he"
+        },
+        {
+            "text": "Địa Danh",
+            "href": "/dia-danh"
+        },
+        {
+            "text": "Trang Facebook",
+            "href": "https://www.facebook.com/nguoikesu/"
+        },
+        {
+            "text": "DanhMucBDS.com",
+            "href": "https://danhmucbds.com"
+        },
+        {
+            "text": "HocTotNguVan.com",
+            "href": "https://hoctotnguvan.com"
+        }
+    ],
+    "title": "bộ Giao Chỉ - Người Kể Sử",
+    "paragraphs": [
+        "Giao Châu (chữ Hán: 交州) là tên một châu hoặc phủ thời xưa, bao trùm vùng đất miền Bắc Việt Nam ngày nay. Ban đầu Giao Châu còn bao gồm một phần đất Quảng Tây và Quảng Đông thuộc Trung Quốc ngày nay.",
+        "",
+        "",
+        "Năm 203, Giao Châu được vua Hiến Đế nhà Đông Hán đổi tên từ bộ Giao Chỉ trên cơ sở đề nghị của Sĩ Nhiếp, thái thú quận Giao Chỉ và Trương Tân, thứ sử bộ Giao Chỉ.",
+        "Khi đó Giao Châu là một cấp hành chính (châu), gồm 9 quận là: Giao Chỉ, Cửu Chân, Nhật Nam, Đam Nhĩ, Châu Nhai (Đam Nhĩ và Châu Nhai nay thuộc đảo Hải Nam), Nam Hải, Hợp Phố, Uất Lâm, Thương Ngô (nay thuộc Quảng Tây và Quảng Đông). Trị sở ban đầu đặt tại huyện Liên Lâu rồi dời sang huyện Quảng Tín (thành phố Ngô Châu thuộc Quảng Tây ngày nay), sau chuyển về Phiên Ngung (thành phố Quảng Châu thuộc tỉnh Quảng Đông ngày nay).1",
+        "Thời Hán mạt và Tam Quốc, nhân dân Giao Chỉ đã nhiều lần nổi lên giết chết các thứ sử Giao Châu là Chu Phù rồi Trương Tân. Sau đó nhà Hán đã phong cho thái thú quận Giao Chỉ là Sĩ Nhiếp làm Tuy Nam Trung lang tướng, tổng đốc 7 quận.",
+        "Năm 210, Tôn Quyền sai quan là Bộ Chất sang làm thứ sử Giao Châu, Thái thú Sĩ Nhiếp tuân phục nhà Đông Ngô, giữ chức Tả tướng quân2 .",
+        "Sau khi Sĩ Nhiếp chết (226), Đông Ngô đã chia Giao Châu ra làm hai châu: Quảng Châu gồm các quận Nam Hải, Uất Lâm, Thương Ngô cho Lữ Đại (Lã Đại) làm Thứ sử và Giao Châu (mới) gồm các quận Hợp Phố, Giao Chỉ, Cửu Chân, Nhật Nam3 cho Đái Lương làm Thứ sử. Trần Thì làm Thái thú Giao Châu thay Sĩ Nhiếp2 . Sĩ Huy, con Sĩ Nhiếp làm thái thú quận Cửu Chân, nhưng Sĩ Huy không tuân lệnh mà dấy binh chiếm giữ quận Giao Chỉ. Thứ sử Giao Châu (mới) là Đái Lương và thứ sử Quảng Châu là Lữ Đại cùng hợp binh tiến đánh, dụ hàng và giết chết mấy anh em Sĩ Huy. Sau đó Đông Ngô lại sáp nhập Quảng Châu với Giao Châu như cũ4 , phong Lữ Đại làm thứ sử Giao Châu. Lữ Đại tiến quân đến quận Cửu Chân tàn sát hàng vạn người. Giao Châu mới gồm có 7 quận: là 4 quận cũ: Giao Chỉ, Cửu Chân, Nhật Nam, Hợp Phố và 3 quận mới: Tân Xương, Vũ Bình và Cửu Đức3 , bao gồm miền Bắc Việt Nam cộng thêm khu vực Khâm Châu (thuộc Quảng Tây) ngày nay và bán đảo Lôi Châu thuộc tỉnh Quảng Đông) ngày nay (ba quận mới được thành lập thời Tôn Hạo3 và giữ nguyên đến thời nhà Tấn).",
+        "Năm 248, cuộc khởi nghĩa của Triệu Thị Trinh (tức Bà Triệu) bị thứ sử Giao Châu là Lục Dận (Đông Ngô - cháu Lục Tốn) dập tắt.",
+        "Thái thú Tôn Tư (孫諝) cai trị Giao Châu tàn ác, dân chúng quận Giao Chỉ và Nhật Nam nổi dậy. Vua Đông Ngô là Tôn Hưu sai Đặng Tuân sang làm sát chiến để giám sát Tôn Tư nhưng cả hai lại cùng hợp tác vơ vét của cải nhân dân. Năm 263, Lã Hưng (Lữ Hưng - Lü Xing 呂興), viên quan ở quận Giao Chỉ, cùng hào kiệt nổi dậy giết chết Tư và Tuân, mang quận Giao Chỉ về hàng Tào Ngụy dù lúc đó bị ngăn cách về địa lý. Đến năm 264, trước hành động của Lã Hưng kèm theo nguy cơ mất cả Giao Châu, Ngô Cảnh Đế Tôn Hưu vội chia tách Giao châu thành hai châu Quảng Châu (trị sở tại Phiên Ngung, nay là thành phố Quảng Châu) và Giao Châu (trị sở tại Long Uyên, nay thuộc huyện Gia Lâm, Hà Nội). Giao châu mới chỉ gồm 4 quận còn lại phía nam là Hợp Phố, Giao Chỉ, Cửu Chân và Nhật Nam.",
+        "Cuối năm 263, Tào Ngụy tiến hành chiến dịch tiêu diệt Thục Hán thành công. Năm 264, quyền thần nhà Ngụy là Tư Mã Chiêu nhân danh Ngụy Nguyên Đế Tào Hoán phong cho Lã Hưng làm An Nam tướng quân, coi việc binh ở Giao châu và sai Hoắc Dặc (tướng cũ Thục Hán) làm Thứ sử Giao châu (nhưng vẫn ở Nam Trung5 , không trực tiếp sang Giao Châu). Cuối năm 264, Lã Hưng bị thủ hạ là công tào Lý Thống giết chết.",
+        "Năm 265, Nhà Tấn cướp ngôi nhà Ngụy, cử Dương Tắc làm thái thú Giao Chỉ, Đổng Nguyên làm thái thú Cửu Chân.",
+        "Từ đây, Giao Châu thuộc quyền nước Tấn. Nước Đông Ngô tiến hành chiến tranh với Tấn để tranh giành Giao Châu và Quảng Châu, gọi là Giao Quảng chi loạn.",
+        "Đào Hoàng, bề tôi của Đông Ngô đánh chiếm được Giao Chỉ và Cửu Chân, được làm thứ sử Giao Châu. Giao Châu lại thuộc Đông Ngô nhưng vẫn chia riêng với Quảng Châu. Sau này Tôn Hạo phong cho Đào Hoàng làm Giao Châu mục. Sau khi Tôn Hạo đầu hàng nhà Tấn (280) thì Đào Hoàng hàng phục nhà Tấn và được giữ nguyên chức cũ.",
+        "Năm 353, thứ sử Giao Châu là Nguyễn Phu (nhà Đông Tấn) đánh vua Lâm Ấp do nước này hay ra cướp phá hai quận Nhật Nam và Cửu Chân. Năm 413, vua Lâm Ấp là Phạm Hồ Đạt lại ra cướp phá Cửu Chân, bị thứ sử Đỗ Tuệ Độ đuổi đánh, chém được tướng Lâm Ấp bắt sống hơn 100 người.",
+        "Năm 471 (thời Nam Bắc triều), nhà Lưu Tống tách khu vực Hợp Phố ra khỏi Giao Châu và hợp với một số quận khác để lập ra Việt Châu. Khi đó Giao Châu chia ra thành 8 quận, bao gồm: Giao Chỉ, Vũ Bình, Cửu Chân, Cửu Đức, Nhật Nam, Nghĩa Xương, Tống Bình6 (Tống thư chỉ liệt kê tên gọi của 7 quận).",
+        "xxxxnhỏ|trái|Cương vực Giao Châu năm 497, thời Nam Tề]] Thời Nam Tề (479-502), Giao Châu gồm 9 quận: Giao Chỉ, Cửu Chân, Vũ Bình, Tân Xương, Cửu Đức, Nhật Nam, Tống Bình, Nghĩa Xương, Tống Thọ (năm 480 cắt về Việt Châu)7 . Khi Lý Bí nổi lên đánh đuổi thứ sử Tiêu Tư tàn ác, thì vua nhà Lương cử Dương Phiêu sang làm thứ sử Giao Châu, và sai Trần Bá Tiên đem quân đánh Lý Bí.",
+        "Năm Vũ Đức thứ 5 (622), nhà Đường sau khi lên thay nhà Tùy, đã đặt ra tổng quản phủ Giao Châu (Giao Châu tổng quản phủ), quản lãnh 10 châu: Giao Châu, Phong Châu, Ái Châu, Tiên Châu, Diên Châu, Tống Châu, Từ Châu, Hiểm Châu, Đạo Châu, Long Châu8 , bao trùm miền Bắc Việt Nam. Quan đứng đầu phủ Giao Châu là đại tổng quản Khâu Hòa, vốn là thái thú Giao Chỉ.",
+        "Năm 679, Giao Châu đô đốc phủ đổi thành An Nam đô hộ phủ, chia làm 12 châu, trong đó có Giao Châu. Giao Châu mới bao gồm 8 huyện: Tống Bình, Long Biên, Chu Diên, Giao Chỉ, Bình Đạo, Vũ Bình, Nam Định, Thái Bình và chỉ là một phần nhỏ của miền Bắc Việt Nam. 11 châu còn lại là: Lục Châu, Phúc Lộc Châu, Phong Châu, Thang Châu, Chi Châu, Võ Nga Châu, Võ An Châu, Ái Châu, Hoan Châu, Diễn Châu, Trường Châu8 . Quan cai trị An Nam đô hộ phủ gọi là đô hộ.",
+        "Tuy miền Bắc Việt Nam chính thức không còn gọi là Giao Châu nữa (đổi là An Nam, sau lại đổi là Tĩnh Hải), nhưng sử sách Trung Quốc vẫn quen gọi nơi đây là xứ Giao Châu.",
+        "Nhà Minh vào đầu thế kỷ 15 sau khi xâm chiếm Việt Nam lại khôi phục phủ Giao Châu. Phủ Giao Châu là một trong 15 phủ (sau tăng lên 17 phủ), cùng với 5 châu lớn khác nằm trong tỉnh Giao Chỉ, tức địa bàn Việt Nam thời bấy giờ.",
+        "Sau khi Lê Lợi đánh đuổi quân Minh lên làm vua, ông đã bỏ các đơn vị hành chính cũ và chia cả nước thành 5 đạo. Các tên gọi Giao Châu và Giao Chỉ với tư cách là những đơn vị hành chính chính thức đã chấm dứt từ đó.",
+        "(Nguồn: Wikipedia)"
+    ]
+}

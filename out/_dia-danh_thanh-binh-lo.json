@@ -1,0 +1,1304 @@
+{
+    "tables": [],
+    "keywords": [],
+    "headings": [
+        "Địa Danh",
+        "thành Bình Lỗ",
+        "Những ghi nhận trong lịch sử",
+        "Những giả thuyết về thành Bình Lỗ",
+        "Thành Bình Lỗ nằm trong căn cứ kháng chiến của Trương Hống, Trương Hát",
+        "Vị trí, hình dạng và kích thước của thành Bình Lỗ",
+        "Diễn biến của trận Bình Lỗ",
+        "Ý nghĩa của trận Bình Lỗ",
+        "Tham khảo",
+        "Xem thêm",
+        "Bài viết cùng thư mục",
+        "CÁC THỜI KỲ LỊCH SỬ",
+        "Tư Liệu",
+        "Di Tích Lịch Sử",
+        "Anh Hùng Dân Tộc Tiêu Biểu",
+        "Tư Liệu Lịch Sử",
+        "Di Tích Lịch Sử"
+    ],
+    "anchors": [
+        {
+            "text": "",
+            "href": "/"
+        },
+        {
+            "text": "Trang Chủ",
+            "href": "/"
+        },
+        {
+            "text": "Dòng Lịch Sử",
+            "href": "/dong-lich-su"
+        },
+        {
+            "text": "Hồng Bàng & Văn Lang",
+            "href": "/dong-lich-su/hong-bang-va-van-lang"
+        },
+        {
+            "text": "Âu Lạc & Nam Việt",
+            "href": "/dong-lich-su/au-lac-va-nam-viet"
+        },
+        {
+            "text": "Bắc thuộc lần I",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat"
+        },
+        {
+            "text": "Trưng Nữ Vương",
+            "href": "/dong-lich-su/trung-nu-vuong"
+        },
+        {
+            "text": "Bắc thuộc lần II",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-hai"
+        },
+        {
+            "text": "Nhà Lý & Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu"
+        },
+        {
+            "text": "Bắc thuộc lần III",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-ba"
+        },
+        {
+            "text": "Thời kỳ xây nền tự chủ",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu"
+        },
+        {
+            "text": "Nhà Ngô",
+            "href": "/dong-lich-su/nha-ngo"
+        },
+        {
+            "text": "Nhà Đinh",
+            "href": "/dong-lich-su/nha-dinh"
+        },
+        {
+            "text": "Nhà Tiền Lê",
+            "href": "/dong-lich-su/nha-tien-le"
+        },
+        {
+            "text": "Nhà Lý",
+            "href": "/dong-lich-su/nha-ly"
+        },
+        {
+            "text": "Nhà Trần",
+            "href": "/dong-lich-su/nha-tran"
+        },
+        {
+            "text": "Nhà Hồ",
+            "href": "/dong-lich-su/nha-ho"
+        },
+        {
+            "text": "Nhà Hậu Trần",
+            "href": "/dong-lich-su/nha-hau-tran"
+        },
+        {
+            "text": "Bắc thuộc lần IV",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-tu"
+        },
+        {
+            "text": "Nhà Hậu Lê",
+            "href": "/dong-lich-su/nha-hau-le"
+        },
+        {
+            "text": "Nam Bắc Triều",
+            "href": "/dong-lich-su/nam-bac-trieu"
+        },
+        {
+            "text": "Trịnh Nguyễn Phân Tranh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh"
+        },
+        {
+            "text": "Nhà Tây Sơn",
+            "href": "/dong-lich-su/nha-tay-son"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/nha-nguyen"
+        },
+        {
+            "text": "Pháp Thuộc",
+            "href": "/dong-lich-su/phap-thuoc"
+        },
+        {
+            "text": "Việt Nam Dân Chủ Cộng Hoà",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Cộng hoà xã hội chủ nghĩa Việt Nam",
+            "href": "/dong-lich-su/viet-nam-xhcn"
+        },
+        {
+            "text": "Tư Liệu",
+            "href": "/tu-lieu"
+        },
+        {
+            "text": "Quân Sự",
+            "href": "/tu-lieu/quan-su?filter_tag[0]="
+        },
+        {
+            "text": "Tác Phẩm",
+            "href": "/tu-lieu/tac-pham?filter_tag[0]="
+        },
+        {
+            "text": "Bang Giao",
+            "href": "/tu-lieu/bang-giao"
+        },
+        {
+            "text": "Biểu đồ thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Nhân Vật",
+            "href": "/nhan-vat"
+        },
+        {
+            "text": "Anh Hùng Dân Tộc",
+            "href": "/anh-hung-dan-toc?types[0]=1"
+        },
+        {
+            "text": "Danh nhân văn hóa",
+            "href": "/danh-nhan-van-hoa?types[0]=1"
+        },
+        {
+            "text": "Di Tích",
+            "href": "/di-tich-lich-su?types[0]=1"
+        },
+        {
+            "text": "Ngày Nay",
+            "href": "/thoi-su"
+        },
+        {
+            "text": "Sách",
+            "href": "/sach"
+        },
+        {
+            "text": "Video",
+            "href": "/video"
+        },
+        {
+            "text": "Q&A",
+            "href": "/hoi-dap"
+        },
+        {
+            "text": "Lịch sử lớp 12",
+            "href": "/hoi-dap/lop-12"
+        },
+        {
+            "text": "Lịch sử lớp 11",
+            "href": "/hoi-dap/lop-11"
+        },
+        {
+            "text": "Lịch sử lớp 10",
+            "href": "/hoi-dap/lop-10"
+        },
+        {
+            "text": "Lịch sử lớp 9",
+            "href": "/hoi-dap/lop-9"
+        },
+        {
+            "text": "Lịch sử lớp 8",
+            "href": "/hoi-dap/lop-8"
+        },
+        {
+            "text": "Lịch sử lớp 7",
+            "href": "/hoi-dap/lop-7"
+        },
+        {
+            "text": "Lịch sử lớp 6",
+            "href": "/hoi-dap/lop-6"
+        },
+        {
+            "text": "Trang chủ",
+            "href": "/"
+        },
+        {
+            "text": "Địa Danh",
+            "href": "/dia-danh"
+        },
+        {
+            "text": "Địa Danh Lịch Sử",
+            "href": "/dia-danh"
+        },
+        {
+            "text": "Thu / Mở",
+            "href": "#"
+        },
+        {
+            "text": "Những ghi nhận trong lịch sử",
+            "href": "#nhung-ghi-nhan-trong-lich-su"
+        },
+        {
+            "text": "Những giả thuyết về thành Bình Lỗ",
+            "href": "#nhung-gia-thuyet-ve-thanh-binh-lo"
+        },
+        {
+            "text": "Thành Bình Lỗ nằm trong căn cứ kháng chiến của Trương Hống, Trương Hát",
+            "href": "#thanh-binh-lo-nam-trong-can-cu-khang-chien-cua-truong-hong-truong-hat"
+        },
+        {
+            "text": "Vị trí, hình dạng và kích thước của thành Bình Lỗ",
+            "href": "#vi-tri-hinh-dang-va-kich-thuoc-cua-thanh-binh-lo"
+        },
+        {
+            "text": "Diễn biến của trận Bình Lỗ",
+            "href": "#dien-bien-cua-tran-binh-lo"
+        },
+        {
+            "text": "Ý nghĩa của trận Bình Lỗ",
+            "href": "#y-nghia-cua-tran-binh-lo"
+        },
+        {
+            "text": "Tham khảo",
+            "href": "#tham-khao"
+        },
+        {
+            "text": "Xem thêm",
+            "href": "#xem-them"
+        },
+        {
+            "text": "Lê Đại Hành",
+            "href": "/nhan-vat/le-dai-hanh"
+        },
+        {
+            "text": "sông Cầu",
+            "href": "/dia-danh/song-cau"
+        },
+        {
+            "text": "sông Cà Lồ",
+            "href": "/dia-danh/song-ca-lo"
+        },
+        {
+            "text": "huyện Sóc Sơn",
+            "href": "/dia-danh/huyen-soc-son"
+        },
+        {
+            "text": "sông Hồng",
+            "href": "/dia-danh/song-hong"
+        },
+        {
+            "text": "Lê Hoàn",
+            "href": "/nhan-vat/le-hoan"
+        },
+        {
+            "text": "thành Hoa Lư",
+            "href": "/dia-danh/thanh-hoa-lu"
+        },
+        {
+            "text": "sông Đáy",
+            "href": "/dia-danh/song-day"
+        },
+        {
+            "text": "sông Nhuệ",
+            "href": "/dia-danh/song-nhue"
+        },
+        {
+            "text": "sông Hồng",
+            "href": "/dia-danh/song-hong"
+        },
+        {
+            "text": "sông Nhuệ",
+            "href": "/dia-danh/song-nhue"
+        },
+        {
+            "text": "sông Hồng",
+            "href": "/dia-danh/song-hong"
+        },
+        {
+            "text": "sông Cà Lồ",
+            "href": "/dia-danh/song-ca-lo"
+        },
+        {
+            "text": "sông Cà Lồ",
+            "href": "/dia-danh/song-ca-lo"
+        },
+        {
+            "text": "sông Hồng",
+            "href": "/dia-danh/song-hong"
+        },
+        {
+            "text": "sông Hồng",
+            "href": "/dia-danh/song-hong"
+        },
+        {
+            "text": "sông Cà Lồ",
+            "href": "/dia-danh/song-ca-lo"
+        },
+        {
+            "text": "sông Cầu",
+            "href": "/dia-danh/song-cau"
+        },
+        {
+            "text": "sông Cà Lồ",
+            "href": "/dia-danh/song-ca-lo"
+        },
+        {
+            "text": "sông Cầu",
+            "href": "/dia-danh/song-cau"
+        },
+        {
+            "text": "Lê Hoàn",
+            "href": "/nhan-vat/le-hoan"
+        },
+        {
+            "text": "sông Cà Lồ",
+            "href": "/dia-danh/song-ca-lo"
+        },
+        {
+            "text": "Lê Đại Hành",
+            "href": "/nhan-vat/le-dai-hanh"
+        },
+        {
+            "text": "Phạm Cự Lượng",
+            "href": "/nhan-vat/pham-cu-luong"
+        },
+        {
+            "text": "sông Như Nguyệt",
+            "href": "/dia-danh/song-nhu-nguyet"
+        },
+        {
+            "text": "sông Cà Lồ",
+            "href": "/dia-danh/song-ca-lo"
+        },
+        {
+            "text": "sông Cà Lồ",
+            "href": "/dia-danh/song-ca-lo"
+        },
+        {
+            "text": "sông Cầu",
+            "href": "/dia-danh/song-cau"
+        },
+        {
+            "text": "sông Bạch Đằng",
+            "href": "/dia-danh/song-bach-dang"
+        },
+        {
+            "text": "sông Bạch Đằng",
+            "href": "/dia-danh/song-bach-dang"
+        },
+        {
+            "text": "Lê Hoàn",
+            "href": "/nhan-vat/le-hoan"
+        },
+        {
+            "text": "Lê Hoàn",
+            "href": "/nhan-vat/le-hoan"
+        },
+        {
+            "text": "Lê Văn Hưu",
+            "href": "/nhan-vat/le-van-huu"
+        },
+        {
+            "text": "Lê Hoàn",
+            "href": "/nhan-vat/le-hoan"
+        },
+        {
+            "text": "sông Bạch Đằng",
+            "href": "/dia-danh/song-bach-dang"
+        },
+        {
+            "text": "Lê Hoàn",
+            "href": "/nhan-vat/le-hoan"
+        },
+        {
+            "text": "sông Cà Lồ",
+            "href": "/dia-danh/song-ca-lo"
+        },
+        {
+            "text": "Ngô Quyền",
+            "href": "/nhan-vat/ngo-quyen"
+        },
+        {
+            "text": "sông Cà Lồ",
+            "href": "/dia-danh/song-ca-lo"
+        },
+        {
+            "text": "sông Hồng",
+            "href": "/dia-danh/song-hong"
+        },
+        {
+            "text": "sông Cầu",
+            "href": "/dia-danh/song-cau"
+        },
+        {
+            "text": "sông Cà Lồ",
+            "href": "/dia-danh/song-ca-lo"
+        },
+        {
+            "text": "sông Như Nguyệt",
+            "href": "/dia-danh/song-nhu-nguyet"
+        },
+        {
+            "text": "sông Cà Lồ",
+            "href": "/dia-danh/song-ca-lo"
+        },
+        {
+            "text": "sông Cà Lồ",
+            "href": "/dia-danh/song-ca-lo"
+        },
+        {
+            "text": "sông Hồng",
+            "href": "/dia-danh/song-hong"
+        },
+        {
+            "text": "sông Đáy",
+            "href": "/dia-danh/song-day"
+        },
+        {
+            "text": "sông Cầu",
+            "href": "/dia-danh/song-cau"
+        },
+        {
+            "text": "Lê Đại Hành",
+            "href": "/nhan-vat/le-dai-hanh"
+        },
+        {
+            "text": "sông Cà Lồ",
+            "href": "/dia-danh/song-ca-lo"
+        },
+        {
+            "text": "Lý Thường Kiệt",
+            "href": "/nhan-vat/ly-thuong-kiet"
+        },
+        {
+            "text": "sông Cầu",
+            "href": "/dia-danh/song-cau"
+        },
+        {
+            "text": "Lý Thường Kiệt",
+            "href": "/nhan-vat/ly-thuong-kiet"
+        },
+        {
+            "text": "Triệu Tiết",
+            "href": "/nhan-vat/trieu-tiet"
+        },
+        {
+            "text": "sông Cầu",
+            "href": "/dia-danh/song-cau"
+        },
+        {
+            "text": "tỉnh Bắc Ninh",
+            "href": "/dia-danh/tinh-bac-ninh"
+        },
+        {
+            "text": "Lê Trung Tông",
+            "href": "/nhan-vat/le-trung-tong"
+        },
+        {
+            "text": "Lê Đại Hành",
+            "href": "/nhan-vat/le-dai-hanh"
+        },
+        {
+            "text": "sông Cà Lồ",
+            "href": "/dia-danh/song-ca-lo"
+        },
+        {
+            "text": "Lê Đại Hành",
+            "href": "/nhan-vat/le-dai-hanh"
+        },
+        {
+            "text": "sông Cà Lồ",
+            "href": "/dia-danh/song-ca-lo"
+        },
+        {
+            "text": "Lý Công Uẩn",
+            "href": "/nhan-vat/ly-cong-uan"
+        },
+        {
+            "text": "Trương Hống",
+            "href": "/nhan-vat/truong-hong"
+        },
+        {
+            "text": "Trương Hát",
+            "href": "/nhan-vat/truong-hat"
+        },
+        {
+            "text": "Trương Hống",
+            "href": "/nhan-vat/truong-hong"
+        },
+        {
+            "text": "Trương Hát",
+            "href": "/nhan-vat/truong-hat"
+        },
+        {
+            "text": "Triệu Việt Vương",
+            "href": "/nhan-vat/trieu-viet-vuong"
+        },
+        {
+            "text": "Lý Thường Kiệt",
+            "href": "/nhan-vat/ly-thuong-kiet"
+        },
+        {
+            "text": "Lê Hoàn",
+            "href": "/nhan-vat/le-hoan"
+        },
+        {
+            "text": "sông Cầu",
+            "href": "/dia-danh/song-cau"
+        },
+        {
+            "text": "sông Cà Lồ",
+            "href": "/dia-danh/song-ca-lo"
+        },
+        {
+            "text": "Trương Hống",
+            "href": "/nhan-vat/truong-hong"
+        },
+        {
+            "text": "Trương Hát",
+            "href": "/nhan-vat/truong-hat"
+        },
+        {
+            "text": "nước Vạn Xuân",
+            "href": "/dia-danh/nuoc-van-xuan"
+        },
+        {
+            "text": "Triệu Việt Vương",
+            "href": "/nhan-vat/trieu-viet-vuong"
+        },
+        {
+            "text": "Lý Phật Tử",
+            "href": "/nhan-vat/ly-phat-tu"
+        },
+        {
+            "text": "sông Cầu",
+            "href": "/dia-danh/song-cau"
+        },
+        {
+            "text": "sông Cầu",
+            "href": "/dia-danh/song-cau"
+        },
+        {
+            "text": "Trương Hống",
+            "href": "/nhan-vat/truong-hong"
+        },
+        {
+            "text": "sông Cà Lồ",
+            "href": "/dia-danh/song-ca-lo"
+        },
+        {
+            "text": "sông Cà Lồ",
+            "href": "/dia-danh/song-ca-lo"
+        },
+        {
+            "text": "sông Cà Lồ",
+            "href": "/dia-danh/song-ca-lo"
+        },
+        {
+            "text": "Lê Hoàn",
+            "href": "/nhan-vat/le-hoan"
+        },
+        {
+            "text": "thành Cổ Loa",
+            "href": "/dia-danh/thanh-co-loa"
+        },
+        {
+            "text": "sông Như Nguyệt",
+            "href": "/dia-danh/song-nhu-nguyet"
+        },
+        {
+            "text": "sông Cà Lồ",
+            "href": "/dia-danh/song-ca-lo"
+        },
+        {
+            "text": "sông Cầu",
+            "href": "/dia-danh/song-cau"
+        },
+        {
+            "text": "sông Cà Lồ",
+            "href": "/dia-danh/song-ca-lo"
+        },
+        {
+            "text": "Trần Hưng Đạo",
+            "href": "/nhan-vat/tran-hung-dao"
+        },
+        {
+            "text": "sông Cầu",
+            "href": "/dia-danh/song-cau"
+        },
+        {
+            "text": "Lê Hoàn",
+            "href": "/nhan-vat/le-hoan"
+        },
+        {
+            "text": "sông Như Nguyệt",
+            "href": "/dia-danh/song-nhu-nguyet"
+        },
+        {
+            "text": "sông Cà Lồ",
+            "href": "/dia-danh/song-ca-lo"
+        },
+        {
+            "text": "sông Cầu",
+            "href": "/dia-danh/song-cau"
+        },
+        {
+            "text": "sông Cầu",
+            "href": "/dia-danh/song-cau"
+        },
+        {
+            "text": "Lê Đại Hành",
+            "href": "/nhan-vat/le-dai-hanh"
+        },
+        {
+            "text": "sông Cà Lồ",
+            "href": "/dia-danh/song-ca-lo"
+        },
+        {
+            "text": "sông Như Nguyệt",
+            "href": "/dia-danh/song-nhu-nguyet"
+        },
+        {
+            "text": "sông Cầu",
+            "href": "/dia-danh/song-cau"
+        },
+        {
+            "text": "sông Cầu",
+            "href": "/dia-danh/song-cau"
+        },
+        {
+            "text": "sông Cà Lồ",
+            "href": "/dia-danh/song-ca-lo"
+        },
+        {
+            "text": "nhà Trần",
+            "href": "/nhan-vat/nha-tran"
+        },
+        {
+            "text": "Lê Mạnh Thát",
+            "href": "/nhan-vat/le-manh-that"
+        },
+        {
+            "text": "sông Cầu",
+            "href": "/dia-danh/song-cau"
+        },
+        {
+            "text": "Lê Hoàn",
+            "href": "/nhan-vat/le-hoan"
+        },
+        {
+            "text": "Lê Trung Tông",
+            "href": "/nhan-vat/le-trung-tong"
+        },
+        {
+            "text": "sông Cà Lồ",
+            "href": "/dia-danh/song-ca-lo"
+        },
+        {
+            "text": "Lê Trung Tông",
+            "href": "/nhan-vat/le-trung-tong"
+        },
+        {
+            "text": "sông Cà Lồ",
+            "href": "/dia-danh/song-ca-lo"
+        },
+        {
+            "text": "Trần Hưng Đạo",
+            "href": "/nhan-vat/tran-hung-dao"
+        },
+        {
+            "text": "Lê Hoàn",
+            "href": "/nhan-vat/le-hoan"
+        },
+        {
+            "text": "Lê Hoàn",
+            "href": "/nhan-vat/le-hoan"
+        },
+        {
+            "text": "nhà Tống",
+            "href": "/nhan-vat/nha-tong"
+        },
+        {
+            "text": "Lê Hoàn",
+            "href": "/nhan-vat/le-hoan"
+        },
+        {
+            "text": "Lê Văn Hưu",
+            "href": "/nhan-vat/le-van-huu"
+        },
+        {
+            "text": "Lê Đại Hành",
+            "href": "/nhan-vat/le-dai-hanh"
+        },
+        {
+            "text": "nhà Hán",
+            "href": "/nhan-vat/nha-han"
+        },
+        {
+            "text": "nhà Đường",
+            "href": "/nhan-vat/nha-duong"
+        },
+        {
+            "text": "Trương Hống",
+            "href": "/nhan-vat/truong-hong"
+        },
+        {
+            "text": "Trương Hát",
+            "href": "/nhan-vat/truong-hat"
+        },
+        {
+            "text": "Lê Đại Hành",
+            "href": "/nhan-vat/le-dai-hanh"
+        },
+        {
+            "text": "Lê Hoàn",
+            "href": "/nhan-vat/le-hoan"
+        },
+        {
+            "text": "Lê Đại Hành",
+            "href": "/nhan-vat/le-dai-hanh"
+        },
+        {
+            "text": "sông Bạch Đằng",
+            "href": "/dia-danh/song-bach-dang"
+        },
+        {
+            "text": "Lê Hoàn",
+            "href": "/nhan-vat/le-hoan"
+        },
+        {
+            "text": "Lê Đại Hành",
+            "href": "/nhan-vat/le-dai-hanh"
+        },
+        {
+            "text": "tỉnh Bắc Ninh",
+            "href": "/dia-danh/tinh-bac-ninh"
+        },
+        {
+            "text": "Lê Hoàn",
+            "href": "/nhan-vat/le-hoan"
+        },
+        {
+            "text": "Trương Hống",
+            "href": "/nhan-vat/truong-hong"
+        },
+        {
+            "text": "Trương Hát",
+            "href": "/nhan-vat/truong-hat"
+        },
+        {
+            "text": "Lê Đại Hành",
+            "href": "/nhan-vat/le-dai-hanh"
+        },
+        {
+            "text": "Lê Đại Hành",
+            "href": "/nhan-vat/le-dai-hanh"
+        },
+        {
+            "text": "Lê Đại Hành",
+            "href": "/nhan-vat/le-dai-hanh"
+        },
+        {
+            "text": "Bài viết trước: Thành An Trước",
+            "href": "/dia-danh/thanh-an"
+        },
+        {
+            "text": "Bài viết kế tiếp: thành Cố Tiếp tục",
+            "href": "/dia-danh/thanh-co"
+        },
+        {
+            "text": "nước Việt",
+            "href": "/dia-danh/nuoc-viet"
+        },
+        {
+            "text": "núi Tản Viên",
+            "href": "/dia-danh/nui-tan-vien"
+        },
+        {
+            "text": "sông Đà",
+            "href": "/dia-danh/song-da"
+        },
+        {
+            "text": "sông Hát",
+            "href": "/dia-danh/song-hat"
+        },
+        {
+            "text": "chùa Kiến Sơ",
+            "href": "/dia-danh/chua-kien-so"
+        },
+        {
+            "text": "hồ Động Đình",
+            "href": "/dia-danh/ho-dong-dinh"
+        },
+        {
+            "text": "nước Quắc",
+            "href": "/dia-danh/nuoc-quac"
+        },
+        {
+            "text": "nước Trịnh",
+            "href": "/dia-danh/nuoc-trinh"
+        },
+        {
+            "text": "châu Vũ Ninh",
+            "href": "/dia-danh/chau-vu-ninh"
+        },
+        {
+            "text": "Nước Tần",
+            "href": "/dia-danh/nuoc-tan"
+        },
+        {
+            "text": "Hồng Bàng & Văn Lang",
+            "href": "/dong-lich-su/hong-bang-va-van-lang"
+        },
+        {
+            "text": "Âu Lạc & Nam Việt",
+            "href": "/dong-lich-su/au-lac-va-nam-viet"
+        },
+        {
+            "text": "Bắc thuộc lần I",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat"
+        },
+        {
+            "text": "Nhà Triệu",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat/nha-trieu"
+        },
+        {
+            "text": "Trưng Nữ Vương",
+            "href": "/dong-lich-su/trung-nu-vuong"
+        },
+        {
+            "text": "Bắc thuộc lần II",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-hai"
+        },
+        {
+            "text": "Nhà Lý & Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu"
+        },
+        {
+            "text": "Nhà Tiền Lý",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-tien-ly"
+        },
+        {
+            "text": "Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-trieu"
+        },
+        {
+            "text": "Nhà Hậu Lý",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-hau-ly"
+        },
+        {
+            "text": "Bắc thuộc lần III",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-ba"
+        },
+        {
+            "text": "Thời kỳ xây nền tự chủ",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu"
+        },
+        {
+            "text": "Họ Khúc",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu/ho-khuc"
+        },
+        {
+            "text": "Nhà Ngô",
+            "href": "/dong-lich-su/nha-ngo"
+        },
+        {
+            "text": "Nhà Đinh",
+            "href": "/dong-lich-su/nha-dinh"
+        },
+        {
+            "text": "Nhà Tiền Lê",
+            "href": "/dong-lich-su/nha-tien-le"
+        },
+        {
+            "text": "Nhà Lý",
+            "href": "/dong-lich-su/nha-ly"
+        },
+        {
+            "text": "Nhà Trần",
+            "href": "/dong-lich-su/nha-tran"
+        },
+        {
+            "text": "Nhà Hồ",
+            "href": "/dong-lich-su/nha-ho"
+        },
+        {
+            "text": "Nhà Hậu Trần",
+            "href": "/dong-lich-su/nha-hau-tran"
+        },
+        {
+            "text": "Bắc thuộc lần IV",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-tu"
+        },
+        {
+            "text": "Nhà Hậu Lê",
+            "href": "/dong-lich-su/nha-hau-le"
+        },
+        {
+            "text": "Nam Bắc Triều",
+            "href": "/dong-lich-su/nam-bac-trieu"
+        },
+        {
+            "text": "Nhà Lê Trung Hưng",
+            "href": "/dong-lich-su/nam-bac-trieu/nha-le-trung-hung"
+        },
+        {
+            "text": "Nhà Mạc",
+            "href": "/dong-lich-su/nam-bac-trieu/nha-mac"
+        },
+        {
+            "text": "Trịnh Nguyễn Phân Tranh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh"
+        },
+        {
+            "text": "Nhà Lê Trung Hưng",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/nha-le-trung-hung"
+        },
+        {
+            "text": "Chúa Trịnh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-trinh"
+        },
+        {
+            "text": "Chúa Nguyễn",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen"
+        },
+        {
+            "text": "Nhà Tây Sơn",
+            "href": "/dong-lich-su/nha-tay-son"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/nha-nguyen"
+        },
+        {
+            "text": "Pháp Thuộc",
+            "href": "/dong-lich-su/phap-thuoc"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/phap-thuoc/nha-nguyen"
+        },
+        {
+            "text": "Những cuộc khởi nghĩa chống thực dân Pháp",
+            "href": "/dong-lich-su/phap-thuoc/khoi-nghia-chong-phap"
+        },
+        {
+            "text": "Đảng Cộng Sản Việt Nam",
+            "href": "/dong-lich-su/phap-thuoc/dang-cong-san-viet-nam"
+        },
+        {
+            "text": "Việt Nam Dân Chủ Cộng Hoà",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Kháng chiến chống Pháp",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-phap"
+        },
+        {
+            "text": "Kháng chiến chống Mĩ",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-mi"
+        },
+        {
+            "text": "Cộng hoà xã hội chủ nghĩa Việt Nam",
+            "href": "/dong-lich-su/viet-nam-xhcn"
+        },
+        {
+            "text": "Trận Điện Biên Phủ trên không năm 1972",
+            "href": "/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972"
+        },
+        {
+            "text": "Chiến tranh biên giới Tây Nam năm 1975 - 1978",
+            "href": "/tu-lieu/quan-su/chien-tranh-bien-gioi-tay-nam-nam-1975-1978"
+        },
+        {
+            "text": "Chiến dịch Mùa Xuân năm 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-mua-xuan-nam-1975"
+        },
+        {
+            "text": "Hải chiến Trường Sa năm 1988",
+            "href": "/tu-lieu/quan-su/hai-chien-truong-sa-nam-1988"
+        },
+        {
+            "text": "Chiến dịch Đường 14 - Phước Long năm 1974 - 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-duong-14-phuoc-long-nam-1974-1975"
+        },
+        {
+            "text": "Chiến dịch Tây Nguyên năm 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-tay-nguyen-nam-1975"
+        },
+        {
+            "text": "Trận Mậu Thân tại Huế năm 1968",
+            "href": "/tu-lieu/quan-su/tran-mau-than-tai-hue-nam-1968"
+        },
+        {
+            "text": "Bảng đối chiếu các triều đại Việt Nam và các triều đại Trung Quốc",
+            "href": "/tu-lieu/bang-doi-chieu-cac-trieu-dai-viet-nam-va-cac-trieu-dai-trung-quoc"
+        },
+        {
+            "text": "Bình Ngô đại cáo - bản tuyên ngôn độc lập thứ hai",
+            "href": "/tu-lieu/tac-pham/binh-ngo-dai-cao-ban-tuyen-ngon-doc-lap-thu-hai"
+        },
+        {
+            "text": "Lãnh thổ Việt Nam qua từng thời kỳ",
+            "href": "/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky"
+        },
+        {
+            "text": "Trận Đồi Thịt Băm năm 1969",
+            "href": "/tu-lieu/quan-su/tran-doi-thit-bam-nam-1969"
+        },
+        {
+            "text": "Chiến dịch Đắk Tô năm 1972",
+            "href": "/tu-lieu/quan-su/chien-dich-dak-to-nam-1972"
+        },
+        {
+            "text": "Nam quốc sơn hà - Bản tuyên ngôn độc lập đầu tiên",
+            "href": "/tu-lieu/tac-pham/nam-quoc-son-ha-ban-tuyen-ngon-doc-lap-dau-tien"
+        },
+        {
+            "text": "Tuyên ngôn độc lập Việt Nam Dân chủ Cộng hòa",
+            "href": "/tu-lieu/tac-pham/tuyen-ngon-doc-lap-viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Trận Bản Đông năm 1971",
+            "href": "/tu-lieu/quan-su/tran-ban-dong-nam-1971"
+        },
+        {
+            "text": "Trận Rạch Gầm \u2013 Xoài Mút năm 1785",
+            "href": "/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785"
+        },
+        {
+            "text": "Lịch sử Chữ viết tiếng Việt",
+            "href": "/tu-lieu/lich-su-chu-viet-tieng-viet"
+        },
+        {
+            "text": "Hịch tướng sĩ - Dụ chư tỳ tướng hịch văn",
+            "href": "/tu-lieu/tac-pham/hich-tuong-si-du-chu-ty-tuong-hich-van"
+        },
+        {
+            "text": "Danh sách Trạng nguyên Việt Nam",
+            "href": "/tu-lieu/danh-sach-trang-nguyen-viet-nam"
+        },
+        {
+            "text": "Hội nghị Paris, mặt trận ngoại giao năm 1968-1972",
+            "href": "/tu-lieu/bang-giao/hoi-nghi-paris-mat-tran-ngoai-giao-nam-1968-1972"
+        },
+        {
+            "text": "Đền Ngọc Sơn",
+            "href": "/dia-danh/den-ngoc-son"
+        },
+        {
+            "text": "Khu di tích Chủ tịch Hồ Chí Minh tại Phủ Chủ tịch",
+            "href": "/dia-danh/khu-di-tich-chu-tich-ho-chi-minh-tai-phu-chu-tich"
+        },
+        {
+            "text": "Đền Hùng",
+            "href": "/dia-danh/den-hung"
+        },
+        {
+            "text": "Đền Trần (Thái Bình)",
+            "href": "/dia-danh/den-tran-thai-binh"
+        },
+        {
+            "text": "Khu lưu niệm Chủ tịch Tôn Đức Thắng",
+            "href": "/dia-danh/khu-luu-niem-chu-tich-ton-duc-thang"
+        },
+        {
+            "text": "chùa Phổ Minh",
+            "href": "/dia-danh/chua-pho-minh"
+        },
+        {
+            "text": "Quần thể di tích Cố đô Huế",
+            "href": "/dia-danh/quan-the-di-tich-co-do-hue"
+        },
+        {
+            "text": "Cố đô Hoa Lư",
+            "href": "/dia-danh/co-do-hoa-lu"
+        },
+        {
+            "text": "Khu lăng mộ và đền thờ các vị vua triều Lý",
+            "href": "/dia-danh/khu-lang-mo-va-den-tho-cac-vi-vua-trieu-ly"
+        },
+        {
+            "text": "Chiến khu Tân Trào",
+            "href": "/dia-danh/chien-khu-tan-trao"
+        },
+        {
+            "text": "Hồ Chí Minh",
+            "href": "/nhan-vat/ho-chi-minh"
+        },
+        {
+            "text": "Trần Nhân Tông",
+            "href": "/nhan-vat/tran-nhan-tong"
+        },
+        {
+            "text": "Trần Hưng Đạo",
+            "href": "/nhan-vat/tran-hung-dao"
+        },
+        {
+            "text": "Lý Thường Kiệt",
+            "href": "/nhan-vat/ly-thuong-kiet"
+        },
+        {
+            "text": "Đinh Tiên Hoàng",
+            "href": "/nhan-vat/dinh-tien-hoang"
+        },
+        {
+            "text": "Hai Bà Trưng",
+            "href": "/nhan-vat/hai-ba-trung"
+        },
+        {
+            "text": "Lý Nam Đế",
+            "href": "/nhan-vat/ly-nam-de"
+        },
+        {
+            "text": "Nguyễn Trãi",
+            "href": "/nhan-vat/nguyen-trai"
+        },
+        {
+            "text": "Hùng Vương",
+            "href": "/nhan-vat/hung-vuong"
+        },
+        {
+            "text": "Lê Thái Tổ",
+            "href": "/nhan-vat/le-thai-to"
+        },
+        {
+            "text": "Vấn đề biên giới Việt-Trung thời Mạc",
+            "href": "/tu-lieu/bang-giao/van-de-bien-gioi-viet-trung-thoi-mac"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Tây Sơn",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-tay-son"
+        },
+        {
+            "text": "Biểu đồ các nhân vật lịch sử theo dòng thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Danh sách Trạng nguyên Việt Nam",
+            "href": "/tu-lieu/danh-sach-trang-nguyen-viet-nam"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Nguyễn",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-nguyen"
+        },
+        {
+            "text": "Trận Điện Biên Phủ trên không năm 1972",
+            "href": "/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972"
+        },
+        {
+            "text": "Trận Ngọc Hồi - Đống Đa năm 1789",
+            "href": "/tu-lieu/quan-su/tran-ngoc-hoi-dong-da-nam-1789"
+        },
+        {
+            "text": "Trận Cẩm Sa năm 1775",
+            "href": "/tu-lieu/quan-su/tran-cam-sa-nam-1775"
+        },
+        {
+            "text": "Trận Rạch Gầm \u2013 Xoài Mút năm 1785",
+            "href": "/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785"
+        },
+        {
+            "text": "Lãnh thổ Việt Nam qua từng thời kỳ",
+            "href": "/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky"
+        },
+        {
+            "text": "Khu lưu niệm Chủ tịch Tôn Đức Thắng",
+            "href": "/dia-danh/khu-luu-niem-chu-tich-ton-duc-thang"
+        },
+        {
+            "text": "Đền Phù Đổng",
+            "href": "/dia-danh/den-phu-dong"
+        },
+        {
+            "text": "Khu di tích Pác Bó",
+            "href": "/dia-danh/khu-di-tich-pac-bo"
+        },
+        {
+            "text": "Chiến khu Tân Trào",
+            "href": "/dia-danh/chien-khu-tan-trao"
+        },
+        {
+            "text": "Đền Trần (Thái Bình)",
+            "href": "/dia-danh/den-tran-thai-binh"
+        },
+        {
+            "text": "Khu di tích Chủ tịch Hồ Chí Minh tại Phủ Chủ tịch",
+            "href": "/dia-danh/khu-di-tich-chu-tich-ho-chi-minh-tai-phu-chu-tich"
+        },
+        {
+            "text": "Thành cổ Quảng Trị",
+            "href": "/dia-danh/thanh-co-quang-tri"
+        },
+        {
+            "text": "Hồ Hoàn Kiếm",
+            "href": "/dia-danh/ho-hoan-kiem"
+        },
+        {
+            "text": "Cố đô Hoa Lư",
+            "href": "/dia-danh/co-do-hoa-lu"
+        },
+        {
+            "text": "Đền Trần (Nam Định)",
+            "href": "/dia-danh/den-tran-nam-dinh"
+        },
+        {
+            "text": "Giới thiệu",
+            "href": "/gioi-thieu"
+        },
+        {
+            "text": "Quyền riêng tư",
+            "href": "/quyen-rieng-tu"
+        },
+        {
+            "text": "Liên hệ",
+            "href": "/lien-he"
+        },
+        {
+            "text": "Địa Danh",
+            "href": "/dia-danh"
+        },
+        {
+            "text": "Trang Facebook",
+            "href": "https://www.facebook.com/nguoikesu/"
+        },
+        {
+            "text": "DanhMucBDS.com",
+            "href": "https://danhmucbds.com"
+        },
+        {
+            "text": "HocTotNguVan.com",
+            "href": "https://hoctotnguvan.com"
+        }
+    ],
+    "title": "thành Bình Lỗ - Người Kể Sử",
+    "paragraphs": [
+        "Bình Lỗ là tên một thành cổ được ghi nhận trong lịch sử Việt Nam, nhờ có thành này mà năm 981 Lê Đại Hành đã đánh tan được quân Tống1 . Tuy nhiên vị trí, hình dáng và kích thước của thành tương ứng ngày nay vẫn chưa được xác định. Có thuyết cho là ở gần khu vực sông Cầu và sông Cà Lồ, thuộc huyện Sóc Sơn, Hà Nội ngày nay 2 3 ; có thuyết lại cho là ở đoạn sông Hồng từ ngã ba Lềnh (Yên Lệnh, Hà Nam) đến ngã ba Vàng (Giao Thuỷ, Nam Định)4 .",
+        "",
+        "",
+        "Năm 980 Lê Hoàn đã bí mật cử Thiền sư Khuông Việt đi trước đến vùng Bình Lỗ nghiên cứu chuẩn bị trận địa chống Tống, trong đó có việc đắp thành Bình Lỗ và bố trí một trận địa mai phục. Tháng 10 năm đó vua cũng \"thân chinh dẫn đại quân từ kinh thành Hoa Lư theo đường thủy, ngược sông Đáy, sông Nhuệ mà vào sông Hồng, rồi từ đó tiến lên miền địa đầu Đông Bắc đất nước\"5 . Các sách địa lý cho biết nếu từ đầu nguồn sông Nhuệ ngược dòng sông Hồng khoảng 20 km thì sẽ gặp một phân lưu khác ở bờ phía tả ngạn, đó chính là sông Cà Lồ. Xưa kia sông Cà Lồ nối liền với sông Hồng và to hơn hiện nay, từ sông Hồng có thể vào sông Cà Lồ và xuôi dòng để ra sông Cầu ở ngã ba Xà,nơi hội lưu của sông Cà Lồ với sông Cầu. Từ đó cho thấy Lê Hoàn đã đi theo dòng sông này để đến tập kết và dấu quân ở nơi có thành Bình Lỗ.",
+        "Nhà Hà Nội học Nguyễn Vinh Phúc đã chứng minh thành Bình Lỗ ở hương Bình Lỗ mà \"hương Bình Lỗ là tên chung của cả một vùng từ núi Sóc xuống tới sông Cà Lồ\". Trong truyện hai vị thần ở Long Nhãn, Như Nguyệt 6 cũng cho biết Lê Đại Hành và tướng quân Phạm Cự Lượng đã \"kéo quân tới sông Đồ Lỗ cự địch\". Trận đánh này được mô tả như sau: \"Một người dẫn đoàn âm binh áo trắng, từ phía Nam sông Bình Giang mà tới, một người dẫn đoàn âm binh áo đỏ từ phía Bắc sông Như Nguyệt mà lại, cùng xông vào trại giặc mà đánh\". Sau này nhiều nhà sử học cho rằng Đồ Lỗ ở gần Phù Lỗ, nơi đó có sông Bình Lỗ và sông Bình Lỗ chính là sông Cà Lồ. Như vậy Bình Giang cũng là sông Cà Lồ, còn Như Nguyệt là một khúc của sông Cầu.",
+        "Khi chiến tranh Việt Tống lần thứ nhất nổ ra, quân Tống do Hầu Nhân Bảo chỉ huy đã chia 2 đường tiến vào lãnh thổ Đại Cồ Việt. Đội quân thủy tiến vào theo đường sông Bạch Đằng. Sách Tục tư trị thông giám trường biên của Lý Đào7 cho biết \"Ngày Tân Mão tháng 12 năm Thái Bình hưng quốc thứ 6 (30 tháng 1, 981), Giao Châu hành doanh (tức Hầu Nhân Bảo) nói phá quân giặc trên vạn,\u2026\". \"Ngày Kỷ Mùi tháng Ba niên hiệu Thái Bình hưng quốc thứ 6 (28 tháng 4, 981), Giao Châu hành doanh lại tâu rằng: Phá được quân giặc 15.000 người ở cửa sông Bạch Đằng, chém được hơn 1.000 thủ cấp, thu được 200 chiến hạm và hàng vạn áo giáp, binh khí\".",
+        "Đại Việt sử lược8 thì ghi như sau: \"Vua tự làm tướng đem quân ra chống cự. Vua cho cắm cọc cứng dưới sông. Quân Tống rút về giữ mặt Ninh Giang. Vua sai người sang trá hàng để dụ Hầu Nhân Bảo. Quân Tống thua trận, Hầu Nhân Bảo bị bắt và bị chém. Bọn Trần Khâm Tộ nghe tin thất trận phải rút lui \". Sách Thiền uyển tập anh cho biết kết cục của trận đánh như sau: \"Quân giặc kinh hãi rút về giữ sông Hữu Ninh, lại thấy sóng gió nổi lên, giặc bèn tan vỡ\".",
+        "Như vậy các sách Tống sử đều chép Đại Cồ Việt bị thiệt hại nặng ở trận Bạch Đằng thứ nhất nhưng các sử liệu cũ cũng không nhắc đến trận Bạch Đằng thứ hai. Do thắng lợi quá dễ dàng ở trận đầu, tướng Tống chủ quan nên đã mắc phải mưu kế của Lê Hoàn. Chuyện Giả thực trong Tống sử thừa nhận: \"Lê Hoàn giả vờ xin hàng mà Hầu Nhân Bảo và Tôn Toàn Hưng cứ tưởng là thật, chẳng lo phòng bị, nên thua to\u2026\".",
+        "Các nhà sử học hiện đại cho rằng Bình Lỗ là trận đánh then chốt, quyết định số phận quân Tống trong cuộc xâm lược Đại Cồ Việt năm 981. Tuy nhiên đến nay chưa làm rõ được trận Bình Lỗ đã diễn ra như thế nào và cũng chưa biết chính xác thành Bình Lỗ, sông Hữu Ninh ở đâu.",
+        "Nhà sử học Lê Văn Hưu đánh giá rất cao tài cầm quân của Lê Hoàn, nhưng ông cũng không nói gì về việc đóng cọc trên sông Bạch Đằng. Như vậy Lê Hoàn \"cho cắm cọc cứng dưới sông\" có thể không diễn ra ở Bạch Đằng mà là ở sông Cà Lồ. Do yêu cầu của trận Bình Lỗ là phải làm hàng rào chắn ngang sông để tàu thuyền của quân Tống không vượt qua được, nên về mặt kỹ thuật thì không giống như ở Bạch Đằng thời Ngô Quyền là yêu cầu làm thủng thuyền giặc mà chỉ cần cắm các hàng rào cọc này phài dày và đủ cứng mà thôi.",
+        "Ở cửa sông Cà Lồ khi đó chưa có đê, về mùa mưa nước sông Hồng dồn về thường rất lớn và tràn sang hai bên bờ, khi đổ vào sông Cầu đã tạo thành một số nhánh sông uốn cong như hình những con rắn dài đến vài km. Trải qua nhiều thế kỷ địa hình khu vực này đã biến dạng nhiều nhưng vẫn còn để lại một số dấu tích trong số đó có một nhánh sông nhỏ mà sử cũ gọi là sông Hữu Ninh. Thời kỳ Bắc thuộc,vùng cửa sông Cà Lồ đã từng nằm trên tuyến đường bộ huyết mạch nối với phương Bắc. Từ thời Đinh Lê trở đi, nơi đây có một vị trí chiến lược quan trọng. Nếu từ phía Bắc muốn tiến vào Cổ Loa và Đại La, quân Tống phải đến sông Như Nguyệt rồi vào sông Cà Lồ. Thuyền có thể ngược dòng sông Cà Lồ để ra sông Hồng rồi từ đó theo sông Đáy mà vào đánh chiếm Hoa Lư.",
+        "Về phía Đông Bắc của ngã ba Xà, bên tả ngạn sông Cầu có một làng tên là làng Sổ, thuộc huyện Hiệp Hòa, Bắc Giang. Các cụ trong làng lý giải tên làng là do quân Tống tàn phá coi như không còn làng - làng bị xóa sổ. Trên đường rút chạy của quân Tống qua đây chúng đã đốt phá làng mạc, tàn sát nhân dân vô tội để trả thù. Sau cuộc kháng chiến chống Tống lần thứ nhất thắng lợi làng mới tái lập lại và đặt tên là làng Sổ để ghi nhớ sự kiện bi thương. Thời Lê Nguyễn, làng Sổ lại đổi tên thành làng Ba Lỗ. Tên Ba Lỗ được lý giải như sau: phía Tây Nam làng là ngã ba Xà và thành Bình Lỗ do Lê Đại Hành xây dựng. Quân Tống bị đại bại trên khúc sông Cà Lồ gần ngã ba Xà, nơi có thành Bình Lỗ. Có một tiền nhân của làng lấy chữ Ba của ngã ba Xà và chữ Lỗ của thành Bình Lỗ ghép lại thành Ba Lỗ đặt tên cho làng để ghi dấu ấn lịch sử thời Tiền Lê, trong đó có công sức của dân làng Sổ.",
+        "Nhận rõ vị trí quan trọng của thành Bình Lỗ cũ, trong cuộc chiến tranh Tống Việt lần thứ hai năm 1077, Lý Thường Kiệt đã cho xây dựng phần trọng điểm của phòng tuyến sông Cầu ở khu vực này. Tại đây Quách Quỳ đã hai lần cho quân Tống vượt sông và Lý Thường Kiệt cũng cho quân Đại Cồ Việt tiến đánh tiêu diệt gần hết cánh quân của Triệu Tiết, nhờ đó đã sớm kết thúc được chiến tranh.Trận quyết chiến xảy ra trên cánh đồng làng Tiếu Mai, xã Mai Đình, huyện Hiệp Hòa. Đến nay còn để lại nhiều dấu tích, trong đó có các gò xác và một ngôi chùa xây trên cánh đồng Xác. Ngôi chùa cũng mang tên là chùa Xác, được xây dựng lên để cầu vong cho linh hồn quân Tống khỏi bơ vơ nơi đất khách quê người. Sau này chùa Xác được đổi tên thành An Lạc Tự 9 .",
+        "Về phía Tây Nam ngã ba Xà, bên hữu ngạn sông Cầu cũng có một làng cổ (làng Xà, xã Tam Giang, huyện Yên Phong, tỉnh Bắc Ninh), tại đây hiện còn lưu giữ tộc phả 10 của một dòng họ lớn là hậu duệ của hoàng đế Lê Trung Tông (con thứ ba của vua Lê Đại Hành). Trong đó ghi rõ, sau khi nhà vua trẻ bị giết (1005), vợ và con vua cùng với các trung thần đã trốn chạy về ngã ba Xà, rồi lập thành làng và định cư ở đây. Cụ Tổ của dòng họ này đã để lại 3 câu chữ Hán và dịch sang tiếng Việt như sau: \"Tránh cái hiểm họa Long Đĩnh, Di chuyển gia quyến đến cửa sông Cà Lồ, Náu tung tích giấu họ tên mà lập nghiệp\". Theo các cụ bô lão trong dòng họ truyền lại, sở dĩ họ về đây vì các trung thần cùng đi đã từng theo vua Lê Đại Hành đánh Tống ở trận Bình Lỗ nên rất am hiểu vùng này. Tại đây còn để lại nhiều dấu tích về trận Bình Lỗ, đặc biệt còn móng của một ngôi đình cổ có tên là Đình Mừng. Nơi này chỉ cách sông Cà Lồ hơn 1 km về phía Nam, tương truyền xưa kia sau trận Bình Lỗ nhà vua đã cho quân sĩ đến đây ăn mừng.",
+        "Tại vùng Bắc Ninh ngày nay còn lưu truyền một câu truyện sinh động ở chùa Tiêu (Tiên Sơn, Bắc Ninh). Năm 980, khi đó Lý Công Uẩn mới 7 tuổi đã phải thay nhà chùa vác tre nộp cho nhà vua phục vụ việc ngăn sông chặn giặc. \"Đứa bé ra đình làng, thì mọi người đã vác hết cây nhỏ và nhẹ, còn một cây to dài rất nặng, mọi người bỏ lại, đứa bé liền nhấc lên vai, đi một mạch ra bờ sông. Dọc đường ai thấy cũng kinh ngạc, khen đứa bé mới bảy tuổi mà sức vóc đã phi thường\"11 . Biết rằng chùa Tiêu nằm rất gần ngã ba Xà, chỉ bằng 1/5 đoạn đường từ chùa Tiêu đến ngã ba Lềnh (Yên Lệnh, Hà Nam) và chỉ bằng khoảng 1/7 đoạn đường đến Hoa Lư. Qua đó cho thấy giả thuyết thành Bình Lỗ nằm ở khu vực ngã ba Xà là hợp lý hơn cả.",
+        "Trương Hống,Trương Hát là hai vị tướng dưới thời Triệu Việt Vương. Tên của hai ông được nhắc đến nhiều nhất cùng với sự ra đời của bài thơ Nam quốc sơn hà. Trước đây bài thơ được cho là sáng tác của Lý Thường Kiệt, nhưng nay các nhà nghiên cứu đã khẳng định lại bài thơ ra đời từ thời Tiền Lê12 . Trong sách Lĩnh Nam trích quái, bài thơ còn được gắn với chiến trận cụ thể do Lê Hoàn chỉ huy.",
+        "Đó là \"vào năm Tân Tỵ (981),...Hầu Nhân Bảo và Tôn Toàn Hưng đem quân sang xâm lược phương Nam, đến sông Đại Than\". Từ điểm tập kết ở Đại Than (nay thuộc xã Cao Đức, Gia Bình, Bắc Ninh), vua Lê đã cho quân \"đánh giả hàng\" và dụ được quân Tống ngược dòng sông Cầu để tiến về phía Đồ Lỗ (sông Cà Lồ). Tại đây \"Đại Hành mộng thấy hai thần nhân ở trên sông vái\u2026 Vua giật mình tỉnh dậy, mừng rỡ mà bảo cận thần rằng: \"Có thần nhân giúp ta rồi vậy\". Khi đó nhà vua đang ở khúc sông bên thành Bình Lỗ và ông không ngờ đã nằm ở trong căn cứ kháng chiến xưa kia của hai vị anh hùng Trương Hống, Trương Hát. Báo Bắc Ninh ngày 15/6/2007 cho biết xưa kia hai ông đã đến \"địa phận làng Tiên Tảo, \u2026thấy đất có thế ỷ giốc, tiến thoái lưỡng tiện có thể dụng binh liền cho quân hạ trại\u2026\"13 . Nhờ xây dựng được căn cứ kháng chiến này mà đội quân của hai ông đã lớn mạnh, góp phần quan trọng vào giải phóng nước Vạn Xuân.",
+        "Về sau Triệu Việt Vương bị Lý Phật Tử phản bội và chết. Để giữ trọn tấm lòng trung với vua và không chịu để Lý Phật tử sát hại, các ông đã bàn nhau cùng đem gia quyến xuôi dòng sông Cầu, đục thuyền tự vẫn. Nhân dân hai bờ sông Cầu thương tiếc, lập nhiều đền thờ làm Thần, trong đó đền chính thờ Trương Hống được xây dựng ngay trên bờ sông gần ngã ba Xà, nay vẫn còn.",
+        "Thành Bình Lỗ 14 được xây dựng trên một doi đất cao, có tọa độ là 21.236822 vĩ tuyến Bắc và 105.918846 kinh tuyến Đông, ngay bờ Nam sông Cà Lồ, cách ngã ba Xà khoảng 2 km. Doi đất có hình dạng giống như một chiếc móng chân ngựa, chỗ rộng nhất lên đến trên 700 m, hơn 2/3 chu vi được bao bọc bởi dòng sông Cà Lồ tạo thành con hào thiên nhiên khó vượt qua. Lòng sông Cà Lồ nhỏ hẹp, bề ngang trung bình khoảng 50 m và về mùa cạn mực nước thông thường chỉ dao động từ 1,0 m đến 2,5 m. Với điều kiện như vậy nên xưa kia Lê Hoàn có thể ra lệnh cho quân và dân \"thung mộc hạn giang\" 15 nghĩa là có thể đóng cọc tre gỗ thẳng xuống lòng sông từ bờ này sang bờ kia để cản giặc.",
+        "Bình Lỗ không phải là một tòa thành được xây dựng kiên cố mà chỉ là một hệ thống công sự phòng thủ vững chắc dựa vào các điều kiện tự nhiên và sử dụng những vật liệu sẵn có trong vùng. Dưới sông, đoạn xung quanh doi đất cao, quân Đại Cồ Việt lập thành các hàng rào bằng tre gỗ ken dày và chắn ngang dòng nước, trên bờ đắp thêm các ụ đất xen vào giữa các lũy tre như đã thấy ở thành Cổ Loa trước đó hay trên chiến tuyến sông Như Nguyệt thời Lý sau này.",
+        "Toàn bộ khu vực ngã ba Xà, với sông ngòi và rừng rậm thời bấy giờ, dễ dàng cho phép xây dựng ở đây một trận địa mai phục như vậy. Đặc biệt dải đất với diện tích khoảng 5 km2 này lại được bao bọc bởi 3 khúc sông, một đoạn là hạ lưu sông Cà Lồ khoảng 2 km, một khúc sông Cầu và một nhánh sông nhỏ nối tắt từ sông Cà Lồ đến bến đò Như Nguyệt dài hơn 3 km. Đỉnh giữa của tam giác là ngã ba Xà, cạnh đáy là nhánh sông nhỏ (đến thời Nhà Trần và Hậu Lê bịt kín bởi các con đê). Đỉnh bên trái của tam giác là doi đất nhô cao hơn hẳn khu vực xung quanh. Mạng lưới sông ngòi, thuỷ văn ở đây tuy nhỏ nhưng đủ tạo thành một vùng khép kín, liên thông với nhau, dễ dàng phát triển thành một căn cứ thủy binh mạnh khi chiến sự xảy ra.",
+        "Doi đất như được thiên nhiên tạo ra để trở thành một pháo đài dễ phòng thủ và khó tấn công. Gần đây nhất là vào cuối thế kỷ 17, một số giáo sĩ phương Tây đầu tiên đã đến nơi này để truyền đạo, họ gom dân và xây dựng trên doi đất này một làng công giáo đông đảo, về sau phát triển thành một Xứ đạo lấy tên là Trung Nghĩa 16 . Tuy ngôi làng chỉ tồn tại đến năm 1954, nhưng qua đó cũng cho thấy người phương Tây coi trọng giá trị quân sự của doi đất này trong việc phòng thủ Hà Nội từ xa trước những mối đe doạ từ phía Bắc.",
+        "Trần Hưng Đạo, trong di chúc năm 1300 chỉ ca ngợi việc đắp thành Bình Lỗ mà không ghi cụ thể về trận đánh ở toà thành này. Như vậy có thể trận đánh Tống năm 981 chỉ diễn ra ở lối lên thành Bình Lỗ, nay còn để lại cái tên là ngòi Ác và nhất là bên ngoài thành này, trên hệ thống sông ngòi kéo dài từ thành Bình Lỗ đến bờ sông Cầu.",
+        "Do quân Tống từ xa đến, chúng lại tập trung phần lớn ở Đại Than (Phả Lại), cho nên để phát huy vai trò của thành Bình Lỗ, Lê Hoàn đã phải 2 lần giả hàng. Lần thứ nhất là \"đánh giả hàng\" để dẫn dụ quân Tống từ Đại Than đến khúc sông Như Nguyệt. Khi đi vào sông Cà Lồ chúng lo sợ có phục binh nên đã \" rút lui về giữ sông Ninh\" tức sông Cầu vì theo Việt sử lược và Nguyễn Vinh Phúc thì con sông Cầu còn có một tên cũ là Ninh Giang.",
+        "Theo Tục tư trị thông giám trường biên của Lý Đào thì trước đó quân Tống đã do thám và phát hiện ra \u2018công trường xây dựng\u2019 thành Bình Lỗ. Sách này viết: \"Tháng ấy (tức tháng 2 năm 981) sai Bát tác sứ là Hác Thủ Tuấn chia nhau theo lối đường sông đến tận chỗ đất giặc đều khơi (đào) rộng ra\". Vì vậy Lê Đại Hành lại phải một lần nữa giả hàng, nhưng lần này là \"sai người sang trá hàng để dụ Hầu Nhân Bảo\" từ sông Ninh vào sông Hữu Ninh để tiêu diệt.",
+        "Tuy nhiên phía Đại Cồ Việt phải kiên nhẫn đợi đến khi toàn bộ quân Tống vào hết trong đoạn sông Cà Lồ dài 2 km thì \"đoàn âm binh áo đỏ từ phía bắc sông Như Nguyệt\" quay lại khoá đuôi bịt kín cửa sông. Cùng lúc đó \"đoàn âm binh áo trắng, từ phía nam Bình Giang\" tức từ vị trí của doi đất cao, \"cùng xông vào trại giặc mà đánh\". Trước sức ép từ hai mặt buộc quân Tống lại phải rút lui một lần nữa, nhưng lần này không rút ra sông Ninh (tức sông Cầu) được mà buộc phải \"rút về giữ sông Hữu Ninh\".",
+        "Vậy sông Hữu Ninh là con sông nào và ở đâu? Biết rằng sông Cầu chính là Ninh Giang, nên những nhánh nằm phía hữu ngạn con sông này đều có thể gọi là sông Hữu Ninh được. Sông Hữu Ninh phải là nơi mà sư Khuông Việt đã đến, ở gần quê hương ông và gắn với trận Bình Lỗ, một trận mà Sư bỏ nhiều công sức chuẩn bị. Trên thực địa, ngoài đoạn sông Cà Lồ hiện nay còn tìm thấy dấu tích của một con sông thứ hai nhỏ hơn nhưng chạy suốt từ \"doi đất cao\" tức vị trí của thành Bình Lỗ đến bến đò Như Nguyệt. Vậy con sông nhỏ bị chắn cả hai đầu từ thời nhà Trần, không còn nước chảy qua, chính là con sông Hữu Ninh.",
+        "Theo truyện kể về Đại sư Khuông Việt, trong phần chú thích Lê Mạnh Thát đã chép lại một đoạn về trận chiến năm đó như sau: \"Quân Tống bỗng thấy một người xuất hiện giữa sóng gió, cao hơn mười trượng, tóc tai dựng ngược lên, trừng mắt mà nhìn, ánh sáng thần chói lọi. Quân Tống thấy mà khiếp sợ, rút về giữa sông Hữu Ninh\".",
+        "Quả vậy, do không thể vượt qua thành Bình Lỗ và cũng không thể quay lại để rút ra sông Cầu được, quân Tống buộc phải chạy vào sông Hữu Ninh và đã sa vào trận đia mai phục ở đây mà Lê Hoàn đã bố trí từ nhiều tháng trước. Quân Đại Cồ Việt từ hai bên bờ xông thẳng vào đội hình địch mà đánh. Sách An Nam chí nguyên của Cao Hùng Trưng cho biết: \"Nhân Bảo đem vạn quân xông vào trước bị thế giặc rất mạnh, viện quân phía sau đến cứu không kịp, trận thế bị vây hãm, nên Nhân Bảo bị loạn quân giết chết quẳng xác xuống sông\". Ngày nay dọc con sông nhỏ hẹp này còn để lại nhiều dấu tích với những cái tên như Ngòi Ác, cầu Cửa Ma, Đầm Lâu và một nấm mồ chung chạy dài có tên là Bờ Xác.",
+        "Sau này Đại Việt sử lược, Quyển I, phần chép về Lê Ngoạ Triều cho biết thêm về sông Hữu Ninh như sau: \"Khi vua đi chơi ở sông Chi Ninh (tức sông Hữu Ninh), sông có nhiều thuồng luồng, bèn trói người ở một bên ghe, rồi cho ghe qua lại ở giữa dòng nước, khiến cho thuồng luồng nó sát hại đi\". Biết rằng Ngoạ Triều mang tội giết anh cướp ngôi, nên khi lên làm vua ông rất sợ các tướng tâm phúc của Lê Trung Tông trả thủ. Việc ông đến sông Hữu Ninh (khu vực ngã ba Xà) để truy sát họ và dò xét các Hoàng tử Nhà Tiền Lê khác là điều dễ hiểu. Tại cửa sông Cà Lồ, đến đầu thế kỷ 20 người dân vẫn còn nhìn thấy thuồng luồng nổi lên vào mùa mưa. Chúng là loài cá dữ giống con rắn lớn, có thể hại chết những con vật và người khi bơi qua, dân chài thường bắt được những con dài đến 2\u20133 m ở cửa sông này. Việc Ngoạ Triều bắt được người dân ở sông Hữu Ninh, tra khảo để biết thông tin về hậu duệ của Lê Trung Tông bằng cách cho thuồng luồng sát hại cũng là chuyện có thể xảy ra.",
+        "Có tài liệu cho rằng Hầu Nhân Bảo chết ở Bạch Đằng, nhưng phần nhiều các sách sử đều viết trận đó địch thắng, ta thua. Trong bối cảnh như vậy Hầu Nhân Bảo khó có thể bị giết ở đây, vả lại khi tiến sâu vào sông ngòi chằng chịt ở nước ta, thì người Tống cũng không thể phân biệt rõ tên các địa danh nên Tống sử chỉ ghi chung cho các sông ở Bắc Bộ là Bạch Đằng mà thôi. Vậy trong chiến tranh Tống-Việt năm 981, trận Đại Cồ Việt thắng lớn và giết được chủ tướng giặc, diễn ra ở Bình Lỗ là hợp lý.Sông Hữu Ninh không phải ở Lạng Sơn hay Lãng Sơn mà ở ngay vùng cửa sông Cà Lồ, con sông này đã cùng với thành Bình Lỗ đã làm nên chiến thắng vang dội đến mức khi sắp qua đời Trần Hưng Đạo vẫn không quên bài học kinh nghiệm này.",
+        "Cuộc kháng chiến năm 980-981 thắng lợi trọn vẹn, Lê Hoàn đã lợi dụng điều kiện địa hình sông ngòi của nước ta, bố phòng hợp lý khiến cho quân Tống không dùng được kế đánh nhanh thắng nhanh. Ông lại thực thi có hiệu quả thuật công tâm và kế trá hàng làm cho các tướng Tống không lường trước được.",
+        "Hiệu quả của trận đánh ở khu vực thành Bình Lỗ rất cao làm cho quân Tống hàng chục năm sau vẫn còn sợ hãi. Năm 1005, nhân khi Lê Hoàn chết tình hình Đại Cồ Việt rối ren, các quan lại nhà Tống xin tiến quân xâm chiếm để trả thù, nhưng vua Tống Chân Tông vẫn một mực từ chối.",
+        "Đánh giá về võ công của Lê Hoàn, nhà sử học Lê Văn Hưu hết lời ca ngợi: \"Lê Đại Hành\u2026 tóm Quân Biện, Phụng Huân dễ như lùa trẻ con, như sai nô lệ, chưa đầy vài năm mà bờ cõi định yên, công đánh dẹp chiến thắng dẫu là nhà Hán, nhà Đường cũng không hơn được\". Chiến thắng Bình Lỗ thực sự là một mốc son chói lọi trong lịch sử mấy nghìn năm dựng nước và giữ nước của nhân dân ta.",
+        "Tại khu vực Bình Lỗ ngày nay còn để lại nhiều di tích lịch sử thuộc 3 tỉnh là Hà Nội, Bắc Ninh và Bắc Giang được công nhận ở những mức độ khác nhau trong đó có đền Xà, nơi phát tích của bài thơ Nam quốc sơn hà, căn cứ kháng chiến của hai vị anh hùng Trương Hống - Trương Hát ở Tiên Tảo, làng Ba Lỗ và nhiều cái tên cũng như địa danh lịch sử khác.",
+        "(Nguồn: Wikipedia)"
+    ]
+}

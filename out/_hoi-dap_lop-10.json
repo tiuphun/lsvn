@@ -1,0 +1,800 @@
+{
+    "tables": [],
+    "keywords": [],
+    "headings": [
+        "Lịch sử lớp 10",
+        "Hãy cho biết những bước tiến trong lao động và đời sống của người nguyên thủy?",
+        "Tại sao gọi là \"cuộc cách mạng đá mới\"?",
+        "Trình bày những tiến bộ trong đời sống con người thời đá mới?",
+        "Hãy cho biết những tiến bộ kĩ thuật của thời đá mới?",
+        "Hãy nêu những tiến bộ kĩ thuật khi Người tinh khôn xuất hiện?",
+        "Chuyên mục phụ",
+        "Chương 1: Xã hội nguyên thủy Số bài viết: 13",
+        "Chương 2: Xã hội cổ đại Số bài viết: 18",
+        "Chương 3: Trung Quốc thời phong kiến Số bài viết: 8",
+        "Chương 4: Ấn Độ thời phong kiến Số bài viết: 9",
+        "Chương 5: Đông Nam Á thời phong kiến Số bài viết: 9",
+        "Chương 6: Tây Âu thời trung đại Số bài viết: 19",
+        "Chương 1: Việt Nam từ thời nguyên thủy đến thế kỉ X Số bài viết: 28",
+        "Chương 2: Việt Nam từ thế kỉ X đến thế kỉ XV Số bài viết: 32",
+        "Chương 3: Việt Nam từ thế kỉ XVI đến thế kỉ XVIII Số bài viết: 36",
+        "Chương 4: Việt Nam ở nửa đầu thế kỉ XIX Số bài viết: 14",
+        "Chương 5: Sơ kết lịch sử Việt Nam từ nguồn gốc đến giữa thế kỉ XIX Số bài viết: 16",
+        "Chương 1: Các cuộc cách mạng tư sản (Từ giữa thế kỉ XVI đến cuối thế kỉ XVIII) Số bài viết: 22",
+        "Chương 2: Các nước Âu - Mĩ (Từ giữa thế kỉ XVI đến cuối thế kỉ XVIII) Số bài viết: 22",
+        "Chương 3: Phong trào công nhân (Từ đầu thế kỉ XIX đến đầu thế kỉ XX) Số bài viết: 26",
+        "Mục lục",
+        "Anh Hùng Dân Tộc Tiêu Biểu",
+        "Tư Liệu Lịch Sử",
+        "Di Tích Lịch Sử"
+    ],
+    "anchors": [
+        {
+            "text": "",
+            "href": "/"
+        },
+        {
+            "text": "Trang Chủ",
+            "href": "/"
+        },
+        {
+            "text": "Dòng Lịch Sử",
+            "href": "/dong-lich-su"
+        },
+        {
+            "text": "Hồng Bàng & Văn Lang",
+            "href": "/dong-lich-su/hong-bang-va-van-lang"
+        },
+        {
+            "text": "Âu Lạc & Nam Việt",
+            "href": "/dong-lich-su/au-lac-va-nam-viet"
+        },
+        {
+            "text": "Bắc thuộc lần I",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat"
+        },
+        {
+            "text": "Trưng Nữ Vương",
+            "href": "/dong-lich-su/trung-nu-vuong"
+        },
+        {
+            "text": "Bắc thuộc lần II",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-hai"
+        },
+        {
+            "text": "Nhà Lý & Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu"
+        },
+        {
+            "text": "Bắc thuộc lần III",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-ba"
+        },
+        {
+            "text": "Thời kỳ xây nền tự chủ",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu"
+        },
+        {
+            "text": "Nhà Ngô",
+            "href": "/dong-lich-su/nha-ngo"
+        },
+        {
+            "text": "Nhà Đinh",
+            "href": "/dong-lich-su/nha-dinh"
+        },
+        {
+            "text": "Nhà Tiền Lê",
+            "href": "/dong-lich-su/nha-tien-le"
+        },
+        {
+            "text": "Nhà Lý",
+            "href": "/dong-lich-su/nha-ly"
+        },
+        {
+            "text": "Nhà Trần",
+            "href": "/dong-lich-su/nha-tran"
+        },
+        {
+            "text": "Nhà Hồ",
+            "href": "/dong-lich-su/nha-ho"
+        },
+        {
+            "text": "Nhà Hậu Trần",
+            "href": "/dong-lich-su/nha-hau-tran"
+        },
+        {
+            "text": "Bắc thuộc lần IV",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-tu"
+        },
+        {
+            "text": "Nhà Hậu Lê",
+            "href": "/dong-lich-su/nha-hau-le"
+        },
+        {
+            "text": "Nam Bắc Triều",
+            "href": "/dong-lich-su/nam-bac-trieu"
+        },
+        {
+            "text": "Trịnh Nguyễn Phân Tranh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh"
+        },
+        {
+            "text": "Nhà Tây Sơn",
+            "href": "/dong-lich-su/nha-tay-son"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/nha-nguyen"
+        },
+        {
+            "text": "Pháp Thuộc",
+            "href": "/dong-lich-su/phap-thuoc"
+        },
+        {
+            "text": "Việt Nam Dân Chủ Cộng Hoà",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Cộng hoà xã hội chủ nghĩa Việt Nam",
+            "href": "/dong-lich-su/viet-nam-xhcn"
+        },
+        {
+            "text": "Tư Liệu",
+            "href": "/tu-lieu"
+        },
+        {
+            "text": "Quân Sự",
+            "href": "/tu-lieu/quan-su?filter_tag[0]="
+        },
+        {
+            "text": "Tác Phẩm",
+            "href": "/tu-lieu/tac-pham?filter_tag[0]="
+        },
+        {
+            "text": "Bang Giao",
+            "href": "/tu-lieu/bang-giao"
+        },
+        {
+            "text": "Biểu đồ thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Nhân Vật",
+            "href": "/nhan-vat"
+        },
+        {
+            "text": "Anh Hùng Dân Tộc",
+            "href": "/anh-hung-dan-toc?types[0]=1"
+        },
+        {
+            "text": "Danh nhân văn hóa",
+            "href": "/danh-nhan-van-hoa?types[0]=1"
+        },
+        {
+            "text": "Di Tích",
+            "href": "/di-tich-lich-su?types[0]=1"
+        },
+        {
+            "text": "Ngày Nay",
+            "href": "/thoi-su"
+        },
+        {
+            "text": "Sách",
+            "href": "/sach"
+        },
+        {
+            "text": "Video",
+            "href": "/video"
+        },
+        {
+            "text": "Q&A",
+            "href": "/hoi-dap"
+        },
+        {
+            "text": "Lịch sử lớp 12",
+            "href": "/hoi-dap/lop-12"
+        },
+        {
+            "text": "Lịch sử lớp 11",
+            "href": "/hoi-dap/lop-11"
+        },
+        {
+            "text": "Lịch sử lớp 10",
+            "href": "/hoi-dap/lop-10"
+        },
+        {
+            "text": "Lịch sử lớp 9",
+            "href": "/hoi-dap/lop-9"
+        },
+        {
+            "text": "Lịch sử lớp 8",
+            "href": "/hoi-dap/lop-8"
+        },
+        {
+            "text": "Lịch sử lớp 7",
+            "href": "/hoi-dap/lop-7"
+        },
+        {
+            "text": "Lịch sử lớp 6",
+            "href": "/hoi-dap/lop-6"
+        },
+        {
+            "text": "Trang chủ",
+            "href": "/"
+        },
+        {
+            "text": "Q&A",
+            "href": "/hoi-dap"
+        },
+        {
+            "text": "Hãy cho biết những bước tiến trong lao động và đời sống của người nguyên thủy?",
+            "href": "/hoi-dap/lop-10/chuong-1/bai-1/hay-cho-biet-nhung-buoc-tien-trong-lao-dong-va-doi-song-cua-nguoi-nguyen-thuy"
+        },
+        {
+            "text": "Bài 1: Sự xuất hiện loài người và bầy người nguyên thủy",
+            "href": "/hoi-dap/lop-10/chuong-1/bai-1"
+        },
+        {
+            "text": "Chi tiết \u2026",
+            "href": "/hoi-dap/lop-10/chuong-1/bai-1/hay-cho-biet-nhung-buoc-tien-trong-lao-dong-va-doi-song-cua-nguoi-nguyen-thuy"
+        },
+        {
+            "text": "Tại sao gọi là \"cuộc cách mạng đá mới\"?",
+            "href": "/hoi-dap/lop-10/chuong-1/bai-1/tai-sao-goi-la-cuoc-cach-mang-da-moi"
+        },
+        {
+            "text": "Bài 1: Sự xuất hiện loài người và bầy người nguyên thủy",
+            "href": "/hoi-dap/lop-10/chuong-1/bai-1"
+        },
+        {
+            "text": "Chi tiết \u2026",
+            "href": "/hoi-dap/lop-10/chuong-1/bai-1/tai-sao-goi-la-cuoc-cach-mang-da-moi"
+        },
+        {
+            "text": "Trình bày những tiến bộ trong đời sống con người thời đá mới?",
+            "href": "/hoi-dap/lop-10/chuong-1/bai-1/trinh-bay-nhung-tien-bo-trong-doi-song-con-nguoi-thoi-da-moi"
+        },
+        {
+            "text": "Bài 1: Sự xuất hiện loài người và bầy người nguyên thủy",
+            "href": "/hoi-dap/lop-10/chuong-1/bai-1"
+        },
+        {
+            "text": "Chi tiết \u2026",
+            "href": "/hoi-dap/lop-10/chuong-1/bai-1/trinh-bay-nhung-tien-bo-trong-doi-song-con-nguoi-thoi-da-moi"
+        },
+        {
+            "text": "Hãy cho biết những tiến bộ kĩ thuật của thời đá mới?",
+            "href": "/hoi-dap/lop-10/chuong-1/bai-1/hay-cho-biet-nhung-tien-bo-ki-thuat-cua-thoi-da-moi"
+        },
+        {
+            "text": "Bài 1: Sự xuất hiện loài người và bầy người nguyên thủy",
+            "href": "/hoi-dap/lop-10/chuong-1/bai-1"
+        },
+        {
+            "text": "Chi tiết \u2026",
+            "href": "/hoi-dap/lop-10/chuong-1/bai-1/hay-cho-biet-nhung-tien-bo-ki-thuat-cua-thoi-da-moi"
+        },
+        {
+            "text": "Hãy nêu những tiến bộ kĩ thuật khi Người tinh khôn xuất hiện?",
+            "href": "/hoi-dap/lop-10/chuong-1/bai-1/hay-neu-nhung-tien-bo-ki-thuat-khi-nguoi-tinh-khon-xuat-hien"
+        },
+        {
+            "text": "Bài 1: Sự xuất hiện loài người và bầy người nguyên thủy",
+            "href": "/hoi-dap/lop-10/chuong-1/bai-1"
+        },
+        {
+            "text": "Chi tiết \u2026",
+            "href": "/hoi-dap/lop-10/chuong-1/bai-1/hay-neu-nhung-tien-bo-ki-thuat-khi-nguoi-tinh-khon-xuat-hien"
+        },
+        {
+            "text": "Chương 1: Xã hội nguyên thủy",
+            "href": "/hoi-dap/lop-10/chuong-1"
+        },
+        {
+            "text": "Chương 2: Xã hội cổ đại",
+            "href": "/hoi-dap/lop-10/chuong-2"
+        },
+        {
+            "text": "Chương 3: Trung Quốc thời phong kiến",
+            "href": "/hoi-dap/lop-10/chuong-3"
+        },
+        {
+            "text": "Chương 4: Ấn Độ thời phong kiến",
+            "href": "/hoi-dap/lop-10/chuong-4"
+        },
+        {
+            "text": "Chương 5: Đông Nam Á thời phong kiến",
+            "href": "/hoi-dap/lop-10/chuong-5"
+        },
+        {
+            "text": "Chương 6: Tây Âu thời trung đại",
+            "href": "/hoi-dap/lop-10/chuong-6"
+        },
+        {
+            "text": "Chương 1: Việt Nam từ thời nguyên thủy đến thế kỉ X",
+            "href": "/hoi-dap/lop-10/chuong-1"
+        },
+        {
+            "text": "Chương 2: Việt Nam từ thế kỉ X đến thế kỉ XV",
+            "href": "/hoi-dap/lop-10/chuong-2"
+        },
+        {
+            "text": "Chương 3: Việt Nam từ thế kỉ XVI đến thế kỉ XVIII",
+            "href": "/hoi-dap/lop-10/chuong-3"
+        },
+        {
+            "text": "Chương 4: Việt Nam ở nửa đầu thế kỉ XIX",
+            "href": "/hoi-dap/lop-10/chuong-4"
+        },
+        {
+            "text": "Chương 5: Sơ kết lịch sử Việt Nam từ nguồn gốc đến giữa thế kỉ XIX",
+            "href": "/hoi-dap/lop-10/chuong-5"
+        },
+        {
+            "text": "Chương 1: Các cuộc cách mạng tư sản (Từ giữa thế kỉ XVI đến cuối thế kỉ XVIII)",
+            "href": "/hoi-dap/lop-10/chuong-1"
+        },
+        {
+            "text": "Chương 2: Các nước Âu - Mĩ (Từ giữa thế kỉ XVI đến cuối thế kỉ XVIII)",
+            "href": "/hoi-dap/lop-10/chuong-2"
+        },
+        {
+            "text": "Chương 3: Phong trào công nhân (Từ đầu thế kỉ XIX đến đầu thế kỉ XX)",
+            "href": "/hoi-dap/lop-10/chuong-3"
+        },
+        {
+            "text": "1",
+            "href": "#"
+        },
+        {
+            "text": "2",
+            "href": "/hoi-dap/lop-10?start=5"
+        },
+        {
+            "text": "3",
+            "href": "/hoi-dap/lop-10?start=10"
+        },
+        {
+            "text": "4",
+            "href": "/hoi-dap/lop-10?start=15"
+        },
+        {
+            "text": "5",
+            "href": "/hoi-dap/lop-10?start=20"
+        },
+        {
+            "text": "6",
+            "href": "/hoi-dap/lop-10?start=25"
+        },
+        {
+            "text": "7",
+            "href": "/hoi-dap/lop-10?start=30"
+        },
+        {
+            "text": "8",
+            "href": "/hoi-dap/lop-10?start=35"
+        },
+        {
+            "text": "9",
+            "href": "/hoi-dap/lop-10?start=40"
+        },
+        {
+            "text": "10",
+            "href": "/hoi-dap/lop-10?start=45"
+        },
+        {
+            "text": "",
+            "href": "/hoi-dap/lop-10?start=5"
+        },
+        {
+            "text": "",
+            "href": "/hoi-dap/lop-10?start=270"
+        },
+        {
+            "text": "Chương 1: Xã hội nguyên thủy",
+            "href": "/hoi-dap/lop-10/chuong-1"
+        },
+        {
+            "text": "Bài 1: Sự xuất hiện loài người và bầy người nguyên thủy",
+            "href": "/hoi-dap/lop-10/chuong-1/bai-1"
+        },
+        {
+            "text": "Bài 2: Xã hội nguyên thủy",
+            "href": "/hoi-dap/lop-10/chuong-1/bai-2"
+        },
+        {
+            "text": "Chương 2: Xã hội cổ đại",
+            "href": "/hoi-dap/lop-10/chuong-2"
+        },
+        {
+            "text": "Bài 3: Các quốc gia cổ đại phương đông",
+            "href": "/hoi-dap/lop-10/chuong-2/bai-3"
+        },
+        {
+            "text": "Bài 4: Các quốc gia cổ đại phương Tây - Hi Lạp và Rô - Ma",
+            "href": "/hoi-dap/lop-10/chuong-2/bai-4"
+        },
+        {
+            "text": "Chương 3: Trung Quốc thời phong kiến",
+            "href": "/hoi-dap/lop-10/chuong-3"
+        },
+        {
+            "text": "Bài 5: Trung Quốc thời phong kiến",
+            "href": "/hoi-dap/lop-10/chuong-3/bai-5"
+        },
+        {
+            "text": "Chương 4: Ấn Độ thời phong kiến",
+            "href": "/hoi-dap/lop-10/chuong-4"
+        },
+        {
+            "text": "Bài 6: Các quốc gia Ấn Độ và văn hóa truyền thống Ấn Độ",
+            "href": "/hoi-dap/lop-10/chuong-4/bai-6"
+        },
+        {
+            "text": "Bài 7: Sự phát triển lịch sử và nền văn hóa đa dạng của Ấn Độ",
+            "href": "/hoi-dap/lop-10/chuong-4/bai-7"
+        },
+        {
+            "text": "Chương 5: Đông Nam Á thời phong kiến",
+            "href": "/hoi-dap/lop-10/chuong-5"
+        },
+        {
+            "text": "Bài 8: Sự hình thành và phát triển các vương quốc chính ở Đông Nam Á",
+            "href": "/hoi-dap/lop-10/chuong-5/bai-8"
+        },
+        {
+            "text": "Bài 9: Vương quốc Cam-pu-chia và Vương quốc Lào",
+            "href": "/hoi-dap/lop-10/chuong-5/bai-9"
+        },
+        {
+            "text": "Chương 6: Tây Âu thời trung đại",
+            "href": "/hoi-dap/lop-10/chuong-6"
+        },
+        {
+            "text": "Bài 10: Thời kì hình thành và phát triển của chế độ phong kiến Tây Âu (từ thế kỉ V đến thế kỉ XIV)",
+            "href": "/hoi-dap/lop-10/chuong-6/bai-10"
+        },
+        {
+            "text": "Bài 11: Tây Âu thời kì trung đại",
+            "href": "/hoi-dap/lop-10/chuong-6/bai-11"
+        },
+        {
+            "text": "Bài 12: Ôn tập: Lịch sử thế giới người nguyên thủy, cổ đại và trung đại",
+            "href": "/hoi-dap/lop-10/chuong-6/bai-12"
+        },
+        {
+            "text": "Chương 1: Việt Nam từ thời nguyên thủy đến thế kỉ X",
+            "href": "/hoi-dap/lop-10/chuong-1"
+        },
+        {
+            "text": "Bài 13: Việt Nam thời kì nguyên thủy",
+            "href": "/hoi-dap/lop-10/chuong-1/bai-13"
+        },
+        {
+            "text": "Bài 14: Các quốc gia cổ đại trên đất nước Việt Nam",
+            "href": "/hoi-dap/lop-10/chuong-1/bai-14"
+        },
+        {
+            "text": "Bài 15: Thời Bắc thuộc và các cuộc đấu tranh giành độc lập dân tộc (từ thế kỉ II TCN đến đầu thế kỉ X)",
+            "href": "/hoi-dap/lop-10/chuong-1/bai-15"
+        },
+        {
+            "text": "Bài 16: Thời Bắc thuộc và các cuộc đấu tranh giành độc lập dân tộc (từ thế kỉ II TCN đến đầu thế kỉ X) (Tiếp theo)",
+            "href": "/hoi-dap/lop-10/chuong-1/bai-16"
+        },
+        {
+            "text": "Chương 2: Việt Nam từ thế kỉ X đến thế kỉ XV",
+            "href": "/hoi-dap/lop-10/chuong-2"
+        },
+        {
+            "text": "Bài 17: Quá trình hình thành và phát triển của nhà nước phong kiến (từ thế kỉ X đến thế kỉ XV)",
+            "href": "/hoi-dap/lop-10/chuong-2/bai-17"
+        },
+        {
+            "text": "Bài 18: Công cuộc xây dựng và phát triển kinh tế trong các thế kỉ X-XV",
+            "href": "/hoi-dap/lop-10/chuong-2/bai-18"
+        },
+        {
+            "text": "Bài 19: Những cuộc kháng chiến chống ngoại xâm ở các thế kỉ X-XV",
+            "href": "/hoi-dap/lop-10/chuong-2/bai-19"
+        },
+        {
+            "text": "Bài 20: Xây dựng và phát triển văn hóa dân tộc trong các thế kỉ X-XV",
+            "href": "/hoi-dap/lop-10/chuong-2/bai-20"
+        },
+        {
+            "text": "Chương 3: Việt Nam từ thế kỉ XVI đến thế kỉ XVIII",
+            "href": "/hoi-dap/lop-10/chuong-3"
+        },
+        {
+            "text": "Bài 21: Những biến đổi của nhà nước phong kiến trong các thế kỉ XVI-XVIII",
+            "href": "/hoi-dap/lop-10/chuong-3/bai-21"
+        },
+        {
+            "text": "Bài 22: Tình hình kinh tế ở các thế kỉ XVI-XVIII",
+            "href": "/hoi-dap/lop-10/chuong-3/bai-22"
+        },
+        {
+            "text": "Bài 23: Phong trào Tây Sơn và sự nghiệp thống nhất đất nước, bảo vệ tổ quốc cuối thế kỉ XVIII",
+            "href": "/hoi-dap/lop-10/chuong-3/bai-23"
+        },
+        {
+            "text": "Bài 24: Tình hình văn hóa ở các thế kỉ XVI-XVIII",
+            "href": "/hoi-dap/lop-10/chuong-3/bai-24"
+        },
+        {
+            "text": "Chương 4: Việt Nam ở nửa đầu thế kỉ XIX",
+            "href": "/hoi-dap/lop-10/chuong-4"
+        },
+        {
+            "text": "Bài 25: Tình hình chính trị, kinh tế, văn hóa dưới triều Nguyễn (nửa đầu thế kỉ XIX)",
+            "href": "/hoi-dap/lop-10/chuong-4/bai-25"
+        },
+        {
+            "text": "Bài 26: Tình hình xã hội ở nửa đầu thế kỉ XIX và phong trào đấu tranh của nhân dân",
+            "href": "/hoi-dap/lop-10/chuong-4/bai-26"
+        },
+        {
+            "text": "Chương 5: Sơ kết lịch sử Việt Nam từ nguồn gốc đến giữa thế kỉ XIX",
+            "href": "/hoi-dap/lop-10/chuong-5"
+        },
+        {
+            "text": "Bài 27: Quá trình dựng nước và giữ nước",
+            "href": "/hoi-dap/lop-10/chuong-5/bai-27"
+        },
+        {
+            "text": "Bài 28: Truyền thống yêu nước của dân tộc Việt Nam thời phong kiến",
+            "href": "/hoi-dap/lop-10/chuong-5/bai-28"
+        },
+        {
+            "text": "Chương 1: Các cuộc cách mạng tư sản (Từ giữa thế kỉ XVI đến cuối thế kỉ XVIII)",
+            "href": "/hoi-dap/lop-10/chuong-1"
+        },
+        {
+            "text": "Bài 29: Cách mạng Hà Lan và cách mạng tư sản Anh",
+            "href": "/hoi-dap/lop-10/chuong-1/bai-29"
+        },
+        {
+            "text": "Bài 30: Chiến tranh giành độc lập của các thuộc địa Anh ở Bắc Mĩ",
+            "href": "/hoi-dap/lop-10/chuong-1/bai-30"
+        },
+        {
+            "text": "Bài 31: Cách mạng tư sản Pháp cuối thế kỉ XVIII",
+            "href": "/hoi-dap/lop-10/chuong-1/bai-31"
+        },
+        {
+            "text": "Chương 2: Các nước Âu - Mĩ (Từ giữa thế kỉ XVI đến cuối thế kỉ XVIII)",
+            "href": "/hoi-dap/lop-10/chuong-2"
+        },
+        {
+            "text": "Bài 32: Cách mạng công nghiệp ở châu Âu",
+            "href": "/hoi-dap/lop-10/chuong-2/bai-32"
+        },
+        {
+            "text": "Bài 33: Hoàn thành cách mạng tư sản ở châu Âu và Mĩ giữa thế kỉ XIX",
+            "href": "/hoi-dap/lop-10/chuong-2/bai-33"
+        },
+        {
+            "text": "Bài 34: Các nước tư bản chuyển sang giai đoạn đế quốc chủ nghĩa",
+            "href": "/hoi-dap/lop-10/chuong-2/bai-34"
+        },
+        {
+            "text": "Bài 35: Các nước Anh, Pháp, Đức, Mĩ và sự bành trướng thuộc địa",
+            "href": "/hoi-dap/lop-10/chuong-2/bai-35"
+        },
+        {
+            "text": "Chương 3: Phong trào công nhân (Từ đầu thế kỉ XIX đến đầu thế kỉ XX)",
+            "href": "/hoi-dap/lop-10/chuong-3"
+        },
+        {
+            "text": "Bài 36: Sự hình thành và phát triển của phong trào công nhân",
+            "href": "/hoi-dap/lop-10/chuong-3/bai-36"
+        },
+        {
+            "text": "Bài 37: Mác và Ăng-ghen. Sự ra đời của chủ nghĩa xã hội khoa học",
+            "href": "/hoi-dap/lop-10/chuong-3/bai-37"
+        },
+        {
+            "text": "Bài 38: Quốc tế thứ nhất và công xã Pa-ri 1871",
+            "href": "/hoi-dap/lop-10/chuong-3/bai-38"
+        },
+        {
+            "text": "Bài 39: Quốc tế thứ hai",
+            "href": "/hoi-dap/lop-10/chuong-3/bai-39"
+        },
+        {
+            "text": "Bài 40: Lê-nin và phong trào công nhân Nga đầu thế kỉ XX",
+            "href": "/hoi-dap/lop-10/chuong-3/bai-40"
+        },
+        {
+            "text": "Lý Thái Tổ",
+            "href": "/nhan-vat/ly-thai-to"
+        },
+        {
+            "text": "Hùng Vương",
+            "href": "/nhan-vat/hung-vuong"
+        },
+        {
+            "text": "Trần Hưng Đạo",
+            "href": "/nhan-vat/tran-hung-dao"
+        },
+        {
+            "text": "Lê Đại Hành",
+            "href": "/nhan-vat/le-dai-hanh"
+        },
+        {
+            "text": "Hồ Chí Minh",
+            "href": "/nhan-vat/ho-chi-minh"
+        },
+        {
+            "text": "Lý Nam Đế",
+            "href": "/nhan-vat/ly-nam-de"
+        },
+        {
+            "text": "Hai Bà Trưng",
+            "href": "/nhan-vat/hai-ba-trung"
+        },
+        {
+            "text": "Lê Thái Tổ",
+            "href": "/nhan-vat/le-thai-to"
+        },
+        {
+            "text": "Nguyễn Huệ",
+            "href": "/nhan-vat/nguyen-hue"
+        },
+        {
+            "text": "Nguyễn Trãi",
+            "href": "/nhan-vat/nguyen-trai"
+        },
+        {
+            "text": "Vấn đề biên giới Việt-Trung thời Mạc",
+            "href": "/tu-lieu/bang-giao/van-de-bien-gioi-viet-trung-thoi-mac"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Tây Sơn",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-tay-son"
+        },
+        {
+            "text": "Biểu đồ các nhân vật lịch sử theo dòng thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Danh sách Trạng nguyên Việt Nam",
+            "href": "/tu-lieu/danh-sach-trang-nguyen-viet-nam"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Nguyễn",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-nguyen"
+        },
+        {
+            "text": "Trận Điện Biên Phủ trên không năm 1972",
+            "href": "/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972"
+        },
+        {
+            "text": "Trận Ngọc Hồi - Đống Đa năm 1789",
+            "href": "/tu-lieu/quan-su/tran-ngoc-hoi-dong-da-nam-1789"
+        },
+        {
+            "text": "Trận Cẩm Sa năm 1775",
+            "href": "/tu-lieu/quan-su/tran-cam-sa-nam-1775"
+        },
+        {
+            "text": "Trận Rạch Gầm \u2013 Xoài Mút năm 1785",
+            "href": "/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785"
+        },
+        {
+            "text": "Lãnh thổ Việt Nam qua từng thời kỳ",
+            "href": "/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky"
+        },
+        {
+            "text": "Dinh Độc Lập",
+            "href": "/dia-danh/dinh-doc-lap"
+        },
+        {
+            "text": "chùa Thầy",
+            "href": "/dia-danh/chua-thay"
+        },
+        {
+            "text": "Đền Trần (Thái Bình)",
+            "href": "/dia-danh/den-tran-thai-binh"
+        },
+        {
+            "text": "Đền Hùng",
+            "href": "/dia-danh/den-hung"
+        },
+        {
+            "text": "Chiến khu Tân Trào",
+            "href": "/dia-danh/chien-khu-tan-trao"
+        },
+        {
+            "text": "Khu lăng mộ và đền thờ các vị vua triều Lý",
+            "href": "/dia-danh/khu-lang-mo-va-den-tho-cac-vi-vua-trieu-ly"
+        },
+        {
+            "text": "chùa Phổ Minh",
+            "href": "/dia-danh/chua-pho-minh"
+        },
+        {
+            "text": "Khu lưu niệm Chủ tịch Tôn Đức Thắng",
+            "href": "/dia-danh/khu-luu-niem-chu-tich-ton-duc-thang"
+        },
+        {
+            "text": "Khu di tích Chủ tịch Hồ Chí Minh tại Phủ Chủ tịch",
+            "href": "/dia-danh/khu-di-tich-chu-tich-ho-chi-minh-tai-phu-chu-tich"
+        },
+        {
+            "text": "Quần thể di tích Cố đô Huế",
+            "href": "/dia-danh/quan-the-di-tich-co-do-hue"
+        },
+        {
+            "text": "Giới thiệu",
+            "href": "/gioi-thieu"
+        },
+        {
+            "text": "Quyền riêng tư",
+            "href": "/quyen-rieng-tu"
+        },
+        {
+            "text": "Liên hệ",
+            "href": "/lien-he"
+        },
+        {
+            "text": "Địa Danh",
+            "href": "/dia-danh"
+        },
+        {
+            "text": "Trang Facebook",
+            "href": "https://www.facebook.com/nguoikesu/"
+        },
+        {
+            "text": "DanhMucBDS.com",
+            "href": "https://danhmucbds.com"
+        },
+        {
+            "text": "HocTotNguVan.com",
+            "href": "https://hoctotnguvan.com"
+        }
+    ],
+    "title": "Giải bài tập lịch sử lớp 10 - Người Kể Sử",
+    "paragraphs": [
+        "a) Bước tiến trong lao động:",
+        "- Khoảng 6 triệu năm trước đây, xuất hiện một loài vượn cổ đứng và đi bằng 2 chân, dùng tay để cầm nắm, ăn hoa quả...",
+        "- Khoảng 4 triệu năm trước đây, Vượn cổ chuyển hóa thành Người tối cổ, từ chỗ sử dụng những mảnh đá có sẵn để làm công cụ, Người tối cổ đã biết lấy những mảnh đá hay hòn cuội lớn, đem ghè một mặt cho sắc, vừa tay cầm. Như vậy, họ đã bắt đầu biết chế tác công cụ (rìu đá, chặt cây làm gậy để săn thú...).",
+        "- Khoảng 4 vạn năm trước Người tối cổ chuyển hóa thành Người tinh khôn hay người hiện đại. Họ biết ghè 2 rìa của một mảnh đá làm cho công cụ gọn và sắc hơn (rìu, dao, nạo...) lấy xương cá, cành cây mài và đẽo nhọn làm lao. Chế tạo cung tên là một thành tựu lớn trong quá trình chế tạo công cụ và vũ khí.",
+        "- Khoảng 1 vạn năm trước, loài người bước vào thời kì đá mới \u2013 một cuộc cách mạng. Nhiều công cụ lao động được chế tác với trình độ và lĩ thuật cao hơn trước (mài, khoan, cưa), công cụ có lỗ hoặc nấc để tra cán.",
+        "b) Trong đời sống",
+        "- Từ hái lượm, săn bắt người nguyên thủy chuyển sang săn bắn và hái lượm.",
+        "- Tìm ra lửa và biết giữ lửa để sưởi ấm và nướng chín thức ăn.",
+        "- Cùng với sự tiến bộ về công cụ lao động người nguyên thủy biết đến chăn nuôi và trồng trọt.",
+        "- Rời hang động, cư trú \u201cnhà cửa\u201d trở nên phổ biến.",
+        "- Con người biết làm sạch những tấm da thú để che thân, có khuy cài.",
+        "- Làm trang sức, chế tác nhạc cụ.",
+        "Những bước chuyển biến trên khiến cho cuộc sống của người nguyên thủy no đủ hơn, đẹp đẽ hơn, vui vẻ hơn và bớt lệ thuộc vào thiên nhiên hơn.",
+        "Chi tiết \u2026",
+        "\"Cách mạng\" là một thuật ngữ chỉ sự thay đổi căn bản trong đời sống xã hội nói chung. Các nhà khảo cổ coi thời đá mới là cuộc cách mạng là vì đến giai đoạn này đã có những thay đổi căn bản trong kĩ thuật chế tác công cụ, làm xuất hiện những loại hình công cụ mới và dẫn tới sự thay đổi lớn lao trong đời sống kinh tế, tổ chức xã hội.",
+        "- Con người thời kì này đã biết ghè đẽo những mảnh đá thành hình dáng gọn và chính xác hơn với từng công việc, với những kiểu loại theo yêu cầu khác nhau (dao, rìu, đục...), được mài nhẵn ở rìa lưỡi hay rìa toàn thân, được khoan lỗ hay có nấc để tra cán.",
+        "- Từ săn bắt, hái lượm để sống con người thời kì này đã biết trồng trọt chăn nuôi nguyên thủy. Từ phụ thuộc vào thiên nhiên sử dụng những thứ có sẵn họ đã biết khai thác thiên nhiên để phục vụ cho cuộc sống của mình.",
+        "- Con người biết dệt vải, làm đồ gốm, làm lưới đánh cá....",
+        "- Nhờ đó họ có cuộc sống ổn định hơn, tốt hơn. Họ đã biết mặc quần áo, dùng đồ trang sứ, làm gốm, có các hoạt động tinh thần.",
+        "Tất cả những điều trên làm con người bấy giờ sống tốt hơn, vui hơn. Đây thực sự là một cuộc cách mạng làm biến đổi đời sống của họ theo hướng tiến bộ phát triển.",
+        "Chi tiết \u2026",
+        "Các nhà khảo cổ coi thời đá mới là một cuộc cách mạng, đời sống của con người thời kì này đã có sự tiến bộ rất lớn:",
+        "- Từ săn bắt, hái lượm đánh cá đã tiến tới biết trông trọt và chăn nuôi. Việc lượn hái năm này qua năm khác đã đem lại kinh nghiệm trồng và thu hoạch theo thời vụ một số cây lương thực vầ thực phẩm như khoai, củ, bầu bí... Đi săn, bắt được thú nhỏ, người ta giữ lại đê nuôi và thuẫn dưỡng thành gia súc, trước tiên là chó rồi đến cừu, lợn, bò... Con người có óc sáng tạo, và ở thời kì này họ bắt đầu biết khai thác từ thiên nhiên cái cần cho cuộc sống của mình chứ không chỉ thu lượm những cái có sẵn trong thiên nhiên.",
+        "- Đời sống văn hóa, tinh thần của con người thời kì này cũng phong phú đa dạng và tốt đẹp hơn. Cụ thể:",
+        "+ Con người bắt đầu làm sạch những tấm da thú để che thân cho ấm và cho \u201ccó văn hóa\u201d. Những chiếc cúc (khuy) và kim làm bằng xương tìm thấy trong các di chỉ văn hóa đã nói lên điều đó.",
+        "+ Ngoài ra, người ta đã biết dùng đồ trang sức như vòng cổ bằng vỏ ốc và chuỗi hạt xương (bằng cách đem khoan lỗ rồi lấy dây xâu lại), vòng tay, vòng cổ chân, hoa tai... bằng đá màu.",
+        "+ Các nhà khảo cổ còn tìm thấy chiếc sáo bằng xương dùi lỗ, đàn đá và có lẽ còn có cả trống bịt da.",
+        "Trên đây là một số biểu hiện chứng tỏ sự tiến bộ trong đời sống con người thời đá mới. Con người thời kì này không ngừng sáng tạo, kiếm được thức ăn nhiều hơn, sống tốt hơn và vui hơn.",
+        "Chi tiết \u2026",
+        "Khoảng 1 vạn năm trước đây, loài người tiến vào thời đá mới.",
+        "- Điểm nổi bật của công cụ đá mới là người ta có thể ghè đẽo những mảnh đá thành hình dáng gọn và chính xác hơn với từng công việc, với những kiểu loại theo yêu cầu khác nhau (dao, rìu, đục...), được mài nhẵn ở rìa lưỡi hay rìa toàn thân, được khoan lỗ hay có nấc để tra cán. Có thể nói rằng, công cụ thời đá cũ vẫn là những mảnh đá được ghè đẽo thô sơ, còn công cụ thời đá mới là những mảnh đá đã được con người ghè sắc và mài nhẵn thành hình công cụ.",
+        "- Cũng trong thời gian này, người ta biết đan lưới đánh cá bằng sợi vỏ cây và làm chì lưới bằng đất nung, biết làm đồ gốm để đựng và đun nấu (nồi, bát, vò...).",
+        "Chi tiết \u2026",
+        "- Trong việc chế tác công cụ, Người tinh khôn đã biết:",
+        "+ ghè 2 rìa của một mảnh đá, làm cho nó gọn, sắc hơn dùng làm dao nạo rìu.",
+        "+ lấy xương cá, cành cây đem mài hoặc đẽo nhọn đầu để làm lao.",
+        "+ chế tạo cung tên, với cung tên con người mới săn bắt hiệu quả và an toàn.",
+        "- Người ta cũng có thể rời hang động ra dựng lều, định cư ở những địa điểm thuận tiện hơn. Cư trú \u201cnhà cửa\u201d trở nên phổ biến.",
+        "Chi tiết \u2026",
+        "Trang 1 / 55"
+    ]
+}

@@ -1,0 +1,1111 @@
+{
+    "tables": [],
+    "keywords": [],
+    "headings": [
+        "Địa Danh",
+        "núi Lam Thành",
+        "Giai thoại về ngọn núi lịch sử",
+        "Chú thích",
+        "Xem thêm",
+        "Bài viết cùng thư mục",
+        "CÁC THỜI KỲ LỊCH SỬ",
+        "Tư Liệu",
+        "Di Tích Lịch Sử",
+        "Anh Hùng Dân Tộc Tiêu Biểu",
+        "Tư Liệu Lịch Sử",
+        "Di Tích Lịch Sử"
+    ],
+    "anchors": [
+        {
+            "text": "",
+            "href": "/"
+        },
+        {
+            "text": "Trang Chủ",
+            "href": "/"
+        },
+        {
+            "text": "Dòng Lịch Sử",
+            "href": "/dong-lich-su"
+        },
+        {
+            "text": "Hồng Bàng & Văn Lang",
+            "href": "/dong-lich-su/hong-bang-va-van-lang"
+        },
+        {
+            "text": "Âu Lạc & Nam Việt",
+            "href": "/dong-lich-su/au-lac-va-nam-viet"
+        },
+        {
+            "text": "Bắc thuộc lần I",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat"
+        },
+        {
+            "text": "Trưng Nữ Vương",
+            "href": "/dong-lich-su/trung-nu-vuong"
+        },
+        {
+            "text": "Bắc thuộc lần II",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-hai"
+        },
+        {
+            "text": "Nhà Lý & Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu"
+        },
+        {
+            "text": "Bắc thuộc lần III",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-ba"
+        },
+        {
+            "text": "Thời kỳ xây nền tự chủ",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu"
+        },
+        {
+            "text": "Nhà Ngô",
+            "href": "/dong-lich-su/nha-ngo"
+        },
+        {
+            "text": "Nhà Đinh",
+            "href": "/dong-lich-su/nha-dinh"
+        },
+        {
+            "text": "Nhà Tiền Lê",
+            "href": "/dong-lich-su/nha-tien-le"
+        },
+        {
+            "text": "Nhà Lý",
+            "href": "/dong-lich-su/nha-ly"
+        },
+        {
+            "text": "Nhà Trần",
+            "href": "/dong-lich-su/nha-tran"
+        },
+        {
+            "text": "Nhà Hồ",
+            "href": "/dong-lich-su/nha-ho"
+        },
+        {
+            "text": "Nhà Hậu Trần",
+            "href": "/dong-lich-su/nha-hau-tran"
+        },
+        {
+            "text": "Bắc thuộc lần IV",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-tu"
+        },
+        {
+            "text": "Nhà Hậu Lê",
+            "href": "/dong-lich-su/nha-hau-le"
+        },
+        {
+            "text": "Nam Bắc Triều",
+            "href": "/dong-lich-su/nam-bac-trieu"
+        },
+        {
+            "text": "Trịnh Nguyễn Phân Tranh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh"
+        },
+        {
+            "text": "Nhà Tây Sơn",
+            "href": "/dong-lich-su/nha-tay-son"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/nha-nguyen"
+        },
+        {
+            "text": "Pháp Thuộc",
+            "href": "/dong-lich-su/phap-thuoc"
+        },
+        {
+            "text": "Việt Nam Dân Chủ Cộng Hoà",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Cộng hoà xã hội chủ nghĩa Việt Nam",
+            "href": "/dong-lich-su/viet-nam-xhcn"
+        },
+        {
+            "text": "Tư Liệu",
+            "href": "/tu-lieu"
+        },
+        {
+            "text": "Quân Sự",
+            "href": "/tu-lieu/quan-su?filter_tag[0]="
+        },
+        {
+            "text": "Tác Phẩm",
+            "href": "/tu-lieu/tac-pham?filter_tag[0]="
+        },
+        {
+            "text": "Bang Giao",
+            "href": "/tu-lieu/bang-giao"
+        },
+        {
+            "text": "Biểu đồ thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Nhân Vật",
+            "href": "/nhan-vat"
+        },
+        {
+            "text": "Anh Hùng Dân Tộc",
+            "href": "/anh-hung-dan-toc?types[0]=1"
+        },
+        {
+            "text": "Danh nhân văn hóa",
+            "href": "/danh-nhan-van-hoa?types[0]=1"
+        },
+        {
+            "text": "Di Tích",
+            "href": "/di-tich-lich-su?types[0]=1"
+        },
+        {
+            "text": "Ngày Nay",
+            "href": "/thoi-su"
+        },
+        {
+            "text": "Sách",
+            "href": "/sach"
+        },
+        {
+            "text": "Video",
+            "href": "/video"
+        },
+        {
+            "text": "Q&A",
+            "href": "/hoi-dap"
+        },
+        {
+            "text": "Lịch sử lớp 12",
+            "href": "/hoi-dap/lop-12"
+        },
+        {
+            "text": "Lịch sử lớp 11",
+            "href": "/hoi-dap/lop-11"
+        },
+        {
+            "text": "Lịch sử lớp 10",
+            "href": "/hoi-dap/lop-10"
+        },
+        {
+            "text": "Lịch sử lớp 9",
+            "href": "/hoi-dap/lop-9"
+        },
+        {
+            "text": "Lịch sử lớp 8",
+            "href": "/hoi-dap/lop-8"
+        },
+        {
+            "text": "Lịch sử lớp 7",
+            "href": "/hoi-dap/lop-7"
+        },
+        {
+            "text": "Lịch sử lớp 6",
+            "href": "/hoi-dap/lop-6"
+        },
+        {
+            "text": "Trang chủ",
+            "href": "/"
+        },
+        {
+            "text": "Địa Danh",
+            "href": "/dia-danh"
+        },
+        {
+            "text": "Địa Danh Lịch Sử",
+            "href": "/dia-danh"
+        },
+        {
+            "text": "Thu / Mở",
+            "href": "#"
+        },
+        {
+            "text": "Giai thoại về ngọn núi lịch sử",
+            "href": "#giai-thoai-ve-ngon-nui-lich-su"
+        },
+        {
+            "text": "Chú thích",
+            "href": "#chu-thich"
+        },
+        {
+            "text": "Xem thêm",
+            "href": "#xem-them"
+        },
+        {
+            "text": "sông Lam",
+            "href": "/dia-danh/song-lam"
+        },
+        {
+            "text": "trấn Nghệ An",
+            "href": "/dia-danh/tran-nghe-an"
+        },
+        {
+            "text": "tỉnh Nghệ An",
+            "href": "/dia-danh/tinh-nghe-an"
+        },
+        {
+            "text": "sông Lam",
+            "href": "/dia-danh/song-lam"
+        },
+        {
+            "text": "sông Lam",
+            "href": "/dia-danh/song-lam"
+        },
+        {
+            "text": "nhà Minh",
+            "href": "/nhan-vat/nha-minh"
+        },
+        {
+            "text": "Lê Thái Tổ",
+            "href": "/nhan-vat/le-thai-to"
+        },
+        {
+            "text": "tỉnh Quảng Đông",
+            "href": "/dia-danh/tinh-quang-dong"
+        },
+        {
+            "text": "Bùi Dương Lịch",
+            "href": "/nhan-vat/bui-duong-lich"
+        },
+        {
+            "text": "sông Lam",
+            "href": "/dia-danh/song-lam"
+        },
+        {
+            "text": "núi Hồng Lĩnh",
+            "href": "/dia-danh/nui-hong-linh"
+        },
+        {
+            "text": "núi Dũng Quyết",
+            "href": "/dia-danh/nui-dung-quyet"
+        },
+        {
+            "text": "xứ Nghệ An",
+            "href": "/dia-danh/xu-nghe-an"
+        },
+        {
+            "text": "sông Lam",
+            "href": "/dia-danh/song-lam"
+        },
+        {
+            "text": "sông Lam",
+            "href": "/dia-danh/song-lam"
+        },
+        {
+            "text": "Trần Anh Tông",
+            "href": "/nhan-vat/tran-anh-tong"
+        },
+        {
+            "text": "nhà Trần",
+            "href": "/nhan-vat/nha-tran"
+        },
+        {
+            "text": "Dương Xá",
+            "href": "/nhan-vat/duong-xa"
+        },
+        {
+            "text": "huyện Thanh Chương",
+            "href": "/dia-danh/huyen-thanh-chuong"
+        },
+        {
+            "text": "Châu Diễn",
+            "href": "/dia-danh/chau-dien"
+        },
+        {
+            "text": "Trần Quang Khải",
+            "href": "/nhan-vat/tran-quang-khai"
+        },
+        {
+            "text": "Trần Quang Khải",
+            "href": "/nhan-vat/tran-quang-khai"
+        },
+        {
+            "text": "núi Hồng Lĩnh",
+            "href": "/dia-danh/nui-hong-linh"
+        },
+        {
+            "text": "Lê Khôi",
+            "href": "/nhan-vat/le-khoi"
+        },
+        {
+            "text": "huyện Thanh Chương",
+            "href": "/dia-danh/huyen-thanh-chuong"
+        },
+        {
+            "text": "sông Lam",
+            "href": "/dia-danh/song-lam"
+        },
+        {
+            "text": "Hồ Quý Ly",
+            "href": "/nhan-vat/ho-quy-ly"
+        },
+        {
+            "text": "trấn Nghệ An",
+            "href": "/dia-danh/tran-nghe-an"
+        },
+        {
+            "text": "nhà Hồ",
+            "href": "/nhan-vat/nha-ho"
+        },
+        {
+            "text": "Trương Phụ",
+            "href": "/nhan-vat/truong-phu"
+        },
+        {
+            "text": "Hoàng Phúc",
+            "href": "/nhan-vat/hoang-phuc"
+        },
+        {
+            "text": "Châu Diễn",
+            "href": "/dia-danh/chau-dien"
+        },
+        {
+            "text": "nhà Hậu Trần",
+            "href": "/nhan-vat/nha-hau-tran"
+        },
+        {
+            "text": "Trần Ngỗi",
+            "href": "/nhan-vat/tran-ngoi"
+        },
+        {
+            "text": "Trần Quý Khoáng",
+            "href": "/nhan-vat/tran-quy-khoang"
+        },
+        {
+            "text": "Đặng Dung",
+            "href": "/nhan-vat/dang-dung"
+        },
+        {
+            "text": "Nguyễn Cảnh Dị",
+            "href": "/nhan-vat/nguyen-canh-di"
+        },
+        {
+            "text": "Trương Phụ",
+            "href": "/nhan-vat/truong-phu"
+        },
+        {
+            "text": "Trương Phụ",
+            "href": "/nhan-vat/truong-phu"
+        },
+        {
+            "text": "nhà Hậu Trần",
+            "href": "/nhan-vat/nha-hau-tran"
+        },
+        {
+            "text": "Nguyễn Biểu",
+            "href": "/nhan-vat/nguyen-bieu"
+        },
+        {
+            "text": "Nguyễn Biểu",
+            "href": "/nhan-vat/nguyen-bieu"
+        },
+        {
+            "text": "Nguyễn Biểu",
+            "href": "/nhan-vat/nguyen-bieu"
+        },
+        {
+            "text": "Lê Thánh Tông",
+            "href": "/nhan-vat/le-thanh-tong"
+        },
+        {
+            "text": "Nguyễn Biểu",
+            "href": "/nhan-vat/nguyen-bieu"
+        },
+        {
+            "text": "Nguyễn Biểu",
+            "href": "/nhan-vat/nguyen-bieu"
+        },
+        {
+            "text": "Lê Lợi",
+            "href": "/nhan-vat/le-loi"
+        },
+        {
+            "text": "nhà Minh",
+            "href": "/nhan-vat/nha-minh"
+        },
+        {
+            "text": "nhà Hậu Lê",
+            "href": "/nhan-vat/nha-hau-le"
+        },
+        {
+            "text": "Trương Phụ",
+            "href": "/nhan-vat/truong-phu"
+        },
+        {
+            "text": "sông Lam",
+            "href": "/dia-danh/song-lam"
+        },
+        {
+            "text": "Lê Thái Tông",
+            "href": "/nhan-vat/le-thai-tong"
+        },
+        {
+            "text": "nhà Tây Sơn",
+            "href": "/nhan-vat/nha-tay-son"
+        },
+        {
+            "text": "Xứ Nghệ",
+            "href": "/dia-danh/xu-nghe"
+        },
+        {
+            "text": "sông Lam",
+            "href": "/dia-danh/song-lam"
+        },
+        {
+            "text": "Xứ Nghệ",
+            "href": "/dia-danh/xu-nghe"
+        },
+        {
+            "text": "Lê Lợi",
+            "href": "/nhan-vat/le-loi"
+        },
+        {
+            "text": "Lê Thánh Tông",
+            "href": "/nhan-vat/le-thanh-tong"
+        },
+        {
+            "text": "Lê Thái Tổ",
+            "href": "/nhan-vat/le-thai-to"
+        },
+        {
+            "text": "Lê Thái Tông",
+            "href": "/nhan-vat/le-thai-tong"
+        },
+        {
+            "text": "Lê Thánh Tông",
+            "href": "/nhan-vat/le-thanh-tong"
+        },
+        {
+            "text": "Lê Thái Tổ",
+            "href": "/nhan-vat/le-thai-to"
+        },
+        {
+            "text": "Lê Thái Tông",
+            "href": "/nhan-vat/le-thai-tong"
+        },
+        {
+            "text": "Lê Thánh Tông",
+            "href": "/nhan-vat/le-thanh-tong"
+        },
+        {
+            "text": "Lê Thái Tổ",
+            "href": "/nhan-vat/le-thai-to"
+        },
+        {
+            "text": "Lê Thái Tổ",
+            "href": "/nhan-vat/le-thai-to"
+        },
+        {
+            "text": "Lê Thái Tổ",
+            "href": "/nhan-vat/le-thai-to"
+        },
+        {
+            "text": "Lê Nhân Tông",
+            "href": "/nhan-vat/le-nhan-tong"
+        },
+        {
+            "text": "Trịnh Khả",
+            "href": "/nhan-vat/trinh-kha"
+        },
+        {
+            "text": "Lê Thần Tông",
+            "href": "/nhan-vat/le-than-tong"
+        },
+        {
+            "text": "Lê Thánh Tông",
+            "href": "/nhan-vat/le-thanh-tong"
+        },
+        {
+            "text": "Lê Thánh Tông",
+            "href": "/nhan-vat/le-thanh-tong"
+        },
+        {
+            "text": "Hoàng Xuân Hãn",
+            "href": "/nhan-vat/hoang-xuan-han"
+        },
+        {
+            "text": "tỉnh Nghệ An",
+            "href": "/dia-danh/tinh-nghe-an"
+        },
+        {
+            "text": "Lê Thánh Tông",
+            "href": "/nhan-vat/le-thanh-tong"
+        },
+        {
+            "text": "Nguyễn Thiếp",
+            "href": "/nhan-vat/nguyen-thiep"
+        },
+        {
+            "text": "Nguyễn Thiếp",
+            "href": "/nhan-vat/nguyen-thiep"
+        },
+        {
+            "text": "Xứ Nghệ",
+            "href": "/dia-danh/xu-nghe"
+        },
+        {
+            "text": "Nguyễn Biểu",
+            "href": "/nhan-vat/nguyen-bieu"
+        },
+        {
+            "text": "Phạm Ngộ",
+            "href": "/nhan-vat/pham-ngo"
+        },
+        {
+            "text": "Trần Minh Tông",
+            "href": "/nhan-vat/tran-minh-tong"
+        },
+        {
+            "text": "Trương Phụ",
+            "href": "/nhan-vat/truong-phu"
+        },
+        {
+            "text": "Trương Phụ",
+            "href": "/nhan-vat/truong-phu"
+        },
+        {
+            "text": "nhà Lê",
+            "href": "/nhan-vat/nha-le"
+        },
+        {
+            "text": "trấn Nghệ An",
+            "href": "/dia-danh/tran-nghe-an"
+        },
+        {
+            "text": "Nguyễn Thiếp",
+            "href": "/nhan-vat/nguyen-thiep"
+        },
+        {
+            "text": "Lê Thái Tổ",
+            "href": "/nhan-vat/le-thai-to"
+        },
+        {
+            "text": "huyện Lôi Dương",
+            "href": "/dia-danh/huyen-loi-duong"
+        },
+        {
+            "text": "Bùi Dương Lịch",
+            "href": "/nhan-vat/bui-duong-lich"
+        },
+        {
+            "text": "Lê Đại Hành",
+            "href": "/nhan-vat/le-dai-hanh"
+        },
+        {
+            "text": "Xứ Nghệ",
+            "href": "/dia-danh/xu-nghe"
+        },
+        {
+            "text": "Bài viết trước: núi Kỳ Lân Trước",
+            "href": "/dia-danh/nui-ky-lan"
+        },
+        {
+            "text": "Bài viết kế tiếp: Núi Le Tiếp tục",
+            "href": "/dia-danh/nui-le"
+        },
+        {
+            "text": "nước Việt",
+            "href": "/dia-danh/nuoc-viet"
+        },
+        {
+            "text": "núi Tản Viên",
+            "href": "/dia-danh/nui-tan-vien"
+        },
+        {
+            "text": "sông Đà",
+            "href": "/dia-danh/song-da"
+        },
+        {
+            "text": "sông Hát",
+            "href": "/dia-danh/song-hat"
+        },
+        {
+            "text": "chùa Kiến Sơ",
+            "href": "/dia-danh/chua-kien-so"
+        },
+        {
+            "text": "hồ Động Đình",
+            "href": "/dia-danh/ho-dong-dinh"
+        },
+        {
+            "text": "nước Quắc",
+            "href": "/dia-danh/nuoc-quac"
+        },
+        {
+            "text": "nước Trịnh",
+            "href": "/dia-danh/nuoc-trinh"
+        },
+        {
+            "text": "châu Vũ Ninh",
+            "href": "/dia-danh/chau-vu-ninh"
+        },
+        {
+            "text": "Nước Tần",
+            "href": "/dia-danh/nuoc-tan"
+        },
+        {
+            "text": "Hồng Bàng & Văn Lang",
+            "href": "/dong-lich-su/hong-bang-va-van-lang"
+        },
+        {
+            "text": "Âu Lạc & Nam Việt",
+            "href": "/dong-lich-su/au-lac-va-nam-viet"
+        },
+        {
+            "text": "Bắc thuộc lần I",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat"
+        },
+        {
+            "text": "Nhà Triệu",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat/nha-trieu"
+        },
+        {
+            "text": "Trưng Nữ Vương",
+            "href": "/dong-lich-su/trung-nu-vuong"
+        },
+        {
+            "text": "Bắc thuộc lần II",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-hai"
+        },
+        {
+            "text": "Nhà Lý & Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu"
+        },
+        {
+            "text": "Nhà Tiền Lý",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-tien-ly"
+        },
+        {
+            "text": "Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-trieu"
+        },
+        {
+            "text": "Nhà Hậu Lý",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-hau-ly"
+        },
+        {
+            "text": "Bắc thuộc lần III",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-ba"
+        },
+        {
+            "text": "Thời kỳ xây nền tự chủ",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu"
+        },
+        {
+            "text": "Họ Khúc",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu/ho-khuc"
+        },
+        {
+            "text": "Nhà Ngô",
+            "href": "/dong-lich-su/nha-ngo"
+        },
+        {
+            "text": "Nhà Đinh",
+            "href": "/dong-lich-su/nha-dinh"
+        },
+        {
+            "text": "Nhà Tiền Lê",
+            "href": "/dong-lich-su/nha-tien-le"
+        },
+        {
+            "text": "Nhà Lý",
+            "href": "/dong-lich-su/nha-ly"
+        },
+        {
+            "text": "Nhà Trần",
+            "href": "/dong-lich-su/nha-tran"
+        },
+        {
+            "text": "Nhà Hồ",
+            "href": "/dong-lich-su/nha-ho"
+        },
+        {
+            "text": "Nhà Hậu Trần",
+            "href": "/dong-lich-su/nha-hau-tran"
+        },
+        {
+            "text": "Bắc thuộc lần IV",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-tu"
+        },
+        {
+            "text": "Nhà Hậu Lê",
+            "href": "/dong-lich-su/nha-hau-le"
+        },
+        {
+            "text": "Nam Bắc Triều",
+            "href": "/dong-lich-su/nam-bac-trieu"
+        },
+        {
+            "text": "Nhà Lê Trung Hưng",
+            "href": "/dong-lich-su/nam-bac-trieu/nha-le-trung-hung"
+        },
+        {
+            "text": "Nhà Mạc",
+            "href": "/dong-lich-su/nam-bac-trieu/nha-mac"
+        },
+        {
+            "text": "Trịnh Nguyễn Phân Tranh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh"
+        },
+        {
+            "text": "Nhà Lê Trung Hưng",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/nha-le-trung-hung"
+        },
+        {
+            "text": "Chúa Trịnh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-trinh"
+        },
+        {
+            "text": "Chúa Nguyễn",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen"
+        },
+        {
+            "text": "Nhà Tây Sơn",
+            "href": "/dong-lich-su/nha-tay-son"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/nha-nguyen"
+        },
+        {
+            "text": "Pháp Thuộc",
+            "href": "/dong-lich-su/phap-thuoc"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/phap-thuoc/nha-nguyen"
+        },
+        {
+            "text": "Những cuộc khởi nghĩa chống thực dân Pháp",
+            "href": "/dong-lich-su/phap-thuoc/khoi-nghia-chong-phap"
+        },
+        {
+            "text": "Đảng Cộng Sản Việt Nam",
+            "href": "/dong-lich-su/phap-thuoc/dang-cong-san-viet-nam"
+        },
+        {
+            "text": "Việt Nam Dân Chủ Cộng Hoà",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Kháng chiến chống Pháp",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-phap"
+        },
+        {
+            "text": "Kháng chiến chống Mĩ",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-mi"
+        },
+        {
+            "text": "Cộng hoà xã hội chủ nghĩa Việt Nam",
+            "href": "/dong-lich-su/viet-nam-xhcn"
+        },
+        {
+            "text": "Trận Điện Biên Phủ trên không năm 1972",
+            "href": "/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972"
+        },
+        {
+            "text": "Chiến tranh biên giới Tây Nam năm 1975 - 1978",
+            "href": "/tu-lieu/quan-su/chien-tranh-bien-gioi-tay-nam-nam-1975-1978"
+        },
+        {
+            "text": "Chiến dịch Mùa Xuân năm 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-mua-xuan-nam-1975"
+        },
+        {
+            "text": "Hải chiến Trường Sa năm 1988",
+            "href": "/tu-lieu/quan-su/hai-chien-truong-sa-nam-1988"
+        },
+        {
+            "text": "Chiến dịch Đường 14 - Phước Long năm 1974 - 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-duong-14-phuoc-long-nam-1974-1975"
+        },
+        {
+            "text": "Chiến dịch Tây Nguyên năm 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-tay-nguyen-nam-1975"
+        },
+        {
+            "text": "Trận Mậu Thân tại Huế năm 1968",
+            "href": "/tu-lieu/quan-su/tran-mau-than-tai-hue-nam-1968"
+        },
+        {
+            "text": "Bảng đối chiếu các triều đại Việt Nam và các triều đại Trung Quốc",
+            "href": "/tu-lieu/bang-doi-chieu-cac-trieu-dai-viet-nam-va-cac-trieu-dai-trung-quoc"
+        },
+        {
+            "text": "Bình Ngô đại cáo - bản tuyên ngôn độc lập thứ hai",
+            "href": "/tu-lieu/tac-pham/binh-ngo-dai-cao-ban-tuyen-ngon-doc-lap-thu-hai"
+        },
+        {
+            "text": "Lãnh thổ Việt Nam qua từng thời kỳ",
+            "href": "/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky"
+        },
+        {
+            "text": "Trận Đồi Thịt Băm năm 1969",
+            "href": "/tu-lieu/quan-su/tran-doi-thit-bam-nam-1969"
+        },
+        {
+            "text": "Chiến dịch Đắk Tô năm 1972",
+            "href": "/tu-lieu/quan-su/chien-dich-dak-to-nam-1972"
+        },
+        {
+            "text": "Nam quốc sơn hà - Bản tuyên ngôn độc lập đầu tiên",
+            "href": "/tu-lieu/tac-pham/nam-quoc-son-ha-ban-tuyen-ngon-doc-lap-dau-tien"
+        },
+        {
+            "text": "Tuyên ngôn độc lập Việt Nam Dân chủ Cộng hòa",
+            "href": "/tu-lieu/tac-pham/tuyen-ngon-doc-lap-viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Trận Bản Đông năm 1971",
+            "href": "/tu-lieu/quan-su/tran-ban-dong-nam-1971"
+        },
+        {
+            "text": "Trận Rạch Gầm \u2013 Xoài Mút năm 1785",
+            "href": "/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785"
+        },
+        {
+            "text": "Lịch sử Chữ viết tiếng Việt",
+            "href": "/tu-lieu/lich-su-chu-viet-tieng-viet"
+        },
+        {
+            "text": "Hịch tướng sĩ - Dụ chư tỳ tướng hịch văn",
+            "href": "/tu-lieu/tac-pham/hich-tuong-si-du-chu-ty-tuong-hich-van"
+        },
+        {
+            "text": "Danh sách Trạng nguyên Việt Nam",
+            "href": "/tu-lieu/danh-sach-trang-nguyen-viet-nam"
+        },
+        {
+            "text": "Hội nghị Paris, mặt trận ngoại giao năm 1968-1972",
+            "href": "/tu-lieu/bang-giao/hoi-nghi-paris-mat-tran-ngoai-giao-nam-1968-1972"
+        },
+        {
+            "text": "chùa Phổ Minh",
+            "href": "/dia-danh/chua-pho-minh"
+        },
+        {
+            "text": "chùa Thầy",
+            "href": "/dia-danh/chua-thay"
+        },
+        {
+            "text": "Quần thể di tích Cố đô Huế",
+            "href": "/dia-danh/quan-the-di-tich-co-do-hue"
+        },
+        {
+            "text": "Chiến khu Tân Trào",
+            "href": "/dia-danh/chien-khu-tan-trao"
+        },
+        {
+            "text": "Đền Ngọc Sơn",
+            "href": "/dia-danh/den-ngoc-son"
+        },
+        {
+            "text": "Đền Phù Đổng",
+            "href": "/dia-danh/den-phu-dong"
+        },
+        {
+            "text": "Đền Trần (Nam Định)",
+            "href": "/dia-danh/den-tran-nam-dinh"
+        },
+        {
+            "text": "Khu di tích Pác Bó",
+            "href": "/dia-danh/khu-di-tich-pac-bo"
+        },
+        {
+            "text": "Văn Miếu - Quốc Tử Giám",
+            "href": "/dia-danh/van-mieu-quoc-tu-giam"
+        },
+        {
+            "text": "Quần thể di tích danh thắng Yên Tử",
+            "href": "/dia-danh/quan-the-di-tich-danh-thang-yen-tu"
+        },
+        {
+            "text": "Trần Hưng Đạo",
+            "href": "/nhan-vat/tran-hung-dao"
+        },
+        {
+            "text": "Ngô Quyền",
+            "href": "/nhan-vat/ngo-quyen"
+        },
+        {
+            "text": "Trần Nhân Tông",
+            "href": "/nhan-vat/tran-nhan-tong"
+        },
+        {
+            "text": "Lý Thái Tổ",
+            "href": "/nhan-vat/ly-thai-to"
+        },
+        {
+            "text": "Nguyễn Trãi",
+            "href": "/nhan-vat/nguyen-trai"
+        },
+        {
+            "text": "Nguyễn Huệ",
+            "href": "/nhan-vat/nguyen-hue"
+        },
+        {
+            "text": "Hai Bà Trưng",
+            "href": "/nhan-vat/hai-ba-trung"
+        },
+        {
+            "text": "Lê Thái Tổ",
+            "href": "/nhan-vat/le-thai-to"
+        },
+        {
+            "text": "Lý Nam Đế",
+            "href": "/nhan-vat/ly-nam-de"
+        },
+        {
+            "text": "Lê Đại Hành",
+            "href": "/nhan-vat/le-dai-hanh"
+        },
+        {
+            "text": "Vấn đề biên giới Việt-Trung thời Mạc",
+            "href": "/tu-lieu/bang-giao/van-de-bien-gioi-viet-trung-thoi-mac"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Tây Sơn",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-tay-son"
+        },
+        {
+            "text": "Biểu đồ các nhân vật lịch sử theo dòng thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Danh sách Trạng nguyên Việt Nam",
+            "href": "/tu-lieu/danh-sach-trang-nguyen-viet-nam"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Nguyễn",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-nguyen"
+        },
+        {
+            "text": "Trận Điện Biên Phủ trên không năm 1972",
+            "href": "/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972"
+        },
+        {
+            "text": "Trận Ngọc Hồi - Đống Đa năm 1789",
+            "href": "/tu-lieu/quan-su/tran-ngoc-hoi-dong-da-nam-1789"
+        },
+        {
+            "text": "Trận Cẩm Sa năm 1775",
+            "href": "/tu-lieu/quan-su/tran-cam-sa-nam-1775"
+        },
+        {
+            "text": "Trận Rạch Gầm \u2013 Xoài Mút năm 1785",
+            "href": "/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785"
+        },
+        {
+            "text": "Lãnh thổ Việt Nam qua từng thời kỳ",
+            "href": "/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky"
+        },
+        {
+            "text": "Khu lưu niệm Chủ tịch Tôn Đức Thắng",
+            "href": "/dia-danh/khu-luu-niem-chu-tich-ton-duc-thang"
+        },
+        {
+            "text": "Thành nhà Hồ",
+            "href": "/dia-danh/thanh-nha-ho"
+        },
+        {
+            "text": "Khu di tích Chủ tịch Hồ Chí Minh tại Phủ Chủ tịch",
+            "href": "/dia-danh/khu-di-tich-chu-tich-ho-chi-minh-tai-phu-chu-tich"
+        },
+        {
+            "text": "Dinh Độc Lập",
+            "href": "/dia-danh/dinh-doc-lap"
+        },
+        {
+            "text": "Khu di tích Pác Bó",
+            "href": "/dia-danh/khu-di-tich-pac-bo"
+        },
+        {
+            "text": "Đền Trần (Nam Định)",
+            "href": "/dia-danh/den-tran-nam-dinh"
+        },
+        {
+            "text": "Quần thể di tích danh thắng Yên Tử",
+            "href": "/dia-danh/quan-the-di-tich-danh-thang-yen-tu"
+        },
+        {
+            "text": "Hồ Hoàn Kiếm",
+            "href": "/dia-danh/ho-hoan-kiem"
+        },
+        {
+            "text": "thành Cổ Loa",
+            "href": "/dia-danh/thanh-co-loa"
+        },
+        {
+            "text": "Đền Hùng",
+            "href": "/dia-danh/den-hung"
+        },
+        {
+            "text": "Giới thiệu",
+            "href": "/gioi-thieu"
+        },
+        {
+            "text": "Quyền riêng tư",
+            "href": "/quyen-rieng-tu"
+        },
+        {
+            "text": "Liên hệ",
+            "href": "/lien-he"
+        },
+        {
+            "text": "Địa Danh",
+            "href": "/dia-danh"
+        },
+        {
+            "text": "Trang Facebook",
+            "href": "https://www.facebook.com/nguoikesu/"
+        },
+        {
+            "text": "DanhMucBDS.com",
+            "href": "https://danhmucbds.com"
+        },
+        {
+            "text": "HocTotNguVan.com",
+            "href": "https://hoctotnguvan.com"
+        }
+    ],
+    "title": "núi Lam Thành - Người Kể Sử",
+    "paragraphs": [
+        "Núi Lam Thành hay còn gọi là Rú Thành là một ngọn núi đứng bên tả ngạn sông Lam, trên địa phận các xã Nghĩa Liệt, xã Phú Điền, xã Triều Khẩu huyện Hưng Nguyên, phủ Anh Đô, trấn Nghệ An, nay là các xã Hưng Lam,Hưng Xuân, Hưng Phú, Hưng Khánh, Hưng Tiến, Hưng Châu, huyện Hưng Nguyên, tỉnh Nghệ An.",
+        "\"Hưng quận chi nam - Hữu sơn ngật lập - Quyết danh Lam Thành...\" là câu mở đầu bài đăng \"Lam Thành sơn hoài cổ phú\", của Đốc học Đặng Nguyên Cẩn (1867-1923) viết hồi cụ làm giáo thụ phủ Hưng Nguyên. Bài phú được bạn thân của cụ là Tiến sĩ Nguyễn Văn Trình (1872-1949) lúc đó làm Tri phủ Hưng Nguyên phỏng dịch, có câu: \"Núi Lam Thành cao ngất bên kia - Trông phong cảnh đi về không muốn chán...\"",
+        "Tập tin:BTNN.jpg",
+        "Xưa dân gian gọi núi này là rú Rum, và sông Lam là rào Rum. Rú Rum, trước có tài liệu phiên âm là Dung sơn. Nhưng các văn bản khác đều phiên âm Rum là Lam. Rú Rum - Lam sơn \u2013 nhưng do trên núi có ngôi thành cổ nên gọi là núi Lam Thành, hoặc Rú Thành.",
+        "Núi còn có một tên Nôm khác là rú Sét, vì một phần núi nằm trên đất Kẻ Sét, xã Nghĩa Liệt, núi Nghĩa Liệt1",
+        "Theo Nghệ An ký và một số sách khác thì núi Lam Thành còn có tên Hùng Sơn \u2013 Núi Con Gấu (khác với Hùng Lĩnh \u2013 núi Đụn ở Nam Đàn) và tên Tuyên Nghĩa Sơn vì dưới núi có miếu Tuyên Nghĩa (thờ Thái Phúc, tướng nhà Minh giữ thành Nghệ An ra hàng nghĩa quân Lam Sơn, trở về bị vua Minh giết, nên vua Lê Thái Tổ phong tước, cho lập miếu thờ).",
+        "Một số sách còn chép núi này là Đồng Trụ sơn \"do tướng Đông Hán Mã Viện dựng cột đồng trên núi\". Thật ra theo Từ Hải (Trung Quốc) thì \"Mã Viện dựng cột đồng dưới núi Phân Mao, tỉnh Quảng Đông\". Nhất thống chí đời Minh lại chép: Cột đồng dựng ở động Cổ Lâu Châu Khâm (Quảng Tây) Cột đồng Mã Viện trên đất Giao Chỉ là chuyện hão huyền. Các triều đại phong kiến thống trị phương Bắc loan truyền để gây thanh thế và lấy cớ hạch sách người Việt. Để đối phó lại, dân ta cũng đặt những câu chuyện, nào là người Giao Chỉ ai qua cũng ném một hòn đá chôn cột đồng mất tích, nào là \"vợ chồng ông họ Hoàng cưa đứt cột đồng, gánh ném xuống sông mất tăm.\" Thơ Bùi Dương Lịch: \"Phục Ba đồng trụ diệt\" - Từ đó không còn chuyện cột đồng Mã Viện.",
+        "Từ bao đời Lam Thành là thắng địa. \"Phía dưới núi có sông Lam chảy quanh, và có sông La, sông Minh... chảy vào. Lên núi trông xa thì thấy phía tây có núi Hùng Lĩnh và núi Đại Huệ, phía bắc có núi Đại Hải và núi La Nham, phía nam có núi Thiên Nhẫn va núi Hồng Lĩnh, phía đông có núi Kim Nguyên và núi Dũng Quyết, đều chầu về núi này. Nước sông trong sạch, cây cối tốt tươi, phố gần thôn xa, phong cảnh như vẽ, thật là một nơi danh thắng ở xứ Nghệ An\" (Nghệ An ký).",
+        "Sách Nghệ An cổ tích lục chép: \"Về triều Lý, các vua vào nam đánh giặc, thường đóng quân tại đây\".",
+        "Đời Trần, dưới núi có chùa Yên Quốc, một thiền viện lớn, cùng thời với chùa Ân Quang ở Phù Thạch, bờ nam sông Lam2 .",
+        "Đại Nam nhất thống chí chép về chùa Yên Quốc: \"... Sau chùa có núi Tượng Đầu, trước chùa có khe Tiên Châu (có bản chép Tiên Đơn) chảy từ sườn núi ra, nước thơm ngọt, người ta gọi là khe Yên Quốc...\" Khe Yên Quốc chảy ra sông Rum/Lam. Đoạn sông gần chùa có cầu Rum/Lam Kiều. Đây là sông phụ từ Yên Thái xuống, đi gần chân núi, đến làng Triều Khẩu. Nhất thống chí gọi dòng này là sông Nghĩa Liệt. Còn dòng chính theo một số tài liệu địa lý lịch sử, vào thế kỉ XIII, XIV, Ngàn Cả - Lam Giang xuống quá Vạn Rú (Hoành Sơn) bây giờ đi về phía tây nam qua vùng đất ngày nay là các xã Nam Cường (Nam Đàn), Đức Châu, Đức Quang (Đức Thọ) mà đổ ra gành Phù Thạch, đối ngạn Triều Khẩu. Giữa hai dòng chảy là bãi cát bồi mênh mông, cây cỏ rậm rạp. Phía dưới bãi cát ấy là nơi sông La đổ vào sông Lam, từ đời Lê gọi là ngã ba Phủ3 .",
+        "Khoảng niên hiệu Hưng Long đời Trần Anh Tông (1293 - 1314) có sáu ông Lê, Nguyễn, Phạm, Trần, Bùi, Bạch đều là quan văn võ nhà Trần lui về ở ẩn gần khe Yên Quốc dưới Rú Thành. Các ông cùng xin triều đình cho khẩn bãi bồi giữa sông, lập lên ấp Dương Xá (đời Lê đổi là Tường Xá, thuộc xã Nam Hoa Đông, huyện Thanh Chương, đến đời Khải Định nhà Nguyễn, mới chuyển về La Sơn, Đức Thọ. Trong sáu vị Tổ khai cơ làng Tường Xá thì người họ Bạch là con trai của Trạng nguyên Bạch Liêu. Trạng nguyên Bạch Liêu vốn quê làng Nguyễn Xá, huyện Đông Thành, Châu Diễn. Sau khi thi đỗ (1266) ông không ra làm quan mà chỉ làm gia khách Thượng tướng Trần Quang Khải (1241 \u2013 1294) khi ông vào cai quản Nghệ An. Sau khi Trần Quang Khải trở về triều đình thì Bạch Liêu về ẩn ở Kẻ Sét xã Nghĩa Liệt, dưới núi Lam Thành. Hiện ở làng Vệ Chính (xã Hưng Phú) có đền thờ ông. Còn mộ ông đặt dưới chân núi Hồng Lĩnh địa phận xã Ngoại Thiên Lộc, nay là xã Thiên Lộc, Can Lộc. (Mộ đã được xếp hạng Di tích lịch sử \u2013 văn hoá quốc gia năm 1993). Chi họ Bạch ở Tường Xá không còn, nhưng ở làng Hưng Nhân xã Hưng Lam còn có chi họ Bạch Hưng rất đông đúc4 .",
+        "Vùng đất từ chân núi đến bãi bồi còn rất rộng. Vào thế kỉ XV, còn có thêm một số đơn vị hành chính gọi là \"Sở\", tương truyền là những làng người Chăm do tướng Lê Khôi đưa tù binh về lập lên. Sở Vệ Chính (Vệ Sở, đời Nguyễn thuộc tổng Hoa Viên), các sở Nam Hoa, Hạ Phù, Xuân Lôi (đời Nguyễn thuộc tổng Nam Hoa, huyện Thanh Chương. Phía trên xã Nghĩa Liệt còn có các sở Mộc Hoàn, Đồng Luân, Thượng Phù (đời Nguyễn thuộc tổng Phù Long, Hưng Nguyên).",
+        "Về sau, dòng chính sông Lam đi dần sang phía bắc và mở rộng, dòng phụ bồi lấp, các làng Tường Xá, Hạ Phù, Nam Hoa tách xa bờ, rồi bị đẩy sang bờ nam, kề với xã Phi Cảo huyện La Giang (nay là vùng Tùng - Châu). Chỉ còn Vệ Sở ở gần núi, nay thuộc xã Hưng Phú.",
+        "Theo truyền ngôn, ngôi thành trên núi Lam Thành đã có từ thời Trần - Hồ (?). Có người nói, cuối đời Trần, khi nắm quyền bính trong tay, Hồ Quý Ly (1336 - 1407) rất chăm lo viêc binh bị, đề phòng quân Minh xâm lược. Ông đặc biệt quan tâm đến vùng từ Thanh Nghệ vào nam, cử người thân tín giữ các lộ, xây Thành Tây Giai (1397) và đắp nhiều thành luỹ khác, trong đó có thành Trài (Diễn Châu), thành Rum (Nghệ An).Họ Hồ còn đổi trấn Diễn Châu làm trấn Vọng Giang, trấn Nghệ An làm trấn Lâm An. Tuy nhiên, sử sách không cho biết trấn lỵ Nghệ An thời ấy đặt ở đâu.",
+        "Sau khi quân Minh chiếm Đại Việt, đổi Nghệ An làm phủ, thì phủ trị đặt ở Lam Thành. Diệt nhà Hồ xong, tháng 8 năm Đinh Hợi (1407) Trương Phụ, Mộc Thạnh rút quân về, để Lữ Nghị và Hoàng Phúc ở lại và dùng bọn quan đầu hàng là Trần Thúc Dao giữ Châu Diễn, Trần Nhật Chiêu giữ Nghệ An. Nhưng khi vua nhà Hậu Trần là Giản định đế Trần Ngỗi lui quân về Nghệ An thì bọn này đều bị giết.",
+        "Tháng 3 năm Kỉ Kửu (1409) Trần Quý Khoáng được Đặng Dung, Nguyễn Cảnh Dị tôn làm vua, lấy hiệu Trùng Quang, đặt hành tại ở Bà Hồ (Chi La), đối ngạn Lam Thành. Vua Trùng Quang lập triều đình, mời Giản Định đế về làm Thượng hoàng, cùng đánh giặc.",
+        "Buổi đầu thanh thế của nghĩa quân rất lớn, nhưng rồi lực lượng suy giảm dần. Nhà Minh lại đưa Trương Phụ sang lần nữa. Vào tháng 4 năm Quý Tị (1413) Trương Phụ lại đánh chiếm Nghệ An. Vua Trùng Quang phải lui vào Châu Hoá. Phan Quý Hựu giữ chức Thiếu bảo nhà Hậu Trần đầu hàng giặc, nhưng Quý Hựu ốm chết, Phụ cho con y là Phan Liêu làm Tri phủ Nghệ An.",
+        "Vua Trùng Quang sai đài quan Nguyễn Biểu làm sứ cầu phong, mang sản vật địa phương đến thành Nghệ An (Lam Thành). Thấy thái độ bình thản, bất khuất của Nguyễn Biểu, Phụ tỏ ý kính nể để cho ông về nhưng Phan Liêu xui Phụ bắt ông lại. Ông lớn tiếng vạch tội cướp nước của giặc, Phụ bèn sai trói ông vào cột cầu Lam cho nước lên dìm chết. Nhưng ba ngày thuỷ triều không lên, Phụ bèn sai đưa ông về trước chùa Yên Quốc giết chết. Vua Trùng Quang thương tiếc, đặt lễ tế ông. Nhà sư chùa Yên Quốc cũng có bài văn cầu siêu cho Nguyễn Biểu.",
+        "Đến đời Hồng Đức, vua Lê Thánh Tông (1460 - 1497) phong Nguyễn Biểu là Nghĩa sĩ đại vương, sai lập đền thờ tại quê nhà, xã Bình Hồ. Sau đó vùng quanh nơi ông tuẫn tiết, nhân dân đếu dựng miếu thờ vọng. Theo Nghệ An cổ tích lục thì \"bên tả chùa Yên Quốc, có ngôi lầu gọi la lầu Nghĩa Vương.\"",
+        "Về sau, không biết là từ lúc nào chùa Yên Quốc trở thành đền Yên Quốc, thờ Nghĩa vương Nguyễn Biểu.",
+        "Đầu năm 1425, nghĩa quân Lam Sơn vào xây dựng căn cứ Đỗ Gia (Hương Sơn) dưới sự lãnh đạo của Bộ chỉ huy tối cao do Bình định vương Lê Lợi đứng đầu.",
+        "Tướng nhà Minh là Trần Trí giữ Lam Thành, sau những thất bại ở tây Nghệ An, chỉ biết cố thủ chờ viện binh. Tháng 5 -1425, Lý An từ Đông Quan đưa quân vượt biển vào cứu, Trí bèn tấn công lên Đỗ Gia, lại bị đại bại. Từ đó thành Nghệ An (Lam Thành) bị nghĩa quân vây chặt. Tháng 10 - 1426, Phương Chính, Lý An giao thành cho Thái Phúc. Tháng 2/1427, Phúc mở cửa thành đưa một vạn quân ra hàng...",
+        "Từ đầu nhà Hậu Lê (1428) cho đến cuối đời Tây Sơn (1801), 370 năm, Lam Thành là trấn lị Nghệ An. Trấn lị không đặt trong ngôi thành do Trương Phụ xây, nhưng khi nói về lị sở này, sử sách đều chép là thành Nghệ An5 , hoặc Lam Thành, thành Hùng Sơn, thành Nghĩa Liệt, thành Triều Khẩu, lại cả thành Phù Thạch, mặc dầu Phù Thạch (phố) ở bờ nam sông Lam, đối diện Triều Khẩu ở bờ bắc.",
+        "Theo Nghệ An chí và một số sách khác thì ti Trấn thủ đặt ở phường Vệ Sở (Sở Vệ Chính), ti Hiến sát đặt ở làng Nghĩa Liệt, phía bắc, ti Thừa chính và Trường Thi Hương đặt ở làng Triều Khẩu, phía nam.",
+        "Trong các cuộc chiến tranh Lê \u2013 Mạc, Trịnh \u2013 Nguyễn, có lúc dinh trấn thủ tạm thời phải dời lên Sa Nam hay xuống Vịnh Dinh và từ 1662 thì chuyển hẳn vào Dinh Cầu (Hà Trung \u2013 Kì Hoa), nhưng hai ti Thừa chính, Khiến sát và trường thi Hương vẫn ở lại Lam Thành.",
+        "Khoa đầu tiên ở trường này mở vào năm Thiệu Bình thứ 5 đời Lê Thái Tông (1438), và cuối cùng là khoa thi tú tài do nhà Tây Sơn mở năm Quang Trung thứ 2 (1789), Trong 351 năm, qua hơn trăm khoa thi dưới các triều Lê, Mạc, trường Nghệ An đã cho ra lò hàng nghìn hương cống, sinh đồ, trong đó có vài trăm vị ra thi hội đỗ Tiên sĩ. Dấu vết trương thi còn lại là chợ Tràng, gần đây cũng đã lở mất.",
+        "Chợ Tràng là một chợ lớn, trên bộ dưới thuyền tấp nập: \"Chợ Tràng tháng hâm bảy phiên \u2013 Ai đi bộ cứ bước, ai đi thuyền cứ đi\". Theo một tài liệu tiếng Nhật (do PGS sử học Trần Bá Chí dịch và giới thiệu) thì từ năm 1608, ở Hoa Viên, Phục Lễ (Triều Khẩu) có phố người Nhật, có chợ Tràng buôn bán đủ mặt hàng Xứ Nghệ, của Đàng Trong, Đàng Ngoài và của cả nước ngoài, (thuốc bắc, lụa, gấm Tàu, bút mực, sách Tàu, cúc mã não, chè ô long, sâm Cao Li...). Cũng theo tài liệu của TBC (Khảo tả về phố cổ Phù Thạch \u2013 Bản in rô- nê- ô) thì giữa thế kỉ XVII, người Hoa gốc Quảng Đông, Phúc Kiến, tại phần đất sát bờ sông Lam, phía trên chùa Ân Quang của làng Vịnh Đại (La Sơn) lập làng Minh Hương và phố buôn, gọi là phố Phù Thạch. Vào thế kỉ XVIII cho đến đầu thế kỉ XIX tại chợ Tràng \u2013 Phù Thạch việc buôn bán rất phồn thịnh, thường có tàu nước ngoài qua lại, trở thành một cảng thị nội địa sầm uất ở Xứ Nghệ.",
+        "Di tích lịch sử quan trọng ở trấn lị cổ kính Lam Thành còn có hai ngôi đền lớn. Một là đền vua Lê ở Phú Điền. Theo truyền ngôn thì đền dựng trên nền cũ hành dinh của Bình định vương Lê Lợi khi nhà vua đưa quân xuống vây thành Nghệ An. Sau khi nhà vua lên ngôi, trấn lị đặt ở Lam Thành, thì nơi này là hành điện (hay hành cung). Đến năm đầu niên hiệu Hồng Đức(1470), vua Lê Thánh Tông mới sai lập đền thờ vua Lê Thái Tổ và bà Trinh ý nguyên phi. Khoảng niên hiệu Chính Hoà (1680 \u2013 1704), vua Lê Hi Tông lại rước linh vị vua Lê Thái Tông và vua Lê Thánh Tông về thờ ở đây6 . Một tài liệu của ti văn hoá Nghệ An ngày 25/01/1957 cho biết có một lần đền được trùng tu vào năm 1859, \"lợp ngói cổ rất bền và lát gạch vuông mỗi bề 0,37m2...\" Đền có bốn toà nhà, qua toà hạ, đến hai toà trung và toà thượng đường đặt kề nhau thành hình chữ \"công\" (I). ở toà thượng chính giữa thờ vua Lê Thái Tổ, bên hữu thờ vua Lê Thái Tông, bên tả thờ vua Lê Thánh Tông, ở toà trung từ dọc, thờ ba vị Đại vương, con vua Lê Thái Tổ. Còn toà trung từ ngang thì để các tế khí. Bên phải bốn tòa nhà này là ngôi đền thờ bà Trinh ý phu nhân vợ vua Lê Thái Tổ, mẹ vua Thái Tông7 \"Đền này là một kiến trúc lớn, là công trình điêu khắc tinh xảo, có 64 cột lớn (chu vi 1,60 m) \u2013 (Báo cáo của Ty văn hoá)8 .",
+        "Hai là là đền Võ Mục, cũng gọi đền Chiêu Trưng, ở Triều Khẩu. Ông là cháu gọi Lê Thái Tổ bằng chú, theo vua đánh giặc Minh có công lớn, sau được cử vào trấn giữ Nghệ An. Năm thứ tư niên hiệu Thái Hoà đời Lê Nhân Tông (1446), ông cùng tướng Trịnh Khả đi đánh Chiêm Thành, thắng trận nhưng khi về đến núi Nam Giới thì ốm chết. Mộ ông đặt ở núi Long Ngâm, dân địa phương lập đền thờ. Năm hàng năm triều đình cử trấn quan về tế. Đến năm Dương Hoà thứ 5 đời Lê Thần Tông (1639), trấn quan xin lập đền mới ở Triều Khẩu. Năm thứ 6 Dương Hòa (1640) triều đình cho lấy của công, làm lại đền bằng gỗ lim, lợp ngói. Ngôi đền to lớn, nguy nga, ở thượng đường có tượng Võ Mục vương bằng gỗ trầm, phía ngoài có tấm bia đá do vua Lê Thánh Tông sai ông Nguyễn Như Đổ soạn văn bia. Đền Chiêu Trưng là một trong bốn ngôi đền có tiếng nhất Nghệ An. Vào cuối thế kỉ XIX, vườn đền bị nước sông xói lở dần, hai thôn Quang Dụ, Hưng Phúc xã Triều Khẩu phải chuyển sang bờ nam (nay là xã Đức Quang, Đức Thọ, Hà Tĩnh). Đền Võ Mục cũng bị dỡ, lập thành hai đền, một ở thôn Phúc Xuyên, bờ bắc, một ở thôn Hưng Phúc bờ nam, nay là thuộc xã Hưng Khánh, Hưng Nguyên, Nghệ An. Từ sau 1945, cả hai ngôi đền đều bị bỏ hư hỏng.",
+        "Trong số những người có tiếng tăm xưa nay từng đến núi Lam Thành (Rú Thành), trấn lỵ Lam Thành, sử sách còn chép về hai vị Hoàng đế. Nguyên chú bài Thập nhị nguyệt sơ tứ nhật (ngày mồng bốn tháng chạp) trong tập thơ Chinh Tây kỉ hành của vua Lê Thánh Tông cho biết: Canh ba đoàn thuyền tiến vào kênh Hoa Cái9 , canh tư đến cửa kênh, rạng sáng ra sông lớn (Sông Lam). Đi vài dặm nữa tới chân thành Nghệ An đóng quân. Ngắm nhìn núi sông, nhà vua làm bài thơ tức cảnh, cụ Hoàng Xuân Hãn trích dịch:",
+        "Sau những cảm hứng về cảnh sắc nước non, bài thơ có câu luận: \"Tráng tâm đa thiểu tại thương sinh\" - Chí lớn nhiều ít cũng vì muôn dân. Trong dịp này, nhà vua còn có hai bài thơ làm khi qua bến Phù Thạch (Quá Phù Thạch độ). Bài thứ nhất có hai câu kết: \"Phương kim yển vũ tu văn trị - Xuất thổ hành đương bố đức âm\" \u2013 Ngày nay chính là lúc tạm xếp việc võ, sửa sang việc văn - Khắp đất nước cần ban bố ân đức. Đó là lời nói của một vị minh quân, nhân quân.",
+        "Trên đường ra trận năm 1470, vua Lê Thánh Tông dừng chân ở Lam Thành, lúc trấn lỵ mới được thiết lập chưa bao lâu. Hơn 300 năm sau, năm 1789, vua Quang Trung ghé lại Lam Thành sau khi thắng trận trở về, không lâu trước khi trấn lị dời ra Vịnh Dinh. Đây là lần thứ ba nhà vua đến Lam Thành và cũng là lần thứ ba nhà vua hội kiến với La Sơn phu tử Nguyễn Thiếp (1723 \u2013 1804). Mấy tháng sau lần hội kiến này, vào mùa thu năm ấy vua Quang Trung lập Sùng Chính thư viện ở Nam Hoa, cử Nguyễn Thiếp làm Viện trưởng và mở khoa thi tú tài đầu tiên ở trường Nghệ An, lấy Nguyên Thiếp làm Đề điệu.",
+        "Xong việc võ đuổi ngoại xâm, giữ yên bờ cõi thì bắt tay vào việc văn, chọn nhân tài, xây dựng đất nước. Hai vị hoàng đế ở hai thời đại khác nhau,cùng có chung suy nghĩ và hành động. Quả là những trí tuệ lớn thường gặp nhau.",
+        "\"Hưng quận chi nam \u2013 Hữu sơn ngật lập\"- Phía nam phủ Hưng, núi Lam Thành đứng đó, chứng kiến bao cuộc thăng trầm trong lịch sử. Đặc biệt, ngót 400 năm Lam Thành là thủ phủ Xứ Nghệ, bao sự kiện trọng đại của đất nước đã diễn ra ở đây, bao con người tinh hoa dân tộc, đã có mặt ở đây, bao di tích lịch sử - văn hoá của quê hương đã và đang tồn tại ở đây.",
+        "(Nguồn: Wikipedia)"
+    ]
+}

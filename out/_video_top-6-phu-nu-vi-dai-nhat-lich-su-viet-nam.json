@@ -1,0 +1,462 @@
+{
+    "tables": [],
+    "keywords": [],
+    "headings": [
+        "Top 6 Phụ nữ vĩ đại nhất lịch sử Việt Nam",
+        "Bài viết cùng thư mục",
+        "Anh Hùng Dân Tộc Tiêu Biểu",
+        "Tư Liệu Lịch Sử",
+        "Di Tích Lịch Sử"
+    ],
+    "anchors": [
+        {
+            "text": "",
+            "href": "/"
+        },
+        {
+            "text": "Trang Chủ",
+            "href": "/"
+        },
+        {
+            "text": "Dòng Lịch Sử",
+            "href": "/dong-lich-su"
+        },
+        {
+            "text": "Hồng Bàng & Văn Lang",
+            "href": "/dong-lich-su/hong-bang-va-van-lang"
+        },
+        {
+            "text": "Âu Lạc & Nam Việt",
+            "href": "/dong-lich-su/au-lac-va-nam-viet"
+        },
+        {
+            "text": "Bắc thuộc lần I",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat"
+        },
+        {
+            "text": "Trưng Nữ Vương",
+            "href": "/dong-lich-su/trung-nu-vuong"
+        },
+        {
+            "text": "Bắc thuộc lần II",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-hai"
+        },
+        {
+            "text": "Nhà Lý & Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu"
+        },
+        {
+            "text": "Bắc thuộc lần III",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-ba"
+        },
+        {
+            "text": "Thời kỳ xây nền tự chủ",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu"
+        },
+        {
+            "text": "Nhà Ngô",
+            "href": "/dong-lich-su/nha-ngo"
+        },
+        {
+            "text": "Nhà Đinh",
+            "href": "/dong-lich-su/nha-dinh"
+        },
+        {
+            "text": "Nhà Tiền Lê",
+            "href": "/dong-lich-su/nha-tien-le"
+        },
+        {
+            "text": "Nhà Lý",
+            "href": "/dong-lich-su/nha-ly"
+        },
+        {
+            "text": "Nhà Trần",
+            "href": "/dong-lich-su/nha-tran"
+        },
+        {
+            "text": "Nhà Hồ",
+            "href": "/dong-lich-su/nha-ho"
+        },
+        {
+            "text": "Nhà Hậu Trần",
+            "href": "/dong-lich-su/nha-hau-tran"
+        },
+        {
+            "text": "Bắc thuộc lần IV",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-tu"
+        },
+        {
+            "text": "Nhà Hậu Lê",
+            "href": "/dong-lich-su/nha-hau-le"
+        },
+        {
+            "text": "Nam Bắc Triều",
+            "href": "/dong-lich-su/nam-bac-trieu"
+        },
+        {
+            "text": "Trịnh Nguyễn Phân Tranh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh"
+        },
+        {
+            "text": "Nhà Tây Sơn",
+            "href": "/dong-lich-su/nha-tay-son"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/nha-nguyen"
+        },
+        {
+            "text": "Pháp Thuộc",
+            "href": "/dong-lich-su/phap-thuoc"
+        },
+        {
+            "text": "Việt Nam Dân Chủ Cộng Hoà",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Cộng hoà xã hội chủ nghĩa Việt Nam",
+            "href": "/dong-lich-su/viet-nam-xhcn"
+        },
+        {
+            "text": "Tư Liệu",
+            "href": "/tu-lieu"
+        },
+        {
+            "text": "Quân Sự",
+            "href": "/tu-lieu/quan-su?filter_tag[0]="
+        },
+        {
+            "text": "Tác Phẩm",
+            "href": "/tu-lieu/tac-pham?filter_tag[0]="
+        },
+        {
+            "text": "Bang Giao",
+            "href": "/tu-lieu/bang-giao"
+        },
+        {
+            "text": "Biểu đồ thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Nhân Vật",
+            "href": "/nhan-vat"
+        },
+        {
+            "text": "Anh Hùng Dân Tộc",
+            "href": "/anh-hung-dan-toc?types[0]=1"
+        },
+        {
+            "text": "Danh nhân văn hóa",
+            "href": "/danh-nhan-van-hoa?types[0]=1"
+        },
+        {
+            "text": "Di Tích",
+            "href": "/di-tich-lich-su?types[0]=1"
+        },
+        {
+            "text": "Ngày Nay",
+            "href": "/thoi-su"
+        },
+        {
+            "text": "Sách",
+            "href": "/sach"
+        },
+        {
+            "text": "Video",
+            "href": "/video"
+        },
+        {
+            "text": "Q&A",
+            "href": "/hoi-dap"
+        },
+        {
+            "text": "Lịch sử lớp 12",
+            "href": "/hoi-dap/lop-12"
+        },
+        {
+            "text": "Lịch sử lớp 11",
+            "href": "/hoi-dap/lop-11"
+        },
+        {
+            "text": "Lịch sử lớp 10",
+            "href": "/hoi-dap/lop-10"
+        },
+        {
+            "text": "Lịch sử lớp 9",
+            "href": "/hoi-dap/lop-9"
+        },
+        {
+            "text": "Lịch sử lớp 8",
+            "href": "/hoi-dap/lop-8"
+        },
+        {
+            "text": "Lịch sử lớp 7",
+            "href": "/hoi-dap/lop-7"
+        },
+        {
+            "text": "Lịch sử lớp 6",
+            "href": "/hoi-dap/lop-6"
+        },
+        {
+            "text": "Trang chủ",
+            "href": "/"
+        },
+        {
+            "text": "Video",
+            "href": "/video"
+        },
+        {
+            "text": "Video",
+            "href": "/video"
+        },
+        {
+            "text": "Lý Thánh Tông",
+            "href": "/nhan-vat/ly-thanh-tong"
+        },
+        {
+            "text": "Lý Nhân Tông",
+            "href": "/nhan-vat/ly-nhan-tong"
+        },
+        {
+            "text": "Lý Càn Đức",
+            "href": "/nhan-vat/ly-can-duc"
+        },
+        {
+            "text": "Nguyễn Bỉnh Khiêm",
+            "href": "/nhan-vat/nguyen-binh-khiem"
+        },
+        {
+            "text": "Hoàng Thị Loan",
+            "href": "/nhan-vat/hoang-thi-loan"
+        },
+        {
+            "text": "Hoàng Thị Loan",
+            "href": "/nhan-vat/hoang-thi-loan"
+        },
+        {
+            "text": "Hồ Chí Minh",
+            "href": "/nhan-vat/ho-chi-minh"
+        },
+        {
+            "text": "Lê Ngọc Hân",
+            "href": "/nhan-vat/le-ngoc-han"
+        },
+        {
+            "text": "nhà Hậu Lê",
+            "href": "/nhan-vat/nha-hau-le"
+        },
+        {
+            "text": "Nguyễn Huệ",
+            "href": "/nhan-vat/nguyen-hue"
+        },
+        {
+            "text": "Nguyễn Huệ",
+            "href": "/nhan-vat/nguyen-hue"
+        },
+        {
+            "text": "Nguyễn Huệ",
+            "href": "/nhan-vat/nguyen-hue"
+        },
+        {
+            "text": "Bài viết trước: Đại Chiến Bạch Đằng - Phim Hoạt Hình Lịch Sử Đầu Tiên Việt Nam Trước",
+            "href": "/video/dai-chien-bach-dang-phim-hoat-hinh-lich-su-dau-tien-viet-nam"
+        },
+        {
+            "text": "Bài viết kế tiếp: Việt Nam và 12 tên gọi của nước ta qua các thời kỳ lịch sử Tiếp tục",
+            "href": "/video/viet-nam-va-12-ten-goi-cua-nuoc-ta-qua-cac-thoi-ky-lich-su"
+        },
+        {
+            "text": "Lịch sử Việt Nam từ thuở sơ khai đến 1858",
+            "href": "/video/lich-su-viet-nam-tu-thuo-so-khai-den-1858"
+        },
+        {
+            "text": "Sơ lược lịch sử Việt Nam (1954 - 1975) Thỏa lòng mong ước của Người",
+            "href": "/video/so-luoc-lich-su-viet-nam-1954-1975-thoa-long-mong-uoc-cua-nguoi"
+        },
+        {
+            "text": "Phim hoạt hình - Hào khí Thăng Long",
+            "href": "/video/phim-hoat-hinh-hao-khi-thang-long"
+        },
+        {
+            "text": "Tứ Đại Mỹ Nhân trong Lịch Sử Việt Nam",
+            "href": "/video/tu-dai-my-nhan-trong-lich-su-viet-nam"
+        },
+        {
+            "text": "Quá trình hình thành đất nước Việt Nam",
+            "href": "/video/qua-trinh-hinh-thanh-dat-nuoc-viet-nam"
+        },
+        {
+            "text": "14 Thiên tài quân sự kiệt xuất nhất trong lịch sử Việt Nam",
+            "href": "/video/14-thien-tai-quan-su-kiet-xuat-nhat-trong-lich-su-viet-nam"
+        },
+        {
+            "text": "Lý Thái Tổ",
+            "href": "/video/ly-thai-to"
+        },
+        {
+            "text": "Lịch Sử Việt Nam Thời Hùng Vương - Phần 01",
+            "href": "/video/lich-su-viet-nam-thoi-hung-vuong-phan-1"
+        },
+        {
+            "text": "Việt Nam và 12 tên gọi của nước ta qua các thời kỳ lịch sử",
+            "href": "/video/viet-nam-va-12-ten-goi-cua-nuoc-ta-qua-cac-thoi-ky-lich-su"
+        },
+        {
+            "text": "Trạng Nguyên Việt Nam P3",
+            "href": "/video/trang-nguyen-viet-nam-p3"
+        },
+        {
+            "text": "Nguyễn Trãi",
+            "href": "/nhan-vat/nguyen-trai"
+        },
+        {
+            "text": "Lê Đại Hành",
+            "href": "/nhan-vat/le-dai-hanh"
+        },
+        {
+            "text": "Lý Thái Tổ",
+            "href": "/nhan-vat/ly-thai-to"
+        },
+        {
+            "text": "Hùng Vương",
+            "href": "/nhan-vat/hung-vuong"
+        },
+        {
+            "text": "Hai Bà Trưng",
+            "href": "/nhan-vat/hai-ba-trung"
+        },
+        {
+            "text": "Lý Thường Kiệt",
+            "href": "/nhan-vat/ly-thuong-kiet"
+        },
+        {
+            "text": "Hồ Chí Minh",
+            "href": "/nhan-vat/ho-chi-minh"
+        },
+        {
+            "text": "Ngô Quyền",
+            "href": "/nhan-vat/ngo-quyen"
+        },
+        {
+            "text": "Lê Thái Tổ",
+            "href": "/nhan-vat/le-thai-to"
+        },
+        {
+            "text": "Đinh Tiên Hoàng",
+            "href": "/nhan-vat/dinh-tien-hoang"
+        },
+        {
+            "text": "Vấn đề biên giới Việt-Trung thời Mạc",
+            "href": "/tu-lieu/bang-giao/van-de-bien-gioi-viet-trung-thoi-mac"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Tây Sơn",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-tay-son"
+        },
+        {
+            "text": "Biểu đồ các nhân vật lịch sử theo dòng thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Danh sách Trạng nguyên Việt Nam",
+            "href": "/tu-lieu/danh-sach-trang-nguyen-viet-nam"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Nguyễn",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-nguyen"
+        },
+        {
+            "text": "Trận Điện Biên Phủ trên không năm 1972",
+            "href": "/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972"
+        },
+        {
+            "text": "Trận Ngọc Hồi - Đống Đa năm 1789",
+            "href": "/tu-lieu/quan-su/tran-ngoc-hoi-dong-da-nam-1789"
+        },
+        {
+            "text": "Trận Cẩm Sa năm 1775",
+            "href": "/tu-lieu/quan-su/tran-cam-sa-nam-1775"
+        },
+        {
+            "text": "Trận Rạch Gầm \u2013 Xoài Mút năm 1785",
+            "href": "/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785"
+        },
+        {
+            "text": "Lãnh thổ Việt Nam qua từng thời kỳ",
+            "href": "/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky"
+        },
+        {
+            "text": "Đền Trần (Nam Định)",
+            "href": "/dia-danh/den-tran-nam-dinh"
+        },
+        {
+            "text": "Thành cổ Quảng Trị",
+            "href": "/dia-danh/thanh-co-quang-tri"
+        },
+        {
+            "text": "thành Cổ Loa",
+            "href": "/dia-danh/thanh-co-loa"
+        },
+        {
+            "text": "Đền Phù Đổng",
+            "href": "/dia-danh/den-phu-dong"
+        },
+        {
+            "text": "Hồ Hoàn Kiếm",
+            "href": "/dia-danh/ho-hoan-kiem"
+        },
+        {
+            "text": "Đền Trần (Thái Bình)",
+            "href": "/dia-danh/den-tran-thai-binh"
+        },
+        {
+            "text": "Khu lưu niệm Chủ tịch Tôn Đức Thắng",
+            "href": "/dia-danh/khu-luu-niem-chu-tich-ton-duc-thang"
+        },
+        {
+            "text": "chùa Thầy",
+            "href": "/dia-danh/chua-thay"
+        },
+        {
+            "text": "Quần thể di tích danh thắng Yên Tử",
+            "href": "/dia-danh/quan-the-di-tich-danh-thang-yen-tu"
+        },
+        {
+            "text": "Khu di tích chiến thắng Điện Biên Phủ",
+            "href": "/dia-danh/khu-di-tich-chien-thang-dien-bien-phu"
+        },
+        {
+            "text": "Giới thiệu",
+            "href": "/gioi-thieu"
+        },
+        {
+            "text": "Quyền riêng tư",
+            "href": "/quyen-rieng-tu"
+        },
+        {
+            "text": "Liên hệ",
+            "href": "/lien-he"
+        },
+        {
+            "text": "Địa Danh",
+            "href": "/dia-danh"
+        },
+        {
+            "text": "Trang Facebook",
+            "href": "https://www.facebook.com/nguoikesu/"
+        },
+        {
+            "text": "DanhMucBDS.com",
+            "href": "https://danhmucbds.com"
+        },
+        {
+            "text": "HocTotNguVan.com",
+            "href": "https://hoctotnguvan.com"
+        }
+    ],
+    "title": "Top 6 Phụ nữ vĩ đại nhất lịch sử Việt Nam - Người Kể Sử",
+    "paragraphs": [
+        "Top 6 Phụ nữ vĩ đại nhất lịch sử Việt Nam Phụ nữ Việt Nam vẫn luôn được biết đến là những người tài sắc vẹn toàn, giàu đức hi sinh. Lịch sử sẽ luôn ghi nhớ công ơn của họ - những người phụ nữ vĩ đại. 1. Nguyên phi Ỷ Lan (1044 \u2013 1117) Nguyên phi Ỷ Lan là phi tần của Hoàng đế Lý Thánh Tông, mẹ ruột của Hoàng đế Lý Nhân Tông, thụy hiệu là Linh Nhân Phù Thánh hoàng hậu. Thân phụ của bà là Lê Công Thiết, thân mẫu là Vũ Thị Tình, bà hạ sinh được Hoàng thái tử Lý Càn Đức và Minh Nhân vương. Bà đã hai lần đăng đàn nhiếp chính, đưa đất nước dưới triều Lý phát triển hưng thịnh, những đóng góp cho triều Lý nhất là về Phật giáo và tài năng trị nước của bà đều được sử gia khen ngợi và tán dương. 2. Từ Thục phu nhân Từ Thục phu nhân tên thật là Nhữ Thị Thục, người làng An Tử Hạ, huyện Tiên Minh, xứ Hải Dương, nay thuộc xã Kiến Thiết, huyện Tiên Lãng, thành phố Hải Phòng. Tương truyền, bà đã tính toán cẩn thận ngày giờ hợp cẩn để sinh ra Nguyễn Văn Đạt (tên khai sinh của Trạng Trình Nguyễn Bỉnh Khiêm) và bà cũng chính là người có sức ảnh hưởng lớn trong giáo dục cũng như hình thành nhân cách của con mình. Bà là hình mẫu người phụ nữ rất hiếm gặp trong lịch sử Việt Nam: thông minh, quyết đoán, học rộng, giỏi văn chương, kinh sử, lại tinh thông cả dịch lý, tướng số, mang chí lớn của bậc trượng phu. 3. Bà Hoàng Thị Loan (1968 \u2013 1901) Bà Hoàng Thị Loan (thân mẫu của Chủ tịch Hồ Chí Minh) sinh năm 1868 trong một gia đình Nho học, nhưng mọi người trong gia đình đều trực tiếp tham gia lao động. Bà có dung nhan xinh đẹp, duyên dáng, tính tình thùy mị, nết na, luôn vui vẻ hòa nhã với mọi người, chăm chỉ làm công việc. Bà lớn lên đã tiếp thu sự giáo dục tiến bộ của gia đình, bà thuộc rất nhiều làn điệu câu ví và sự thông hiểu đạt tới mức sâu sắc. 4. Từ Dụ Hoàng thái hậu Bà là chính thất Quý phi của Thiệu Trị Hoàng đế, mẹ ruột của vua Tự Đức. Từ Dụ Hoàng thái hậu nổi tiếng là một người đức hạnh, xuất thân cao quý, thông kinh sử, có đức hiền, biết yêu dân thương con. Bà hạ sinh được hai công chúa, một hoàng tử và tại vị ở triều đình Huế trong vòng 55 năm, từ lúc bà trở thành Hoàng thái hậu dưới thời Tự Đức năm 1847 cho đến khi qua đời vào năm 1902 dưới thời Thành Thái. 5. Ngọc Hân công chúa Ngọc Hân công chúa hay Bắc Cung Hoàng hậu tên thật là Lê Ngọc Hân, là công chúa tài sắc vẹn toàn nhà Hậu Lê. Năm 1786, Ngọc Hân vâng mệnh vua cha kết duyên cùng người anh hùng áo vải Nguyễn Huệ, khi đó bà mới 16 tuổi, còn Nguyễn Huệ 33 tuổi. Khi Quang Trung băng hà (năm 1792), bà đã viết bài Tế vua Quang Trung và Ai Tư Vãn để bày tỏ nỗi đau khổ cùng cực cũng như niềm tiếc thương vô hạn cho người anh hùng áo vải Quang Trung \u2013 Nguyễn Huệ. 6. Nữ tướng Nguyễn Thị Định Nguyễn Thị Định còn được gọi là Ba Định có bí danh là Bích Vân, Ba Tấn, Ba Nhất và Ba Hận là nữ tướng đầu tiên của Quân đội Nhân dân Việt Nam. Bà được Chủ tịch nước truy tặng danh hiệu Anh hùng lực lượng vũ trang nhân dân năm 1995 - ba năm sau khi bà mất. Đền thờ bà được lập tại ấp Phong Điền, xã Lương Hòa, huyện Giồng Trôm, tỉnh Bến Tre, tên của bà cũng được đặt cho nhiều tuyến đường và trường học ở Việt Nam.",
+        "(Nguồn: toplist.vn)"
+    ]
+}

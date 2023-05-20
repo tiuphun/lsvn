@@ -1,0 +1,972 @@
+{
+    "tables": ["<table class=\"infobox\">\n <tbody>\n  <tr>\n   <th colspan=\"2\">Hà Tĩnh<\/th>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\">Thành phố trực thuộc tỉnh<\/td>\n  <\/tr>\n  <tr>\n   <th colspan=\"2\">Địa lý<\/th>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Diện tích<\/th>\n   <td>56,19<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Dân số<\/th>\n   <td>&nbsp;<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\"><span>&nbsp;Tổng cộng<\/span><\/th>\n   <td>117.546<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\"><span>&nbsp;Mật độ<\/span><\/th>\n   <td>2.092<\/td>\n  <\/tr>\n  <tr>\n   <th colspan=\"2\">Hành chính<\/th>\n  <\/tr>\n  <tr>\n   <th scope=\"row\"><span>&nbsp;Trụ&nbsp;sở&nbsp;UBND<\/span><\/th>\n   <td>72 <a class=\"annotation\" href=\"/nhan-vat/phan-dinh-phung\" title=\"Phan Đình Phùng (chữ Hán: 潘廷逢; 1847 - 1895) hiệu: Châu Phong, là nhà thơ và là lãnh tụ cuộc khởi nghĩa Hương Khê (1885-1896) trong phong trào Cần Vương chống Pháp ở cuối thế kỷ 19 trong lịch sử Việt Nam....\" target=\"_blank\">Phan Đình Phùng<\/a><\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Phân&nbsp;chia hành&nbsp;chính<\/th>\n   <td>10 phường, 6 xã<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Website<\/th>\n   <td>http://hatinhcity.gov.vn<\/td>\n  <\/tr>\n <\/tbody>\n<\/table>"],
+    "keywords": [],
+    "headings": [
+        "Địa Danh",
+        "thành phố Hà Tĩnh",
+        "Vị trí địa lý",
+        "Hành chính",
+        "Lịch sử",
+        "Cảnh Quan",
+        "Thành Sen - Liêm Thành",
+        "Nhà Lao Hà Tĩnh",
+        "Văn miếu Thành Sen",
+        "Chợ Hà Tĩnh",
+        "Văn hóa",
+        "Di tích và danh thắng",
+        "Người nổi tiếng",
+        "Lễ hội truyền thống",
+        "Giáo dục",
+        "Đại học, Cao đẳng",
+        "Trường Trung Cấp Nghề",
+        "Trường Trung học Phổ thông",
+        "Hình ảnh Thành phố Hà Tĩnh",
+        "Chú thích",
+        "Bài viết cùng thư mục",
+        "CÁC THỜI KỲ LỊCH SỬ",
+        "Tư Liệu",
+        "Di Tích Lịch Sử",
+        "Anh Hùng Dân Tộc Tiêu Biểu",
+        "Tư Liệu Lịch Sử",
+        "Di Tích Lịch Sử"
+    ],
+    "anchors": [
+        {
+            "text": "",
+            "href": "/"
+        },
+        {
+            "text": "Trang Chủ",
+            "href": "/"
+        },
+        {
+            "text": "Dòng Lịch Sử",
+            "href": "/dong-lich-su"
+        },
+        {
+            "text": "Hồng Bàng & Văn Lang",
+            "href": "/dong-lich-su/hong-bang-va-van-lang"
+        },
+        {
+            "text": "Âu Lạc & Nam Việt",
+            "href": "/dong-lich-su/au-lac-va-nam-viet"
+        },
+        {
+            "text": "Bắc thuộc lần I",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat"
+        },
+        {
+            "text": "Trưng Nữ Vương",
+            "href": "/dong-lich-su/trung-nu-vuong"
+        },
+        {
+            "text": "Bắc thuộc lần II",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-hai"
+        },
+        {
+            "text": "Nhà Lý & Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu"
+        },
+        {
+            "text": "Bắc thuộc lần III",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-ba"
+        },
+        {
+            "text": "Thời kỳ xây nền tự chủ",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu"
+        },
+        {
+            "text": "Nhà Ngô",
+            "href": "/dong-lich-su/nha-ngo"
+        },
+        {
+            "text": "Nhà Đinh",
+            "href": "/dong-lich-su/nha-dinh"
+        },
+        {
+            "text": "Nhà Tiền Lê",
+            "href": "/dong-lich-su/nha-tien-le"
+        },
+        {
+            "text": "Nhà Lý",
+            "href": "/dong-lich-su/nha-ly"
+        },
+        {
+            "text": "Nhà Trần",
+            "href": "/dong-lich-su/nha-tran"
+        },
+        {
+            "text": "Nhà Hồ",
+            "href": "/dong-lich-su/nha-ho"
+        },
+        {
+            "text": "Nhà Hậu Trần",
+            "href": "/dong-lich-su/nha-hau-tran"
+        },
+        {
+            "text": "Bắc thuộc lần IV",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-tu"
+        },
+        {
+            "text": "Nhà Hậu Lê",
+            "href": "/dong-lich-su/nha-hau-le"
+        },
+        {
+            "text": "Nam Bắc Triều",
+            "href": "/dong-lich-su/nam-bac-trieu"
+        },
+        {
+            "text": "Trịnh Nguyễn Phân Tranh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh"
+        },
+        {
+            "text": "Nhà Tây Sơn",
+            "href": "/dong-lich-su/nha-tay-son"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/nha-nguyen"
+        },
+        {
+            "text": "Pháp Thuộc",
+            "href": "/dong-lich-su/phap-thuoc"
+        },
+        {
+            "text": "Việt Nam Dân Chủ Cộng Hoà",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Cộng hoà xã hội chủ nghĩa Việt Nam",
+            "href": "/dong-lich-su/viet-nam-xhcn"
+        },
+        {
+            "text": "Tư Liệu",
+            "href": "/tu-lieu"
+        },
+        {
+            "text": "Quân Sự",
+            "href": "/tu-lieu/quan-su?filter_tag[0]="
+        },
+        {
+            "text": "Tác Phẩm",
+            "href": "/tu-lieu/tac-pham?filter_tag[0]="
+        },
+        {
+            "text": "Bang Giao",
+            "href": "/tu-lieu/bang-giao"
+        },
+        {
+            "text": "Biểu đồ thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Nhân Vật",
+            "href": "/nhan-vat"
+        },
+        {
+            "text": "Anh Hùng Dân Tộc",
+            "href": "/anh-hung-dan-toc?types[0]=1"
+        },
+        {
+            "text": "Danh nhân văn hóa",
+            "href": "/danh-nhan-van-hoa?types[0]=1"
+        },
+        {
+            "text": "Di Tích",
+            "href": "/di-tich-lich-su?types[0]=1"
+        },
+        {
+            "text": "Ngày Nay",
+            "href": "/thoi-su"
+        },
+        {
+            "text": "Sách",
+            "href": "/sach"
+        },
+        {
+            "text": "Video",
+            "href": "/video"
+        },
+        {
+            "text": "Q&A",
+            "href": "/hoi-dap"
+        },
+        {
+            "text": "Lịch sử lớp 12",
+            "href": "/hoi-dap/lop-12"
+        },
+        {
+            "text": "Lịch sử lớp 11",
+            "href": "/hoi-dap/lop-11"
+        },
+        {
+            "text": "Lịch sử lớp 10",
+            "href": "/hoi-dap/lop-10"
+        },
+        {
+            "text": "Lịch sử lớp 9",
+            "href": "/hoi-dap/lop-9"
+        },
+        {
+            "text": "Lịch sử lớp 8",
+            "href": "/hoi-dap/lop-8"
+        },
+        {
+            "text": "Lịch sử lớp 7",
+            "href": "/hoi-dap/lop-7"
+        },
+        {
+            "text": "Lịch sử lớp 6",
+            "href": "/hoi-dap/lop-6"
+        },
+        {
+            "text": "Trang chủ",
+            "href": "/"
+        },
+        {
+            "text": "Địa Danh",
+            "href": "/dia-danh"
+        },
+        {
+            "text": "Địa Danh Lịch Sử",
+            "href": "/dia-danh"
+        },
+        {
+            "text": "Thu / Mở",
+            "href": "#"
+        },
+        {
+            "text": "Vị trí địa lý",
+            "href": "#vi-tri-dia-ly"
+        },
+        {
+            "text": "Hành chính",
+            "href": "#hanh-chinh"
+        },
+        {
+            "text": "Lịch sử",
+            "href": "#lich-su"
+        },
+        {
+            "text": "Cảnh Quan",
+            "href": "#canh-quan"
+        },
+        {
+            "text": "Thành Sen - Liêm Thành",
+            "href": "#thanh-sen-liem-thanh"
+        },
+        {
+            "text": "Nhà Lao Hà Tĩnh",
+            "href": "#nha-lao-ha-tinh"
+        },
+        {
+            "text": "Văn miếu Thành Sen",
+            "href": "#van-mieu-thanh-sen"
+        },
+        {
+            "text": "Chợ Hà Tĩnh",
+            "href": "#cho-ha-tinh"
+        },
+        {
+            "text": "Văn hóa",
+            "href": "#van-hoa"
+        },
+        {
+            "text": "Di tích và danh thắng",
+            "href": "#di-tich-va-danh-thang"
+        },
+        {
+            "text": "Người nổi tiếng",
+            "href": "#nguoi-noi-tieng"
+        },
+        {
+            "text": "Lễ hội truyền thống",
+            "href": "#le-hoi-truyen-thong"
+        },
+        {
+            "text": "Giáo dục",
+            "href": "#giao-duc"
+        },
+        {
+            "text": "Đại học, Cao đẳng",
+            "href": "#dai-hoc-cao-dang"
+        },
+        {
+            "text": "Trường Trung Cấp Nghề",
+            "href": "#truong-trung-cap-nghe"
+        },
+        {
+            "text": "Trường Trung học Phổ thông",
+            "href": "#truong-trung-hoc-pho-thong"
+        },
+        {
+            "text": "Hình ảnh Thành phố Hà Tĩnh",
+            "href": "#hinh-anh-thanh-pho-ha-tinh"
+        },
+        {
+            "text": "Chú thích",
+            "href": "#chu-thich"
+        },
+        {
+            "text": "Phan Đình Phùng",
+            "href": "/nhan-vat/phan-dinh-phung"
+        },
+        {
+            "text": "tỉnh Hà Tĩnh",
+            "href": "/dia-danh/tinh-ha-tinh"
+        },
+        {
+            "text": "thành phố Vinh",
+            "href": "/dia-danh/thanh-pho-vinh"
+        },
+        {
+            "text": "thành phố Huế",
+            "href": "/dia-danh/thanh-pho-hue"
+        },
+        {
+            "text": "biển Đông",
+            "href": "/dia-danh/bien-dong"
+        },
+        {
+            "text": "huyện Thạch Hà",
+            "href": "/dia-danh/huyen-thach-ha"
+        },
+        {
+            "text": "huyện Cẩm Xuyên",
+            "href": "/dia-danh/huyen-cam-xuyen"
+        },
+        {
+            "text": "huyện Thạch Hà",
+            "href": "/dia-danh/huyen-thach-ha"
+        },
+        {
+            "text": "nhà Lý",
+            "href": "/nhan-vat/nha-ly"
+        },
+        {
+            "text": "Lê Thánh Tông",
+            "href": "/nhan-vat/le-thanh-tong"
+        },
+        {
+            "text": "thừa tuyên Nghệ An",
+            "href": "/dia-danh/thua-tuyen-nghe-an"
+        },
+        {
+            "text": "trấn Nghệ An",
+            "href": "/dia-danh/tran-nghe-an"
+        },
+        {
+            "text": "huyện Thạch Hà",
+            "href": "/dia-danh/huyen-thach-ha"
+        },
+        {
+            "text": "tỉnh Hà Tĩnh",
+            "href": "/dia-danh/tinh-ha-tinh"
+        },
+        {
+            "text": "huyện Thạch Hà",
+            "href": "/dia-danh/huyen-thach-ha"
+        },
+        {
+            "text": "huyện Thạch Hà",
+            "href": "/dia-danh/huyen-thach-ha"
+        },
+        {
+            "text": "tỉnh Hà Tĩnh",
+            "href": "/dia-danh/tinh-ha-tinh"
+        },
+        {
+            "text": "huyện Thạch Hà",
+            "href": "/dia-danh/huyen-thach-ha"
+        },
+        {
+            "text": "tỉnh Hà Tĩnh",
+            "href": "/dia-danh/tinh-ha-tinh"
+        },
+        {
+            "text": "huyện Thạch Hà",
+            "href": "/dia-danh/huyen-thach-ha"
+        },
+        {
+            "text": "tỉnh Hà Tĩnh",
+            "href": "/dia-danh/tinh-ha-tinh"
+        },
+        {
+            "text": "thành Huế",
+            "href": "/dia-danh/thanh-hue"
+        },
+        {
+            "text": "tỉnh Hà Tĩnh",
+            "href": "/dia-danh/tinh-ha-tinh"
+        },
+        {
+            "text": "huyện Thạch Hà",
+            "href": "/dia-danh/huyen-thach-ha"
+        },
+        {
+            "text": "tỉnh Ninh Thuận",
+            "href": "/dia-danh/tinh-ninh-thuan"
+        },
+        {
+            "text": "Nguyễn Công Trứ",
+            "href": "/nhan-vat/nguyen-cong-tru"
+        },
+        {
+            "text": "Nguyễn Công Trứ",
+            "href": "/nhan-vat/nguyen-cong-tru"
+        },
+        {
+            "text": "Phan Đình Phùng",
+            "href": "/nhan-vat/phan-dinh-phung"
+        },
+        {
+            "text": "huyện Thạch Hà",
+            "href": "/dia-danh/huyen-thach-ha"
+        },
+        {
+            "text": "Hương Khê",
+            "href": "/dia-danh/huong-khe"
+        },
+        {
+            "text": "tỉnh Hà Tĩnh",
+            "href": "/dia-danh/tinh-ha-tinh"
+        },
+        {
+            "text": "tỉnh Hà Tĩnh",
+            "href": "/dia-danh/tinh-ha-tinh"
+        },
+        {
+            "text": "tỉnh Hà Tĩnh",
+            "href": "/dia-danh/tinh-ha-tinh"
+        },
+        {
+            "text": "Bài viết trước: thành phố Hà Nội Trước",
+            "href": "/dia-danh/thanh-pho-ha-noi"
+        },
+        {
+            "text": "Bài viết kế tiếp: thành phố Hải Phòng Tiếp tục",
+            "href": "/dia-danh/thanh-pho-hai-phong"
+        },
+        {
+            "text": "nước Việt",
+            "href": "/dia-danh/nuoc-viet"
+        },
+        {
+            "text": "núi Tản Viên",
+            "href": "/dia-danh/nui-tan-vien"
+        },
+        {
+            "text": "sông Đà",
+            "href": "/dia-danh/song-da"
+        },
+        {
+            "text": "sông Hát",
+            "href": "/dia-danh/song-hat"
+        },
+        {
+            "text": "chùa Kiến Sơ",
+            "href": "/dia-danh/chua-kien-so"
+        },
+        {
+            "text": "hồ Động Đình",
+            "href": "/dia-danh/ho-dong-dinh"
+        },
+        {
+            "text": "nước Quắc",
+            "href": "/dia-danh/nuoc-quac"
+        },
+        {
+            "text": "nước Trịnh",
+            "href": "/dia-danh/nuoc-trinh"
+        },
+        {
+            "text": "châu Vũ Ninh",
+            "href": "/dia-danh/chau-vu-ninh"
+        },
+        {
+            "text": "Nước Tần",
+            "href": "/dia-danh/nuoc-tan"
+        },
+        {
+            "text": "Hồng Bàng & Văn Lang",
+            "href": "/dong-lich-su/hong-bang-va-van-lang"
+        },
+        {
+            "text": "Âu Lạc & Nam Việt",
+            "href": "/dong-lich-su/au-lac-va-nam-viet"
+        },
+        {
+            "text": "Bắc thuộc lần I",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat"
+        },
+        {
+            "text": "Nhà Triệu",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat/nha-trieu"
+        },
+        {
+            "text": "Trưng Nữ Vương",
+            "href": "/dong-lich-su/trung-nu-vuong"
+        },
+        {
+            "text": "Bắc thuộc lần II",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-hai"
+        },
+        {
+            "text": "Nhà Lý & Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu"
+        },
+        {
+            "text": "Nhà Tiền Lý",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-tien-ly"
+        },
+        {
+            "text": "Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-trieu"
+        },
+        {
+            "text": "Nhà Hậu Lý",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-hau-ly"
+        },
+        {
+            "text": "Bắc thuộc lần III",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-ba"
+        },
+        {
+            "text": "Thời kỳ xây nền tự chủ",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu"
+        },
+        {
+            "text": "Họ Khúc",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu/ho-khuc"
+        },
+        {
+            "text": "Nhà Ngô",
+            "href": "/dong-lich-su/nha-ngo"
+        },
+        {
+            "text": "Nhà Đinh",
+            "href": "/dong-lich-su/nha-dinh"
+        },
+        {
+            "text": "Nhà Tiền Lê",
+            "href": "/dong-lich-su/nha-tien-le"
+        },
+        {
+            "text": "Nhà Lý",
+            "href": "/dong-lich-su/nha-ly"
+        },
+        {
+            "text": "Nhà Trần",
+            "href": "/dong-lich-su/nha-tran"
+        },
+        {
+            "text": "Nhà Hồ",
+            "href": "/dong-lich-su/nha-ho"
+        },
+        {
+            "text": "Nhà Hậu Trần",
+            "href": "/dong-lich-su/nha-hau-tran"
+        },
+        {
+            "text": "Bắc thuộc lần IV",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-tu"
+        },
+        {
+            "text": "Nhà Hậu Lê",
+            "href": "/dong-lich-su/nha-hau-le"
+        },
+        {
+            "text": "Nam Bắc Triều",
+            "href": "/dong-lich-su/nam-bac-trieu"
+        },
+        {
+            "text": "Nhà Lê Trung Hưng",
+            "href": "/dong-lich-su/nam-bac-trieu/nha-le-trung-hung"
+        },
+        {
+            "text": "Nhà Mạc",
+            "href": "/dong-lich-su/nam-bac-trieu/nha-mac"
+        },
+        {
+            "text": "Trịnh Nguyễn Phân Tranh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh"
+        },
+        {
+            "text": "Nhà Lê Trung Hưng",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/nha-le-trung-hung"
+        },
+        {
+            "text": "Chúa Trịnh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-trinh"
+        },
+        {
+            "text": "Chúa Nguyễn",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen"
+        },
+        {
+            "text": "Nhà Tây Sơn",
+            "href": "/dong-lich-su/nha-tay-son"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/nha-nguyen"
+        },
+        {
+            "text": "Pháp Thuộc",
+            "href": "/dong-lich-su/phap-thuoc"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/phap-thuoc/nha-nguyen"
+        },
+        {
+            "text": "Những cuộc khởi nghĩa chống thực dân Pháp",
+            "href": "/dong-lich-su/phap-thuoc/khoi-nghia-chong-phap"
+        },
+        {
+            "text": "Đảng Cộng Sản Việt Nam",
+            "href": "/dong-lich-su/phap-thuoc/dang-cong-san-viet-nam"
+        },
+        {
+            "text": "Việt Nam Dân Chủ Cộng Hoà",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Kháng chiến chống Pháp",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-phap"
+        },
+        {
+            "text": "Kháng chiến chống Mĩ",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-mi"
+        },
+        {
+            "text": "Cộng hoà xã hội chủ nghĩa Việt Nam",
+            "href": "/dong-lich-su/viet-nam-xhcn"
+        },
+        {
+            "text": "Trận Điện Biên Phủ trên không năm 1972",
+            "href": "/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972"
+        },
+        {
+            "text": "Chiến tranh biên giới Tây Nam năm 1975 - 1978",
+            "href": "/tu-lieu/quan-su/chien-tranh-bien-gioi-tay-nam-nam-1975-1978"
+        },
+        {
+            "text": "Chiến dịch Mùa Xuân năm 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-mua-xuan-nam-1975"
+        },
+        {
+            "text": "Hải chiến Trường Sa năm 1988",
+            "href": "/tu-lieu/quan-su/hai-chien-truong-sa-nam-1988"
+        },
+        {
+            "text": "Chiến dịch Đường 14 - Phước Long năm 1974 - 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-duong-14-phuoc-long-nam-1974-1975"
+        },
+        {
+            "text": "Chiến dịch Tây Nguyên năm 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-tay-nguyen-nam-1975"
+        },
+        {
+            "text": "Trận Mậu Thân tại Huế năm 1968",
+            "href": "/tu-lieu/quan-su/tran-mau-than-tai-hue-nam-1968"
+        },
+        {
+            "text": "Bảng đối chiếu các triều đại Việt Nam và các triều đại Trung Quốc",
+            "href": "/tu-lieu/bang-doi-chieu-cac-trieu-dai-viet-nam-va-cac-trieu-dai-trung-quoc"
+        },
+        {
+            "text": "Bình Ngô đại cáo - bản tuyên ngôn độc lập thứ hai",
+            "href": "/tu-lieu/tac-pham/binh-ngo-dai-cao-ban-tuyen-ngon-doc-lap-thu-hai"
+        },
+        {
+            "text": "Lãnh thổ Việt Nam qua từng thời kỳ",
+            "href": "/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky"
+        },
+        {
+            "text": "Trận Đồi Thịt Băm năm 1969",
+            "href": "/tu-lieu/quan-su/tran-doi-thit-bam-nam-1969"
+        },
+        {
+            "text": "Chiến dịch Đắk Tô năm 1972",
+            "href": "/tu-lieu/quan-su/chien-dich-dak-to-nam-1972"
+        },
+        {
+            "text": "Nam quốc sơn hà - Bản tuyên ngôn độc lập đầu tiên",
+            "href": "/tu-lieu/tac-pham/nam-quoc-son-ha-ban-tuyen-ngon-doc-lap-dau-tien"
+        },
+        {
+            "text": "Tuyên ngôn độc lập Việt Nam Dân chủ Cộng hòa",
+            "href": "/tu-lieu/tac-pham/tuyen-ngon-doc-lap-viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Trận Bản Đông năm 1971",
+            "href": "/tu-lieu/quan-su/tran-ban-dong-nam-1971"
+        },
+        {
+            "text": "Trận Rạch Gầm \u2013 Xoài Mút năm 1785",
+            "href": "/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785"
+        },
+        {
+            "text": "Lịch sử Chữ viết tiếng Việt",
+            "href": "/tu-lieu/lich-su-chu-viet-tieng-viet"
+        },
+        {
+            "text": "Hịch tướng sĩ - Dụ chư tỳ tướng hịch văn",
+            "href": "/tu-lieu/tac-pham/hich-tuong-si-du-chu-ty-tuong-hich-van"
+        },
+        {
+            "text": "Danh sách Trạng nguyên Việt Nam",
+            "href": "/tu-lieu/danh-sach-trang-nguyen-viet-nam"
+        },
+        {
+            "text": "Hội nghị Paris, mặt trận ngoại giao năm 1968-1972",
+            "href": "/tu-lieu/bang-giao/hoi-nghi-paris-mat-tran-ngoai-giao-nam-1968-1972"
+        },
+        {
+            "text": "Dinh Độc Lập",
+            "href": "/dia-danh/dinh-doc-lap"
+        },
+        {
+            "text": "Quần thể di tích danh thắng Yên Tử",
+            "href": "/dia-danh/quan-the-di-tich-danh-thang-yen-tu"
+        },
+        {
+            "text": "Đền Phù Đổng",
+            "href": "/dia-danh/den-phu-dong"
+        },
+        {
+            "text": "Đền Trần (Nam Định)",
+            "href": "/dia-danh/den-tran-nam-dinh"
+        },
+        {
+            "text": "Quần thể di tích Cố đô Huế",
+            "href": "/dia-danh/quan-the-di-tich-co-do-hue"
+        },
+        {
+            "text": "Thành nhà Hồ",
+            "href": "/dia-danh/thanh-nha-ho"
+        },
+        {
+            "text": "Khu lăng mộ và đền thờ các vị vua triều Lý",
+            "href": "/dia-danh/khu-lang-mo-va-den-tho-cac-vi-vua-trieu-ly"
+        },
+        {
+            "text": "Khu di tích Pác Bó",
+            "href": "/dia-danh/khu-di-tich-pac-bo"
+        },
+        {
+            "text": "Khu lưu niệm Chủ tịch Tôn Đức Thắng",
+            "href": "/dia-danh/khu-luu-niem-chu-tich-ton-duc-thang"
+        },
+        {
+            "text": "Khu di tích chiến thắng Điện Biên Phủ",
+            "href": "/dia-danh/khu-di-tich-chien-thang-dien-bien-phu"
+        },
+        {
+            "text": "Lê Đại Hành",
+            "href": "/nhan-vat/le-dai-hanh"
+        },
+        {
+            "text": "Lý Nam Đế",
+            "href": "/nhan-vat/ly-nam-de"
+        },
+        {
+            "text": "Trần Hưng Đạo",
+            "href": "/nhan-vat/tran-hung-dao"
+        },
+        {
+            "text": "Đinh Tiên Hoàng",
+            "href": "/nhan-vat/dinh-tien-hoang"
+        },
+        {
+            "text": "Hồ Chí Minh",
+            "href": "/nhan-vat/ho-chi-minh"
+        },
+        {
+            "text": "Trần Nhân Tông",
+            "href": "/nhan-vat/tran-nhan-tong"
+        },
+        {
+            "text": "Hai Bà Trưng",
+            "href": "/nhan-vat/hai-ba-trung"
+        },
+        {
+            "text": "Nguyễn Huệ",
+            "href": "/nhan-vat/nguyen-hue"
+        },
+        {
+            "text": "Lý Thái Tổ",
+            "href": "/nhan-vat/ly-thai-to"
+        },
+        {
+            "text": "Nguyễn Trãi",
+            "href": "/nhan-vat/nguyen-trai"
+        },
+        {
+            "text": "Vấn đề biên giới Việt-Trung thời Mạc",
+            "href": "/tu-lieu/bang-giao/van-de-bien-gioi-viet-trung-thoi-mac"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Tây Sơn",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-tay-son"
+        },
+        {
+            "text": "Biểu đồ các nhân vật lịch sử theo dòng thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Danh sách Trạng nguyên Việt Nam",
+            "href": "/tu-lieu/danh-sach-trang-nguyen-viet-nam"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Nguyễn",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-nguyen"
+        },
+        {
+            "text": "Trận Điện Biên Phủ trên không năm 1972",
+            "href": "/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972"
+        },
+        {
+            "text": "Trận Ngọc Hồi - Đống Đa năm 1789",
+            "href": "/tu-lieu/quan-su/tran-ngoc-hoi-dong-da-nam-1789"
+        },
+        {
+            "text": "Trận Cẩm Sa năm 1775",
+            "href": "/tu-lieu/quan-su/tran-cam-sa-nam-1775"
+        },
+        {
+            "text": "Trận Rạch Gầm \u2013 Xoài Mút năm 1785",
+            "href": "/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785"
+        },
+        {
+            "text": "Lãnh thổ Việt Nam qua từng thời kỳ",
+            "href": "/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky"
+        },
+        {
+            "text": "Chiến khu Tân Trào",
+            "href": "/dia-danh/chien-khu-tan-trao"
+        },
+        {
+            "text": "Cố đô Hoa Lư",
+            "href": "/dia-danh/co-do-hoa-lu"
+        },
+        {
+            "text": "Hồ Hoàn Kiếm",
+            "href": "/dia-danh/ho-hoan-kiem"
+        },
+        {
+            "text": "Đền Hùng",
+            "href": "/dia-danh/den-hung"
+        },
+        {
+            "text": "Khu di tích Pác Bó",
+            "href": "/dia-danh/khu-di-tich-pac-bo"
+        },
+        {
+            "text": "Đền Trần (Thái Bình)",
+            "href": "/dia-danh/den-tran-thai-binh"
+        },
+        {
+            "text": "Quần thể di tích Cố đô Huế",
+            "href": "/dia-danh/quan-the-di-tich-co-do-hue"
+        },
+        {
+            "text": "Văn Miếu - Quốc Tử Giám",
+            "href": "/dia-danh/van-mieu-quoc-tu-giam"
+        },
+        {
+            "text": "Đền Ngọc Sơn",
+            "href": "/dia-danh/den-ngoc-son"
+        },
+        {
+            "text": "Quần thể di tích danh thắng Yên Tử",
+            "href": "/dia-danh/quan-the-di-tich-danh-thang-yen-tu"
+        },
+        {
+            "text": "Giới thiệu",
+            "href": "/gioi-thieu"
+        },
+        {
+            "text": "Quyền riêng tư",
+            "href": "/quyen-rieng-tu"
+        },
+        {
+            "text": "Liên hệ",
+            "href": "/lien-he"
+        },
+        {
+            "text": "Địa Danh",
+            "href": "/dia-danh"
+        },
+        {
+            "text": "Trang Facebook",
+            "href": "https://www.facebook.com/nguoikesu/"
+        },
+        {
+            "text": "DanhMucBDS.com",
+            "href": "https://danhmucbds.com"
+        },
+        {
+            "text": "HocTotNguVan.com",
+            "href": "https://hoctotnguvan.com"
+        }
+    ],
+    "title": "thành phố Hà Tĩnh - Người Kể Sử",
+    "paragraphs": [
+        "Thành phố Hà Tĩnh là thủ phủ của tỉnh Hà Tĩnh, ở vùng Bắc Trung Bộ Việt Nam.",
+        "",
+        "",
+        "Thành phố Hà Tĩnh ở vị trí từ 18° - 18°24\u2019 vĩ độ Bắc, 10°553\u2019-10°556\u2019 kinh độ Đông, nằm trên trục đường Quốc lộ 1A, cách Hà Nội 350 km, thành phố Vinh 50 km về phía Bắc; Cách thành phố Huế 314 km về phía Nam và cách biển Đông 5 km.",
+        "Thành phố Hà Tĩnh nằm ở trung tâm miền Đông Hà Tĩnh, trên vùng đồng bằng Nghệ Tĩnh - Lam Giang",
+        "Tính đến năm 2017, thành phố Hà Tĩnh gồm 16 đơn vị hành chính trực thuộc gồm:",
+        "10 phường: Bắc Hà, Đại Nài, Hà Huy Tập, Nam Hà, Nguyễn Du, Tân Giang, Thạch Linh, Thạch Quý, Trần Phú, Văn Yên",
+        "6 xã: Thạch Bình, Thạch Đồng, Thạch Hạ, Thạch Hưng, Thạch Môn, Thạch Trung.",
+        "Bí thư Thành uỷ: Nguyễn Hồng Lĩnh - Uỷ viên Ban thường vụ Tỉnh uỷ",
+        "Chủ tịch UBND: Hà Văn Trọng-Tỉnh Uỷ viên",
+        "Chủ tịch HĐND: Đậu Thị Thuỷ",
+        "Thành phố Hà Tĩnh là một thành phố trẻ thành lập từ 2008. Cho đến nay, cảnh quan toàn thành phố vẫn mang dáng vóc của một đô thị nông thôn không được quy hoạch như bao thành phố khác của Việt Nam. Việc đô thị hóa nông thôn, làng lên phố vẫn giữ nguyên dáng hình của những ngôi làng truyền thống, cộng với việc kinh phí đô thị hạn hẹp khiến cho việc quy hoạch trở nên khó khăn. Mặc dù các tuyến đường mới được mở, nhưng những nhà quy hoạch thành phố vẫn không định hướng cho một tầm nhìn trên 20 năm đến 100 năm sau cho Thành phố Hà Tĩnh. Hầu hết các khối phố thuộc các phường trung tâm cơ sở hạ tầng dù được đầu tư nhưng vẫn không có quy hoạch, không thể đáp ứng được nhu cầu tăng dân số bộc phát trong tương lai. Dù sớm hay muộn thì Thành phố Hà Tĩnh có nguy cơ trở thành một đô thị thiếu quy hoạch và gặp vô số vấn đề nan giải như Hà Nội hiện nay.",
+        "Thành phố Hà Tĩnh là một trong những thành phố chịu cảnh ngập úng trong mùa mưa bởi hệ thống thoát nước của thành phố không thể đáp ứng cho một thành phố đang trên đà phát triển.",
+        "Hiện nay, thành phố đang triển khai đầu tư xây dựng khu đô thị Bắc Hà Tĩnh nằm trên địa bàn phường Nguyễn Du.",
+        "Đời Nguyễn, năm Minh Mệnh thứ 12 (1831), tỉnh Hà Tĩnh được thành lập, xã Trung Tiết được đặt làm thủ phủ Tỉnh.",
+        "Năm Quý sửu, Tự Đức thứ 6 (1853), triều đình bỏ tỉnh, lấy phủ Hà Thanh (trước năm 1841 là Hà Hoa) lập đạo Hà Tĩnh. Đạo thành được đặt ở thôn Nài Thị, xã Đại Nài, nguyên lỵ sở huyện Thạch Hà.",
+        "Năm 1875, vua Tự Đức cho tái lập tỉnh Hà Tĩnh như trước. Tỉnh thành lại dời về thành cũ ở Trung Tiết.",
+        "Năm Nhâm Ngọ, Tự Đức năm thứ 34 (1882) thành Hà Tĩnh mới được xây dựng bằng đá ong. Thành xây theo kiểu Vô-băng, một chuyên gia người Pháp được vua Gia Long tin dùng và đã từng thiết kế thành Huế. Xây theo kiểu này Thành có mặt phẳng và gấp khúc theo hình chữ V để có thể đứng trên mặt Thành bắn thẳng xuống chân thành khi bị đối phương áp sát.",
+        "Theo sử cũ ghi chép: Chu vi Thành 366 trượng 5 thước, 6 tấc, cao 8 thước (3,2m), xung quanh Thành có hào rộng 5 trượng (20m) sâu 4 thước (1,6m) chiếm một diện tích gần 134.000 m2, nếu kể cả phía ngoài Hào Thành là 160.000m2. Thành có 4 cửa, các cổng thành xây bằng gạch khá kiên cố. Cổng thành phía nam gọi là cửa Tiền, nằm lệch sang về phía đông, trên cổng có vọng lâu, có treo một quả chuông lớn để điểm giờ gác, do lính khố xanh phụ trách. Cổng phía bắc tên gọi là cửa hậu, nằm lệch về phía tây, cửa này thường đóng kín, vọng lâu trên cổng làm vọng gác nhà lao bên trong. Cổng phía tây tên gọi là cửa Hữu, nằm lệch về phía nam, trên vọng lâu có treo một cái trống lớn, cũng để điểm giờ do lính khố lục phụ trách.Cổng phía đông tên gọi là cửa tả, nằm lệch về phía nam, cửa này đóng kín quanh năm, vì ở phía trong là doanh trại lính khố xanh, phía ngoài là nghĩa địa của người Pháp, con đường chạy thẳng ra Võ Miếu.",
+        "Từ các cổng thành có các cầu bằng gạch xây cuốn vượt qua hào thành ra ngoài. Trong thành có ba con đường chính rải đá, đó là những con đường đi trong nội thành thông ra các cửa thành.",
+        "Đường thứ nhất từ cửa Tiền thông ra hồ sen, ra nhà lao. Từ cửa Tiền đi vào, bên phải là trại lính khố xanh (Nay là trụ sở Công An Hà Tĩnh), tiếp đến là nhà ở tập thể của gia đình binh lính mà dân thường gọi là trại gái và sau cùng là trại ngựa.",
+        "Đường thứ hai nối từ đường nhất ra cửa hữu đi vào phía bên trái có các dinh thự: dinh Tuần Vũ phía trước, tiếp sau là nhà án sát, nhà lĩnh binh. Bên phải là trại lính khố lục, đến sân bóng vừa là bãi tập của lính. Cạnh sân bóng có hành cung, nơi các quan lại tỉnh nhà bái vọng nhà vua những ngày khánh tiết. Trước hành cung có cột cờ, hồ sen và hai khẩu súng thần công.",
+        "Đường thứ ba nối từ đường thứ hai ra cửa hậu. Nếu từ cổng thành cửa hậu (cầu Đồng Vinh) đi vào thì bên trái là nhà Lao Hà Tĩnh xây gạch, có tường cao bao bọc, bốn góc có chòi canh, lính khố xanh thay nhau gác mỗi ngày. Trong thành có nhiều hồ nước, hai hồ bán nguyệt trước hành cung và dinh Tuần; bên cạnh dinh Bố chính có hồ Thành, trước nhà Lao có hồ lớn trồng sen, đến mùa hè sen nở rộ, hương thơm toả ngát cả vùng. Do đó người ta còn gọi là Thành Sen.",
+        "Ở đây còn có truyền thuyết: xưa kia ở Đạo thành Đại Nài có nhiều sen. Một đêm mưa to gió lớn, người dân địa phương và quan lại tỉnh hết sức ngạc nhiên vì thấy sen mọc đầy trong hào thành. Tỉnh thần cho đó là \u201cđiềm lành\u201d, bèn tâu xin nhà vua cho dời tỉnh thành về lại Trung Tiết. Từ đó, người ta còn gọi vùng đất này là \u201cLiên Thành\u201d hoặc \u201cThành Sen\u201d.",
+        "Có người lại cho rằng kiểu thành Vô - băng trông giống như bông sen tám cánh, nên gọi như thế. Thành Nghệ An (thành Vinh) cũng kiểu Vô - băng nhưng người ta lại cho là giống con rùa nên gọi là Quy thành (Thành Rùa)",
+        "Ngày nay, Thành Sen chỉ còn trơ trọn lại nền móng, còn sót lại đoạn hào thành phía tây, phía bắc và phía đông. Riêng đoạn hào thành phía Nam đã bị san lấp. Các công trình như tuần dinh, cột cờ, tường thành đã bị phá hủy hoàn toàn. Khu vực trại lính khố xanh nay là trụ sở Công An tỉnh Hà Tĩnh. Trên nền cũ của dinh Tuần Vũ và hành cung nay là trụ sở của Ủy ban Nhân Dân Tỉnh Hà Tĩnh",
+        "Được xây dựng từ sau khi thực dân Pháp đặt chính quyền cai trị trên đất Hà Tĩnh (khoảng năm 1898) cho đến những năm đầu của thế kỷ XX. Theo Hồi ký của cố giáo sư Đặng Thai Mai viết về Nhà lao năm 1908",
+        "\u201c... sau bức tường vôi, chỉ có một nhà gạch không to lắm án ngự lấy \u201ccái trại lá\u201d, nơi giam tù... gọi là trại lá bởi vì lợp bằng gianh. Tỉnh Hà Tĩnh hồi ấy chưa có nhà giam bằng gạch... đi qua cái sân rộng tới một cái thềm tam cấp rồi đi vào nhà phía sau. Nhà chia làm hai buồng, giữa có một lối vào hẹp, sao tối om và hôi hám thế này...\u201d",
+        "Sau những năm 20, Nhà lao Hà Tĩnh mới được xây cất kiên cố. Nhà Lao gồm sáu nhà gạch xếp thành hai dãy đối diện nhau: Bắc nhất, Bắc nhì, Bắc tam, Nam nhất, Nam nhì, Nam tam (Nam nhì là lao giam tù phụ nữ, Nam tam mỗi lao sáu cái)...",
+        "Trước và sau vụ chống thuế năm 1908, ở Hà Tĩnh thực dân Pháp bắt nhiều sỹ phu yêu nước thuộc Hội Duy Tân như: Ngô Đức Kế, Lê Văn Huân, Nguyễn Duy Phương, Phạm Văn Ngôn, Phạm Thản, Võ Tĩnh, Nguyễn Hàng Chi, Trịnh Khắc Lập...giam tại Nhà lao Hà Tĩnh.",
+        "Trong những năm 1930 đến 1932, Nhà Lao Hà Tĩnh chật ních tù nhân có lúc \u201cmỗi lao lên tới 125 người, mỗi dãy cùm dài độ 2 m, cùm những 5 người, thường phải thay đổi 3 người nằm thì 2 người ngồi và ngược lại.",
+        "Mùa đông người tù áo ướt đẫm mồ hôi, còn mùa hè thì như bị nướng trong lò... mỗi ngày được ra ngoài 5-6 phút để tiểu giải, rửa ráy nếu chậm là bị roi quất vào lưng, vào đầu...",
+        "1945 chính quyền cách mạng cho phá dỡ cùng với Thành Hà Tĩnh, có tài liệu cũ để lại cho thấy di tích cổng Thành và Nhà lao vẫn còn gần như nguyên trạng cho tới năm 1957.",
+        "Theo sách Đại Nam nhất thống chí, Văn Miếu Thành Sen được dựng từ năm Minh Mệnh thứ 14 (1833) ở làng Hoàn, xã Đông Lỗ (nay là phường Thạch Linh) nằm về phía Tây Bắc đạo thành.",
+        "Trên thực tế Văn Miếu không còn, song qua khảo sát những gì còn lưu giữ được thì Văn Miếu là nơi thờ phụng đức Khổng Tử, bậc hiền triết sáng lập nên đạo Nho và các học trò của ông. Lúc đầu đầu Văn Miếu chỉ là ngôi nhà gỗ lợp tranh, sau đó được sửa chữa, mở mang dần và trở thành công trình đồ sộ, đẹp đẽ.",
+        "Văn Miếu được phân bố trên một khuôn viên rộng, thoáng mát với diện tích khoảng 2.500 m2, ngoảnh mặt về hướng Đông, cách đường Quan (Quốc lộ 1A ngày nay) 50 m. Đi vào Văn Miếu có cổng tam quan (cổng chính cao khoảng 5m, hai cổng phụ (tả, hữu) cao khoảng 2, 3m đều làm bằng gỗ lim, có nghê đứng chầu, dân địa phương còn gọi là hai cột nanh). Cổng chính thường dành cho quan địa phương, nho sĩ và các vị bô lão, hai cổng phụ dành cho học trò và người dân. Qua cổng tam quan là con đường lát gạch chạy thẳng tới hồ bán nguyệt ở giữa, sau đó theo hai lối tả, hữu đi vào sân rộng và đến Thượng đường. Hồ bán nguyệt thường gọi là hồ Văn Miếu rất sâu, nước trong veo, nắng hạn lâu ngày cũng không bao giờ cạn. Tương truyền Hồ Văn Miếu rất linh thiêng, các cô gái trong làng không ai dám đến đây khi mặt trời đã lặn vì sợ ma quỷ quấy rối. Văn Miếu cũng là nơi thanh tịnh, sạch sẽ, xung quanh trồng cây cối làm hàng rào bảo vệ (chủ yếu là cây tre). Người dân vùng này quan niệm đây là nhà thờ Thánh nên kiêng kị, rất ít khi vào.",
+        "Văn Miếu giữ nguyên hiện trạng cho đến năm 1955. Miếu có ba tòa nhà chính, xếp hình chữ \u201cmôn\u201d và nhà \u201ctúc hậu\u201d (thường gọi là nhà mặc áo) được làm bằng gỗ, nhà 4 mái (2 mái dài, 2 mái ngắn) lợp ngói âm dương, đỉnh nóc đắp nổi hoạ tiết hai con rồng \u201clưỡng long chầu nguyệt\u201d(hai đầu rồng ngoảnh mặt vào nhau). Các cột trụ ở mỗi gian và các vì kèo trong nhà đều làm bằng gỗ lim, xung quanh các cột tạo hình dáng long, ly, quy, phượng uốn lượn, bay bổng, phóng khoáng, tinh tế. Nền nhà đắp bằng đất cứng cao ráo, trơn, mịn, bằng phẳng có màu đen. Móng nhà được xây bằng đá ong rất chắc chắn. Lên bậc tam cấp vào Ngôi Thượng đường rộng lớn, đẹp đẽ. Thượng đường (nhà chính) giữa có điện thờ chính, phía trên treo bức hoành phi, hai bên là hai câu đối. Điện thờ là nơi đặt Bài vị thờ Chi thánh \u201cKhổng Tử\u201d, hai bên là bài vị thờ \u201cTứ Phối\u201d (Nhan Tử, Tăng tử, Tử tư, Mạnh Tử). Trong hai dãy Tả Vu, Hữu Vu thờ \u201cthất thập nhị hiền\u201d (72 vị hiền triết của đạo nho Trung Quốc) và các vị tiên hiền, tiền bối trong nước và của vùng đất Hà Tĩnh. Nhà chính còn có các pho tượng chạm khắc tinh tế, sơn son thiếp vàng. Trên bệ thờ có rương làm bằng gỗ đựng sắc phong, bài vị. Sau nhà Thượng đường là nhà túc hậu (nhà mặc áo). Tại Văn Miếu trước đây thường diễn ra các lễ tế với nghi thức trang trọng. Đó là lễ tế xuân (tháng 2 âm lịch) và tế thu (vào ngày 15 tháng 8 âm lịch), tức là ngày lễ tế Nho thánh và các vị tiên hiền. Lễ tế rất trang nghiêm do các vị quan đầu tỉnh và các bô lão đứng ra chủ trì, Hội Tư văn đảm nhiệm việc tế. Trước lễ tế, quan địa phương, các vị bô lão khăn đóng, áo dài làm lễ. Sau khi tế có cuộc hội ẩm của quan chức, văn thân hàng tỉnh. Hội Tư Văn là một tổ chức của giới nho sỹ, gồm các nhà khoa bảng, các nhà văn thân tiêu biểu trong tỉnh. Những người đậu đạt cao trước khi nhận ấn tín, mũ áo vua ban thường đến Văn Miếu lễ bái để tỏ lòng biết ơn các vị Nho thánh đã ban cho ân đức, học hành đỗ đạt làm rạng rỡ gia tộc, họ hàng và tự hứa sẽ giữ trọn đạo \u201cVua tôi\u201d. Ngoài tế lễ Văn Miếu còn là nơi tổ chức các kỳ sát hạch học trò toàn tỉnh chọn ra những người giỏi để đi thi Hương. Kỳ thi Hương năm 1919 là kỳ thi cuối cùng, từ đó về sau kỳ sát hạch học trò cũng không còn nữa. Sau Cách mạng Tháng Tám ở Văn Miếu chỉ diễn ra lễ tế xuân đinh, thu đinh và một số hoạt động văn thơ của hội Tư văn.",
+        "Năm 1950, toàn bộ hiện vật ở Phương Cần (Cẩm Xuyên) như: tượng Thánh Khổng Tử, bài vị, văn điếu, bia, câu đối đều đem về hợp tự ở Văn Miếu.",
+        "Đến năm 1955, sau khi thực hiện công cuộc cải cách ruộng đất, Văn Miếu bị phá dỡ hoàn toàn, một số tượng thờ ở Văn Miếu và các đền chùa trong thành đều hợp tự về Võ Miếu.Trên đất Văn Miếu xưa bây giờ là Trường dạy nghề của Liên đoàn lao động Tỉnh. Qua bao thăng trầm lịch sử, di tích Văn Miếu chỉ còn lại là chiếc lư hương bằng đồng nằm trên nền khu đất cũ.",
+        "Chợ Hà Tĩnh là chợ lớn nhất của Tỉnh Hà Tĩnh, chợ được thành lập cùng với thời gian hình thành nên Thành Sen. Chợ nằm phía Tây Nam Thành Sen, ban đầu chờ chỉ là những gian nhà tre lợp tranh. Về sau Chính quyền thực dân Pháp cho mở rộng và xây dựng chợ bằng tường gạch mái ngói 1 tầng.",
+        "Thời nhà Nguyễn, niên hiệu Khải đinh, thứ 7 (1922), chính quyền cho đào con sông nối từ sông Rào Cái, cắt từ sông Đò Hà đi ngược lên, ôm gọn khu chợ tỉnh và có nhánh rẽ vào Hào Thành. Con sông Đào này ước tính làm hai đoạn hạ và thượng lưu, cắt ngang bởi chiếc cầu Vồng.",
+        "Năm 1999, chợ Hà Tĩnh xảy ra một trận hỏa hoạn lớn, thiêu rụi toàn bộ kết cấu chợ. Vào năm 2001 chính quyền Tỉnh Hà Tĩnh quyết định xây dựng lại chợ Hà Tĩnh với quy mô lớn hơn, và hiện đại hơn như ngày nay.",
+        "Trong dân gian còn lưu truyền câu ca:",
+        "\u201c chợ tỉnh họp tháng sáu phiên",
+        "Trên bến dưới thuyền tấp nập đông vui\u201d",
+        "Trên địa bàn thành phố Hà Tĩnh tập trung nhiều cơ sở giáo dục và đào tạo từ bậc mẫu giáo, tiểu học đến cao đẳng, đại học như:",
+        "Trung tâm thương mại Hà Tĩnh",
+        "Một góc TP.Hà Tĩnh",
+        "Một phần thành phố nhìn từ trên cao",
+        "Nhà văn hóa thành phố",
+        "Vincom Plaza thành phố Hà Tĩnh",
+        "Khu vinhomes Hà Tĩnh",
+        "Ngã tư Xuân Diệu - Nguyễn Du Thành phố Hà Tĩnh",
+        "(Nguồn: Wikipedia)"
+    ]
+}

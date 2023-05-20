@@ -1,0 +1,679 @@
+{
+    "tables": ["<table class=\"table table-bordered\">\n <tbody>\n  <tr>\n   <td><\/td>\n   <td>Đông Âu<\/td>\n   <td>Tây Âu<\/td>\n  <\/tr>\n  <tr>\n   <td>Về chính trị<\/td>\n   <td><p>Sau chiến tranh thế giới thứ hai, cụ thể là trong những năm 1945-1947, các nước Đông Âu tiến hành nhiều cải cách quan trọng như:<\/p><p>- Xây dựng nhà nước dân chủ nhân dân (nhà nước của dân, do dân và vì dân).<\/p><p>- Tiến hành cải cách ruộng đất để mang lại quyền lợi cho nhân dân (mang lại lợi ích nhân dân).<\/p><p>- Ban hành các quyền tự do dân chủ, hướng tới một xã hội tốt đẹp hơn.<\/p><\/td>\n   <td>Mỹ tăng cường sự ảnh hưởng và khống chế về mặt chính trị đối với các nước Tây Âu thông qua \u201cKế hoạch phục hưng Châu Âu\u201d.<\/td>\n  <\/tr>\n  <tr>\n   <td>Về Kinh tế<\/td>\n   <td><p>- Nhiều hiệp ước về kinh tế được ký kết giữa Liên Xô và các nước Đông Âu.<\/p><p>- Năm 1949, Hội đồng tương trợ kinh tế được thành lập.<\/p><\/td>\n   <td>Mỹ đề ra \u201cKế hoạch phục hưng châu Âu\u201d nhằm viện trợ các nước Tây Âu khôi phục kinh tế.<\/td>\n  <\/tr>\n <\/tbody>\n<\/table>"],
+    "keywords": [],
+    "headings": [
+        "Lịch sử lớp 12",
+        "Sự đối lập về chính trị và kinh tế giữa hai khối nước: Tây Âu tư bản chủ nghĩa và Đông Âu xã hội chủ nghĩa thể hiện như thế nào?",
+        "Hãy chỉ trên bản đồ thế giới những khu vực nằm trong sự phân chia phạm vi ảnh hưởng do ba cường quốc thỏa thuận ở Hội nghị Ianta.",
+        "Hai nhà nước Cộng hòa Liên bang Đức và Cộng hòa dân chủ Đức được hình thành như thế nào?",
+        "Nêu muc đích và nguyên tắc hoạt động của Liên hợp quốc?",
+        "Hãy nêu những quyết định quan trọng của hội nghị Ianta( 2/1945)",
+        "Chuyên mục phụ",
+        "Phần 1: Lịch sử thế giới hiện đại từ năm 1945 đến năm 2000 Số bài viết: 61",
+        "Phần 2: Lịch sử Việt Nam từ năm 1919 đến năm 2000 Số bài viết: 108",
+        "Mục lục",
+        "Anh Hùng Dân Tộc Tiêu Biểu",
+        "Tư Liệu Lịch Sử",
+        "Di Tích Lịch Sử"
+    ],
+    "anchors": [
+        {
+            "text": "",
+            "href": "/"
+        },
+        {
+            "text": "Trang Chủ",
+            "href": "/"
+        },
+        {
+            "text": "Dòng Lịch Sử",
+            "href": "/dong-lich-su"
+        },
+        {
+            "text": "Hồng Bàng & Văn Lang",
+            "href": "/dong-lich-su/hong-bang-va-van-lang"
+        },
+        {
+            "text": "Âu Lạc & Nam Việt",
+            "href": "/dong-lich-su/au-lac-va-nam-viet"
+        },
+        {
+            "text": "Bắc thuộc lần I",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat"
+        },
+        {
+            "text": "Trưng Nữ Vương",
+            "href": "/dong-lich-su/trung-nu-vuong"
+        },
+        {
+            "text": "Bắc thuộc lần II",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-hai"
+        },
+        {
+            "text": "Nhà Lý & Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu"
+        },
+        {
+            "text": "Bắc thuộc lần III",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-ba"
+        },
+        {
+            "text": "Thời kỳ xây nền tự chủ",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu"
+        },
+        {
+            "text": "Nhà Ngô",
+            "href": "/dong-lich-su/nha-ngo"
+        },
+        {
+            "text": "Nhà Đinh",
+            "href": "/dong-lich-su/nha-dinh"
+        },
+        {
+            "text": "Nhà Tiền Lê",
+            "href": "/dong-lich-su/nha-tien-le"
+        },
+        {
+            "text": "Nhà Lý",
+            "href": "/dong-lich-su/nha-ly"
+        },
+        {
+            "text": "Nhà Trần",
+            "href": "/dong-lich-su/nha-tran"
+        },
+        {
+            "text": "Nhà Hồ",
+            "href": "/dong-lich-su/nha-ho"
+        },
+        {
+            "text": "Nhà Hậu Trần",
+            "href": "/dong-lich-su/nha-hau-tran"
+        },
+        {
+            "text": "Bắc thuộc lần IV",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-tu"
+        },
+        {
+            "text": "Nhà Hậu Lê",
+            "href": "/dong-lich-su/nha-hau-le"
+        },
+        {
+            "text": "Nam Bắc Triều",
+            "href": "/dong-lich-su/nam-bac-trieu"
+        },
+        {
+            "text": "Trịnh Nguyễn Phân Tranh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh"
+        },
+        {
+            "text": "Nhà Tây Sơn",
+            "href": "/dong-lich-su/nha-tay-son"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/nha-nguyen"
+        },
+        {
+            "text": "Pháp Thuộc",
+            "href": "/dong-lich-su/phap-thuoc"
+        },
+        {
+            "text": "Việt Nam Dân Chủ Cộng Hoà",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Cộng hoà xã hội chủ nghĩa Việt Nam",
+            "href": "/dong-lich-su/viet-nam-xhcn"
+        },
+        {
+            "text": "Tư Liệu",
+            "href": "/tu-lieu"
+        },
+        {
+            "text": "Quân Sự",
+            "href": "/tu-lieu/quan-su?filter_tag[0]="
+        },
+        {
+            "text": "Tác Phẩm",
+            "href": "/tu-lieu/tac-pham?filter_tag[0]="
+        },
+        {
+            "text": "Bang Giao",
+            "href": "/tu-lieu/bang-giao"
+        },
+        {
+            "text": "Biểu đồ thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Nhân Vật",
+            "href": "/nhan-vat"
+        },
+        {
+            "text": "Anh Hùng Dân Tộc",
+            "href": "/anh-hung-dan-toc?types[0]=1"
+        },
+        {
+            "text": "Danh nhân văn hóa",
+            "href": "/danh-nhan-van-hoa?types[0]=1"
+        },
+        {
+            "text": "Di Tích",
+            "href": "/di-tich-lich-su?types[0]=1"
+        },
+        {
+            "text": "Ngày Nay",
+            "href": "/thoi-su"
+        },
+        {
+            "text": "Sách",
+            "href": "/sach"
+        },
+        {
+            "text": "Video",
+            "href": "/video"
+        },
+        {
+            "text": "Q&A",
+            "href": "/hoi-dap"
+        },
+        {
+            "text": "Lịch sử lớp 12",
+            "href": "/hoi-dap/lop-12"
+        },
+        {
+            "text": "Lịch sử lớp 11",
+            "href": "/hoi-dap/lop-11"
+        },
+        {
+            "text": "Lịch sử lớp 10",
+            "href": "/hoi-dap/lop-10"
+        },
+        {
+            "text": "Lịch sử lớp 9",
+            "href": "/hoi-dap/lop-9"
+        },
+        {
+            "text": "Lịch sử lớp 8",
+            "href": "/hoi-dap/lop-8"
+        },
+        {
+            "text": "Lịch sử lớp 7",
+            "href": "/hoi-dap/lop-7"
+        },
+        {
+            "text": "Lịch sử lớp 6",
+            "href": "/hoi-dap/lop-6"
+        },
+        {
+            "text": "Trang chủ",
+            "href": "/"
+        },
+        {
+            "text": "Q&A",
+            "href": "/hoi-dap"
+        },
+        {
+            "text": "Sự đối lập về chính trị và kinh tế giữa hai khối nước: Tây Âu tư bản chủ nghĩa và Đông Âu xã hội chủ nghĩa thể hiện như thế nào?",
+            "href": "/hoi-dap/lop-12/phan-1/chuong-1/bai-1/su-doi-lap-ve-chinh-tri-va-kinh-te-giua-hai-khoi-nuoc-tay-au-tu-ban-chu-nghia-va-dong-au-xa-hoi-chu-nghia-the-hien-nhu-the-nao"
+        },
+        {
+            "text": "Bài 1: Sự hình thành trật tự thế giới mới sau chiến tranh thế giới thứ hai (1945 \u2013 1949)",
+            "href": "/hoi-dap/lop-12/phan-1/chuong-1/bai-1"
+        },
+        {
+            "text": "Chi tiết \u2026",
+            "href": "/hoi-dap/lop-12/phan-1/chuong-1/bai-1/su-doi-lap-ve-chinh-tri-va-kinh-te-giua-hai-khoi-nuoc-tay-au-tu-ban-chu-nghia-va-dong-au-xa-hoi-chu-nghia-the-hien-nhu-the-nao"
+        },
+        {
+            "text": "Hãy chỉ trên bản đồ thế giới những khu vực nằm trong sự phân chia phạm vi ảnh hưởng do ba cường quốc thỏa thuận ở Hội nghị Ianta.",
+            "href": "/hoi-dap/lop-12/phan-1/chuong-1/bai-1/hay-chi-tren-ban-do-the-gioi-nhung-khu-vuc-nam-trong-su-phan-chia-pham-vi-anh-huong-do-ba-cuong-quoc-thoa-thuan-o-hoi-nghi-ianta"
+        },
+        {
+            "text": "Bài 1: Sự hình thành trật tự thế giới mới sau chiến tranh thế giới thứ hai (1945 \u2013 1949)",
+            "href": "/hoi-dap/lop-12/phan-1/chuong-1/bai-1"
+        },
+        {
+            "text": "Chi tiết \u2026",
+            "href": "/hoi-dap/lop-12/phan-1/chuong-1/bai-1/hay-chi-tren-ban-do-the-gioi-nhung-khu-vuc-nam-trong-su-phan-chia-pham-vi-anh-huong-do-ba-cuong-quoc-thoa-thuan-o-hoi-nghi-ianta"
+        },
+        {
+            "text": "Hai nhà nước Cộng hòa Liên bang Đức và Cộng hòa dân chủ Đức được hình thành như thế nào?",
+            "href": "/hoi-dap/lop-12/phan-1/chuong-1/bai-1/hai-nha-nuoc-cong-hoa-lien-bang-duc-va-cong-hoa-dan-chu-duc-duoc-hinh-thanh-nhu-the-nao"
+        },
+        {
+            "text": "Bài 1: Sự hình thành trật tự thế giới mới sau chiến tranh thế giới thứ hai (1945 \u2013 1949)",
+            "href": "/hoi-dap/lop-12/phan-1/chuong-1/bai-1"
+        },
+        {
+            "text": "Chi tiết \u2026",
+            "href": "/hoi-dap/lop-12/phan-1/chuong-1/bai-1/hai-nha-nuoc-cong-hoa-lien-bang-duc-va-cong-hoa-dan-chu-duc-duoc-hinh-thanh-nhu-the-nao"
+        },
+        {
+            "text": "Nêu muc đích và nguyên tắc hoạt động của Liên hợp quốc?",
+            "href": "/hoi-dap/lop-12/phan-1/chuong-1/bai-1/neu-muc-dich-va-nguyen-tac-hoat-dong-cua-lien-hop-quoc"
+        },
+        {
+            "text": "Bài 1: Sự hình thành trật tự thế giới mới sau chiến tranh thế giới thứ hai (1945 \u2013 1949)",
+            "href": "/hoi-dap/lop-12/phan-1/chuong-1/bai-1"
+        },
+        {
+            "text": "Chi tiết \u2026",
+            "href": "/hoi-dap/lop-12/phan-1/chuong-1/bai-1/neu-muc-dich-va-nguyen-tac-hoat-dong-cua-lien-hop-quoc"
+        },
+        {
+            "text": "Hãy nêu những quyết định quan trọng của hội nghị Ianta( 2/1945)",
+            "href": "/hoi-dap/lop-12/phan-1/chuong-1/bai-1/hay-neu-nhung-quyet-dinh-quan-trong-cua-hoi-nghi-ianta-2-1945"
+        },
+        {
+            "text": "Bài 1: Sự hình thành trật tự thế giới mới sau chiến tranh thế giới thứ hai (1945 \u2013 1949)",
+            "href": "/hoi-dap/lop-12/phan-1/chuong-1/bai-1"
+        },
+        {
+            "text": "Chi tiết \u2026",
+            "href": "/hoi-dap/lop-12/phan-1/chuong-1/bai-1/hay-neu-nhung-quyet-dinh-quan-trong-cua-hoi-nghi-ianta-2-1945"
+        },
+        {
+            "text": "Phần 1: Lịch sử thế giới hiện đại từ năm 1945 đến năm 2000",
+            "href": "/hoi-dap/lop-12/phan-1"
+        },
+        {
+            "text": "Phần 2: Lịch sử Việt Nam từ năm 1919 đến năm 2000",
+            "href": "/hoi-dap/lop-12/phan-2"
+        },
+        {
+            "text": "1",
+            "href": "#"
+        },
+        {
+            "text": "2",
+            "href": "/hoi-dap/lop-12?start=5"
+        },
+        {
+            "text": "3",
+            "href": "/hoi-dap/lop-12?start=10"
+        },
+        {
+            "text": "4",
+            "href": "/hoi-dap/lop-12?start=15"
+        },
+        {
+            "text": "5",
+            "href": "/hoi-dap/lop-12?start=20"
+        },
+        {
+            "text": "6",
+            "href": "/hoi-dap/lop-12?start=25"
+        },
+        {
+            "text": "7",
+            "href": "/hoi-dap/lop-12?start=30"
+        },
+        {
+            "text": "8",
+            "href": "/hoi-dap/lop-12?start=35"
+        },
+        {
+            "text": "9",
+            "href": "/hoi-dap/lop-12?start=40"
+        },
+        {
+            "text": "10",
+            "href": "/hoi-dap/lop-12?start=45"
+        },
+        {
+            "text": "",
+            "href": "/hoi-dap/lop-12?start=5"
+        },
+        {
+            "text": "",
+            "href": "/hoi-dap/lop-12?start=165"
+        },
+        {
+            "text": "Phần 1: Lịch sử thế giới hiện đại từ năm 1945 đến năm 2000",
+            "href": "/hoi-dap/lop-12/phan-1"
+        },
+        {
+            "text": "Chương 1: Sự hình thành trật tự thế giới mới sau chiến tranh thế giới thứ hai (1945 - 1949)",
+            "href": "/hoi-dap/lop-12/phan-1/chuong-1"
+        },
+        {
+            "text": "Bài 1: Sự hình thành trật tự thế giới mới sau chiến tranh thế giới thứ hai (1945 \u2013 1949)",
+            "href": "/hoi-dap/lop-12/phan-1/chuong-1/bai-1"
+        },
+        {
+            "text": "Chương 2: Liên Xô và các nước Đông Âu (1945 - 1991). Liên Bang Nga (1991 - 2000)",
+            "href": "/hoi-dap/lop-12/phan-1/chuong-2"
+        },
+        {
+            "text": "Bài 2: Liên Xô và các nước Đông Âu (1945 - 2000). Liên Bang Nga (1991 - 2000)",
+            "href": "/hoi-dap/lop-12/phan-1/chuong-2/bai-2"
+        },
+        {
+            "text": "Chương 3: Các nước Á, Phi và Mĩ Latinh (1945 - 2000)",
+            "href": "/hoi-dap/lop-12/phan-1/chuong-3"
+        },
+        {
+            "text": "Bài 3: Các nước Đông Bắc Á",
+            "href": "/hoi-dap/lop-12/phan-1/chuong-3/bai-3"
+        },
+        {
+            "text": "Bài 4: Các nước Đông Nam Á và Ấn Độ",
+            "href": "/hoi-dap/lop-12/phan-1/chuong-3/bai-4"
+        },
+        {
+            "text": "Bài 5: Các nước châu Phi và Mĩ Latinh",
+            "href": "/hoi-dap/lop-12/phan-1/chuong-3/bai-5"
+        },
+        {
+            "text": "Chương 4: Mĩ, Tây Âu, Nhật Bản (1945 - 2000)",
+            "href": "/hoi-dap/lop-12/phan-1/chuong-4"
+        },
+        {
+            "text": "Bài 6: Nước Mĩ",
+            "href": "/hoi-dap/lop-12/phan-1/chuong-4/bai-6"
+        },
+        {
+            "text": "Bài 7: Tây Âu",
+            "href": "/hoi-dap/lop-12/phan-1/chuong-4/bai-7"
+        },
+        {
+            "text": "Bài 8: Nhật Bản",
+            "href": "/hoi-dap/lop-12/phan-1/chuong-4/bai-8"
+        },
+        {
+            "text": "Chương 5: Quan hệ quốc tế (1945-2000)",
+            "href": "/hoi-dap/lop-12/phan-1/chuong-5"
+        },
+        {
+            "text": "Bài 9: Quan hệ quốc tế trong và sau thời kì chiến tranh lạnh",
+            "href": "/hoi-dap/lop-12/phan-1/chuong-5/bai-9"
+        },
+        {
+            "text": "Chương 6: Cách mạng khoa học - công nghệ và xu thế toàn cầu hóa",
+            "href": "/hoi-dap/lop-12/phan-1/chuong-6"
+        },
+        {
+            "text": "Bài 10: Cách mạng khoa học-công nghệ và xu hướng toàn cầu hóa nửa sau thế kỉ XX",
+            "href": "/hoi-dap/lop-12/phan-1/chuong-6/bai-10"
+        },
+        {
+            "text": "Bài 11: Tổng kết lịch sử thế giới hiện đại từ năm 1945 đến năm 2000",
+            "href": "/hoi-dap/lop-12/phan-1/chuong-6/bai-11"
+        },
+        {
+            "text": "Phần 2: Lịch sử Việt Nam từ năm 1919 đến năm 2000",
+            "href": "/hoi-dap/lop-12/phan-2"
+        },
+        {
+            "text": "Chương 1: Việt Nam từ năm 1919 đến năm 1930",
+            "href": "/hoi-dap/lop-12/phan-2/chuong-1"
+        },
+        {
+            "text": "Bài 12: Phong trào dân tộc dân chủ ở Việt Nam từ năm 1919 đến năm 1925",
+            "href": "/hoi-dap/lop-12/phan-2/chuong-1/bai-12"
+        },
+        {
+            "text": "Bài 13: Phong trào dân tộc dân chủ ở Việt Nam từ năm 1925 đến năm 1930",
+            "href": "/hoi-dap/lop-12/phan-2/chuong-1/bai-13"
+        },
+        {
+            "text": "Chương 2: Việt Nam từ năm 1930 đến năm 1945",
+            "href": "/hoi-dap/lop-12/phan-2/chuong-2"
+        },
+        {
+            "text": "Bài 14: Phong trào cách mạng 1930-1935",
+            "href": "/hoi-dap/lop-12/phan-2/chuong-2/bai-14"
+        },
+        {
+            "text": "Bài 15: Phong trào dân chủ 1936-1939",
+            "href": "/hoi-dap/lop-12/phan-2/chuong-2/bai-15"
+        },
+        {
+            "text": "Bài 16: Phong trào giải phóng dân tộc và tổng khởi nghĩa tháng Tám (1939-1945). Nước Việt Nam Dân chủ Cộng hòa ra đời",
+            "href": "/hoi-dap/lop-12/phan-2/chuong-2/bai-16"
+        },
+        {
+            "text": "Chương 3: Việt Nam từ năm 1945 đến năm 1954",
+            "href": "/hoi-dap/lop-12/phan-2/chuong-3"
+        },
+        {
+            "text": "Bài 17: Nước Việt Nam Dân chủ Cộng hòa từ sau ngày 2-9-1945 đến trước ngày 19-12-1946",
+            "href": "/hoi-dap/lop-12/phan-2/chuong-3/bai-17"
+        },
+        {
+            "text": "Bài 18: Những năm đầu của cuộc kháng chiến toàn quốc chống thực dân Pháp (1946-1950)",
+            "href": "/hoi-dap/lop-12/phan-2/chuong-3/bai-18"
+        },
+        {
+            "text": "Bài 19: Bước phát triển của cuộc kháng chiến toàn quốc chống thực dân Pháp (1951-1953)",
+            "href": "/hoi-dap/lop-12/phan-2/chuong-3/bai-19"
+        },
+        {
+            "text": "Bài 20: Cuộc kháng chiến toàn quốc chống thực dân Pháp kết thúc (1953-1954)",
+            "href": "/hoi-dap/lop-12/phan-2/chuong-3/bai-20"
+        },
+        {
+            "text": "Chương 4: Việt Nam từ năm 1954 đến năm 1975",
+            "href": "/hoi-dap/lop-12/phan-2/chuong-4"
+        },
+        {
+            "text": "Bài 21: Xây dựng xã hội chủ nghĩa ở miền Bắc, đấu tranh chống đế quốc Mĩ và chính quyền Sài Gòn ở miền Nam (1954-1965)",
+            "href": "/hoi-dap/lop-12/phan-2/chuong-4/bai-21"
+        },
+        {
+            "text": "Bài 22: Nhân dân hai miền trực tiếp chiến đấu chống đế quốc Mĩ xâm lược, nhân dân miền bắc vừa chiến đấu vừa sản xuất (1965-1973)",
+            "href": "/hoi-dap/lop-12/phan-2/chuong-4/bai-22"
+        },
+        {
+            "text": "Bài 23: Khôi phục và phát triển kinh tế-xã hội ở miền bắc, giải phóng hoàn toàn miền Nam (1973-1975)",
+            "href": "/hoi-dap/lop-12/phan-2/chuong-4/bai-23"
+        },
+        {
+            "text": "Chương 5: Việt Nam từ năm 1975 đến năm 2000",
+            "href": "/hoi-dap/lop-12/phan-2/chuong-5"
+        },
+        {
+            "text": "Bài 24: Việt Nam trong năm đầu sau thắng lợi của cuộc kháng chiến chống Mĩ, cứu nước năm 1975",
+            "href": "/hoi-dap/lop-12/phan-2/chuong-5/bai-24"
+        },
+        {
+            "text": "Bài 25: Việt Nam xây dựng chủ nghĩa xã hội và đấu tranh bảo vệ tổ quốc (1976-1986)",
+            "href": "/hoi-dap/lop-12/phan-2/chuong-5/bai-25"
+        },
+        {
+            "text": "Bài 26: Đất nước trên đường đổi mới đi lên chủ nghĩa xã hội (1986-2000)",
+            "href": "/hoi-dap/lop-12/phan-2/chuong-5/bai-26"
+        },
+        {
+            "text": "Bài 27: Tổng kết lịch sử Việt Nam từ năm 1919 đến năm 2000",
+            "href": "/hoi-dap/lop-12/phan-2/chuong-5/bai-27"
+        },
+        {
+            "text": "Ngô Quyền",
+            "href": "/nhan-vat/ngo-quyen"
+        },
+        {
+            "text": "Nguyễn Trãi",
+            "href": "/nhan-vat/nguyen-trai"
+        },
+        {
+            "text": "Lê Đại Hành",
+            "href": "/nhan-vat/le-dai-hanh"
+        },
+        {
+            "text": "Lê Thái Tổ",
+            "href": "/nhan-vat/le-thai-to"
+        },
+        {
+            "text": "Hùng Vương",
+            "href": "/nhan-vat/hung-vuong"
+        },
+        {
+            "text": "Lý Thường Kiệt",
+            "href": "/nhan-vat/ly-thuong-kiet"
+        },
+        {
+            "text": "Hai Bà Trưng",
+            "href": "/nhan-vat/hai-ba-trung"
+        },
+        {
+            "text": "Trần Hưng Đạo",
+            "href": "/nhan-vat/tran-hung-dao"
+        },
+        {
+            "text": "Trần Nhân Tông",
+            "href": "/nhan-vat/tran-nhan-tong"
+        },
+        {
+            "text": "Nguyễn Huệ",
+            "href": "/nhan-vat/nguyen-hue"
+        },
+        {
+            "text": "Vấn đề biên giới Việt-Trung thời Mạc",
+            "href": "/tu-lieu/bang-giao/van-de-bien-gioi-viet-trung-thoi-mac"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Tây Sơn",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-tay-son"
+        },
+        {
+            "text": "Biểu đồ các nhân vật lịch sử theo dòng thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Danh sách Trạng nguyên Việt Nam",
+            "href": "/tu-lieu/danh-sach-trang-nguyen-viet-nam"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Nguyễn",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-nguyen"
+        },
+        {
+            "text": "Trận Điện Biên Phủ trên không năm 1972",
+            "href": "/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972"
+        },
+        {
+            "text": "Trận Ngọc Hồi - Đống Đa năm 1789",
+            "href": "/tu-lieu/quan-su/tran-ngoc-hoi-dong-da-nam-1789"
+        },
+        {
+            "text": "Trận Cẩm Sa năm 1775",
+            "href": "/tu-lieu/quan-su/tran-cam-sa-nam-1775"
+        },
+        {
+            "text": "Trận Rạch Gầm \u2013 Xoài Mút năm 1785",
+            "href": "/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785"
+        },
+        {
+            "text": "Lãnh thổ Việt Nam qua từng thời kỳ",
+            "href": "/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky"
+        },
+        {
+            "text": "Khu di tích Pác Bó",
+            "href": "/dia-danh/khu-di-tich-pac-bo"
+        },
+        {
+            "text": "Quần thể di tích danh thắng Yên Tử",
+            "href": "/dia-danh/quan-the-di-tich-danh-thang-yen-tu"
+        },
+        {
+            "text": "Đền Trần (Thái Bình)",
+            "href": "/dia-danh/den-tran-thai-binh"
+        },
+        {
+            "text": "Đền Trần (Nam Định)",
+            "href": "/dia-danh/den-tran-nam-dinh"
+        },
+        {
+            "text": "Khu di tích Chủ tịch Hồ Chí Minh tại Phủ Chủ tịch",
+            "href": "/dia-danh/khu-di-tich-chu-tich-ho-chi-minh-tai-phu-chu-tich"
+        },
+        {
+            "text": "Quần thể di tích Cố đô Huế",
+            "href": "/dia-danh/quan-the-di-tich-co-do-hue"
+        },
+        {
+            "text": "Hồ Hoàn Kiếm",
+            "href": "/dia-danh/ho-hoan-kiem"
+        },
+        {
+            "text": "chùa Phổ Minh",
+            "href": "/dia-danh/chua-pho-minh"
+        },
+        {
+            "text": "Cố đô Hoa Lư",
+            "href": "/dia-danh/co-do-hoa-lu"
+        },
+        {
+            "text": "Đền Phù Đổng",
+            "href": "/dia-danh/den-phu-dong"
+        },
+        {
+            "text": "Giới thiệu",
+            "href": "/gioi-thieu"
+        },
+        {
+            "text": "Quyền riêng tư",
+            "href": "/quyen-rieng-tu"
+        },
+        {
+            "text": "Liên hệ",
+            "href": "/lien-he"
+        },
+        {
+            "text": "Địa Danh",
+            "href": "/dia-danh"
+        },
+        {
+            "text": "Trang Facebook",
+            "href": "https://www.facebook.com/nguoikesu/"
+        },
+        {
+            "text": "DanhMucBDS.com",
+            "href": "https://danhmucbds.com"
+        },
+        {
+            "text": "HocTotNguVan.com",
+            "href": "https://hoctotnguvan.com"
+        }
+    ],
+    "title": "Giải bài tập lịch sử lớp 12 - Người Kể Sử",
+    "paragraphs": [
+        "Sau chiến tranh thế giới thứ hai, cụ thể là trong những năm 1945-1947, các nước Đông Âu tiến hành nhiều cải cách quan trọng như:",
+        "- Xây dựng nhà nước dân chủ nhân dân (nhà nước của dân, do dân và vì dân).",
+        "- Tiến hành cải cách ruộng đất để mang lại quyền lợi cho nhân dân (mang lại lợi ích nhân dân).",
+        "- Ban hành các quyền tự do dân chủ, hướng tới một xã hội tốt đẹp hơn.",
+        "- Nhiều hiệp ước về kinh tế được ký kết giữa Liên Xô và các nước Đông Âu.",
+        "- Năm 1949, Hội đồng tương trợ kinh tế được thành lập.",
+        "Chi tiết \u2026",
+        "Ở châu Âu:",
+        "- Mĩ, Anh, Pháp: Tây Đức, Tây Béclin và các nước Tây Âu.",
+        "- Liên Xô: Đông Đức, Đông Béclin và các nước Đông Âu.",
+        "Ở châu Á:",
+        "- Mĩ: Nam Triều Tiên, Nhật Bản.",
+        "- Phương Tây: Đông Nam Á, Tây Á.",
+        "- Liên Xô: Trả lại miềm Nam đảo Xakhalin; 4 đảo thuộc quần đảo Curin; Bắc Triều Tiên.",
+        "Chi tiết \u2026",
+        "- Chiến tranh thế giới thứ hai kết thúc, Đức là nước bại trận, tương lai của nước Đức trở này trung tâm của nhiều cuộc gặp gỡ giữa nguyên thủ ba cường quốc Liên Xô, Mỹ, Anh.",
+        "- Sau hội nghị Pốtxđam, cả ba cường quốc Mỹ, Anh, Pháp đã đi ngược với quyết định của hội nghị Pốtxđam. Mỹ, Anh, Pháp đã tiến hành riêng rẽ việc hợp nhất các khu vực chiếm đóng ở Đức và lập ra nước Cộng hòa Liên bang Đức (9/1949).",
+        "- Được sự giúp đỡ của Liên Xô, các lực lượng dân chủ ở Đông Đức đã thành lập nước Cộng hòa dân chủ Đức.",
+        "Như vậy, nước Đức tại thời điểm này đã xuất hiện hai nhà nước với hai chế độ chính trị khác nhau.",
+        "Chi tiết \u2026",
+        "* Mục đích hoạt động của Liên hợp quốc:",
+        "- Duy trì hòa bình và an ninh thế giới.",
+        "- Phát triển mối quan hệ hữu nghị giữa các dân tộc và tiến hành hợp tác quốc tế giữa các nước lớn trên cơ sở tôn trọng nguyên tắc bình đẳng và quyền tự quyết của các dân tộc.",
+        "* Nguyên tắc hoạt động của Liên hợp quốc:",
+        "- Bình đẳng chủ quyền giữa các quốc gia và quyền tự quyết giữa các dân tộc.",
+        "- Tôn trọng toàn vẹn lãnh thổ và độc lập chính trị của tất cả các nước",
+        "- Không can thiệp vào công việc nội bộ của bất kỳ nước nào",
+        "- Giải quyết các tranh chấp quốc tế bằng biện pháp hòa bình.",
+        "- Chung sống hòa bình và sự nhất trí giữa năm nước lớn (Liên Xô, Mỹ, Anh, Pháp và Trung Quốc).",
+        "Chi tiết \u2026",
+        "- Thống nhất mục tiêu chung là tiêu diệt tận gốc chủ nghĩa phát xít Đức và chủ nghĩa quân phiệt Nhật Bản.",
+        "- Thành lập tổ chức Liên hợp quốc nhằm duy trì hòa bình, an ninh thế giới.",
+        "- Thỏa thuận về việc đóng quân tại các nước nhằm giải giáp quân đội phát xít, phân chia phạm vi ảnh hưởng ở châu Âu, châu Á.",
+        "Chi tiết \u2026",
+        "Trang 1 / 34"
+    ]
+}

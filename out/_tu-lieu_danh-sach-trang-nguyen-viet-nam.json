@@ -1,0 +1,1215 @@
+{
+    "tables": [
+        "<table class=\"table table-bordered\">\n <tbody>\n  <tr align=\"center\" bgcolor=\"#EFEFEF\">\n   <th>Thứ tự<\/th>\n   <th>Tên<\/th>\n   <th>Năm sinh<br>\n     năm mất<\/th>\n   <th>Quê<\/th>\n   <th>Năm đỗ<br>\n     Trạng nguyên<\/th>\n   <th>Đời vua<\/th>\n   <th>Ghi chú<\/th>\n  <\/tr>\n  <tr align=\"center\">\n   <td>1<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/le-van-thinh\" title=\"Lê Văn Thịnh (chữ Hán: 黎文盛, 11-2-1050 -&amp;#160;?), là người đỗ đầu trong khoa thi đầu tiên của Nho học Việt Nam, được bổ làm quan, dần trải đến chức Thái sư triều Lý. Năm 1084, ông thành công trong việc bàn nghị về việc cương giới với quan nhà Tống, khiến nước này phải trả lại 6 huyện 3 động  thuộc ch...\" target=\"_blank\">Lê Văn Thịnh<\/a><\/td>\n   <td>&nbsp;<\/td>\n   <td>Bắc Ninh<\/td>\n   <td>1075<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/ly-nhan-tong\" title=\"Lý Nhân Tông (chữ Hán: 李仁宗; 22 tháng 2 năm 1066 \u2013 15 tháng 1 năm 1128) là vị hoàng đế thứ tư của nhà Lý nước Đại Việt. Ông trị vì từ năm 1072 đến năm 1128, tổng cộng 55 năm. Ông được xem là vị vua có thời gian ở ngôi lâu nhất trong lịch sử Việt Nam. \n Là con trai trưởng của Lý Thánh Tông, Lý Nhân Tô...\" target=\"_blank\">Lý Nhân Tông<\/a><\/td>\n   <td>Trạng nguyên đầu tiên.<\/td>\n  <\/tr>\n  <tr align=\"center\">\n   <td>2<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/mac-hien-tich\" title=\"Mạc Hiển Tích (chữ Hán: 莫顯績, 1060 -?), là người đỗ đầu tại khoa thi năm Quảng Hựu thứ 2 (Bính Dần, 1086) thời vua Lý Nhân Tông. \n Quê ông ở làng Lũng Động, huyện Chí Linh (nay thuộc xã Nam Tân, huyện Nam Sách, tỉnh Hải Dương). Sau khi thi đỗ, ông được bổ làm Hàn lâm học sĩ rồi thăng lên đến Thượng t...\" target=\"_blank\">Mạc Hiển Tích<\/a><\/td>\n   <td>&nbsp;<\/td>\n   <td>Hải Dương<\/td>\n   <td>1086<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/ly-nhan-tong\" title=\"Lý Nhân Tông (chữ Hán: 李仁宗; 22 tháng 2 năm 1066 \u2013 15 tháng 1 năm 1128) là vị hoàng đế thứ tư của nhà Lý nước Đại Việt. Ông trị vì từ năm 1072 đến năm 1128, tổng cộng 55 năm. Ông được xem là vị vua có thời gian ở ngôi lâu nhất trong lịch sử Việt Nam. \n Là con trai trưởng của Lý Thánh Tông, Lý Nhân Tô...\" target=\"_blank\">Lý Nhân Tông<\/a><\/td>\n   <td>Tổ 5 đời của Trạng nguyên <a class=\"annotation\" href=\"/nhan-vat/mac-dinh-chi\" title=\"Mạc Đĩnh Chi (chữ Hán: 莫挺之, 1280 - 1346), tên tự là Tiết Phu (節夫), hiệu là Tích Am (僻庵) là một quan đại thần triều Trần trong lịch sử Việt Nam....\" target=\"_blank\">Mạc Đĩnh Chi<\/a>.<\/td>\n  <\/tr>\n  <tr align=\"center\">\n   <td>3<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/bui-quoc-khai\" title=\"Bùi Quốc Khái (chữ Hán: 裴國愾, 1141-1234) là người đỗ đầu khoa thi Tiến sĩ năm Trinh Phù thứ 10 (Ất Tỵ, 1185) dưới thời vua Lý Cao Tông (ở ngôi: 1176-1210), nước Đại Việt (nay là Việt Nam)....\" target=\"_blank\">Bùi Quốc Khái<\/a><\/td>\n   <td>1141-1234<\/td>\n   <td>Hải Dương<\/td>\n   <td>1185<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/ly-cao-tong\" title=\"Lý Cao Tông (chữ Hán: 李高宗, 1173\u20131210), là vị Hoàng đế thứ bảy của nhà Lý, cai trị từ năm 1175 đến năm 1210....\" target=\"_blank\">Lý Cao Tông<\/a><\/td>\n   <td>Ông tổ nghề làm lọng<\/td>\n  <\/tr>\n  <tr align=\"center\">\n   <td>4<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/nguyen-cong-binh\" title=\"Nguyễn Công Bình tên thật là Nguyễn Văn Mè (12 tháng 3 năm 1922 \u2013 22 tháng 6 năm 2014) là một nhà cách mạng, chính khách Việt Nam, nguyên Phó Bí thư Tỉnh ủy, Chủ tịch Ủy ban nhân dân tỉnh Tiền Giang, Trưởng đoàn Đại biểu Quốc hội khóa VI, VII đơn vị tỉnh Tiền Giang. \n Nguyễn Công Bình tên thật là Ng...\" target=\"_blank\">Nguyễn Công Bình<\/a><\/td>\n   <td>&nbsp;<\/td>\n   <td>Vĩnh Phúc<\/td>\n   <td>1213<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/ly-hue-tong\" title=\"Lý Huệ Tông (chữ Hán: 李惠宗, 1194 \u2013 1226), là vị Hoàng đế thứ tám của nhà Lý, cai trị từ năm 1210 đến năm 1224. Ông tên thật là Lý Sảm (李旵) hay Lý Hạo Sảm, sinh tại kinh đô Thăng Long, Đại Việt....\" target=\"_blank\">Lý Huệ Tông<\/a><\/td>\n   <td>Ông tổ nghề nuôi ong.<\/td>\n  <\/tr>\n  <tr align=\"center\">\n   <td>5<\/td>\n   <td>Trương Hanh<\/td>\n   <td>&nbsp;<\/td>\n   <td>Hải Dương<\/td>\n   <td>1232<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/tran-thai-tong\" title=\"Trần Thái Tông (chữ Hán: 陳太宗; 9 tháng 7 năm 1218 \u2013 5 tháng 5 năm 1277), là vị hoàng đế đầu tiên của nhà Trần trong lịch sử Việt Nam. Ông ở ngôi từ năm 1225 tới năm 1258, sau đó làm Thái thượng hoàng cho đến khi qua đời. \n Trần Cảnh sinh ra vào thời Lý, quê ở làng Tức Mặc (Thiên Trường). Lên 7 tuổi, ...\" target=\"_blank\">Trần Thái Tông<\/a><\/td>\n   <td>Trạng nguyên đầu tiên của triều đại nhà Trần.<\/td>\n  <\/tr>\n  <tr align=\"center\">\n   <td>6<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/nguyen-quan-quang\" title=\"Nguyễn Quan Quang (chữ Hán: 阮觀光,&amp;#160;?-?), có tài liệu ghi là Nguyễn Quán Quang hay Trần Quán Quang, là một danh thần thời nhà Trần. Ông được biết nhiều với giai thoại đỗ Tam nguyên và sứ giả Đại Việt đối đáp với tướng Mông Cổ. Theo văn bia số 1 tại Văn miếu Bắc Ninh, thì ông là người đỗ Trạng nguy...\" target=\"_blank\">Nguyễn Quan Quang<\/a><\/td>\n   <td>&nbsp;<\/td>\n   <td>Bắc Ninh<\/td>\n   <td>1234<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/tran-thai-tong\" title=\"Trần Thái Tông (chữ Hán: 陳太宗; 9 tháng 7 năm 1218 \u2013 5 tháng 5 năm 1277), là vị hoàng đế đầu tiên của nhà Trần trong lịch sử Việt Nam. Ông ở ngôi từ năm 1225 tới năm 1258, sau đó làm Thái thượng hoàng cho đến khi qua đời. \n Trần Cảnh sinh ra vào thời Lý, quê ở làng Tức Mặc (Thiên Trường). Lên 7 tuổi, ...\" target=\"_blank\">Trần Thái Tông<\/a><\/td>\n   <td>&nbsp;<\/td>\n  <\/tr>\n  <tr align=\"center\">\n   <td>7<\/td>\n   <td>Lưu Miễn<\/td>\n   <td>&nbsp;<\/td>\n   <td>&nbsp;<\/td>\n   <td>1239<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/tran-thai-tong\" title=\"Trần Thái Tông (chữ Hán: 陳太宗; 9 tháng 7 năm 1218 \u2013 5 tháng 5 năm 1277), là vị hoàng đế đầu tiên của nhà Trần trong lịch sử Việt Nam. Ông ở ngôi từ năm 1225 tới năm 1258, sau đó làm Thái thượng hoàng cho đến khi qua đời. \n Trần Cảnh sinh ra vào thời Lý, quê ở làng Tức Mặc (Thiên Trường). Lên 7 tuổi, ...\" target=\"_blank\">Trần Thái Tông<\/a><\/td>\n   <td>&nbsp;<\/td>\n  <\/tr>\n  <tr align=\"center\">\n   <td>8<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/nguyen-hien\" title=\"Nguyễn Hiền (chữ Hán: 阮賢, 1234 - 1255/1256) đỗ trạng nguyên khi 13 tuổi. Ông là người làng Dương A, huyện Thượng Hiền, phủ Thiên Trường (nay là xã Nam Thắng, huyện Nam Trực, tỉnh Nam Định). \n Ông thi đỗ trạng nguyên khi mới 13 tuổi, trở thành trạng nguyên trẻ nhất trong lịch sử khoa cử Việt Nam, tại...\" target=\"_blank\">Nguyễn Hiền<\/a><\/td>\n   <td>1234-1255<\/td>\n   <td>Nam Định<\/td>\n   <td>1247<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/tran-thai-tong\" title=\"Trần Thái Tông (chữ Hán: 陳太宗; 9 tháng 7 năm 1218 \u2013 5 tháng 5 năm 1277), là vị hoàng đế đầu tiên của nhà Trần trong lịch sử Việt Nam. Ông ở ngôi từ năm 1225 tới năm 1258, sau đó làm Thái thượng hoàng cho đến khi qua đời. \n Trần Cảnh sinh ra vào thời Lý, quê ở làng Tức Mặc (Thiên Trường). Lên 7 tuổi, ...\" target=\"_blank\">Trần Thái Tông<\/a><\/td>\n   <td>Trạng nguyên nhỏ tuổi nhất.<\/td>\n  <\/tr>\n  <tr align=\"center\">\n   <td>9<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/tran-quoc-lac\" title=\"Trần Quốc Lặc (chữ Hán: 陳國扐,&amp;#160;? -&amp;#160;?) là Trạng nguyên của Việt Nam, ông là người làng Uông Hạ, huyện Thanh Lâm, châu Thượng Hồng (nay là thôn Uông Hạ, xã Minh Tân, huyện Nam Sách, tỉnh Hải Dương). Tháng 2 năm 1256, ông đỗ Kinh trạng nguyên khoa Bính Thìn niên hiệu Nguyên Phong thứ 6, đời Trầ...\" target=\"_blank\">Trần Quốc Lặc<\/a><\/td>\n   <td>&nbsp;<\/td>\n   <td>Hải Dương<\/td>\n   <td>1256<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/tran-thai-tong\" title=\"Trần Thái Tông (chữ Hán: 陳太宗; 9 tháng 7 năm 1218 \u2013 5 tháng 5 năm 1277), là vị hoàng đế đầu tiên của nhà Trần trong lịch sử Việt Nam. Ông ở ngôi từ năm 1225 tới năm 1258, sau đó làm Thái thượng hoàng cho đến khi qua đời. \n Trần Cảnh sinh ra vào thời Lý, quê ở làng Tức Mặc (Thiên Trường). Lên 7 tuổi, ...\" target=\"_blank\">Trần Thái Tông<\/a><\/td>\n   <td>Kinh Trạng nguyên<\/td>\n  <\/tr>\n  <tr align=\"center\">\n   <td>10<\/td>\n   <td>Trương Xán<\/td>\n   <td>&nbsp;<\/td>\n   <td>Quảng Bình<\/td>\n   <td>1256<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/tran-thai-tong\" title=\"Trần Thái Tông (chữ Hán: 陳太宗; 9 tháng 7 năm 1218 \u2013 5 tháng 5 năm 1277), là vị hoàng đế đầu tiên của nhà Trần trong lịch sử Việt Nam. Ông ở ngôi từ năm 1225 tới năm 1258, sau đó làm Thái thượng hoàng cho đến khi qua đời. \n Trần Cảnh sinh ra vào thời Lý, quê ở làng Tức Mặc (Thiên Trường). Lên 7 tuổi, ...\" target=\"_blank\">Trần Thái Tông<\/a><\/td>\n   <td>Trại Trạng nguyên<\/td>\n  <\/tr>\n  <tr align=\"center\">\n   <td>11<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/tran-co\" title=\"Trần Cố (chữ Hán: 陳固,&amp;#160;? -&amp;#160;?), người xã Phạm Triền, huyện Thanh Miện, phủ Hạ Hồng (nay là thôn Phạm Lý, xã Ngô Quyền, huyện Thanh Miện, tỉnh Hải Dương), đỗ Kinh trạng nguyên khoa Bính Dần, năm Thiệu Long thứ 9 (1266), đời Trần Thánh Tông, cùng khoa với Trại trạng nguyên Bạch Liêu. Ông làm q...\" target=\"_blank\">Trần Cố<\/a><\/td>\n   <td>&nbsp;<\/td>\n   <td>Hải Dương<\/td>\n   <td>1266<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/tran-thanh-tong\" title=\"Trần Thánh Tông (chữ Hán: 陳聖宗; 12 tháng 10 năm 1240 \u2013 3 tháng 7 năm 1290) là vị hoàng đế thứ hai của nhà Trần trong lịch sử Việt Nam, ở ngôi từ tháng 3 năm 1258 đến tháng 11 năm 1278. Sau đó, ông làm Thái thượng hoàng từ cuối năm 1278 cho đến khi qua đời. Ông được sử sách ca ngợi là một vị vua nhân ...\" target=\"_blank\">Trần Thánh Tông<\/a><\/td>\n   <td>Kinh Trạng nguyên<\/td>\n  <\/tr>\n  <tr align=\"center\">\n   <td>12<\/td>\n   <td>Bạch Liêu<\/td>\n   <td>1236-1315<\/td>\n   <td>Nghệ An<\/td>\n   <td>1266<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/tran-thanh-tong\" title=\"Trần Thánh Tông (chữ Hán: 陳聖宗; 12 tháng 10 năm 1240 \u2013 3 tháng 7 năm 1290) là vị hoàng đế thứ hai của nhà Trần trong lịch sử Việt Nam, ở ngôi từ tháng 3 năm 1258 đến tháng 11 năm 1278. Sau đó, ông làm Thái thượng hoàng từ cuối năm 1278 cho đến khi qua đời. Ông được sử sách ca ngợi là một vị vua nhân ...\" target=\"_blank\">Trần Thánh Tông<\/a><\/td>\n   <td>Trại Trạng nguyên<\/td>\n  <\/tr>\n  <tr align=\"center\">\n   <td>13<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/ly-dao-tai\" title=\"Huyền Quang (玄光), 1254-1334, tên thật là Lý Đạo Tái (李道載), người hương Vạn Tải, châu Nam Sách, lộ Lạng Giang. Nay là làng Vạn Tải, xã Thái Bảo, huyện Gia Bình, tỉnh Bắc Ninh. Học giỏi, đỗ cả thi hương, thi hội. Ông đỗ đệ nhất giáp tiến sĩ (trạng nguyên) khoa thi năm 1272? hay 1274? và được bổ làm vi...\" target=\"_blank\">Lý Đạo Tái<\/a><\/td>\n   <td>1254-1334<\/td>\n   <td>Bắc Ninh<\/td>\n   <td>1272<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/tran-thanh-tong\" title=\"Trần Thánh Tông (chữ Hán: 陳聖宗; 12 tháng 10 năm 1240 \u2013 3 tháng 7 năm 1290) là vị hoàng đế thứ hai của nhà Trần trong lịch sử Việt Nam, ở ngôi từ tháng 3 năm 1258 đến tháng 11 năm 1278. Sau đó, ông làm Thái thượng hoàng từ cuối năm 1278 cho đến khi qua đời. Ông được sử sách ca ngợi là một vị vua nhân ...\" target=\"_blank\">Trần Thánh Tông<\/a><\/td>\n   <td>Tổ thứ ba (Huyền Quang) của thiền phái Trúc Lâm Yên Tử<\/td>\n  <\/tr>\n  <tr align=\"center\">\n   <td>14<\/td>\n   <td>Đào Tiêu<\/td>\n   <td>&nbsp;<\/td>\n   <td>Thanh Hóa<\/td>\n   <td>1275<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/tran-thanh-tong\" title=\"Trần Thánh Tông (chữ Hán: 陳聖宗; 12 tháng 10 năm 1240 \u2013 3 tháng 7 năm 1290) là vị hoàng đế thứ hai của nhà Trần trong lịch sử Việt Nam, ở ngôi từ tháng 3 năm 1258 đến tháng 11 năm 1278. Sau đó, ông làm Thái thượng hoàng từ cuối năm 1278 cho đến khi qua đời. Ông được sử sách ca ngợi là một vị vua nhân ...\" target=\"_blank\">Trần Thánh Tông<\/a><\/td>\n   <td>&nbsp;<\/td>\n  <\/tr>\n  <tr align=\"center\">\n   <td>15<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/mac-dinh-chi\" title=\"Mạc Đĩnh Chi (chữ Hán: 莫挺之, 1280 - 1346), tên tự là Tiết Phu (節夫), hiệu là Tích Am (僻庵) là một quan đại thần triều Trần trong lịch sử Việt Nam....\" target=\"_blank\">Mạc Đĩnh Chi<\/a><\/td>\n   <td>1272-1346<\/td>\n   <td>Hải Dương<\/td>\n   <td>1304<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/tran-anh-tong\" title=\"Trần Anh Tông (chữ Hán: 陳英宗; 25 tháng 10 năm 1276 \u2013 21 tháng 4 năm 1320), là vị hoàng đế thứ tư của nhà Trần trong lịch sử Việt Nam. Ông ở ngôi từ tháng 4 năm 1293 đến tháng 4 năm 1314, rồi làm Thái thượng hoàng từ năm 1314 đến khi qua đời. Trong thời gian trị vì ông chỉ có một niên hiệu là Hưng Lon...\" target=\"_blank\">Trần Anh Tông<\/a><\/td>\n   <td>Cháu 5 đời của <a class=\"annotation\" href=\"/nhan-vat/mac-hien-tich\" title=\"Mạc Hiển Tích (chữ Hán: 莫顯績, 1060 -?), là người đỗ đầu tại khoa thi năm Quảng Hựu thứ 2 (Bính Dần, 1086) thời vua Lý Nhân Tông. \n Quê ông ở làng Lũng Động, huyện Chí Linh (nay thuộc xã Nam Tân, huyện Nam Sách, tỉnh Hải Dương). Sau khi thi đỗ, ông được bổ làm Hàn lâm học sĩ rồi thăng lên đến Thượng t...\" target=\"_blank\">Mạc Hiển Tích<\/a>,<br>\n     Lưỡng quốc Trạng nguyên<\/td>\n  <\/tr>\n  <tr align=\"center\">\n   <td>16<\/td>\n   <td>Đào Sư Tích<\/td>\n   <td>&nbsp;<\/td>\n   <td>Nam Định<\/td>\n   <td>1374<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/tran-due-tong\" title=\"Trần Duệ Tông (chữ Hán: 陳睿宗, 30 tháng 6, 1337 - 4 tháng 3, 1377), là vị hoàng đế thứ 9 của triều đại nhà Trần trong lịch sử Việt Nam. Ông trị vì từ năm 1372 đến khi bị giết vào năm 1377. \n Trần Duệ Tông là vị Hoàng đế duy nhất trong lịch sử Việt Nam bị tử trận khi đương quyền. Xét trong 7 thế kỷ chi...\" target=\"_blank\">Trần Duệ Tông<\/a><\/td>\n   <td>&nbsp;<\/td>\n  <\/tr>\n  <tr align=\"center\">\n   <td>17<\/td>\n   <td>Lưu Thúc Kiệm<\/td>\n   <td>&nbsp;<\/td>\n   <td>Bắc Ninh<\/td>\n   <td>1400<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/ho-quy-ly\" title=\"Hồ Quý Ly (chữ Hán: 胡季犛; 1336 \u2013&amp;#160;?), cũng gọi Hồ Chương Hoàng (胡章皇), lấy húy kị Hồ Nhất Nguyên (胡一元), là vị hoàng đế đầu tiên của nhà nước Đại Ngu trong lịch sử Việt Nam. Ông ở ngôi vị Hoàng đế từ năm 1400 đến năm 1401, sau đó giữ ngôi Thái thượng hoàng từ năm 1401 đến năm 1407. \n Năm 1400, Hồ Q...\" target=\"_blank\">Hồ Quý Ly<\/a><\/td>\n   <td>&nbsp;<\/td>\n  <\/tr>\n  <tr align=\"center\">\n   <td>18<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/nguyen-truc\" title=\"Nguyễn Trực (chữ Hán: 阮直, 1417 - 1474), hiệu là Hu Liêu, tự là Nguyễn Công Dĩnh, quê xã Bối Khê huyện Thanh Oai, thành phố Hà Nội). Ông đỗ đầu trong số đệ nhất giáp tiến sĩ cập đệ (tức trạng nguyên) năm 1442 đời vua Lê Thái Tông....\" target=\"_blank\">Nguyễn Trực<\/a><\/td>\n   <td>1417-1474<\/td>\n   <td>Hà Nội<\/td>\n   <td>1442<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/le-thai-tong\" title=\"Lê Thái Tông (chữ Hán: 黎太宗; 20 tháng 11, 1423 - 4 tháng 8, 1442), là vị Hoàng đế thứ hai của triều đại Hậu Lê trong lịch sử Việt Nam. Ông trị vì Đại Việt từ năm 1433 tới năm 1442, tổng cộng 9 năm. \n Triều đại của Lê Thái Tông đánh dấu một thời kì thịnh trị, tiếp nối thành tựu của thời đại của Lê Thá...\" target=\"_blank\">Lê Thái Tông<\/a><\/td>\n   <td>Lưỡng quốc Trạng nguyên- văn bia đầu tiên.<\/td>\n  <\/tr>\n  <tr align=\"center\">\n   <td>19<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/nguyen-nghieu-tu\" title=\"Nguyễn Nghiêu Tư (tiếng Trung: 阮堯咨, 1383 - 1471), bản danh Nguyễn Văn Trư (阮文豬), tự Quân Trù (君廚), hiệu Tùng Khê (松溪), người huyện Vũ Ninh, phủ Từ Sơn. Một tài liệu của Viện Hán-Nôm lại cho hay, ông là người xã Phù Lương, huyện Võ Giàng, phủ Từ Sơn, xứ Kinh Bắc (nay thuộc huyện Quế Võ, tỉnh Bắc Ninh...\" target=\"_blank\">Nguyễn Nghiêu Tư<\/a><\/td>\n   <td>&nbsp;<\/td>\n   <td>Bắc Ninh<\/td>\n   <td>1448<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/le-nhan-tong\" title=\"Lê Nhân Tông (chữ Hán: 黎仁宗, 9 tháng 5 năm 1441 \u2013 3 tháng 10 năm 1459), là vị hoàng đế thứ ba của nhà Hậu Lê trong lịch sử Việt Nam, trị vì trong vòng 17 năm, từ năm 1442 sau khi Lê Thái Tông qua đời đến khi bị Lê Nghi Dân ám sát vào năm 1459. \n Lê Nhân Tông lên ngôi lúc mới 1 tuổi, nên trong 10 năm ...\" target=\"_blank\">Lê Nhân Tông<\/a><\/td>\n   <td>Trạng Lợn, Lưỡng quốc trạng nguyên.<\/td>\n  <\/tr>\n  <tr align=\"center\">\n   <td>20<\/td>\n   <td>Lương Thế Vinh<\/td>\n   <td>1441-1496<\/td>\n   <td>Nam Định<\/td>\n   <td>1463<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/le-thanh-tong\" title=\"Lê Thánh Tông (chữ Hán: 黎聖宗; 25 tháng 8 năm 1442 \u2013 3 tháng 3 năm 1497), là hoàng đế thứ năm của nhà Lê sơ nước Đại Việt. Ông trị vì từ năm 1460 đến năm 1497, tổng cộng 38 năm, là vị hoàng đế trị vì lâu nhất thời Lê sơ và cũng là một trong những vị vua cai trị trong thời kỳ hòa bình lâu nhất trong lị...\" target=\"_blank\">Lê Thánh Tông<\/a><\/td>\n   <td>Trạng Lường<\/td>\n  <\/tr>\n  <tr align=\"center\">\n   <td>21<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/vu-kiet\" title=\"Vũ Kiệt (chữ Hán: 武傑,1452 -&amp;#160;?), người xã Yên Việt, huyện Siêu Loại, Kinh Bắc (nay là thôn Cửu Yên thuộc xã Ngũ Thái, huyện Thuận Thành tỉnh Bắc Ninh), đỗ đầu đệ nhất giáp tiến sĩ cập đệ (Trạng nguyên) khoa tháng tư, Nhâm Thìn, Hồng Đức năm thứ 3 (1472), đời Lê Thánh Tông cùng Nguyễn Toàn An, Vư...\" target=\"_blank\">Vũ Kiệt<\/a><\/td>\n   <td>&nbsp;<\/td>\n   <td>Bắc Ninh<\/td>\n   <td>1472<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/le-thanh-tong\" title=\"Lê Thánh Tông (chữ Hán: 黎聖宗; 25 tháng 8 năm 1442 \u2013 3 tháng 3 năm 1497), là hoàng đế thứ năm của nhà Lê sơ nước Đại Việt. Ông trị vì từ năm 1460 đến năm 1497, tổng cộng 38 năm, là vị hoàng đế trị vì lâu nhất thời Lê sơ và cũng là một trong những vị vua cai trị trong thời kỳ hòa bình lâu nhất trong lị...\" target=\"_blank\">Lê Thánh Tông<\/a><\/td>\n   <td>&nbsp;<\/td>\n  <\/tr>\n  <tr align=\"center\">\n   <td>22<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/vu-tuan-chieu\" title=\"Vũ Tuấn Chiêu (chữ Hán: 武濬昭, 1426 -&amp;#160;?) nguyên quán xã Cổ Liễu, huyện Tây Chân (nay thuộc xã Nam Hùng huyện Nam Trực, tỉnh Nam Định), phủ Phụng Thiên, trú quán phường Nhật Chiêu, huyện Quảng Đức (nay thuộc xã Đông Ngạc, huyện Từ Liêm, thành phố Hà Nội). Ông đỗ đầu trong số ba đệ nhất giáp tiến s...\" target=\"_blank\">Vũ Tuấn Chiêu<\/a><\/td>\n   <td>1425-?<\/td>\n   <td>Nam Định<\/td>\n   <td>1475<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/le-thanh-tong\" title=\"Lê Thánh Tông (chữ Hán: 黎聖宗; 25 tháng 8 năm 1442 \u2013 3 tháng 3 năm 1497), là hoàng đế thứ năm của nhà Lê sơ nước Đại Việt. Ông trị vì từ năm 1460 đến năm 1497, tổng cộng 38 năm, là vị hoàng đế trị vì lâu nhất thời Lê sơ và cũng là một trong những vị vua cai trị trong thời kỳ hòa bình lâu nhất trong lị...\" target=\"_blank\">Lê Thánh Tông<\/a><\/td>\n   <td>&nbsp;<\/td>\n  <\/tr>\n  <tr align=\"center\">\n   <td>23<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/pham-don-le\" title=\"Phạm Đôn Lễ (chữ Hán: 范敦禮, 1457 -&amp;#160;?), tự là Lư Khanh, là Trạng nguyên khoa Tân Sửu (1481), niên hiệu Hồng Đức 12, đời vua Lê Thánh Tông. Vì có công dạy dân làng dệt chiếu cói nên còn gọi là Trạng Chiếu hay Tam nguyên Đôn Lễ.. Ông làm quan đến các chức Tả thị lang, rồi Thượng Thư. \n Phạm Đôn Lễ ...\" target=\"_blank\">Phạm Đôn Lễ<\/a><\/td>\n   <td>1454-?<\/td>\n   <td>Thái Bình<\/td>\n   <td>1481<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/le-thanh-tong\" title=\"Lê Thánh Tông (chữ Hán: 黎聖宗; 25 tháng 8 năm 1442 \u2013 3 tháng 3 năm 1497), là hoàng đế thứ năm của nhà Lê sơ nước Đại Việt. Ông trị vì từ năm 1460 đến năm 1497, tổng cộng 38 năm, là vị hoàng đế trị vì lâu nhất thời Lê sơ và cũng là một trong những vị vua cai trị trong thời kỳ hòa bình lâu nhất trong lị...\" target=\"_blank\">Lê Thánh Tông<\/a><\/td>\n   <td>Trạng Chiếu (Tam nguyên)<\/td>\n  <\/tr>\n  <tr align=\"center\">\n   <td>24<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/nguyen-quang-bat\" title=\"Nguyễn Quang Bật (chữ Hán: 阮光弼; 1463\u20131505) tên thật Nguyễn Quang Hiếu, là người đỗ trạng nguyên năm 1484 dưới triều vua Lê Thánh Tông. \n Ông là người huyện Gia Bình, tỉnh Bắc Ninh, có ý chí &quot;nhân định thắng thiên&quot;, không tin vào số mệnh. Tương truyền trước khoa thi ông nằm mơ thấy Thần hiện về báo m...\" target=\"_blank\">Nguyễn Quang Bật<\/a><\/td>\n   <td>1463-1505<\/td>\n   <td>Bắc Ninh<\/td>\n   <td>1484<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/le-thanh-tong\" title=\"Lê Thánh Tông (chữ Hán: 黎聖宗; 25 tháng 8 năm 1442 \u2013 3 tháng 3 năm 1497), là hoàng đế thứ năm của nhà Lê sơ nước Đại Việt. Ông trị vì từ năm 1460 đến năm 1497, tổng cộng 38 năm, là vị hoàng đế trị vì lâu nhất thời Lê sơ và cũng là một trong những vị vua cai trị trong thời kỳ hòa bình lâu nhất trong lị...\" target=\"_blank\">Lê Thánh Tông<\/a><\/td>\n   <td>&nbsp;<\/td>\n  <\/tr>\n  <tr align=\"center\">\n   <td>25<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/tran-sung-dinh\" title=\"Trần Sùng Dĩnh (chữ Hán: 陳崇穎, 1465\u2013?) là một Trạng nguyên của Việt Nam. Ông là người làng Đồng Khê, huyện Thanh Lâm, phủ Thượng Hồng (nay là thôn Đồng Khê, xã An Lâm, huyện Nam Sách, tỉnh Hải Dương). Ông đỗ Trạng nguyên khoa Đinh Mùi niên hiệu Hồng Đức thứ 18 (1487), đời Lê Thánh Tông. Làm quan Đô n...\" target=\"_blank\">Trần Sùng Dĩnh<\/a><\/td>\n   <td>1465-?<\/td>\n   <td>Hải Dương<\/td>\n   <td>1487<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/le-thanh-tong\" title=\"Lê Thánh Tông (chữ Hán: 黎聖宗; 25 tháng 8 năm 1442 \u2013 3 tháng 3 năm 1497), là hoàng đế thứ năm của nhà Lê sơ nước Đại Việt. Ông trị vì từ năm 1460 đến năm 1497, tổng cộng 38 năm, là vị hoàng đế trị vì lâu nhất thời Lê sơ và cũng là một trong những vị vua cai trị trong thời kỳ hòa bình lâu nhất trong lị...\" target=\"_blank\">Lê Thánh Tông<\/a><\/td>\n   <td>&nbsp;<\/td>\n  <\/tr>\n  <tr align=\"center\">\n   <td>26<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/vu-due\" title=\"Vũ Duệ (chữ Hán: 武睿, 1468-1522), vốn tên là Vũ Nghĩa Chi, sau vua Lê Thánh Tông cho đổi tên là Vũ Duệ; là danh thần nhà Lê sơ trong lịch sử Việt Nam....\" target=\"_blank\">Vũ Duệ<\/a><\/td>\n   <td>&nbsp;?-1520<\/td>\n   <td>Phú Thọ<\/td>\n   <td>1490<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/le-thanh-tong\" title=\"Lê Thánh Tông (chữ Hán: 黎聖宗; 25 tháng 8 năm 1442 \u2013 3 tháng 3 năm 1497), là hoàng đế thứ năm của nhà Lê sơ nước Đại Việt. Ông trị vì từ năm 1460 đến năm 1497, tổng cộng 38 năm, là vị hoàng đế trị vì lâu nhất thời Lê sơ và cũng là một trong những vị vua cai trị trong thời kỳ hòa bình lâu nhất trong lị...\" target=\"_blank\">Lê Thánh Tông<\/a><\/td>\n   <td>&nbsp;<\/td>\n  <\/tr>\n  <tr align=\"center\">\n   <td>27<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/vu-tich\" title=\"Vũ Dương (chữ Hán: 武暘,&amp;#160;? -&amp;#160;?), có sách chép là Vũ Tích, người làng Man Nhuế, huyện Thanh Lâm, thừa tuyên Hải Dương (nay thuộc thôn Mạn Nhuế, thị trấn Nam Sách (xã Thanh Lâm cũ), huyện Nam Sách, tỉnh Hải Dương). Đỗ Trạng nguyên khoa Quý Sửu, niên hiệu Hồng Đức thứ 24 (1493). Làm quan đến Hà...\" target=\"_blank\">Vũ Tích<\/a><\/td>\n   <td>&nbsp;<\/td>\n   <td>Hải Dương<\/td>\n   <td>1493<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/le-thanh-tong\" title=\"Lê Thánh Tông (chữ Hán: 黎聖宗; 25 tháng 8 năm 1442 \u2013 3 tháng 3 năm 1497), là hoàng đế thứ năm của nhà Lê sơ nước Đại Việt. Ông trị vì từ năm 1460 đến năm 1497, tổng cộng 38 năm, là vị hoàng đế trị vì lâu nhất thời Lê sơ và cũng là một trong những vị vua cai trị trong thời kỳ hòa bình lâu nhất trong lị...\" target=\"_blank\">Lê Thánh Tông<\/a><\/td>\n   <td>&nbsp;<\/td>\n  <\/tr>\n  <tr align=\"center\">\n   <td>28<\/td>\n   <td>Nghiêm Hoản<\/td>\n   <td>&nbsp;<\/td>\n   <td>Bắc Ninh<\/td>\n   <td>1496<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/le-thanh-tong\" title=\"Lê Thánh Tông (chữ Hán: 黎聖宗; 25 tháng 8 năm 1442 \u2013 3 tháng 3 năm 1497), là hoàng đế thứ năm của nhà Lê sơ nước Đại Việt. Ông trị vì từ năm 1460 đến năm 1497, tổng cộng 38 năm, là vị hoàng đế trị vì lâu nhất thời Lê sơ và cũng là một trong những vị vua cai trị trong thời kỳ hòa bình lâu nhất trong lị...\" target=\"_blank\">Lê Thánh Tông<\/a><\/td>\n   <td>&nbsp;<\/td>\n  <\/tr>\n  <tr align=\"center\">\n   <td>29<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/do-ly-khiem\" title=\"Đỗ Lý Khiêm (chữ Hán: 杜履謙,&amp;#160;? -&amp;#160;?), người làng Ngoại Lãng xã Song Lãng huyện Thư Trì, phủ Kiến Xương, trấn Sơn Nam Hạ (nay là làng Ngoại Lãng xã Song Lãng là huyện Vũ Thư tỉnh Thái Bình). Đỗ trạng nguyên khoa thi Kỷ Mùi, niên hiệu Cảnh Thống thứ 2 (1499), đời Lê Hiến Tông. Làm quan đến Phó ...\" target=\"_blank\">Đỗ Lý Khiêm<\/a><\/td>\n   <td>&nbsp;<\/td>\n   <td>Thái Bình<\/td>\n   <td>1499<\/td>\n   <td>Lê Hiển Tông<\/td>\n   <td>&nbsp;<\/td>\n  <\/tr>\n  <tr align=\"center\">\n   <td>30<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/le-ich-moc\" title=\"Lê Ích Mộc (chữ Hán: 黎益沭, 1458 - 1538), người xã Thanh Lãng, huyện Thủy Đường, phủ Kinh Môn (nay thuộc huyện Thủy Nguyên, thành phố Hải Phòng), đỗ đầu đệ nhất giáp tiến sĩ cập đệ (Trạng nguyên) khoa tháng hai, Nhâm Tuất, Cảnh Thống năm thứ 5 (1502), đời Lê Hiến Tông cùng Lê Sạn, Nguyễn Văn Thái đỗ đ...\" target=\"_blank\">Lê Ích Mộc<\/a><\/td>\n   <td>&nbsp;<\/td>\n   <td>Hải Phòng<\/td>\n   <td>1502<\/td>\n   <td>Lê Hiển Tông<\/td>\n   <td>&nbsp;<\/td>\n  <\/tr>\n  <tr align=\"center\">\n   <td>31<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/le-nai\" title=\"Lê Nại (chữ Hán: 黎鼐, 1479 -&amp;#160;?), hiệu Nam Hiên, người xã Mộ Trạch, huyện Đường Am, phủ Thượng Hồng (nay là huyện Bình Giang, tỉnh Hải Dương). Ông đỗ Đệ nhất giáp Tiến sĩ cập đệ Đệ nhất danh (Trạng nguyên) năm 27 tuổi, tại khoa Ất Sửu năm Đoan Khánh thứ 1 (1505) đời Lê Uy Mục, trong tháng 2 âm lị...\" target=\"_blank\">Lê Nại<\/a><\/td>\n   <td>1528-?<\/td>\n   <td>Hải Dương<\/td>\n   <td>1505<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/le-uy-muc\" title=\"Lê Uy Mục (chữ Hán: 黎威穆; 5 tháng 5, 1488 \u2013 1 tháng 12, 1509), đôi khi còn gọi là Mẫn Lệ công (愍厲公), là vị hoàng đế thứ tám của nhà Lê sơ trong lịch sử Việt Nam. Ông được xem là một vị Hoàng đế tàn bạo và hoang dâm, nổi tiếng là một bạo chúa, người đời gọi là Quỷ vương (鬼王). \n Lê Uy Mục không chăm lo...\" target=\"_blank\">Lê Uy Mục<\/a><\/td>\n   <td>Trạng Ăn<\/td>\n  <\/tr>\n  <tr align=\"center\">\n   <td>32<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/nguyen-gian-thanh\" title=\"Nguyễn Giản Thanh (chữ Hán: 阮簡清; thường được gọi là Trạng Me; 1482\u20131552) là trạng nguyên khoa thi Đoan Khánh năm thứ tư (1508), đời vua Lê Uy Mục. Ông là con của tiến sĩ Nguyễn Giản Liêm, người làng Ông Mặc (tục gọi là làng Me) huyện Đông Ngàn (nay là Từ Sơn), tỉnh Bắc Ninh. \n Ông làm quan đến chức ...\" target=\"_blank\">Nguyễn Giản Thanh<\/a> và Hứa Tam Tỉnh￼￼<\/td>\n   <td>1482-?<\/td>\n   <td>Bắc Ninh<\/td>\n   <td>1508<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/le-uy-muc\" title=\"Lê Uy Mục (chữ Hán: 黎威穆; 5 tháng 5, 1488 \u2013 1 tháng 12, 1509), đôi khi còn gọi là Mẫn Lệ công (愍厲公), là vị hoàng đế thứ tám của nhà Lê sơ trong lịch sử Việt Nam. Ông được xem là một vị Hoàng đế tàn bạo và hoang dâm, nổi tiếng là một bạo chúa, người đời gọi là Quỷ vương (鬼王). \n Lê Uy Mục không chăm lo...\" target=\"_blank\">Lê Uy Mục<\/a><\/td>\n   <td>Trạng Me<\/td>\n  <\/tr>\n  <tr align=\"center\">\n   <td>33<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/hoang-nghia-phu\" title=\"Hoàng Nghĩa Phú (chữ Hán: 黃義富, 1479 hay 1480 -&amp;#160;?), người xã Mạc Xá (Danh sách trạng nguyên chép là Lương Xá), huyện Chương Đức, phủ Ứng Thiên (nay là huyện Chương Mỹ, Hà Nội) sau chuyển sang ở xã Đan Khê, huyện Thanh Oai, phủ Ứng Thiên (nay là làng Đa Sĩ, phường Kiến Hưng, quận Hà Đông, thành p...\" target=\"_blank\">Hoàng Nghĩa Phú<\/a><\/td>\n   <td>1479-?<\/td>\n   <td>Hà Nội<\/td>\n   <td>1511<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/le-tuong-duc\" title=\"Lê Tương Dực (chữ Hán: 黎襄翼; 25 tháng 6, 1495 - 7 tháng 4, 1516), đôi khi gọi là Linh Ẩn vương (靈隱王), là vị hoàng đế thứ chín của nhà Lê Sơ trong lịch sử Việt Nam. Ông trị vì từ năm 1509 đến năm 1516, tổng cộng 7 năm. \n Ông được đánh giá là người có công khi lật đổ Lê Uy Mục, sửa sang việc học, khôi ...\" target=\"_blank\">Lê Tương Dực<\/a><\/td>\n   <td>&nbsp;<\/td>\n  <\/tr>\n  <tr align=\"center\">\n   <td>34<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/nguyen-duc-luong\" title=\"Nguyễn Đức Lượng (chữ Hán: 阮德亮, 1465 -&amp;#160;?), người xã Canh Hoạch, huyện Thanh Oai, phủ Ứng Thiên, trấn Sơn Nam (nay thuộc xã Dân Hòa huyện Thanh Oai, thành phố Hà Nội), đỗ đầu khoa tháng tư, Giáp Tuất, Hồng Thuận năm thứ 6 (1514), đời Lê Tương Dực cùng Nguyễn Chiêu Huấn (阮昭訓), Hoàng Minh Tá (黃明佐)...\" target=\"_blank\">Nguyễn Đức Lượng<\/a><\/td>\n   <td>&nbsp;<\/td>\n   <td>Hà Nội<\/td>\n   <td>1514<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/le-tuong-duc\" title=\"Lê Tương Dực (chữ Hán: 黎襄翼; 25 tháng 6, 1495 - 7 tháng 4, 1516), đôi khi gọi là Linh Ẩn vương (靈隱王), là vị hoàng đế thứ chín của nhà Lê Sơ trong lịch sử Việt Nam. Ông trị vì từ năm 1509 đến năm 1516, tổng cộng 7 năm. \n Ông được đánh giá là người có công khi lật đổ Lê Uy Mục, sửa sang việc học, khôi ...\" target=\"_blank\">Lê Tương Dực<\/a><\/td>\n   <td>&nbsp;<\/td>\n  <\/tr>\n  <tr align=\"center\">\n   <td>35<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/ngo-mien-thieu\" title=\"Ngô Miễn Thiệu (chữ Hán: 吳勉紹, 1498 hay 1499 -&amp;#160;?), người xã Tam Sơn, huyện Đông Ngàn, phủ Từ Sơn, Kinh Bắc (nay thuộc xã Tam Sơn, huyện Từ Sơn, Bắc Ninh). \n Ông đỗ trạng nguyên khoa Mậu Dần, niên hiệu Quang Thiệu thứ 3 (1518) đời Lê Chiêu Tông. Ông giữ các chức quan như Thượng thư Bộ Lại kiêm Đô...\" target=\"_blank\">Ngô Miễn Thiệu<\/a><\/td>\n   <td>1498-?<\/td>\n   <td>Bắc Ninh<\/td>\n   <td>1518<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/le-chieu-tong\" title=\"Lê Chiêu Tông (chữ Hán: 黎昭宗, 4 tháng 10, 1506 hoặc 1501 - 18 tháng 12, 1526), là vị hoàng đế thứ 10 của nhà Lê Sơ, ở ngôi từ năm 1516 đến 1522, tổng cộng 7 năm. \n Chiêu Tông dòng dõi tông thất, lên ngôi còn thơ ấu, trong nước rối ren, mọi việc đều do Nguyên quận công Trịnh Duy Sản chủ trương, dẹp đư...\" target=\"_blank\">Lê Chiêu Tông<\/a><\/td>\n   <td>&nbsp;<\/td>\n  <\/tr>\n  <tr align=\"center\">\n   <td>36<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/hoang-van-tan\" title=\"Hoàng Văn Tán (chữ Hán: 黃文贊,&amp;#160;? -&amp;#160;?) người xã Xuân Lôi, huyện Vũ Ninh (nay thuộc xã Đại Xuân huyện Quế Võ, tỉnh Bắc Ninh). Ông thi đỗ trạng nguyên năm 1523, trong khoa thi Quý Mùi, niên hiệu Thống Nguyên thứ hai của vua Lê Cung Đế. Ông được giao cùng với Đông các đại học sĩ Đạo Nguyện bá Ng...\" target=\"_blank\">Hoàng Văn Tán<\/a><\/td>\n   <td>&nbsp;<\/td>\n   <td>Bắc Ninh<\/td>\n   <td>1523<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/le-cung-hoang\" title=\"Lê Cung Hoàng (chữ Hán: 黎恭皇; 26 tháng 7, 1507 \u2013 15 tháng 6, 1527), là vị hoàng đế thứ 11 của nhà Hậu Lê, ở ngôi từ năm 1522 đến 1527, tổng cộng 5 năm. Ông là vị hoàng đế cuối cùng của nhà Lê sơ. \n Cung Hoàng lên ngôi trở thành bù nhìn, bị quyền thần Mạc Đăng Dung không chế, thực tế không hề có quyền...\" target=\"_blank\">Lê Cung Hoàng<\/a><\/td>\n   <td>&nbsp;<\/td>\n  <\/tr>\n  <tr align=\"center\">\n   <td>37<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/tran-tat-van\" title=\"Trần Tất Văn (chữ Hán: 陳必聞, 1428-1527), người xã Nguyệt Áng, huyện An Lão, phủ Kinh Môn, Hải Dương (nay thuộc quận Kiến An, thành phố Hải Phòng), đỗ đầu đệ nhất giáp tiến sĩ cập đệ (Trạng nguyên) khoa tháng tư, Bính Tuất, Thống Nguyên năm thứ 5 (1526), đời Lê Cung Hoàng cùng Nguyễn Văn Du, Lưu Trung...\" target=\"_blank\">Trần Tất Văn<\/a><\/td>\n   <td>&nbsp;<\/td>\n   <td>Hải Phòng<\/td>\n   <td>1526<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/le-cung-hoang\" title=\"Lê Cung Hoàng (chữ Hán: 黎恭皇; 26 tháng 7, 1507 \u2013 15 tháng 6, 1527), là vị hoàng đế thứ 11 của nhà Hậu Lê, ở ngôi từ năm 1522 đến 1527, tổng cộng 5 năm. Ông là vị hoàng đế cuối cùng của nhà Lê sơ. \n Cung Hoàng lên ngôi trở thành bù nhìn, bị quyền thần Mạc Đăng Dung không chế, thực tế không hề có quyền...\" target=\"_blank\">Lê Cung Hoàng<\/a><\/td>\n   <td>&nbsp;<\/td>\n  <\/tr>\n  <tr align=\"center\">\n   <td>38<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/do-tong\" title=\"Đỗ Tống (chữ Hán: 杜綜, 1504 -&amp;#160;?), người xã Lại Ốc, huyện Tế Giang, phủ Thuận An, Kinh Bắc (nay thuộc xã Long Hưng, huyện Văn Giang, tỉnh Hưng Yên). Ông đỗ trạng nguyên khoa Kỷ Sửu, niên hiệu Minh Đức thứ 3 (1529) đời Mạc Thái Tổ. Ông làm quan cho nhà Mạc, giữ các chức quan như như Tả Thị lang Bộ...\" target=\"_blank\">Đỗ Tống<\/a><\/td>\n   <td>&nbsp;<\/td>\n   <td>Hưng Yên<\/td>\n   <td>1529<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/mac-thai-to\" title=\"Mạc Thái Tổ (chữ Hán: 莫太祖; 23 tháng 11, 1483 - 22 tháng 8, 1541), tên thật là Mạc Đăng Dung (莫登庸), là nhà chính trị, hoàng đế sáng lập ra triều đại nhà Mạc trong lịch sử Việt Nam. Ông đóng vai trò quan trọng trong các sự kiện đánh dẹp các thế lực cát cứ, chống đối triều đình, loại bỏ ảnh hưởng của n...\" target=\"_blank\">Mạc Thái Tổ<\/a><\/td>\n   <td>&nbsp;<\/td>\n  <\/tr>\n  <tr align=\"center\">\n   <td>39<\/td>\n   <td>Nguyễn Thiến<\/td>\n   <td>&nbsp;<\/td>\n   <td>Hà Nội<\/td>\n   <td>1532<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/mac-thai-tong\" title=\"Mạc Thái Tông (chữ Hán: 莫太宗;&amp;#160;? \u2013 25 tháng 1, 1540), là vị Hoàng đế thứ hai của nhà Mạc trong lịch sử Việt Nam. Ông ở ngôi từ năm 1530 đến 1540, tổng cộng 10 năm trị vì. \n Trong thời gian trị vì, ông chỉ dùng niên hiệu Đại Chính (大正), nên còn được gọi là Đại Chính hoàng đế (大正皇帝)....\" target=\"_blank\">Mạc Thái Tông<\/a><\/td>\n   <td>&nbsp;<\/td>\n  <\/tr>\n  <tr align=\"center\">\n   <td>40<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/nguyen-binh-khiem\" title=\"Nguyễn Bỉnh Khiêm (chữ Hán: 阮秉謙; 1491\u20131585), tên huý là Nguyễn Văn Đạt (阮文達), tên tự là Hanh Phủ (亨甫), hiệu là Bạch Vân am cư sĩ (白雲庵居士), được các môn sinh tôn là Tuyết Giang phu tử (雪江夫子), là một trong những nhân vật có ảnh hưởng nhất của lịch sử cũng như văn hóa Việt Nam trong thế kỷ 16. Ông được ...\" target=\"_blank\">Nguyễn Bỉnh Khiêm<\/a><\/td>\n   <td>1491-1585<\/td>\n   <td>Hải Phòng<\/td>\n   <td>1535<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/mac-thai-tong\" title=\"Mạc Thái Tông (chữ Hán: 莫太宗;&amp;#160;? \u2013 25 tháng 1, 1540), là vị Hoàng đế thứ hai của nhà Mạc trong lịch sử Việt Nam. Ông ở ngôi từ năm 1530 đến 1540, tổng cộng 10 năm trị vì. \n Trong thời gian trị vì, ông chỉ dùng niên hiệu Đại Chính (大正), nên còn được gọi là Đại Chính hoàng đế (大正皇帝)....\" target=\"_blank\">Mạc Thái Tông<\/a><\/td>\n   <td>Trạng Trình<\/td>\n  <\/tr>\n  <tr align=\"center\">\n   <td>41<\/td>\n   <td>Giáp Hải<\/td>\n   <td>&nbsp;<\/td>\n   <td>Bắc Giang<\/td>\n   <td>1538<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/mac-thai-tong\" title=\"Mạc Thái Tông (chữ Hán: 莫太宗;&amp;#160;? \u2013 25 tháng 1, 1540), là vị Hoàng đế thứ hai của nhà Mạc trong lịch sử Việt Nam. Ông ở ngôi từ năm 1530 đến 1540, tổng cộng 10 năm trị vì. \n Trong thời gian trị vì, ông chỉ dùng niên hiệu Đại Chính (大正), nên còn được gọi là Đại Chính hoàng đế (大正皇帝)....\" target=\"_blank\">Mạc Thái Tông<\/a><\/td>\n   <td>&nbsp;<\/td>\n  <\/tr>\n  <tr align=\"center\">\n   <td>42<\/td>\n   <td>Nguyễn Kỳ<\/td>\n   <td>&nbsp;<\/td>\n   <td>Hưng Yên<\/td>\n   <td>1541<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/mac-hien-tong\" title=\"Mạc Hiến Tông (chữ Hán: 莫憲宗,&amp;#160;? \u2013 1546) là vị Hoàng đế thứ ba của nhà Mạc trong lịch sử Việt Nam, ở ngôi từ năm 1540 đến 1546. Ông tên thật là Mạc Phúc Hải (莫福海), là người xã Cao Đôi, huyện Bình Hà (nay là thôn Long Động, xã Nam Tân, huyện Nam Sách), tỉnh Hải Dương, Việt Nam....\" target=\"_blank\">Mạc Hiến Tông<\/a><\/td>\n   <td>&nbsp;<\/td>\n  <\/tr>\n  <tr align=\"center\">\n   <td>43<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/duong-phuc-tu\" title=\"Dương Phúc Tư (chữ Hán: 楊福滋, 1505\u20131564), người làng Lạc Đạo, huyện Gia Lâm, phủ Thuận An, trấn Kinh Bắc (nay thuộc huyện Văn Lâm, Hưng Yên). Đỗ trạng nguyên khoa Đinh Mùi, niên hiệu Vĩnh Định thứ nhất (1547), đời Mạc Tuyên Tông (Mạc Phúc Nguyên). Ông làm chức quan tham chính. Sau này ông dâng sớ xin...\" target=\"_blank\">Dương Phúc Tư<\/a><\/td>\n   <td>&nbsp;<\/td>\n   <td>Hưng Yên<\/td>\n   <td>1547<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/mac-tuyen-tong\" title=\"Mạc Tuyên Tông (莫宣宗) tên thật là Mạc Phúc Nguyên (chữ Hán: 莫福源,&amp;#160;? - 1561), là hoàng đế thứ tư nhà Mạc trong lịch sử Việt Nam, ở ngôi từ năm 1546 đến 1561, trị vì 15 năm. Ông là người xã Cao Đôi, huyện Bình Hà (nay là thôn Long Động, xã Nam Tân, huyện Nam Sách), tỉnh Hải Dương, Việt Nam....\" target=\"_blank\">Mạc Tuyên Tông<\/a><\/td>\n   <td>&nbsp;<\/td>\n  <\/tr>\n  <tr align=\"center\">\n   <td>44<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/tran-van-bao\" title=\"Trần Văn Bảo (chữ Hán: 陳文寶, 1524 - 1611) là một danh sĩ Việt Nam. Ông từng đỗ Trạng nguyên khoa Canh Tuất, niên hiệu Cảnh Lịch thứ 3 (1550), đời Mạc Tuyên Tông, làm quan đến chức Thượng thư, từng đi sứ phương Bắc, được phong tước Nghĩa quận công....\" target=\"_blank\">Trần Văn Bảo<\/a><\/td>\n   <td>1524-1610<\/td>\n   <td>Nam Định<\/td>\n   <td>1550<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/mac-tuyen-tong\" title=\"Mạc Tuyên Tông (莫宣宗) tên thật là Mạc Phúc Nguyên (chữ Hán: 莫福源,&amp;#160;? - 1561), là hoàng đế thứ tư nhà Mạc trong lịch sử Việt Nam, ở ngôi từ năm 1546 đến 1561, trị vì 15 năm. Ông là người xã Cao Đôi, huyện Bình Hà (nay là thôn Long Động, xã Nam Tân, huyện Nam Sách), tỉnh Hải Dương, Việt Nam....\" target=\"_blank\">Mạc Tuyên Tông<\/a><\/td>\n   <td>&nbsp;<\/td>\n  <\/tr>\n  <tr align=\"center\">\n   <td>45<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/nguyen-luong-thai\" title=\"Nguyễn Lượng Thái (chữ Hán: 阮亮采, 1525 - 1576), người xã Bình Ngô, huyện Gia Định, phủ Thuận An, trấn Kinh Bắc (nay thuộc xã An Bình, huyện Thuận Thành, tỉnh Bắc Ninh). Trú quán xã Trạm Lộ (cùng huyện). Ông đỗ đệ nhất giáp đồng tiến sĩ cập đệ đệ nhất danh (trạng nguyên), khoa Quý Sửu niên hiệu Cảnh L...\" target=\"_blank\">Nguyễn Lượng Thái<\/a><\/td>\n   <td>&nbsp;<\/td>\n   <td>Bắc Ninh<\/td>\n   <td>1553<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/mac-tuyen-tong\" title=\"Mạc Tuyên Tông (莫宣宗) tên thật là Mạc Phúc Nguyên (chữ Hán: 莫福源,&amp;#160;? - 1561), là hoàng đế thứ tư nhà Mạc trong lịch sử Việt Nam, ở ngôi từ năm 1546 đến 1561, trị vì 15 năm. Ông là người xã Cao Đôi, huyện Bình Hà (nay là thôn Long Động, xã Nam Tân, huyện Nam Sách), tỉnh Hải Dương, Việt Nam....\" target=\"_blank\">Mạc Tuyên Tông<\/a><\/td>\n   <td>&nbsp;<\/td>\n  <\/tr>\n  <tr align=\"center\">\n   <td>46<\/td>\n   <td>Phạm Trấn<\/td>\n   <td>&nbsp;<\/td>\n   <td>Hải Dương<\/td>\n   <td>1556<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/mac-tuyen-tong\" title=\"Mạc Tuyên Tông (莫宣宗) tên thật là Mạc Phúc Nguyên (chữ Hán: 莫福源,&amp;#160;? - 1561), là hoàng đế thứ tư nhà Mạc trong lịch sử Việt Nam, ở ngôi từ năm 1546 đến 1561, trị vì 15 năm. Ông là người xã Cao Đôi, huyện Bình Hà (nay là thôn Long Động, xã Nam Tân, huyện Nam Sách), tỉnh Hải Dương, Việt Nam....\" target=\"_blank\">Mạc Tuyên Tông<\/a><\/td>\n   <td>&nbsp;<\/td>\n  <\/tr>\n  <tr align=\"center\">\n   <td>47<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/dang-thi-tho\" title=\"Đặng Thì Thố (chữ Hán: 鄧時措, 1526 \u2013&amp;#160;?) là trạng nguyên thứ 40 của Việt Nam. Ông là hậu duệ của Quốc công Đặng Tất, quê làng An Lạc (còn gọi là làng Thạc), huyện Thanh Lâm (nay thuộc xã An Châu, thành phố Hải Dương). Hiện nay, ở các xã An Châu, Nam Trung và Nam Chính (Nam Sách) vẫn còn gia phả gh...\" target=\"_blank\">Đặng Thì Thố<\/a><\/td>\n   <td>1526-?<\/td>\n   <td>Hải Dương<\/td>\n   <td>1559<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/mac-tuyen-tong\" title=\"Mạc Tuyên Tông (莫宣宗) tên thật là Mạc Phúc Nguyên (chữ Hán: 莫福源,&amp;#160;? - 1561), là hoàng đế thứ tư nhà Mạc trong lịch sử Việt Nam, ở ngôi từ năm 1546 đến 1561, trị vì 15 năm. Ông là người xã Cao Đôi, huyện Bình Hà (nay là thôn Long Động, xã Nam Tân, huyện Nam Sách), tỉnh Hải Dương, Việt Nam....\" target=\"_blank\">Mạc Tuyên Tông<\/a><\/td>\n   <td>(là Thám hoa)<\/td>\n  <\/tr>\n  <tr align=\"center\">\n   <td>48<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/pham-duy-quyet\" title=\"Phạm Đăng Quyết (1521 -&amp;#160;?), tên lúc nhỏ là Phạm Duy Quyết (chữ Hán: 范維玦), người làng Xác Khê, huyện Chí Linh, phủ Nam Sách, Hải Dương. Ông còn có tên khác là Phạm Duy Áng, có sách chép là Phạm Duy Ưởng hay Phạm Duy Trĩ. Đỗ trạng nguyên khoa Nhâm Tuất, niên hiệu Thuần Phúc thứ nhất (1562), đời M...\" target=\"_blank\">Phạm Duy Quyết<\/a><\/td>\n   <td>&nbsp;<\/td>\n   <td>Hải Dương<\/td>\n   <td>1562<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/mac-mau-hop\" title=\"Mạc Mậu Hợp (chữ Hán: 莫茂洽, 1560 \u2013 1592) là vị Hoàng đế Đại Việt thứ năm của nhà Mạc thời Nam Bắc triều trong lịch sử Việt Nam. Ông được sử gọi là Thuần Phúc Đế (淳福帝) vì niên hiệu đầu tiên của ông. Ông lên ngôi năm 1562 lúc mới 2 tuổi và qua đó trở thành vua lên ngôi trẻ thứ hai lúc lên ngôi. Ông trị...\" target=\"_blank\">Mạc Mậu Hợp<\/a><\/td>\n   <td>&nbsp;<\/td>\n  <\/tr>\n  <tr align=\"center\">\n   <td>49<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/pham-quang-tien\" title=\"Phạm Quang Tiến (chữ Hán: 范光進, 1530-?) Người làng Lương Xá, huyện Thiện Tài, trấn Kinh Bắc (nay thuộc xã Phú Lương, huyện Lương Tài, tỉnh Bắc Ninh). Đỗ Trạng nguyên khoa Ất Sửu, niên hiệu Thuần Phúc thứ 4 (1565) thời Mạc Mậu Hợp. Ông làm quan Đông các Đại học sĩ, được cử đi sứ sang nhà Minh (Trung Q...\" target=\"_blank\">Phạm Quang Tiến<\/a><\/td>\n   <td>&nbsp;<\/td>\n   <td>Bắc Ninh<\/td>\n   <td>1565<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/mac-mau-hop\" title=\"Mạc Mậu Hợp (chữ Hán: 莫茂洽, 1560 \u2013 1592) là vị Hoàng đế Đại Việt thứ năm của nhà Mạc thời Nam Bắc triều trong lịch sử Việt Nam. Ông được sử gọi là Thuần Phúc Đế (淳福帝) vì niên hiệu đầu tiên của ông. Ông lên ngôi năm 1562 lúc mới 2 tuổi và qua đó trở thành vua lên ngôi trẻ thứ hai lúc lên ngôi. Ông trị...\" target=\"_blank\">Mạc Mậu Hợp<\/a><\/td>\n   <td>&nbsp;<\/td>\n  <\/tr>\n  <tr align=\"center\">\n   <td>50<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/vu-gioi\" title=\"Vũ Giới (chữ Hán: 武玠, 1541-1593), người xã Lương Xá, huyện Thiện Tài, trấn Kinh Bắc (nay là thôn Lương Xá, xã Phú Lương, huyện Lương Tài, Bắc Ninh), cùng làng với Phạm Quang Tiến, trạng nguyên khoa thi 1565. Đỗ trạng nguyên khoa Đinh Sửu, niên hiệu Sùng Khang thứ 12 (1577) đời Mạc Mậu Hợp. Làm quan ...\" target=\"_blank\">Vũ Giới<\/a><\/td>\n   <td>&nbsp;<\/td>\n   <td>Bắc Ninh<\/td>\n   <td>1577<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/mac-mau-hop\" title=\"Mạc Mậu Hợp (chữ Hán: 莫茂洽, 1560 \u2013 1592) là vị Hoàng đế Đại Việt thứ năm của nhà Mạc thời Nam Bắc triều trong lịch sử Việt Nam. Ông được sử gọi là Thuần Phúc Đế (淳福帝) vì niên hiệu đầu tiên của ông. Ông lên ngôi năm 1562 lúc mới 2 tuổi và qua đó trở thành vua lên ngôi trẻ thứ hai lúc lên ngôi. Ông trị...\" target=\"_blank\">Mạc Mậu Hợp<\/a><\/td>\n   <td>&nbsp;<\/td>\n  <\/tr>\n  <tr align=\"center\">\n   <td>51<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/nguyen-xuan-chinh\" title=\"Nguyễn Xuân Chính (chữ Hán: 阮春正, 1587 - 1693) người làng Phù Chẩn, huyện Đông Ngàn, phủ Từ Sơn, Kinh Bắc (nay là xã Phù Chẩn, thị xã Từ Sơn, tỉnh Bắc Ninh). Đỗ trạng nguyên khoa Đinh Sửu, niên hiệu Dương Hòa thứ 3 (1637), đời Lê Thần Tông khi đó ông đã 50 tuổi, là trạng nguyên già nhất trong lịch sử...\" target=\"_blank\">Nguyễn Xuân Chính<\/a><\/td>\n   <td>1587-?<\/td>\n   <td>Bắc Ninh<\/td>\n   <td>1637<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/le-than-tong\" title=\"Lê Thần Tông (chữ Hán: 黎神宗; 1607 \u2013 1662; trị vì: 1619 \u2013 1643 và 1649 \u2013 1662), tên húy là Lê Duy Kỳ (黎維祺), là vị hoàng đế thứ sáu của nhà Lê trung hưng trong lịch sử Việt Nam. Ông cũng là vị Vua Việt Nam duy nhất hai lần lên ngôi, có đến 4 người con đều làm vua và là vị vua Việt Nam đầu tiên lấy vợ p...\" target=\"_blank\">Lê Thần Tông<\/a><\/td>\n   <td>Trạng nguyên lớn tuổi nhất<\/td>\n  <\/tr>\n  <tr align=\"center\">\n   <td>52<\/td>\n   <td>Nguyễn Quốc Trinh<\/td>\n   <td>1624-1674<\/td>\n   <td>Hà Nội<\/td>\n   <td>1659<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/le-than-tong\" title=\"Lê Thần Tông (chữ Hán: 黎神宗; 1607 \u2013 1662; trị vì: 1619 \u2013 1643 và 1649 \u2013 1662), tên húy là Lê Duy Kỳ (黎維祺), là vị hoàng đế thứ sáu của nhà Lê trung hưng trong lịch sử Việt Nam. Ông cũng là vị Vua Việt Nam duy nhất hai lần lên ngôi, có đến 4 người con đều làm vua và là vị vua Việt Nam đầu tiên lấy vợ p...\" target=\"_blank\">Lê Thần Tông<\/a><\/td>\n   <td>&nbsp;<\/td>\n  <\/tr>\n  <tr align=\"center\">\n   <td>53<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/dang-cong-chat\" title=\"Đặng Công Chất (chữ Hán: 鄧公質, 1621 hay 1622 - 1683), người làng Phù Đổng, huyện Tiên Du, phủ Từ Sơn, trấn Kinh Bắc (nay thuộc xã Phù Đổng, huyện Gia Lâm, Hà Nội). Nguyên quán của ông là xã Thái Bát, huyện Bất Bạt (nay thuộc xã Tòng Bạt, huyện Ba Vì, thành phố Hà Nội). Đỗ trạng nguyên khoa Tân Sửu, n...\" target=\"_blank\">Đặng Công Chất<\/a><\/td>\n   <td>1621-1683<\/td>\n   <td>Hà Nội<\/td>\n   <td>1661<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/le-than-tong\" title=\"Lê Thần Tông (chữ Hán: 黎神宗; 1607 \u2013 1662; trị vì: 1619 \u2013 1643 và 1649 \u2013 1662), tên húy là Lê Duy Kỳ (黎維祺), là vị hoàng đế thứ sáu của nhà Lê trung hưng trong lịch sử Việt Nam. Ông cũng là vị Vua Việt Nam duy nhất hai lần lên ngôi, có đến 4 người con đều làm vua và là vị vua Việt Nam đầu tiên lấy vợ p...\" target=\"_blank\">Lê Thần Tông<\/a><\/td>\n   <td>&nbsp;<\/td>\n  <\/tr>\n  <tr align=\"center\">\n   <td>54<\/td>\n   <td>Lưu Danh Công<\/td>\n   <td>1643-?<\/td>\n   <td>Hà Nội<\/td>\n   <td>1670<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/le-huyen-tong\" title=\"Lê Huyền Tông (chữ Hán: 黎玄宗, 1654 \u2013 1671), tên thật là Lê Duy Vũ (黎維禑), tên khác là Lê Duy Hi (黎維禧), là vị hoàng đế thứ tám của nhà Lê trung hưng, trong lịch sử Việt Nam. Mẹ đẻ là hoàng hậu Phạm Thị Ngọc Hậu. \n Việc Lê Huyền Tông lên ngôi được sách &quot;Đại Việt sử ký toàn thư&quot; chép như sau: &quot;Tháng 9 (n...\" target=\"_blank\">Lê Huyền Tông<\/a><\/td>\n   <td>&nbsp;<\/td>\n  <\/tr>\n  <tr align=\"center\">\n   <td>55<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/nguyen-dang-dao\" title=\"Nguyễn Đăng Đạo (chữ Hán: 阮登道, 1651\u20131719) là một trong số rất ít trạng nguyên làm quan tới chức tể tướng thời Lê trung hưng. Ông còn có tên là Trạng Bịu....\" target=\"_blank\">Nguyễn Đăng Đạo<\/a><\/td>\n   <td>1650-1718<\/td>\n   <td>Bắc Ninh<\/td>\n   <td>1683<\/td>\n   <td><a class=\"annotation\" href=\"/nhan-vat/le-hy-tong\" title=\"Lê Hy Tông (chữ Hán: 黎熙宗; 1663 \u2013 1716) tên húy là Lê Duy Cáp (黎維祫) hay Lê Duy Hiệp là vị vua thứ 10 của nhà Lê trung hưng trong lịch sử Việt Nam....\" target=\"_blank\">Lê Hy Tông<\/a><\/td>\n   <td>Trạng Bịu, Lưỡng quốc Trạng nguyên<\/td>\n  <\/tr>\n  <tr align=\"center\">\n   <td>56<\/td>\n   <td>Trịnh Tuệ /Trịnh Huệ<\/td>\n   <td>1701-?<\/td>\n   <td>Thanh Hóa<\/td>\n   <td>1736<\/td>\n   <td>Lê Ý Tông<\/td>\n   <td>Trạng nguyên cuối cùng<\/td>\n  <\/tr>\n <\/tbody>\n<\/table>",
+        "<table class=\" table table-striped\" cellspacing=\"0\" cellpadding=\"0\">\n <tbody>\n  <tr>\n   <td>Bắc Ninh<\/td>\n   <td>\n    <div>\n     16\n    <\/div><\/td>\n  <\/tr>\n  <tr>\n   <td>Hải Dương<\/td>\n   <td>\n    <div>\n     12\n    <\/div><\/td>\n  <\/tr>\n  <tr>\n   <td>Hà Nội<\/td>\n   <td>\n    <div>\n     7\n    <\/div><\/td>\n  <\/tr>\n  <tr>\n   <td>Nam Định<\/td>\n   <td>\n    <div>\n     5\n    <\/div><\/td>\n  <\/tr>\n  <tr>\n   <td>Hải Phòng, Hưng Yên<\/td>\n   <td>\n    <div>\n     3\n    <\/div><\/td>\n  <\/tr>\n  <tr>\n   <td>Thái Bình, Thanh Hóa<\/td>\n   <td>\n    <div>\n     2\n    <\/div><\/td>\n  <\/tr>\n  <tr>\n   <td>Bắc Giang, Nghệ An, Phú Thọ, Quảng Bình<\/td>\n   <td>\n    <div>\n     1\n    <\/div><\/td>\n  <\/tr>\n  <tr>\n   <td>Chưa rõ quê quán<\/td>\n   <td>\n    <div>\n     1\n    <\/div><\/td>\n  <\/tr>\n <\/tbody>\n<\/table>"
+    ],
+    "keywords": [],
+    "headings": [
+        "Danh sách Trạng nguyên Việt Nam",
+        "Danh sách",
+        "Thống kê",
+        "Số Trạng nguyên",
+        "Bài viết cùng thư mục",
+        "CÁC THỜI KỲ LỊCH SỬ",
+        "Tư Liệu",
+        "Anh Hùng Dân Tộc Tiêu Biểu",
+        "Di Tích Lịch Sử",
+        "Anh Hùng Dân Tộc Tiêu Biểu",
+        "Tư Liệu Lịch Sử",
+        "Di Tích Lịch Sử"
+    ],
+    "anchors": [
+        {
+            "text": "",
+            "href": "/"
+        },
+        {
+            "text": "Trang Chủ",
+            "href": "/"
+        },
+        {
+            "text": "Dòng Lịch Sử",
+            "href": "/dong-lich-su"
+        },
+        {
+            "text": "Hồng Bàng & Văn Lang",
+            "href": "/dong-lich-su/hong-bang-va-van-lang"
+        },
+        {
+            "text": "Âu Lạc & Nam Việt",
+            "href": "/dong-lich-su/au-lac-va-nam-viet"
+        },
+        {
+            "text": "Bắc thuộc lần I",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat"
+        },
+        {
+            "text": "Trưng Nữ Vương",
+            "href": "/dong-lich-su/trung-nu-vuong"
+        },
+        {
+            "text": "Bắc thuộc lần II",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-hai"
+        },
+        {
+            "text": "Nhà Lý & Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu"
+        },
+        {
+            "text": "Bắc thuộc lần III",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-ba"
+        },
+        {
+            "text": "Thời kỳ xây nền tự chủ",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu"
+        },
+        {
+            "text": "Nhà Ngô",
+            "href": "/dong-lich-su/nha-ngo"
+        },
+        {
+            "text": "Nhà Đinh",
+            "href": "/dong-lich-su/nha-dinh"
+        },
+        {
+            "text": "Nhà Tiền Lê",
+            "href": "/dong-lich-su/nha-tien-le"
+        },
+        {
+            "text": "Nhà Lý",
+            "href": "/dong-lich-su/nha-ly"
+        },
+        {
+            "text": "Nhà Trần",
+            "href": "/dong-lich-su/nha-tran"
+        },
+        {
+            "text": "Nhà Hồ",
+            "href": "/dong-lich-su/nha-ho"
+        },
+        {
+            "text": "Nhà Hậu Trần",
+            "href": "/dong-lich-su/nha-hau-tran"
+        },
+        {
+            "text": "Bắc thuộc lần IV",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-tu"
+        },
+        {
+            "text": "Nhà Hậu Lê",
+            "href": "/dong-lich-su/nha-hau-le"
+        },
+        {
+            "text": "Nam Bắc Triều",
+            "href": "/dong-lich-su/nam-bac-trieu"
+        },
+        {
+            "text": "Trịnh Nguyễn Phân Tranh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh"
+        },
+        {
+            "text": "Nhà Tây Sơn",
+            "href": "/dong-lich-su/nha-tay-son"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/nha-nguyen"
+        },
+        {
+            "text": "Pháp Thuộc",
+            "href": "/dong-lich-su/phap-thuoc"
+        },
+        {
+            "text": "Việt Nam Dân Chủ Cộng Hoà",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Cộng hoà xã hội chủ nghĩa Việt Nam",
+            "href": "/dong-lich-su/viet-nam-xhcn"
+        },
+        {
+            "text": "Tư Liệu",
+            "href": "/tu-lieu"
+        },
+        {
+            "text": "Quân Sự",
+            "href": "/tu-lieu/quan-su?filter_tag[0]="
+        },
+        {
+            "text": "Tác Phẩm",
+            "href": "/tu-lieu/tac-pham?filter_tag[0]="
+        },
+        {
+            "text": "Bang Giao",
+            "href": "/tu-lieu/bang-giao"
+        },
+        {
+            "text": "Biểu đồ thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Nhân Vật",
+            "href": "/nhan-vat"
+        },
+        {
+            "text": "Anh Hùng Dân Tộc",
+            "href": "/anh-hung-dan-toc?types[0]=1"
+        },
+        {
+            "text": "Danh nhân văn hóa",
+            "href": "/danh-nhan-van-hoa?types[0]=1"
+        },
+        {
+            "text": "Di Tích",
+            "href": "/di-tich-lich-su?types[0]=1"
+        },
+        {
+            "text": "Ngày Nay",
+            "href": "/thoi-su"
+        },
+        {
+            "text": "Sách",
+            "href": "/sach"
+        },
+        {
+            "text": "Video",
+            "href": "/video"
+        },
+        {
+            "text": "Q&A",
+            "href": "/hoi-dap"
+        },
+        {
+            "text": "Lịch sử lớp 12",
+            "href": "/hoi-dap/lop-12"
+        },
+        {
+            "text": "Lịch sử lớp 11",
+            "href": "/hoi-dap/lop-11"
+        },
+        {
+            "text": "Lịch sử lớp 10",
+            "href": "/hoi-dap/lop-10"
+        },
+        {
+            "text": "Lịch sử lớp 9",
+            "href": "/hoi-dap/lop-9"
+        },
+        {
+            "text": "Lịch sử lớp 8",
+            "href": "/hoi-dap/lop-8"
+        },
+        {
+            "text": "Lịch sử lớp 7",
+            "href": "/hoi-dap/lop-7"
+        },
+        {
+            "text": "Lịch sử lớp 6",
+            "href": "/hoi-dap/lop-6"
+        },
+        {
+            "text": "Trang chủ",
+            "href": "/"
+        },
+        {
+            "text": "Tư Liệu",
+            "href": "/tu-lieu"
+        },
+        {
+            "text": "Tư Liệu Lịch Sử",
+            "href": "/tu-lieu"
+        },
+        {
+            "text": "Thu / Mở",
+            "href": "#"
+        },
+        {
+            "text": "Danh sách",
+            "href": "#danh-sach"
+        },
+        {
+            "text": "Thống kê",
+            "href": "#thong-ke"
+        },
+        {
+            "text": "Số Trạng nguyên",
+            "href": "#so-trang-nguyen"
+        },
+        {
+            "text": "nhà Lý",
+            "href": "/nhan-vat/nha-ly"
+        },
+        {
+            "text": "nhà Lý",
+            "href": "/nhan-vat/nha-ly"
+        },
+        {
+            "text": "Lê Văn Thịnh",
+            "href": "/nhan-vat/le-van-thinh"
+        },
+        {
+            "text": "Trần Thái Tông",
+            "href": "/nhan-vat/tran-thai-tong"
+        },
+        {
+            "text": "Lê Văn Thịnh",
+            "href": "/nhan-vat/le-van-thinh"
+        },
+        {
+            "text": "Lý Nhân Tông",
+            "href": "/nhan-vat/ly-nhan-tong"
+        },
+        {
+            "text": "Mạc Hiển Tích",
+            "href": "/nhan-vat/mac-hien-tich"
+        },
+        {
+            "text": "Lý Nhân Tông",
+            "href": "/nhan-vat/ly-nhan-tong"
+        },
+        {
+            "text": "Mạc Đĩnh Chi",
+            "href": "/nhan-vat/mac-dinh-chi"
+        },
+        {
+            "text": "Bùi Quốc Khái",
+            "href": "/nhan-vat/bui-quoc-khai"
+        },
+        {
+            "text": "Lý Cao Tông",
+            "href": "/nhan-vat/ly-cao-tong"
+        },
+        {
+            "text": "Nguyễn Công Bình",
+            "href": "/nhan-vat/nguyen-cong-binh"
+        },
+        {
+            "text": "Lý Huệ Tông",
+            "href": "/nhan-vat/ly-hue-tong"
+        },
+        {
+            "text": "Trần Thái Tông",
+            "href": "/nhan-vat/tran-thai-tong"
+        },
+        {
+            "text": "Nguyễn Quan Quang",
+            "href": "/nhan-vat/nguyen-quan-quang"
+        },
+        {
+            "text": "Trần Thái Tông",
+            "href": "/nhan-vat/tran-thai-tong"
+        },
+        {
+            "text": "Trần Thái Tông",
+            "href": "/nhan-vat/tran-thai-tong"
+        },
+        {
+            "text": "Nguyễn Hiền",
+            "href": "/nhan-vat/nguyen-hien"
+        },
+        {
+            "text": "Trần Thái Tông",
+            "href": "/nhan-vat/tran-thai-tong"
+        },
+        {
+            "text": "Trần Quốc Lặc",
+            "href": "/nhan-vat/tran-quoc-lac"
+        },
+        {
+            "text": "Trần Thái Tông",
+            "href": "/nhan-vat/tran-thai-tong"
+        },
+        {
+            "text": "Trần Thái Tông",
+            "href": "/nhan-vat/tran-thai-tong"
+        },
+        {
+            "text": "Trần Cố",
+            "href": "/nhan-vat/tran-co"
+        },
+        {
+            "text": "Trần Thánh Tông",
+            "href": "/nhan-vat/tran-thanh-tong"
+        },
+        {
+            "text": "Trần Thánh Tông",
+            "href": "/nhan-vat/tran-thanh-tong"
+        },
+        {
+            "text": "Lý Đạo Tái",
+            "href": "/nhan-vat/ly-dao-tai"
+        },
+        {
+            "text": "Trần Thánh Tông",
+            "href": "/nhan-vat/tran-thanh-tong"
+        },
+        {
+            "text": "Trần Thánh Tông",
+            "href": "/nhan-vat/tran-thanh-tong"
+        },
+        {
+            "text": "Mạc Đĩnh Chi",
+            "href": "/nhan-vat/mac-dinh-chi"
+        },
+        {
+            "text": "Trần Anh Tông",
+            "href": "/nhan-vat/tran-anh-tong"
+        },
+        {
+            "text": "Mạc Hiển Tích",
+            "href": "/nhan-vat/mac-hien-tich"
+        },
+        {
+            "text": "Trần Duệ Tông",
+            "href": "/nhan-vat/tran-due-tong"
+        },
+        {
+            "text": "Hồ Quý Ly",
+            "href": "/nhan-vat/ho-quy-ly"
+        },
+        {
+            "text": "Nguyễn Trực",
+            "href": "/nhan-vat/nguyen-truc"
+        },
+        {
+            "text": "Lê Thái Tông",
+            "href": "/nhan-vat/le-thai-tong"
+        },
+        {
+            "text": "Nguyễn Nghiêu Tư",
+            "href": "/nhan-vat/nguyen-nghieu-tu"
+        },
+        {
+            "text": "Lê Nhân Tông",
+            "href": "/nhan-vat/le-nhan-tong"
+        },
+        {
+            "text": "Lê Thánh Tông",
+            "href": "/nhan-vat/le-thanh-tong"
+        },
+        {
+            "text": "Vũ Kiệt",
+            "href": "/nhan-vat/vu-kiet"
+        },
+        {
+            "text": "Lê Thánh Tông",
+            "href": "/nhan-vat/le-thanh-tong"
+        },
+        {
+            "text": "Vũ Tuấn Chiêu",
+            "href": "/nhan-vat/vu-tuan-chieu"
+        },
+        {
+            "text": "Lê Thánh Tông",
+            "href": "/nhan-vat/le-thanh-tong"
+        },
+        {
+            "text": "Phạm Đôn Lễ",
+            "href": "/nhan-vat/pham-don-le"
+        },
+        {
+            "text": "Lê Thánh Tông",
+            "href": "/nhan-vat/le-thanh-tong"
+        },
+        {
+            "text": "Nguyễn Quang Bật",
+            "href": "/nhan-vat/nguyen-quang-bat"
+        },
+        {
+            "text": "Lê Thánh Tông",
+            "href": "/nhan-vat/le-thanh-tong"
+        },
+        {
+            "text": "Trần Sùng Dĩnh",
+            "href": "/nhan-vat/tran-sung-dinh"
+        },
+        {
+            "text": "Lê Thánh Tông",
+            "href": "/nhan-vat/le-thanh-tong"
+        },
+        {
+            "text": "Vũ Duệ",
+            "href": "/nhan-vat/vu-due"
+        },
+        {
+            "text": "Lê Thánh Tông",
+            "href": "/nhan-vat/le-thanh-tong"
+        },
+        {
+            "text": "Vũ Tích",
+            "href": "/nhan-vat/vu-tich"
+        },
+        {
+            "text": "Lê Thánh Tông",
+            "href": "/nhan-vat/le-thanh-tong"
+        },
+        {
+            "text": "Lê Thánh Tông",
+            "href": "/nhan-vat/le-thanh-tong"
+        },
+        {
+            "text": "Đỗ Lý Khiêm",
+            "href": "/nhan-vat/do-ly-khiem"
+        },
+        {
+            "text": "Lê Ích Mộc",
+            "href": "/nhan-vat/le-ich-moc"
+        },
+        {
+            "text": "Lê Nại",
+            "href": "/nhan-vat/le-nai"
+        },
+        {
+            "text": "Lê Uy Mục",
+            "href": "/nhan-vat/le-uy-muc"
+        },
+        {
+            "text": "Nguyễn Giản Thanh",
+            "href": "/nhan-vat/nguyen-gian-thanh"
+        },
+        {
+            "text": "Lê Uy Mục",
+            "href": "/nhan-vat/le-uy-muc"
+        },
+        {
+            "text": "Hoàng Nghĩa Phú",
+            "href": "/nhan-vat/hoang-nghia-phu"
+        },
+        {
+            "text": "Lê Tương Dực",
+            "href": "/nhan-vat/le-tuong-duc"
+        },
+        {
+            "text": "Nguyễn Đức Lượng",
+            "href": "/nhan-vat/nguyen-duc-luong"
+        },
+        {
+            "text": "Lê Tương Dực",
+            "href": "/nhan-vat/le-tuong-duc"
+        },
+        {
+            "text": "Ngô Miễn Thiệu",
+            "href": "/nhan-vat/ngo-mien-thieu"
+        },
+        {
+            "text": "Lê Chiêu Tông",
+            "href": "/nhan-vat/le-chieu-tong"
+        },
+        {
+            "text": "Hoàng Văn Tán",
+            "href": "/nhan-vat/hoang-van-tan"
+        },
+        {
+            "text": "Lê Cung Hoàng",
+            "href": "/nhan-vat/le-cung-hoang"
+        },
+        {
+            "text": "Trần Tất Văn",
+            "href": "/nhan-vat/tran-tat-van"
+        },
+        {
+            "text": "Lê Cung Hoàng",
+            "href": "/nhan-vat/le-cung-hoang"
+        },
+        {
+            "text": "Đỗ Tống",
+            "href": "/nhan-vat/do-tong"
+        },
+        {
+            "text": "Mạc Thái Tổ",
+            "href": "/nhan-vat/mac-thai-to"
+        },
+        {
+            "text": "Mạc Thái Tông",
+            "href": "/nhan-vat/mac-thai-tong"
+        },
+        {
+            "text": "Nguyễn Bỉnh Khiêm",
+            "href": "/nhan-vat/nguyen-binh-khiem"
+        },
+        {
+            "text": "Mạc Thái Tông",
+            "href": "/nhan-vat/mac-thai-tong"
+        },
+        {
+            "text": "Mạc Thái Tông",
+            "href": "/nhan-vat/mac-thai-tong"
+        },
+        {
+            "text": "Mạc Hiến Tông",
+            "href": "/nhan-vat/mac-hien-tong"
+        },
+        {
+            "text": "Dương Phúc Tư",
+            "href": "/nhan-vat/duong-phuc-tu"
+        },
+        {
+            "text": "Mạc Tuyên Tông",
+            "href": "/nhan-vat/mac-tuyen-tong"
+        },
+        {
+            "text": "Trần Văn Bảo",
+            "href": "/nhan-vat/tran-van-bao"
+        },
+        {
+            "text": "Mạc Tuyên Tông",
+            "href": "/nhan-vat/mac-tuyen-tong"
+        },
+        {
+            "text": "Nguyễn Lượng Thái",
+            "href": "/nhan-vat/nguyen-luong-thai"
+        },
+        {
+            "text": "Mạc Tuyên Tông",
+            "href": "/nhan-vat/mac-tuyen-tong"
+        },
+        {
+            "text": "Mạc Tuyên Tông",
+            "href": "/nhan-vat/mac-tuyen-tong"
+        },
+        {
+            "text": "Đặng Thì Thố",
+            "href": "/nhan-vat/dang-thi-tho"
+        },
+        {
+            "text": "Mạc Tuyên Tông",
+            "href": "/nhan-vat/mac-tuyen-tong"
+        },
+        {
+            "text": "Phạm Duy Quyết",
+            "href": "/nhan-vat/pham-duy-quyet"
+        },
+        {
+            "text": "Mạc Mậu Hợp",
+            "href": "/nhan-vat/mac-mau-hop"
+        },
+        {
+            "text": "Phạm Quang Tiến",
+            "href": "/nhan-vat/pham-quang-tien"
+        },
+        {
+            "text": "Mạc Mậu Hợp",
+            "href": "/nhan-vat/mac-mau-hop"
+        },
+        {
+            "text": "Vũ Giới",
+            "href": "/nhan-vat/vu-gioi"
+        },
+        {
+            "text": "Mạc Mậu Hợp",
+            "href": "/nhan-vat/mac-mau-hop"
+        },
+        {
+            "text": "Nguyễn Xuân Chính",
+            "href": "/nhan-vat/nguyen-xuan-chinh"
+        },
+        {
+            "text": "Lê Thần Tông",
+            "href": "/nhan-vat/le-than-tong"
+        },
+        {
+            "text": "Lê Thần Tông",
+            "href": "/nhan-vat/le-than-tong"
+        },
+        {
+            "text": "Đặng Công Chất",
+            "href": "/nhan-vat/dang-cong-chat"
+        },
+        {
+            "text": "Lê Thần Tông",
+            "href": "/nhan-vat/le-than-tong"
+        },
+        {
+            "text": "Lê Huyền Tông",
+            "href": "/nhan-vat/le-huyen-tong"
+        },
+        {
+            "text": "Nguyễn Đăng Đạo",
+            "href": "/nhan-vat/nguyen-dang-dao"
+        },
+        {
+            "text": "Lê Hy Tông",
+            "href": "/nhan-vat/le-hy-tong"
+        },
+        {
+            "text": "tỉnh Bắc Ninh",
+            "href": "/dia-danh/tinh-bac-ninh"
+        },
+        {
+            "text": "Nguyễn Quan Quang",
+            "href": "/nhan-vat/nguyen-quan-quang"
+        },
+        {
+            "text": "Nguyễn Quan Quang",
+            "href": "/nhan-vat/nguyen-quan-quang"
+        },
+        {
+            "text": "Trần Thái Tông",
+            "href": "/nhan-vat/tran-thai-tong"
+        },
+        {
+            "text": "Nguyễn Quan Quang",
+            "href": "/nhan-vat/nguyen-quan-quang"
+        },
+        {
+            "text": "Phạm Văn Tuấn",
+            "href": "/nhan-vat/pham-van-tuan"
+        },
+        {
+            "text": "Nguyễn Quan Quang",
+            "href": "/nhan-vat/nguyen-quan-quang"
+        },
+        {
+            "text": "Nguyễn Hiền",
+            "href": "/nhan-vat/nguyen-hien"
+        },
+        {
+            "text": "Nguyễn Bỉnh Khiêm",
+            "href": "/nhan-vat/nguyen-binh-khiem"
+        },
+        {
+            "text": "Nguyễn Quan Quang",
+            "href": "/nhan-vat/nguyen-quan-quang"
+        },
+        {
+            "text": "Nguyễn Hoàng",
+            "href": "/nhan-vat/nguyen-hoang"
+        },
+        {
+            "text": "Bài viết trước: Lãnh thổ Việt Nam qua từng thời kỳ Trước",
+            "href": "/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky"
+        },
+        {
+            "text": "Bài viết kế tiếp: Bảng đối chiếu các triều đại Việt Nam và các triều đại Trung Quốc Tiếp tục",
+            "href": "/tu-lieu/bang-doi-chieu-cac-trieu-dai-viet-nam-va-cac-trieu-dai-trung-quoc"
+        },
+        {
+            "text": "Bảng đối chiếu các triều đại Việt Nam và các triều đại Trung Quốc",
+            "href": "/tu-lieu/bang-doi-chieu-cac-trieu-dai-viet-nam-va-cac-trieu-dai-trung-quoc"
+        },
+        {
+            "text": "Danh sách Trạng nguyên Việt Nam",
+            "href": "/tu-lieu/danh-sach-trang-nguyen-viet-nam"
+        },
+        {
+            "text": "Lãnh thổ Việt Nam qua từng thời kỳ",
+            "href": "/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky"
+        },
+        {
+            "text": "Phân cấp hành chính Việt Nam thời quân chủ",
+            "href": "/tu-lieu/phan-cap-hanh-chinh-viet-nam-thoi-quan-chu"
+        },
+        {
+            "text": "Lịch sử Chữ viết tiếng Việt",
+            "href": "/tu-lieu/lich-su-chu-viet-tieng-viet"
+        },
+        {
+            "text": "Biểu đồ các nhân vật lịch sử theo dòng thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Tóm lược lịch sử Việt Nam",
+            "href": "/tu-lieu/tom-luoc-lich-su-viet-nam"
+        },
+        {
+            "text": "Lịch sử Trung Quốc",
+            "href": "/tu-lieu/lich-su-trung-quoc"
+        },
+        {
+            "text": "Hồng Bàng & Văn Lang",
+            "href": "/dong-lich-su/hong-bang-va-van-lang"
+        },
+        {
+            "text": "Âu Lạc & Nam Việt",
+            "href": "/dong-lich-su/au-lac-va-nam-viet"
+        },
+        {
+            "text": "Bắc thuộc lần I",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat"
+        },
+        {
+            "text": "Nhà Triệu",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat/nha-trieu"
+        },
+        {
+            "text": "Trưng Nữ Vương",
+            "href": "/dong-lich-su/trung-nu-vuong"
+        },
+        {
+            "text": "Bắc thuộc lần II",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-hai"
+        },
+        {
+            "text": "Nhà Lý & Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu"
+        },
+        {
+            "text": "Nhà Tiền Lý",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-tien-ly"
+        },
+        {
+            "text": "Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-trieu"
+        },
+        {
+            "text": "Nhà Hậu Lý",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-hau-ly"
+        },
+        {
+            "text": "Bắc thuộc lần III",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-ba"
+        },
+        {
+            "text": "Thời kỳ xây nền tự chủ",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu"
+        },
+        {
+            "text": "Họ Khúc",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu/ho-khuc"
+        },
+        {
+            "text": "Nhà Ngô",
+            "href": "/dong-lich-su/nha-ngo"
+        },
+        {
+            "text": "Nhà Đinh",
+            "href": "/dong-lich-su/nha-dinh"
+        },
+        {
+            "text": "Nhà Tiền Lê",
+            "href": "/dong-lich-su/nha-tien-le"
+        },
+        {
+            "text": "Nhà Lý",
+            "href": "/dong-lich-su/nha-ly"
+        },
+        {
+            "text": "Nhà Trần",
+            "href": "/dong-lich-su/nha-tran"
+        },
+        {
+            "text": "Nhà Hồ",
+            "href": "/dong-lich-su/nha-ho"
+        },
+        {
+            "text": "Nhà Hậu Trần",
+            "href": "/dong-lich-su/nha-hau-tran"
+        },
+        {
+            "text": "Bắc thuộc lần IV",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-tu"
+        },
+        {
+            "text": "Nhà Hậu Lê",
+            "href": "/dong-lich-su/nha-hau-le"
+        },
+        {
+            "text": "Nam Bắc Triều",
+            "href": "/dong-lich-su/nam-bac-trieu"
+        },
+        {
+            "text": "Nhà Lê Trung Hưng",
+            "href": "/dong-lich-su/nam-bac-trieu/nha-le-trung-hung"
+        },
+        {
+            "text": "Nhà Mạc",
+            "href": "/dong-lich-su/nam-bac-trieu/nha-mac"
+        },
+        {
+            "text": "Trịnh Nguyễn Phân Tranh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh"
+        },
+        {
+            "text": "Nhà Lê Trung Hưng",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/nha-le-trung-hung"
+        },
+        {
+            "text": "Chúa Trịnh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-trinh"
+        },
+        {
+            "text": "Chúa Nguyễn",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen"
+        },
+        {
+            "text": "Nhà Tây Sơn",
+            "href": "/dong-lich-su/nha-tay-son"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/nha-nguyen"
+        },
+        {
+            "text": "Pháp Thuộc",
+            "href": "/dong-lich-su/phap-thuoc"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/phap-thuoc/nha-nguyen"
+        },
+        {
+            "text": "Những cuộc khởi nghĩa chống thực dân Pháp",
+            "href": "/dong-lich-su/phap-thuoc/khoi-nghia-chong-phap"
+        },
+        {
+            "text": "Đảng Cộng Sản Việt Nam",
+            "href": "/dong-lich-su/phap-thuoc/dang-cong-san-viet-nam"
+        },
+        {
+            "text": "Việt Nam Dân Chủ Cộng Hoà",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Kháng chiến chống Pháp",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-phap"
+        },
+        {
+            "text": "Kháng chiến chống Mĩ",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-mi"
+        },
+        {
+            "text": "Cộng hoà xã hội chủ nghĩa Việt Nam",
+            "href": "/dong-lich-su/viet-nam-xhcn"
+        },
+        {
+            "text": "Trận Điện Biên Phủ trên không năm 1972",
+            "href": "/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972"
+        },
+        {
+            "text": "Chiến tranh biên giới Tây Nam năm 1975 - 1978",
+            "href": "/tu-lieu/quan-su/chien-tranh-bien-gioi-tay-nam-nam-1975-1978"
+        },
+        {
+            "text": "Chiến dịch Mùa Xuân năm 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-mua-xuan-nam-1975"
+        },
+        {
+            "text": "Hải chiến Trường Sa năm 1988",
+            "href": "/tu-lieu/quan-su/hai-chien-truong-sa-nam-1988"
+        },
+        {
+            "text": "Chiến dịch Đường 14 - Phước Long năm 1974 - 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-duong-14-phuoc-long-nam-1974-1975"
+        },
+        {
+            "text": "Chiến dịch Tây Nguyên năm 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-tay-nguyen-nam-1975"
+        },
+        {
+            "text": "Trận Mậu Thân tại Huế năm 1968",
+            "href": "/tu-lieu/quan-su/tran-mau-than-tai-hue-nam-1968"
+        },
+        {
+            "text": "Bảng đối chiếu các triều đại Việt Nam và các triều đại Trung Quốc",
+            "href": "/tu-lieu/bang-doi-chieu-cac-trieu-dai-viet-nam-va-cac-trieu-dai-trung-quoc"
+        },
+        {
+            "text": "Bình Ngô đại cáo - bản tuyên ngôn độc lập thứ hai",
+            "href": "/tu-lieu/tac-pham/binh-ngo-dai-cao-ban-tuyen-ngon-doc-lap-thu-hai"
+        },
+        {
+            "text": "Lãnh thổ Việt Nam qua từng thời kỳ",
+            "href": "/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky"
+        },
+        {
+            "text": "Trận Đồi Thịt Băm năm 1969",
+            "href": "/tu-lieu/quan-su/tran-doi-thit-bam-nam-1969"
+        },
+        {
+            "text": "Chiến dịch Đắk Tô năm 1972",
+            "href": "/tu-lieu/quan-su/chien-dich-dak-to-nam-1972"
+        },
+        {
+            "text": "Nam quốc sơn hà - Bản tuyên ngôn độc lập đầu tiên",
+            "href": "/tu-lieu/tac-pham/nam-quoc-son-ha-ban-tuyen-ngon-doc-lap-dau-tien"
+        },
+        {
+            "text": "Tuyên ngôn độc lập Việt Nam Dân chủ Cộng hòa",
+            "href": "/tu-lieu/tac-pham/tuyen-ngon-doc-lap-viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Trận Bản Đông năm 1971",
+            "href": "/tu-lieu/quan-su/tran-ban-dong-nam-1971"
+        },
+        {
+            "text": "Trận Rạch Gầm \u2013 Xoài Mút năm 1785",
+            "href": "/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785"
+        },
+        {
+            "text": "Lịch sử Chữ viết tiếng Việt",
+            "href": "/tu-lieu/lich-su-chu-viet-tieng-viet"
+        },
+        {
+            "text": "Hịch tướng sĩ - Dụ chư tỳ tướng hịch văn",
+            "href": "/tu-lieu/tac-pham/hich-tuong-si-du-chu-ty-tuong-hich-van"
+        },
+        {
+            "text": "Danh sách Trạng nguyên Việt Nam",
+            "href": "/tu-lieu/danh-sach-trang-nguyen-viet-nam"
+        },
+        {
+            "text": "Hội nghị Paris, mặt trận ngoại giao năm 1968-1972",
+            "href": "/tu-lieu/bang-giao/hoi-nghi-paris-mat-tran-ngoai-giao-nam-1968-1972"
+        },
+        {
+            "text": "Lý Nam Đế",
+            "href": "/nhan-vat/ly-nam-de"
+        },
+        {
+            "text": "Nguyễn Huệ",
+            "href": "/nhan-vat/nguyen-hue"
+        },
+        {
+            "text": "Ngô Quyền",
+            "href": "/nhan-vat/ngo-quyen"
+        },
+        {
+            "text": "Trần Nhân Tông",
+            "href": "/nhan-vat/tran-nhan-tong"
+        },
+        {
+            "text": "Lý Thường Kiệt",
+            "href": "/nhan-vat/ly-thuong-kiet"
+        },
+        {
+            "text": "Hùng Vương",
+            "href": "/nhan-vat/hung-vuong"
+        },
+        {
+            "text": "Lê Thái Tổ",
+            "href": "/nhan-vat/le-thai-to"
+        },
+        {
+            "text": "Đinh Tiên Hoàng",
+            "href": "/nhan-vat/dinh-tien-hoang"
+        },
+        {
+            "text": "Lê Đại Hành",
+            "href": "/nhan-vat/le-dai-hanh"
+        },
+        {
+            "text": "Lý Thái Tổ",
+            "href": "/nhan-vat/ly-thai-to"
+        },
+        {
+            "text": "Nguyễn Trãi",
+            "href": "/nhan-vat/nguyen-trai"
+        },
+        {
+            "text": "Hồ Chí Minh",
+            "href": "/nhan-vat/ho-chi-minh"
+        },
+        {
+            "text": "Trần Hưng Đạo",
+            "href": "/nhan-vat/tran-hung-dao"
+        },
+        {
+            "text": "Hai Bà Trưng",
+            "href": "/nhan-vat/hai-ba-trung"
+        },
+        {
+            "text": "chùa Thầy",
+            "href": "/dia-danh/chua-thay"
+        },
+        {
+            "text": "Đền Trần (Nam Định)",
+            "href": "/dia-danh/den-tran-nam-dinh"
+        },
+        {
+            "text": "Khu di tích chiến thắng Điện Biên Phủ",
+            "href": "/dia-danh/khu-di-tich-chien-thang-dien-bien-phu"
+        },
+        {
+            "text": "Cố đô Hoa Lư",
+            "href": "/dia-danh/co-do-hoa-lu"
+        },
+        {
+            "text": "Thành nhà Hồ",
+            "href": "/dia-danh/thanh-nha-ho"
+        },
+        {
+            "text": "Dinh Độc Lập",
+            "href": "/dia-danh/dinh-doc-lap"
+        },
+        {
+            "text": "Đền Hùng",
+            "href": "/dia-danh/den-hung"
+        },
+        {
+            "text": "Đền Trần (Thái Bình)",
+            "href": "/dia-danh/den-tran-thai-binh"
+        },
+        {
+            "text": "chùa Phổ Minh",
+            "href": "/dia-danh/chua-pho-minh"
+        },
+        {
+            "text": "Khu lăng mộ và đền thờ các vị vua triều Lý",
+            "href": "/dia-danh/khu-lang-mo-va-den-tho-cac-vi-vua-trieu-ly"
+        },
+        {
+            "text": "Hai Bà Trưng",
+            "href": "/nhan-vat/hai-ba-trung"
+        },
+        {
+            "text": "Lý Thái Tổ",
+            "href": "/nhan-vat/ly-thai-to"
+        },
+        {
+            "text": "Lý Thường Kiệt",
+            "href": "/nhan-vat/ly-thuong-kiet"
+        },
+        {
+            "text": "Hùng Vương",
+            "href": "/nhan-vat/hung-vuong"
+        },
+        {
+            "text": "Lý Nam Đế",
+            "href": "/nhan-vat/ly-nam-de"
+        },
+        {
+            "text": "Trần Hưng Đạo",
+            "href": "/nhan-vat/tran-hung-dao"
+        },
+        {
+            "text": "Hồ Chí Minh",
+            "href": "/nhan-vat/ho-chi-minh"
+        },
+        {
+            "text": "Trần Nhân Tông",
+            "href": "/nhan-vat/tran-nhan-tong"
+        },
+        {
+            "text": "Nguyễn Trãi",
+            "href": "/nhan-vat/nguyen-trai"
+        },
+        {
+            "text": "Ngô Quyền",
+            "href": "/nhan-vat/ngo-quyen"
+        },
+        {
+            "text": "Vấn đề biên giới Việt-Trung thời Mạc",
+            "href": "/tu-lieu/bang-giao/van-de-bien-gioi-viet-trung-thoi-mac"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Tây Sơn",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-tay-son"
+        },
+        {
+            "text": "Biểu đồ các nhân vật lịch sử theo dòng thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Danh sách Trạng nguyên Việt Nam",
+            "href": "/tu-lieu/danh-sach-trang-nguyen-viet-nam"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Nguyễn",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-nguyen"
+        },
+        {
+            "text": "Trận Điện Biên Phủ trên không năm 1972",
+            "href": "/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972"
+        },
+        {
+            "text": "Trận Ngọc Hồi - Đống Đa năm 1789",
+            "href": "/tu-lieu/quan-su/tran-ngoc-hoi-dong-da-nam-1789"
+        },
+        {
+            "text": "Trận Cẩm Sa năm 1775",
+            "href": "/tu-lieu/quan-su/tran-cam-sa-nam-1775"
+        },
+        {
+            "text": "Trận Rạch Gầm \u2013 Xoài Mút năm 1785",
+            "href": "/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785"
+        },
+        {
+            "text": "Lãnh thổ Việt Nam qua từng thời kỳ",
+            "href": "/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky"
+        },
+        {
+            "text": "Đền Hùng",
+            "href": "/dia-danh/den-hung"
+        },
+        {
+            "text": "Thành nhà Hồ",
+            "href": "/dia-danh/thanh-nha-ho"
+        },
+        {
+            "text": "chùa Phổ Minh",
+            "href": "/dia-danh/chua-pho-minh"
+        },
+        {
+            "text": "Khu di tích Pác Bó",
+            "href": "/dia-danh/khu-di-tich-pac-bo"
+        },
+        {
+            "text": "Dinh Độc Lập",
+            "href": "/dia-danh/dinh-doc-lap"
+        },
+        {
+            "text": "Đền Phù Đổng",
+            "href": "/dia-danh/den-phu-dong"
+        },
+        {
+            "text": "Quần thể di tích Cố đô Huế",
+            "href": "/dia-danh/quan-the-di-tich-co-do-hue"
+        },
+        {
+            "text": "Khu lăng mộ và đền thờ các vị vua triều Lý",
+            "href": "/dia-danh/khu-lang-mo-va-den-tho-cac-vi-vua-trieu-ly"
+        },
+        {
+            "text": "Khu lưu niệm Chủ tịch Tôn Đức Thắng",
+            "href": "/dia-danh/khu-luu-niem-chu-tich-ton-duc-thang"
+        },
+        {
+            "text": "chùa Thầy",
+            "href": "/dia-danh/chua-thay"
+        },
+        {
+            "text": "Giới thiệu",
+            "href": "/gioi-thieu"
+        },
+        {
+            "text": "Quyền riêng tư",
+            "href": "/quyen-rieng-tu"
+        },
+        {
+            "text": "Liên hệ",
+            "href": "/lien-he"
+        },
+        {
+            "text": "Địa Danh",
+            "href": "/dia-danh"
+        },
+        {
+            "text": "Trang Facebook",
+            "href": "https://www.facebook.com/nguoikesu/"
+        },
+        {
+            "text": "DanhMucBDS.com",
+            "href": "https://danhmucbds.com"
+        },
+        {
+            "text": "HocTotNguVan.com",
+            "href": "https://hoctotnguvan.com"
+        }
+    ],
+    "title": "Danh sách Trạng nguyên Việt Nam - Người Kể Sử",
+    "paragraphs": [
+        "Trạng nguyên (chữ Hán: 狀元) là danh hiệu thuộc học vị Tiến sĩ của người đỗ cao nhất trong các khoa đình thời phong kiến ở Việt Nam của các triều nhà Lý, Trần, Lê, và Mạc, kể từ khi có danh hiệu Tam khôi dành cho 3 vị trí đầu tiên. Người đỗ Trạng nguyên nói riêng và đỗ tiến sĩ nói chung phải vượt qua 3 kỳ thi: thi hương, thi hội và thi đình.",
+        "Khoa thi đầu tiên được mở ra dưới thời Lý năm 1075, lúc đó vua nhà Lý chưa đặt ra định chế tam khôi nên người đỗ đầu khoa thi này là Lê Văn Thịnh chưa được gọi là Trạng nguyên. Danh sách cụ thể những người đỗ đầu các kỳ thi này xem bài Thủ khoa Đại Việt. Phải đến khoa thi năm Thiên Ứng Chính Bình thứ 16 đời vua Trần Thái Tông (1247) mới đặt ra định chế tam khôi (3 vị trí đỗ đầu có tên gọi thứ tự là: Trạng nguyên, Bảng nhãn, Thám hoa) thì mới có danh hiệu Trạng nguyên. Đến thời nhà Nguyễn thì không lấy danh hiệu Trạng nguyên nữa (danh hiệu cao nhất dưới thời nhà Nguyễn là Đình nguyên). Do đó Trạng nguyên cuối cùng là Trịnh Tuệ đỗ khoa Bính Thìn (1736) thời Lê-Trịnh.",
+        "Dưới đây là danh sách các Trạng nguyên của Việt Nam. Danh sách này bao gồm những người được phong là thủ khoa và Chính danh Trạng nguyên từ khi có danh vị này.",
+        "Trường hợp phân chia 2 ngôi vị thời Trần: Kinh Trạng nguyên (đỗ đầu các Tiến sĩ quê từ Ninh Bình trở ra) và Trại Trạng nguyên (đỗ đầu các Tiến sĩ quê từ Thanh Hoá trở vào) cũng được ghi đủ cả hai vị. Một số trong số này đã được ghi danh vào bia Tiến sĩ ở Văn Miếu-Quốc Tử Giám.",
+        "Trong danh sách trên, riêng 2 tỉnh Bắc Ninh và Hải Dương đã chiếm quá nửa số Trạng nguyên ở Việt Nam với 38/55 vị.",
+        "Nếu dựa theo danh sách này thì có 49 Trạng nguyên chính thức và Trạng nguyên đầu tiên là Nguyễn Quán Quang. Những người đỗ đầu các khoa thi từ năm 1246 trở về trước chưa đặt danh hiệu trạng nguyên.",
+        "Tuy nhiên, các tác giả Vũ Xuân Thảo trong bài Vài số liệu, tư liệu chưa chính xác trong cuốn \"Những ông nghè ông cống triều Nguyễn\" đăng trên tạp chí Xưa và Nay số 67, tháng 9 năm 1999 và Lê Thái Dũng trong Giở trang sử Việt năm 2008 của Nhà xuất bản Đại học Quốc gia Hà Nội thì Trạng nguyên đầu tiên là Nguyễn Quan Quang, đỗ khoa Bính Ngọ (1246).",
+        "Có tài liệu như Các nhà khoa bảng Việt Nam (dẫn theo Hồng Đức ) lại tính Nguyễn Quan Quang là vị trạng nguyên đầu tiên: Phải tới khoa thi thứ 6 (khoa Đại tỉ thủ sĩ) vào năm Bính Ngọ (1246), niên hiệu Thiên Ứng Chính Bình thứ 15, đời vua Trần Thái Tông mới đặt danh hiệu Tam khôi (Trạng nguyên \u2013 Bảng nhãn \u2013 Thám hoa) và Nguyễn Quan Quang đã đậu Trạng nguyên, Phạm Văn Tuấn đậu Bảng nhãn, Vương Hữu Phùng đậu Thám hoa.",
+        "Trong danh sách 47 vị trạng nguyên treo ở Văn Miếu - Quốc Tử Giám (Hà Nội) thì Nguyễn Quan Quang được ghi đầu tiên rồi sau đó mới là Nguyễn Hiền!",
+        "Thống kê này được tính theo tỉnh ngày nay. Ví dụ Nguyễn Bỉnh Khiêm sinh tại thôn Trung Am huyện Vĩnh Lại, Hải Dương nay là thôn Cổ Am, huyện Vĩnh Bảo, Hải Phòng được xem là người Hải Phòng.",
+        "Theo một số tài liệu, trong đó có cuốn Những ông nghè ông cống triều Nguyễn của Bùi Hạnh Cẩn, Nguyễn Loan và Lan Phương, Nhà xuất bản Văn hóa Thông tin, 1995, dựa vào các công trình Các nhà khoa bảng Việt Nam, Nhà xuất bản Văn hóa, 1993; Quốc triều hương khoa lục, Nhà xuất bản TP HCM, 1993 thì từ khi bắt đầu mở khoa thi (1075) đến khi chấm dứt (khoa thi cuối cùng tổ chức năm 1919), tổng cộng có 184 khoa thi với 2785 vị đỗ đại khoa (đỗ tiến sĩ và tính cả phó bảng), trong đó có 56 Trạng nguyên (gồm 7 trong số 9 thủ khoa Đại Việt và 49 trạng nguyên trong danh sách này).",
+        "Tuy nhiên, tác giả Vũ Xuân Thảo trong bài Vài số liệu, tư liệu chưa chính xác trong cuốn \"Những ông nghè ông cống triều Nguyễn\" đăng trên tạp chí Xưa và Nay số 67, tháng 9 năm 1999 đã cho rằng con số trên không chính xác. Theo ông thì từ năm 1075 đến năm 1919 có tổng cộng có 185 khoa thi với 2898 vị đỗ đại khoa (tính từ phó bảng trở lên), trong đó chỉ có 47 Trạng nguyên. Cũng theo tác giả này và Lê Thái Dũng trong Giở trang sử Việt năm 2008 của Nhà xuất bản Đại học Quốc gia Hà Nội thì Trạng nguyên đầu tiên là Nguyễn Quan Quang, đỗ khoa Bính Ngọ (1246).",
+        "Sách giáo khoa Tiếng Việt lớp 5, tập 1 (2008), trong bài \"Nghìn năm văn hiến\" (trang 15) của tác giả Nguyễn Hoàng có ghi số liệu như sau: tổng số 185 khoa thi với 2896 người đỗ tiến sĩ, trong đó có 47 Trạng nguyên (thời Trần: 9; thời Lê: 27; thời Mạc: 11)."
+    ]
+}

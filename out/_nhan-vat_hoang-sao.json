@@ -1,0 +1,808 @@
+{
+    "tables": [
+        "<table class=\"infobox\">\n <tbody>\n  <tr>\n   <th colspan=\"2\">Hoàng Sào<br><span>黃巢<\/span><\/th>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\">Hoàng đế Trung Hoa <small>(chi tiết...)<\/small><\/td>\n  <\/tr>\n  <tr>\n   <th colspan=\"2\">Hoàng đế Đại Tề<\/th>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Tại vị<\/th>\n   <td>16/1/881<sup id=\"cite_ref-AS_1-0\" class=\"reference\">[1]<\/sup><sup id=\"cite_ref-ZZTJ254_2-0\" class=\"reference\">[2]<\/sup> - 13/7/884<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Đăng quang<\/th>\n   <td>tự lập<\/td>\n  <\/tr>\n  <tr>\n   <th colspan=\"2\">Thông tin chung<\/th>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\">\n    <table class=\"infobox\">\n     <tbody>\n      <tr>\n       <th colspan=\"2\">Niên hiệu<\/th>\n      <\/tr>\n      <tr>\n       <td colspan=\"2\">Vương Bá (王霸) 878-880<br>\n        Kim Thống (金統) 881-884<\/td>\n      <\/tr>\n     <\/tbody>\n    <\/table><\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Tước hiệu<\/th>\n   <td>Thừa Thiên Ứng Vận Khải Thánh Duệ Văn hoàng đế (承天応運啓聖睿文宣武皇帝)<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Sinh<\/th>\n   <td>835<\/td>\n  <\/tr>\n  <tr>\n   <th scope=\"row\">Mất<\/th>\n   <td>13 tháng 7, 884<sup id=\"cite_ref-AS_1-1\" class=\"reference\">[1]<\/sup><sup id=\"cite_ref-ZZTJ256_3-0\" class=\"reference\">[3]<\/sup><\/td>\n  <\/tr>\n <\/tbody>\n<\/table>",
+        "<table class=\"infobox\">\n <tbody>\n  <tr>\n   <th colspan=\"2\">Niên hiệu<\/th>\n  <\/tr>\n  <tr>\n   <td colspan=\"2\">Vương Bá (王霸) 878-880<br>\n    Kim Thống (金統) 881-884<\/td>\n  <\/tr>\n <\/tbody>\n<\/table>",
+        "<table class=\" table table-striped\">\n <tbody>\n  <tr>\n   <td>\n    <dl>\n     <dd>\n      <b>題菊花<\/b>:\n     <\/dd>\n     <dd>\n      颯颯西風滿院栽，\n     <\/dd>\n     <dd>\n      蕊寒香冷蝶難來。\n     <\/dd>\n     <dd>\n      他年我若爲青帝，\n     <\/dd>\n     <dd>\n      報與桃花一處開。\n     <\/dd>\n    <\/dl><\/td>\n   <td>\n    <dl>\n     <dd>\n      <b>Đề cúc hoa<\/b>:\n     <\/dd>\n     <dd>\n      <i>Táp táp tây phong mãn viện tài<\/i>\n     <\/dd>\n     <dd>\n      <i>Nhị hàn hương lãnh điệp nan lai<\/i>\n     <\/dd>\n     <dd>\n      <i>Tha niên ngã nhược vi Thanh đế<\/i>\n     <\/dd>\n     <dd>\n      <i>Báo dữ đào hoa nhất xứ khai.<\/i>\n     <\/dd>\n    <\/dl><\/td>\n   <td>\n    <dl>\n     <dd>\n      Bản dịch thơ:\n     <\/dd>\n     <dd>\n      <i>Vi vút đầy vườn thổi gió tây<\/i>\n     <\/dd>\n     <dd>\n      <i>Nhụy rầu hương lạnh bướm khôn bay<\/i>\n     <\/dd>\n     <dd>\n      <i>Nếu xuân năm tới ta làm chúa<\/i>\n     <\/dd>\n     <dd>\n      <i>Truyền với hoa đào nở cả đây.<\/i>\n     <\/dd>\n    <\/dl><\/td>\n  <\/tr>\n <\/tbody>\n<\/table>",
+        "<table class=\" table table-striped\">\n <tbody>\n  <tr>\n   <td>\n    <dl>\n     <dd>\n      <b>不第後賦菊<\/b>:\n     <\/dd>\n     <dd>\n      待到秋來九月八,\n     <\/dd>\n     <dd>\n      我花開後百花殺;\n     <\/dd>\n     <dd>\n      沖天香陣透長安,\n     <\/dd>\n     <dd>\n      滿城盡帶黃金甲！\n     <\/dd>\n    <\/dl><\/td>\n   <td>\n    <dl>\n     <dd>\n      <b>Bất đệ hậu phú cúc<\/b>:\n     <\/dd>\n     <dd>\n      Đãi đáo thu lai cửu nguyệt bát,\n     <\/dd>\n     <dd>\n      Ngã hoa khai hậu bách hoa sát.\n     <\/dd>\n     <dd>\n      Xung thiên hương trận thấu Trường An,\n     <\/dd>\n     <dd>\n      Mãn thành tận đới hoàng kim giáp.\n     <\/dd>\n    <\/dl><\/td>\n   <td>\n    <dl>\n     <dd>\n      Tạm dịch nghĩa:\n     <\/dd>\n     <dd>\n      Đợi đến mùa thu mùng 8 tháng 9\n     <\/dd>\n     <dd>\n      Sau khi hoa ta nở, giết trăm hoa\n     <\/dd>\n     <dd>\n      Hương trận tràn lên trời, thấu Trường An\n     <\/dd>\n     <dd>\n      Áo giáp vàng ở đầy đất khắp thành\n     <\/dd>\n    <\/dl><\/td>\n  <\/tr>\n <\/tbody>\n<\/table>",
+        "<table class=\"wikitable succession-box table table-striped\">\n <tbody>\n  <tr>\n   <td width=\"30%\" valign=\"top\" align=\"center\" rowspan=\"1\">Tiền nhiệm:<br><b>Đường Hy Tông<\/b><\/td>\n   <td width=\"40%\" rowspan=\"1\"><b>Hoàng đế Trung Hoa (vùng Quan Trung)<\/b><br>\n    881\u2013884<\/td>\n   <td width=\"30%\" valign=\"top\" align=\"center\" rowspan=\"1\">Kế nhiệm:<br><b>Đường Hy Tông<\/b><\/td>\n  <\/tr>\n <\/tbody>\n<\/table>"
+    ],
+    "keywords": [],
+    "headings": [
+        "Nhân Vật Lịch Sử",
+        "Hoàng Sào",
+        "Thân thế",
+        "Thủ lĩnh nổi dậy",
+        "Hợp binh với Vương Tiên Chi",
+        "Sau khi tách khỏi Vương Tiên Chi",
+        "Hành quân về phương nam",
+        "Hành quân về bắc",
+        "Chiếm Lạc Dương và Trường An",
+        "Hoàng đế Đại Tề",
+        "Kiểm soát Quan Trung",
+        "Hành quân về phía đông",
+        "Nhà thơ",
+        "Chú giải",
+        "Chú thích",
+        "Bài viết cùng thư mục",
+        "CÁC THỜI KỲ LỊCH SỬ",
+        "Tư Liệu",
+        "Anh Hùng Dân Tộc Tiêu Biểu",
+        "Anh Hùng Dân Tộc Tiêu Biểu",
+        "Tư Liệu Lịch Sử",
+        "Di Tích Lịch Sử"
+    ],
+    "anchors": [
+        {
+            "text": "",
+            "href": "/"
+        },
+        {
+            "text": "Trang Chủ",
+            "href": "/"
+        },
+        {
+            "text": "Dòng Lịch Sử",
+            "href": "/dong-lich-su"
+        },
+        {
+            "text": "Hồng Bàng & Văn Lang",
+            "href": "/dong-lich-su/hong-bang-va-van-lang"
+        },
+        {
+            "text": "Âu Lạc & Nam Việt",
+            "href": "/dong-lich-su/au-lac-va-nam-viet"
+        },
+        {
+            "text": "Bắc thuộc lần I",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat"
+        },
+        {
+            "text": "Trưng Nữ Vương",
+            "href": "/dong-lich-su/trung-nu-vuong"
+        },
+        {
+            "text": "Bắc thuộc lần II",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-hai"
+        },
+        {
+            "text": "Nhà Lý & Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu"
+        },
+        {
+            "text": "Bắc thuộc lần III",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-ba"
+        },
+        {
+            "text": "Thời kỳ xây nền tự chủ",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu"
+        },
+        {
+            "text": "Nhà Ngô",
+            "href": "/dong-lich-su/nha-ngo"
+        },
+        {
+            "text": "Nhà Đinh",
+            "href": "/dong-lich-su/nha-dinh"
+        },
+        {
+            "text": "Nhà Tiền Lê",
+            "href": "/dong-lich-su/nha-tien-le"
+        },
+        {
+            "text": "Nhà Lý",
+            "href": "/dong-lich-su/nha-ly"
+        },
+        {
+            "text": "Nhà Trần",
+            "href": "/dong-lich-su/nha-tran"
+        },
+        {
+            "text": "Nhà Hồ",
+            "href": "/dong-lich-su/nha-ho"
+        },
+        {
+            "text": "Nhà Hậu Trần",
+            "href": "/dong-lich-su/nha-hau-tran"
+        },
+        {
+            "text": "Bắc thuộc lần IV",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-tu"
+        },
+        {
+            "text": "Nhà Hậu Lê",
+            "href": "/dong-lich-su/nha-hau-le"
+        },
+        {
+            "text": "Nam Bắc Triều",
+            "href": "/dong-lich-su/nam-bac-trieu"
+        },
+        {
+            "text": "Trịnh Nguyễn Phân Tranh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh"
+        },
+        {
+            "text": "Nhà Tây Sơn",
+            "href": "/dong-lich-su/nha-tay-son"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/nha-nguyen"
+        },
+        {
+            "text": "Pháp Thuộc",
+            "href": "/dong-lich-su/phap-thuoc"
+        },
+        {
+            "text": "Việt Nam Dân Chủ Cộng Hoà",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Cộng hoà xã hội chủ nghĩa Việt Nam",
+            "href": "/dong-lich-su/viet-nam-xhcn"
+        },
+        {
+            "text": "Tư Liệu",
+            "href": "/tu-lieu"
+        },
+        {
+            "text": "Quân Sự",
+            "href": "/tu-lieu/quan-su?filter_tag[0]="
+        },
+        {
+            "text": "Tác Phẩm",
+            "href": "/tu-lieu/tac-pham?filter_tag[0]="
+        },
+        {
+            "text": "Bang Giao",
+            "href": "/tu-lieu/bang-giao"
+        },
+        {
+            "text": "Biểu đồ thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Nhân Vật",
+            "href": "/nhan-vat"
+        },
+        {
+            "text": "Anh Hùng Dân Tộc",
+            "href": "/anh-hung-dan-toc?types[0]=1"
+        },
+        {
+            "text": "Danh nhân văn hóa",
+            "href": "/danh-nhan-van-hoa?types[0]=1"
+        },
+        {
+            "text": "Di Tích",
+            "href": "/di-tich-lich-su?types[0]=1"
+        },
+        {
+            "text": "Ngày Nay",
+            "href": "/thoi-su"
+        },
+        {
+            "text": "Sách",
+            "href": "/sach"
+        },
+        {
+            "text": "Video",
+            "href": "/video"
+        },
+        {
+            "text": "Q&A",
+            "href": "/hoi-dap"
+        },
+        {
+            "text": "Lịch sử lớp 12",
+            "href": "/hoi-dap/lop-12"
+        },
+        {
+            "text": "Lịch sử lớp 11",
+            "href": "/hoi-dap/lop-11"
+        },
+        {
+            "text": "Lịch sử lớp 10",
+            "href": "/hoi-dap/lop-10"
+        },
+        {
+            "text": "Lịch sử lớp 9",
+            "href": "/hoi-dap/lop-9"
+        },
+        {
+            "text": "Lịch sử lớp 8",
+            "href": "/hoi-dap/lop-8"
+        },
+        {
+            "text": "Lịch sử lớp 7",
+            "href": "/hoi-dap/lop-7"
+        },
+        {
+            "text": "Lịch sử lớp 6",
+            "href": "/hoi-dap/lop-6"
+        },
+        {
+            "text": "Trang chủ",
+            "href": "/"
+        },
+        {
+            "text": "Nhân Vật",
+            "href": "/nhan-vat"
+        },
+        {
+            "text": "Nhân Vật Lịch Sử",
+            "href": "/nhan-vat"
+        },
+        {
+            "text": "Thu / Mở",
+            "href": "#"
+        },
+        {
+            "text": "Thân thế",
+            "href": "#than-the"
+        },
+        {
+            "text": "Thủ lĩnh nổi dậy",
+            "href": "#thu-linh-noi-day"
+        },
+        {
+            "text": "Hợp binh với Vương Tiên Chi",
+            "href": "#hop-binh-voi-vuong-tien-chi"
+        },
+        {
+            "text": "Sau khi tách khỏi Vương Tiên Chi",
+            "href": "#sau-khi-tach-khoi-vuong-tien-chi"
+        },
+        {
+            "text": "Hành quân về phương nam",
+            "href": "#hanh-quan-ve-phuong-nam"
+        },
+        {
+            "text": "Hành quân về bắc",
+            "href": "#hanh-quan-ve-bac"
+        },
+        {
+            "text": "Chiếm Lạc Dương và Trường An",
+            "href": "#chiem-lac-duong-va-truong-an"
+        },
+        {
+            "text": "Hoàng đế Đại Tề",
+            "href": "#hoang-de-dai-te"
+        },
+        {
+            "text": "Kiểm soát Quan Trung",
+            "href": "#kiem-soat-quan-trung"
+        },
+        {
+            "text": "Hành quân về phía đông",
+            "href": "#hanh-quan-ve-phia-dong"
+        },
+        {
+            "text": "Nhà thơ",
+            "href": "#nha-tho"
+        },
+        {
+            "text": "Chú giải",
+            "href": "#chu-giai"
+        },
+        {
+            "text": "Chú thích",
+            "href": "#chu-thich"
+        },
+        {
+            "text": "Bài viết trước: Hoàng Sầm Trước",
+            "href": "/nhan-vat/hoang-sam"
+        },
+        {
+            "text": "Bài viết kế tiếp: Hoàng Tá Viêm Tiếp tục",
+            "href": "/nhan-vat/hoang-ta-viem"
+        },
+        {
+            "text": "Kinh Dương Vương",
+            "href": "/nhan-vat/kinh-duong-vuong"
+        },
+        {
+            "text": "Lạc Long Quân",
+            "href": "/nhan-vat/lac-long-quan"
+        },
+        {
+            "text": "nhà Chu",
+            "href": "/nhan-vat/nha-chu"
+        },
+        {
+            "text": "Ngô Sĩ Liên",
+            "href": "/nhan-vat/ngo-si-lien"
+        },
+        {
+            "text": "Lý Thái Tổ",
+            "href": "/nhan-vat/ly-thai-to"
+        },
+        {
+            "text": "nhà Thương",
+            "href": "/nhan-vat/nha-thuong"
+        },
+        {
+            "text": "nhà Đường",
+            "href": "/nhan-vat/nha-duong"
+        },
+        {
+            "text": "Triệu Việt Vương",
+            "href": "/nhan-vat/trieu-viet-vuong"
+        },
+        {
+            "text": "nhà Tần",
+            "href": "/nhan-vat/nha-tan"
+        },
+        {
+            "text": "Triệu Đà",
+            "href": "/nhan-vat/trieu-da"
+        },
+        {
+            "text": "Hồng Bàng & Văn Lang",
+            "href": "/dong-lich-su/hong-bang-va-van-lang"
+        },
+        {
+            "text": "Âu Lạc & Nam Việt",
+            "href": "/dong-lich-su/au-lac-va-nam-viet"
+        },
+        {
+            "text": "Bắc thuộc lần I",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat"
+        },
+        {
+            "text": "Nhà Triệu",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-nhat/nha-trieu"
+        },
+        {
+            "text": "Trưng Nữ Vương",
+            "href": "/dong-lich-su/trung-nu-vuong"
+        },
+        {
+            "text": "Bắc thuộc lần II",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-hai"
+        },
+        {
+            "text": "Nhà Lý & Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu"
+        },
+        {
+            "text": "Nhà Tiền Lý",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-tien-ly"
+        },
+        {
+            "text": "Nhà Triệu",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-trieu"
+        },
+        {
+            "text": "Nhà Hậu Lý",
+            "href": "/dong-lich-su/nha-ly-va-nha-trieu/nha-hau-ly"
+        },
+        {
+            "text": "Bắc thuộc lần III",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-ba"
+        },
+        {
+            "text": "Thời kỳ xây nền tự chủ",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu"
+        },
+        {
+            "text": "Họ Khúc",
+            "href": "/dong-lich-su/thoi-ky-xay-nen-tu-chu/ho-khuc"
+        },
+        {
+            "text": "Nhà Ngô",
+            "href": "/dong-lich-su/nha-ngo"
+        },
+        {
+            "text": "Nhà Đinh",
+            "href": "/dong-lich-su/nha-dinh"
+        },
+        {
+            "text": "Nhà Tiền Lê",
+            "href": "/dong-lich-su/nha-tien-le"
+        },
+        {
+            "text": "Nhà Lý",
+            "href": "/dong-lich-su/nha-ly"
+        },
+        {
+            "text": "Nhà Trần",
+            "href": "/dong-lich-su/nha-tran"
+        },
+        {
+            "text": "Nhà Hồ",
+            "href": "/dong-lich-su/nha-ho"
+        },
+        {
+            "text": "Nhà Hậu Trần",
+            "href": "/dong-lich-su/nha-hau-tran"
+        },
+        {
+            "text": "Bắc thuộc lần IV",
+            "href": "/dong-lich-su/bac-thuoc-lan-thu-tu"
+        },
+        {
+            "text": "Nhà Hậu Lê",
+            "href": "/dong-lich-su/nha-hau-le"
+        },
+        {
+            "text": "Nam Bắc Triều",
+            "href": "/dong-lich-su/nam-bac-trieu"
+        },
+        {
+            "text": "Nhà Lê Trung Hưng",
+            "href": "/dong-lich-su/nam-bac-trieu/nha-le-trung-hung"
+        },
+        {
+            "text": "Nhà Mạc",
+            "href": "/dong-lich-su/nam-bac-trieu/nha-mac"
+        },
+        {
+            "text": "Trịnh Nguyễn Phân Tranh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh"
+        },
+        {
+            "text": "Nhà Lê Trung Hưng",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/nha-le-trung-hung"
+        },
+        {
+            "text": "Chúa Trịnh",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-trinh"
+        },
+        {
+            "text": "Chúa Nguyễn",
+            "href": "/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen"
+        },
+        {
+            "text": "Nhà Tây Sơn",
+            "href": "/dong-lich-su/nha-tay-son"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/nha-nguyen"
+        },
+        {
+            "text": "Pháp Thuộc",
+            "href": "/dong-lich-su/phap-thuoc"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "/dong-lich-su/phap-thuoc/nha-nguyen"
+        },
+        {
+            "text": "Những cuộc khởi nghĩa chống thực dân Pháp",
+            "href": "/dong-lich-su/phap-thuoc/khoi-nghia-chong-phap"
+        },
+        {
+            "text": "Đảng Cộng Sản Việt Nam",
+            "href": "/dong-lich-su/phap-thuoc/dang-cong-san-viet-nam"
+        },
+        {
+            "text": "Việt Nam Dân Chủ Cộng Hoà",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Kháng chiến chống Pháp",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-phap"
+        },
+        {
+            "text": "Kháng chiến chống Mĩ",
+            "href": "/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-mi"
+        },
+        {
+            "text": "Cộng hoà xã hội chủ nghĩa Việt Nam",
+            "href": "/dong-lich-su/viet-nam-xhcn"
+        },
+        {
+            "text": "Trận Điện Biên Phủ trên không năm 1972",
+            "href": "/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972"
+        },
+        {
+            "text": "Chiến tranh biên giới Tây Nam năm 1975 - 1978",
+            "href": "/tu-lieu/quan-su/chien-tranh-bien-gioi-tay-nam-nam-1975-1978"
+        },
+        {
+            "text": "Chiến dịch Mùa Xuân năm 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-mua-xuan-nam-1975"
+        },
+        {
+            "text": "Hải chiến Trường Sa năm 1988",
+            "href": "/tu-lieu/quan-su/hai-chien-truong-sa-nam-1988"
+        },
+        {
+            "text": "Chiến dịch Đường 14 - Phước Long năm 1974 - 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-duong-14-phuoc-long-nam-1974-1975"
+        },
+        {
+            "text": "Chiến dịch Tây Nguyên năm 1975",
+            "href": "/tu-lieu/quan-su/chien-dich-tay-nguyen-nam-1975"
+        },
+        {
+            "text": "Trận Mậu Thân tại Huế năm 1968",
+            "href": "/tu-lieu/quan-su/tran-mau-than-tai-hue-nam-1968"
+        },
+        {
+            "text": "Bảng đối chiếu các triều đại Việt Nam và các triều đại Trung Quốc",
+            "href": "/tu-lieu/bang-doi-chieu-cac-trieu-dai-viet-nam-va-cac-trieu-dai-trung-quoc"
+        },
+        {
+            "text": "Bình Ngô đại cáo - bản tuyên ngôn độc lập thứ hai",
+            "href": "/tu-lieu/tac-pham/binh-ngo-dai-cao-ban-tuyen-ngon-doc-lap-thu-hai"
+        },
+        {
+            "text": "Lãnh thổ Việt Nam qua từng thời kỳ",
+            "href": "/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky"
+        },
+        {
+            "text": "Trận Đồi Thịt Băm năm 1969",
+            "href": "/tu-lieu/quan-su/tran-doi-thit-bam-nam-1969"
+        },
+        {
+            "text": "Chiến dịch Đắk Tô năm 1972",
+            "href": "/tu-lieu/quan-su/chien-dich-dak-to-nam-1972"
+        },
+        {
+            "text": "Nam quốc sơn hà - Bản tuyên ngôn độc lập đầu tiên",
+            "href": "/tu-lieu/tac-pham/nam-quoc-son-ha-ban-tuyen-ngon-doc-lap-dau-tien"
+        },
+        {
+            "text": "Tuyên ngôn độc lập Việt Nam Dân chủ Cộng hòa",
+            "href": "/tu-lieu/tac-pham/tuyen-ngon-doc-lap-viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Trận Bản Đông năm 1971",
+            "href": "/tu-lieu/quan-su/tran-ban-dong-nam-1971"
+        },
+        {
+            "text": "Trận Rạch Gầm \u2013 Xoài Mút năm 1785",
+            "href": "/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785"
+        },
+        {
+            "text": "Lịch sử Chữ viết tiếng Việt",
+            "href": "/tu-lieu/lich-su-chu-viet-tieng-viet"
+        },
+        {
+            "text": "Hịch tướng sĩ - Dụ chư tỳ tướng hịch văn",
+            "href": "/tu-lieu/tac-pham/hich-tuong-si-du-chu-ty-tuong-hich-van"
+        },
+        {
+            "text": "Danh sách Trạng nguyên Việt Nam",
+            "href": "/tu-lieu/danh-sach-trang-nguyen-viet-nam"
+        },
+        {
+            "text": "Hội nghị Paris, mặt trận ngoại giao năm 1968-1972",
+            "href": "/tu-lieu/bang-giao/hoi-nghi-paris-mat-tran-ngoai-giao-nam-1968-1972"
+        },
+        {
+            "text": "Lê Đại Hành",
+            "href": "/nhan-vat/le-dai-hanh"
+        },
+        {
+            "text": "Ngô Quyền",
+            "href": "/nhan-vat/ngo-quyen"
+        },
+        {
+            "text": "Trần Nhân Tông",
+            "href": "/nhan-vat/tran-nhan-tong"
+        },
+        {
+            "text": "Lý Nam Đế",
+            "href": "/nhan-vat/ly-nam-de"
+        },
+        {
+            "text": "Lê Thái Tổ",
+            "href": "/nhan-vat/le-thai-to"
+        },
+        {
+            "text": "Đinh Tiên Hoàng",
+            "href": "/nhan-vat/dinh-tien-hoang"
+        },
+        {
+            "text": "Lý Thường Kiệt",
+            "href": "/nhan-vat/ly-thuong-kiet"
+        },
+        {
+            "text": "Hồ Chí Minh",
+            "href": "/nhan-vat/ho-chi-minh"
+        },
+        {
+            "text": "Hùng Vương",
+            "href": "/nhan-vat/hung-vuong"
+        },
+        {
+            "text": "Lý Thái Tổ",
+            "href": "/nhan-vat/ly-thai-to"
+        },
+        {
+            "text": "Nguyễn Huệ",
+            "href": "/nhan-vat/nguyen-hue"
+        },
+        {
+            "text": "Hai Bà Trưng",
+            "href": "/nhan-vat/hai-ba-trung"
+        },
+        {
+            "text": "Trần Hưng Đạo",
+            "href": "/nhan-vat/tran-hung-dao"
+        },
+        {
+            "text": "Nguyễn Trãi",
+            "href": "/nhan-vat/nguyen-trai"
+        },
+        {
+            "text": "Hai Bà Trưng",
+            "href": "/nhan-vat/hai-ba-trung"
+        },
+        {
+            "text": "Trần Hưng Đạo",
+            "href": "/nhan-vat/tran-hung-dao"
+        },
+        {
+            "text": "Lý Thái Tổ",
+            "href": "/nhan-vat/ly-thai-to"
+        },
+        {
+            "text": "Trần Nhân Tông",
+            "href": "/nhan-vat/tran-nhan-tong"
+        },
+        {
+            "text": "Nguyễn Trãi",
+            "href": "/nhan-vat/nguyen-trai"
+        },
+        {
+            "text": "Nguyễn Huệ",
+            "href": "/nhan-vat/nguyen-hue"
+        },
+        {
+            "text": "Đinh Tiên Hoàng",
+            "href": "/nhan-vat/dinh-tien-hoang"
+        },
+        {
+            "text": "Lý Thường Kiệt",
+            "href": "/nhan-vat/ly-thuong-kiet"
+        },
+        {
+            "text": "Ngô Quyền",
+            "href": "/nhan-vat/ngo-quyen"
+        },
+        {
+            "text": "Hồ Chí Minh",
+            "href": "/nhan-vat/ho-chi-minh"
+        },
+        {
+            "text": "Vấn đề biên giới Việt-Trung thời Mạc",
+            "href": "/tu-lieu/bang-giao/van-de-bien-gioi-viet-trung-thoi-mac"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Tây Sơn",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-tay-son"
+        },
+        {
+            "text": "Biểu đồ các nhân vật lịch sử theo dòng thời gian",
+            "href": "/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Danh sách Trạng nguyên Việt Nam",
+            "href": "/tu-lieu/danh-sach-trang-nguyen-viet-nam"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Nguyễn",
+            "href": "/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-nguyen"
+        },
+        {
+            "text": "Trận Điện Biên Phủ trên không năm 1972",
+            "href": "/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972"
+        },
+        {
+            "text": "Trận Ngọc Hồi - Đống Đa năm 1789",
+            "href": "/tu-lieu/quan-su/tran-ngoc-hoi-dong-da-nam-1789"
+        },
+        {
+            "text": "Trận Cẩm Sa năm 1775",
+            "href": "/tu-lieu/quan-su/tran-cam-sa-nam-1775"
+        },
+        {
+            "text": "Trận Rạch Gầm \u2013 Xoài Mút năm 1785",
+            "href": "/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785"
+        },
+        {
+            "text": "Lãnh thổ Việt Nam qua từng thời kỳ",
+            "href": "/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky"
+        },
+        {
+            "text": "Thành cổ Quảng Trị",
+            "href": "/dia-danh/thanh-co-quang-tri"
+        },
+        {
+            "text": "Khu di tích chiến thắng Điện Biên Phủ",
+            "href": "/dia-danh/khu-di-tich-chien-thang-dien-bien-phu"
+        },
+        {
+            "text": "Khu di tích Pác Bó",
+            "href": "/dia-danh/khu-di-tich-pac-bo"
+        },
+        {
+            "text": "chùa Thầy",
+            "href": "/dia-danh/chua-thay"
+        },
+        {
+            "text": "Chiến khu Tân Trào",
+            "href": "/dia-danh/chien-khu-tan-trao"
+        },
+        {
+            "text": "Văn Miếu - Quốc Tử Giám",
+            "href": "/dia-danh/van-mieu-quoc-tu-giam"
+        },
+        {
+            "text": "Đền Trần (Thái Bình)",
+            "href": "/dia-danh/den-tran-thai-binh"
+        },
+        {
+            "text": "Khu lăng mộ và đền thờ các vị vua triều Lý",
+            "href": "/dia-danh/khu-lang-mo-va-den-tho-cac-vi-vua-trieu-ly"
+        },
+        {
+            "text": "Dinh Độc Lập",
+            "href": "/dia-danh/dinh-doc-lap"
+        },
+        {
+            "text": "Cố đô Hoa Lư",
+            "href": "/dia-danh/co-do-hoa-lu"
+        },
+        {
+            "text": "Giới thiệu",
+            "href": "/gioi-thieu"
+        },
+        {
+            "text": "Quyền riêng tư",
+            "href": "/quyen-rieng-tu"
+        },
+        {
+            "text": "Liên hệ",
+            "href": "/lien-he"
+        },
+        {
+            "text": "Địa Danh",
+            "href": "/dia-danh"
+        },
+        {
+            "text": "Trang Facebook",
+            "href": "https://www.facebook.com/nguoikesu/"
+        },
+        {
+            "text": "DanhMucBDS.com",
+            "href": "https://danhmucbds.com"
+        },
+        {
+            "text": "HocTotNguVan.com",
+            "href": "https://hoctotnguvan.com"
+        }
+    ],
+    "title": "Hoàng Sào - Người Kể Sử",
+    "paragraphs": [
+        "Hoàng Sào (giản thể: 黄巢; phồn thể: 黃巢; bính âm: Huáng Cháo, 835 - 884) là người phát động Khởi Nghĩa Hoàng Sào, đồng thời cũng là thủ lĩnh của cuộc khởi nghĩa, diễn ra trong khoảng thời gian từ 874 đến 884, trong thời gian của cuộc khởi nghĩa Hoàng Sào xưng Hoàng Đế, thành lập chính quyền Đại Tề, khởi nghĩa Hoàng Sào tuy thất bại nhưng khiến nhà Đường suy yếu nghiêm trọng rồi sụp đổ trong khoảng 23 năm sau (năm 907).",
+        "Hoàng Sào là người Oan Cú, Tào châu[chú 1]. Gia đình ông buôn lậu muối trong nhiều thế hệ (do triều đình Đường giữ độc quyền muối từ sau loạn An Sử), nhờ đó mà trở nên hưng thịnh. Hoàng Sào được mô tả là có tài kiếm thuật, cưỡi ngựa, bắn cung, và ở một mức độ nhất định là văn chương, cũng là một người giỏi tranh luận. Hoàng Sào dùng tài sản của mình để chiêu mộ những con người tuyệt vọng đến phụng sự. Hoàng Sào có ít nhất một huynh là Hoàng Tồn (黃存), và ít nhất sáu đệ: Hoàng Nghiệp (黃鄴) hay Hoàng Tư Nghiệp (黃思鄴), Hoàng Quỹ (黃揆), Hoàng Khâm (黃欽), Hoàng Bỉnh (黃秉), Hoàng Vạn Thông (黃萬通), và Hoàng Tư Hậu (黃思厚).[4] Hoàng Sào liên tục ứng thí trong các kỳ thi khoa cử, song không đỗ đạt, sau đó quyết tâm nổi dậy chống lại sự cai trị của nhà Đường.[5]",
+        "Năm 874, Vương Tiên Chi và Thượng Quân Trường nổi dậy tại Trường Viên[chú 2] và đến năm 875 thì họ nhiều lần đánh bại Thiên Bình tiết độ sứ Tiết Sùng (薛崇). Hoàng Sào cũng nổi dậy với vài nghìn người và hợp binh với Vương Tiên Chi.[5]",
+        "Năm 876, Vương Tiên Chi thông qua quan triều Đường là Vương Liêu (王鐐)- thân thích của tể tướng Vương Đạc, và Kì châu thứ sử Bùi Ác (裴偓) để đàm phán hòa bình với triều đình Trường An. Theo ý của Vương Đạc, Đường Hy Tông cử sứ giả đến tuyên bố sách phong Vương Tiên Chi làm quan. Tuy nhiên, Hoàng Sào lại không được phong chức gì, ông tức giận và nói:[5]",
+        "Ban đầu chúng ta cùng lập đại thệ, hoành hành Thiên hạ. Nay chỉ mình ngươi được nhận chức quan tả quân, 5000 binh sĩ ở đây biết về đâu?",
+        "Hoàng Sào đánh vào đầu Vương Tiên Chi, các binh sĩ nổi dậy cũng đồng thanh phản đối hòa giải. Vương Tiên Chi lo sợ trước cơn thịnh nộ của quân sĩ nên quay sang chống lại Bùi Ác và cướp phá Kì châu. Tuy nhiên, sau đó đội quân nổi dậy bị phân thành hai nhóm, một nhóm theo Vương Tiên Chi, và một nhóm đi theo Hoàng Sào.[5]",
+        "Sau đó, Hoàng Sào tiến quân khắp vùng miền Trung của Trung Hoa, nhiều lần giao chiến với quân Đường:",
+        "Vào mùa xuân năm 878, khi Hoàng Sào đang bao vây Bạc châu[chú 10], Vương Tiên Chi bị Tăng Nguyên Dụ tiêu diệt, Thượng Nhượng đem tàn dư đội quân của Vương Tiên Chi đến hợp binh với Hoàng Sào tại Bạc châu. Thượng Nhượng đề nghị Hoàng Sào xưng vương. Hoàng Sào lấy hiệu là Xung Thiên đại tướng quân, cải nguyên \"Vương Bá\", nhằm thể hiện sự độc lập với triều đình Đường. Sau đó, Hoàng Sào lại công chiếm Nghi châu và Bộc châu, song sau lại phải chịu một số thất bại trước quân Đường. Do đó, Hoàng Sào viết thư cho Thiên Bình tiết độ sứ mới được bổ nhiệm là Trương Tích (張裼), nhờ Trương Tích thượng biểu xin triều đình phong quan cho mình. Theo đề xuất của Trương Tích, Đường Hy Tông hạ chiếu bổ nhiệm Hoàng Sào là 'hữu vệ tướng quân', song lệnh cho Hoàng Sào đưa quân đến Vận châu giải giáp trước khi đến Trường An. Trước các điều kiện này, Hoàng Sào từ chối tuân chỉ, ông tiến công Tống châu và Biện châu[chú 11], sau đó tiến công Vệ Nam[chú 12], và kế tiếp là tiến công Diệp huyện[chú 13] và Dương Trạch[chú 14]. Đường Hy Tông do đó phái quân lính từ ba quân đến trấn thủ đông đô Lạc Dương, cũng lệnh cho Tăng Nguyên Dụ tiến đến Lạc Dương. Do quân Đường tập trung trấn thủ Lạc Dương, Hoàng Sào chuyển sang tiến về phương nam.[6]",
+        "Hoàng Sào vượt Trường Giang và chiếm được một số châu ở bờ nam: Kiền châu[chú 15], Cát châu[chú 16], Nhiêu châu[chú 17], và Tín châu[chú 18]. Vào mùa thu năm 878, Hoàng Sào tiến về phía đông bắc và tiến công Tuyên châu[chú 19], đánh bại Tuyên Thiệp quan sát sứ Vương Ngưng (王凝) tại Nam Lăng[chú 20], song không thể chiếm được Tuyên châu. Do đó, Hoàng Sào tiếp tục tiến về đông nam và tiến công Chiết Đông[chú 21], và sau đó, theo một tuyến đường vùng núi, ông tiến công Phúc Kiến[chú 22] vào mùa đông năm 878. Tuy nhiên, trong cuộc hành quân này, Hoàng Sào vài lần chiến bại trước các bộ tướng của Trấn Hải tiết độ sứ Cao Biền là Trương Lân (張璘) và Lương Toản (梁纘), một số bộ tướng của Hoàng Sào đầu hàng Trấn Hải quân. Hoàng Sào tiếp tục tiến xa hơn về phương nam, hướng đến vùng Lĩnh Nam.[6]",
+        "Vương Đạc được Hoàng đế Đường phong là 'Nam diện hành doanh chiêu thảo đô thống' và Kinh Nam tiết độ sứ, Vương Đạc bổ nhiệm Lý Hệ (李係) là 'hành doanh phó đô thống', kiêm Hồ Nam quan sát sứ, ngăn chặn đường tiến về phương bắc của Hoàng Sào. Trong khi đó, Hoàng Sào viết thư cho Chiết Đông quan sát sứ Thôi Cầu (崔璆) và Lĩnh Nam Đông đạo[chú 23] tiết độ sứ Lý Điều (李迢), xin họ làm trung gian dàn xếp giúp ông, nói rằng sẽ chịu quy phục triều đình nếu được phong là Thiên Bình tiết độ sứ. Thôi Cầu và Lý Điều chuyển tiếp đề xuất của Hoàng Sào về Trường An, song Đường Hy Tông từ chối. Hoàng Sào sau đó trực tiếp thượng biểu cho Đường Hy Tông, đề nghị được bổ nhiệm là Lĩnh Nam Đông đạo tiết độ sứ. Tuy nhiên, do sự phản đối của tể tướng Vu Tông, Đường Hy Tông vẫn tiếp tục từ chối đề xuất của Hoàng Sào, chỉ đồng ý để Hoàng Sào làm 'phủ soái'. Hoàng Sào nhận được chiếu chỉ thì tức giận và xem đây là một hành động sỉ nhục. Vào mùa thu năm 879, Hoàng Sào tiến công Quảng châu- thủ phủ của Lĩnh Nam Đông đạo, chiếm được thành sau một ngày bao vây và bắt giữ Lý Điều. Hoàng Sào đề nghị Lý Điều một lần nữa thượng biểu cho Đường Hy Tông, song lần này Lý Điều từ chối và bị hành quyết.[6]",
+        "Tuy nhiên, khi ở Lĩnh Nam, các binh sĩ của Hoàng Sào phải chịu cảnh đau ốm và khoảng 30-40% thiệt mạng. Khi các thuộc hạ chủ chốt đề xuất nên hành quân về lại phương bắc, Hoàng Sào chấp thuận. Hoàng Sào cho kết bè tại Quế châu[chú 24] và xuôi theo Tương Giang tiến đến Đàm châu- thủ phủ của Hồ Nam - vào mùa đông năm 879. Hoàng Sào chỉ mất một ngày để chiếm Đàm châu, Lý Hệ chạy trốn đến Lãng châu[chú 25].[6]",
+        "Bản thân Hoàng Sào đi bè theo Tương Giang và qua Giang Lăng để tiến công Tương Dương- thủ phủ của Sơn Nam Đông đạo. Tuy nhiên, Hoàng Sào chiến bại trước liên quân của Sơn Nam Đông đạo tiết độ sứ Lưu Cự Dung (劉巨容) và tướng triều đình là Tào Toàn Trinh (曹全晸), còn bị truy kích đến tận Giang Lăng. Tuy nhiên, Lưu Cự Dung lại lo ngại rằng nếu bắt Hoàng Sào thì ông ta sẽ không còn được triều đình xem trọng, vì thế ngừng lại việc truy kích, Tào Toàn Trinh cũng thôi không truy kích. Sau đó, Hoàng Sào tiến về phía đông và tiến công Ngạc châu[chú 26], và cướp phá 15 châu xung quanh. Tuy nhiên, Hoàng Sào khi đó cũng bị Trương Lân đẩy lui nhiều lần. Do các chiến công của Trương Lân, triều đình Đường cho thượng cấp của Trương Lân là Cao Biền thay thế chức đô thống của Vương Đạc.[6]",
+        "Quân của Hoàng Sào liên tiếp bại trận trước quân của Trương Lân, ngoài ra còn bị dịch bệnh, Hoàng Sào khi đó đang đóng trại tại Tín châu[chú 27], ông quyết định hối lộ để thoát khỏi tình thế khó khăn. Ông gửi nhiều vàng cho Trương Lân và viết một lá thư cầu xin Cao Biền. Tuy nhiên, ngay sau khi Cao Biền triệu hồi các đội quân tăng viện, Hoàng Sào phá vỡ đàm phán và thách thức Trương Lân giao chiến. Cao Biền tức giận và lệnh cho Trương Lân tiến đánh, song lần này, vào mùa xuân năm 880, Hoàng Sào đánh bại dứt điểm và giết chết Trương Lân, khiến Cao Biền hoảng sợ.[6]",
+        "Sau khi đánh bại Trương Lân, Hoàng Sào chiếm Tuyên châu, và đến mùa hè năm 880, Hoàng Sào vượt sang bờ bắc Trường Giang tại Thái Thạch[chú 28], bao vây các tiền đồn phòng thủ của Hoài Nam là Thiên Trường[chú 29] và Lục Hợp[chú 30], không xa đại bản doanh của Cao Biền tại Dương châu. Đường Hy Tông hạ chiếu chỉ cho các quân ở bờ nam Hoàng Hà phái quân đến Ân Thủy[chú 31] để ngăn Hoàng Sào tiến sâu hơn, và cũng khiển Cao Biền cùng Thái Ninh tiết độ sứ Tề Khắc Nhượng ngăn chặn Hoàng Sào. Tuy nhiên, Cao Biền không thể khiến đội quân 15 vạn lính của Hoàng Sào phải dừng lại.[6] Sau đó do tranh chấp trong nội bộ hàng ngũ binh sĩ triều đình, quân sĩ của các quân đóng tại Ân Thủy phân tán, con đường của Hoàng Sào trở nên rộng mở. Hoàng Sào vượt sang bờ bắc Hoài Hà, và từ thời điểm này, quân của Hoàng Sào dừng hành vi cướp bóc của cải, song cưỡng ép nhiều tráng niên tòng quân để tăng cường lực lượng.[6]",
+        "Bắt đầu vào mùa đông năm 880, Hoàng Sào tiến quân hướng đến Lạc Dương và Trường An, ông tuyên bố mục tiêu của mình là bắt Đường Hy Tông để hoàng đế phải chịu trách nhiệm cho tội ác của mình. Quân Hoàng Sào nhanh chóng chiếm được đông đô Lạc Dương của Đường.[2]",
+        "Sau đó, Hoàng Sào tiến công Đồng Quan, Tề Khắc Nhượng và Trương Thừa Phạm kháng cự trong hơn một ngày, sau đó do quân của Tề Khắc Nhượng đói và mệt mỏi nên tan rã và chạy trốn, còn Tề Khắc Nhượng cố gắng trấn thủ song cũng thất bại, Đồng Quan thất thủ. Đường Hy Tông và Điền Lệnh Tư từ bỏ Trường An và chạy hướng đến Tây Xuyên[chú 32] vào ngày 8 tháng 1 năm 881.[1] Cũng trong ngày hôm đó, tướng tiên phong Sài Tồn (柴存) của quân Hoàng Sào tiến vào Trường An, Kim Ngô đại tướng quân của Đường là Trương Trực Phương cùng một số quan văn võ nghênh tiếp Hoàng Sào vào thành. Thượng Nhượng tuyên bố với người dân Trường An rằng: \"Hoàng Vương khởi binh là vì bách tính, không như họ Lý khi trước không yêu thương dân chúng, hãy an cư đừng sợ hãi\". Tuy nhiên, mặc dù Thượng Nhượng đảm bảo rằng tài sản của dân chúng sẽ được tôn trọng, song quân lính của Hoàng Sào nhiều lần cướp bóc trong kinh thành. Trong một thời gian ngắn, Hoàng Sào sống trong phủ đệ của Điền Lệnh Tư, song vài ngày sau thì chuyển đến hoàng cung của vương triều Đường. Hoàng Sào cũng hạ lệnh đồ sát các thành viên hoàng tộc Đường.[2]",
+        "Hoàng Sào chuyển vào sinh sống trong hoàng cung triều Đường và xưng đế vào ngày Nhâm Thìn (13) tháng 12 năm Canh Tý (tức 16 tháng 1 năm 881), đặt quốc hiệu là Đại Tề. Ông lập Tào thị làm hoàng hậu, bổ nhiệm các quan văn võ. Thoạt đầu, Hoàng Sào muốn duy trì cấu trúc triều đình Đường, ông cho các quan hàng tứ phẩm và thấp hơn được tiếp tục tại nhiệm miễn là họ thể hiện quy phục, chỉ loại bỏ các quan lại hàng tam phẩm trở lên. Các quan lại triều Đường không quy phục bị hành hình tập thể.[2] Hoàng Sào cũng cố gắng thuyết phục các tướng Đường ở các quân quy phục ông, và có một số người chấp thuận như Gia Cát Sảng, Vương Kính Vũ, Vương Trọng Vinh, và Chu Ngập, song cuối cùng những người này lại quay về trung thành với Đường.[2][7] Hoàng Sào cũng cố gắng thuyết phục Phượng Tường tiết độ sứ Trịnh Điền quy phục, song Trịnh Điền từ chối. Hoàng Sào sau đó khiển Thượng Nhượng và Vương Bá (王播) đi đánh chiếm Phượng Tường, song quân Đại Tề chiến bại vào mùa xuân năm 881.[2]",
+        "Sau khi Trịnh Điền chiến thắng quân Đại Tề, một số tiết độ sứ trung thành với Đường hội quân gần Trường An vào mùa hè năm 881, hy vọng có thể nhanh chóng chiếm được thành. Do người dân Trường An cũng đang tiến hành kháng cự lại quân Đại Tề, Hoàng Sào buộc phải rút quân ra ngoài thành. Tuy nhiên, khi quân Đường tiến vào Trường An, họ đánh mất kỷ luật và tiến hành cướp bóc kinh thành. Quân Đại Tề sau đó phản công và đánh bại quân Đường tại Trường An. Hoàng Sào lại tiến vào Trường An, và do tức giận trước việc người dân Trường An hỗ trợ cho quân Đường, Hoàng Sào lệnh tiến hành đồ sát dân chúng.[2]",
+        "Vào mùa xuân năm 882, Đường Hy Tông khi đó đang ở Thành Đô, bổ nhiệm Vương Đạc làm Chư đạo hành doanh đô thống, giám sát các chiến dịch chống Đại Tề. Sau đó, quân Đường bắt đầu tập hợp lại tại khu vực quanh Trường An, và khu vực do Đại Tề kiểm soát nay chỉ giới hạn tại Trường An và vùng gần đó, cùng với Đồng châu (同州) và Hoa châu (華州)- nay đều thuộc Vị Nam.[2] Đến mùa thu năm 882, Đồng châu phòng ngự sứ Chu Ôn, đầu hàng. Vào mùa đông năm 882, Vương Ngộ (王遇) cũng dâng Hoa châu đầu hàng quân Đường, lãnh thổ Đại Tề nay chỉ còn giới hạn tại Trường An.[7]",
+        "Đương thời, tướng người Sa Đà là Lý Khắc Dụng lại chuyển sang quy phục Đường và được đề nghị tiến công Tề, Lý Khắc Dung đến Đồng châu vào mùa đông năm 882 và hợp binh với các đội quân Đường khác.[2][7] Vào mùa xuân năm 883, quân Đường đánh bại 15 vạn quân Đại Tề do Thượng Nhượng thống soái, sau đó tiếp cận Trường An. Vào mùa hè năm 883, Lý Khắc Dụng tiến vào Trường An, Hoàng Sào không thể kháng cự nổi nên từ bỏ Trường An và chạy trốn về phía đông. Do quân Đường lại tiến hành cướp phá kinh thành, họ không thể đuổi theo Hoàng Sào, Hoàng Sào chạy thoát mà không bị ngăn cản.[7]",
+        "Hoàng Sào tiến về Phụng Quốc[chú 33] và khiển bộ tướng Mạnh Khải tiến công Thái châu-thủ phủ của Phụng Quốc. Phụng Quốc tiết độ sứ Tần Tông Quyền chiến bại trước Mạnh Khải và phải mở cổng thành quy phục Hoàng Sào, hợp binh với quân Hoàng Sào. Sau khi đánh bại Tần Tông Quyền, Mạnh Khải tiến công Trần châu[chú 34], song bị Trần châu thứ sử Triệu Thù phản kích và giết chết. Trước việc Mạnh Khải tử trận, Hoàng Sào dẫn quân của mình và Tần Tông Quyền đi bao vây Trần châu, song không thể chiếm được thành sau gần 300 ngày bao vây. Do quân lính cạn kiệt nguồn cung lương thực, Hoàng Sào cho phép họ đi đến các vùng thôn quê lân cận, bắt người để dùng làm quân lương.[7]",
+        "Trong khi đó, vào mùa xuân năm 884, lo sợ sẽ thành mục tiêu kế tiếp của Hoàng Sào, Chu Ngập, Thì Phổ và Chu Ôn (cải thành Chu Toàn Trung), cùng xin Lý Khắc Dụng cứu viện, Lý Khắc Dụng do đó tiến quân về phía nam. Sau khi quân Lý Khắc Dụng hợp binh với quân của Chu Ngập, Thì Phổ, Chu Toàn Trung và Tề Khắc Nhượng, họ đánh bại Thượng Nhượng và Hoàng Tư Nghiệp. Hoàng Sào lo sợ, từ bỏ việc bao vây Trần châu và triệt thoái. Do doanh trại bị một trận lụt phá hủy, Hoàng Sào quyết định tiến về Biện châu- thủ phủ của Tuyên Vũ quân. Chu Toàn Trung đẩy lui được các đợt tiến công ban đầu của Hoàng Sào, song ông ta vẫn khẩn cấp cầu viện Lý Khắc Dụng. Lý Khắc Dụng cho rằng Hoàng Sào sẽ vượt sang bờ bắc Hoàng Hà, vì thế ông ta tiến công vào Vương Mãn Độ[chú 35] và tiêu diệt quân Hoàng Sào. Thượng Nhượng đầu hàng Thì Phổ, trong khi có một lượng lớn các tướng khác của Hoàng Sào cũng đầu hàng. Bị Lý Khắc Dụng truy kích, Hoàng Sào chạy về phía đông, song con trai út của Hoàng Sào bị Lý Khắc Dụng bắt được. Tuy nhiên, do quân lính trở nên kiệt sức, Lý Khắc Dụng ngừng truy kích Hoàng Sào và trở về Biện châu.[7]",
+        "Hoàng Sào tiến đến Duyện châu- thủ phủ của Thái Ninh[chú 36]. Thuộc hạ của Thì Phổ là Lý Sư Duyệt (李師悅) cùng Thượng Nhượng giao chiến với Hoàng Sào tại Duyện châu, kết quả là quân Hoàng Sào chiến bại và bị tiêu diệt gần hết, bản thân Hoàng Sào chạy trốn đến Lang Hổ Cốc[chú 37]. Ngày Bính Ngọ (17) tháng 6 năm Giáp Thìn (tức 13 tháng 7 năm 884,[1]) cháu của Hoàng Sào là Lâm Ngôn (林言) giết chết Hoàng Sào cùng huynh đệ và thê tử của ông, đem thủ cấp của họ đến trình Thì Phổ. Tuy nhiên, trên đường đến trại của Thì Phổ, Lâm Ngôn chạm trán với quân Sa Đà và Bác Dã, quân Sa Đà và Bác Dã giết chết Lâm Ngôn và đem các thủ cấp đến trình Thì Phổ[3] (Tuy nhiên, theo mô tả trong Tân Đường thư, Hoàng Sào tự sát và chỉ thị cho Lâm Ngôn đem thủ cấp của mình đến đầu hàng, mục đích là để cứu sống các binh sĩ.)[4]",
+        "Không chỉ có tài võ, Hoàng Sào còn là một nhà thơ.",
+        "(Nguồn: Wikipedia)"
+    ]
+}
