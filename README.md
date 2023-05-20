@@ -1,9 +1,9 @@
-# Final Project: Vietnam's History
+# Final Project: Vietnam's History 🇻🇳
 > The original project description can be found [here](https://docs.google.com/document/d/1dI-0LJEQR6v6rokB1idBbUu1vkbUhVn2/edit).
 
-## How to navigate this repository?
+## 📂 How to navigate this repository?
 Source code is located in the `webscraper/src` folder. The `out` folder contains the data collected from the web scraper.
-## Requirements
+## 🦤 Requirements
 The entities need to be collected includes:
 * Dynasties
 * Historical figures (kings, queens, commanders, philosophers,...)
@@ -14,13 +14,13 @@ The entities need to be collected includes:
 Each entity will have identification, properties and needs to be linked together. 
 For example, an event `Den Hung Festival` should be linked to the destination `Den Hung` and the historical figure `Hung King`.
 
-## What do we need to build?
+## ⚙️ What do we need to build?
 1. To collect data, a web scraper should be implemented. This scraper should be able to: (1) Collect data; (2) Save data to file; (3) Clean up data.
 2. The user should be able to search and retrieve data, so a proper interface (either GUI or command-line prompt) should be built.
 
-## References
+## 🔖 References
 > This document contains the list of websites to get the data from. 
-### Wikipedia
+### 🌐 Wikipedia
 Wikipedia exists in multiple languages, however we only need data mostly from Vietnamese and English ones. Wiki pages have lots of links to other pages, both inside Wikipedia and outside of it. We only need to find the biggest, most general pages that lead to other sub-topics.
 The following links are organized by a hierarchical structure, from the most general to the more detailed ones.
 
@@ -37,9 +37,9 @@ The following links are organized by a hierarchical structure, from the most gen
 * [History of Vietnam](https://en.wikipedia.org/wiki/History_of_Vietnam)
 * [List of World Heritage Sites in Vietnam](https://en.wikipedia.org/wiki/List_of_World_Heritage_Sites_in_Vietnam)
 
-### Others
+### 🗨️ Others
 * [Bảo tàng lịch sử quốc gia](https://baotanglichsu.vn/vi)
-* [Người kể sử](nguoikesu.com)
+*** [Người kể sử](nguoikesu.com) 📌**
 * [Vietnam War 50th Anniversary](https://www.vietnamwar50th.com/)
 * [Vietnam Online](https://www.vietnamonline.com/)
 * [Vietnam Travel](https://vietnam.travel/)
