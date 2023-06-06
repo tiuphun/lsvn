@@ -57,6 +57,7 @@ public class MultiplePages {
                     // Ignore invalid URLs
                     continue;
                 }
+
                 if (!visitedPages.contains(nextPageUrl)) {
                     scrape(nextPageUrl);
                 }
@@ -67,7 +68,6 @@ public class MultiplePages {
             System.err.println("Error parsing URL " + url + ": " + e.getMessage());
         }
     }
-
 
 
 
@@ -101,14 +101,14 @@ public class MultiplePages {
             tablesArray.put(table.outerHtml());
         }
 
-        Elements anchors = document.select("a[href]");
-        JSONArray anchorsArray = new JSONArray();
-        for (Element anchor : anchors) {
-            JSONObject anchorObject = new JSONObject();
-            anchorObject.put("text", anchor.text());
-            anchorObject.put("href", anchor.attr("abs:href")); // Use absolute URL
-            anchorsArray.put(anchorObject);
-        }
+        // Elements anchors = document.select("a[href]");
+        // JSONArray anchorsArray = new JSONArray();
+        // for (Element anchor : anchors) {
+        //     JSONObject anchorObject = new JSONObject();
+        //     anchorObject.put("text", anchor.text());
+        //     anchorObject.put("href", anchor.attr("abs:href")); // Use absolute URL
+        //     anchorsArray.put(anchorObject);
+        // }
 
         JSONObject json = new JSONObject();
         json.put("title", title);
@@ -116,7 +116,7 @@ public class MultiplePages {
         json.put("paragraphs", paragraphsArray);
         json.put("keywords", keywordsArray);
         json.put("tables", tablesArray);
-        json.put("anchors", anchorsArray);
+        // json.put("anchors", anchorsArray);
 
         return json;
     }
