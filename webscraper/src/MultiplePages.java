@@ -40,18 +40,20 @@ public class MultiplePages {
             file.flush();
             file.close();
 
-            JSONArray anchors = data.getJSONArray("anchors");
-            for (int i = 0; i < anchors.length(); i++) {
-            JSONObject anchor = anchors.getJSONObject(i);
-            String nextPageUrl = anchor.getString("href"); // Use the absolute URL directly
-            if (!visitedPages.contains(nextPageUrl)) {
-                scrape(nextPageUrl);
+            Document document = Jsoup.connect(url).get();
+            Elements anchors = document.select("a[href]");
+            for (Element anchor : anchors) {
+                String nextPageUrl = anchor.attr("abs:href"); // Use the absolute URL directly
+                if (!visitedPages.contains(nextPageUrl)) {
+                    scrape(nextPageUrl);
+                }
             }
-        }
         } catch (IOException e) {
             System.err.println("Error connecting to " + url + ": " + e.getMessage());
         }
     }
+
+
 
     public static JSONObject scrapePage(String url) throws IOException {
         Document document = Jsoup.connect(url).get();
@@ -83,14 +85,14 @@ public class MultiplePages {
             tablesArray.put(table.outerHtml());
         }
 
-        Elements anchors = document.select("a[href]");
-        JSONArray anchorsArray = new JSONArray();
-        for (Element anchor : anchors) {
-            JSONObject anchorObject = new JSONObject();
-            anchorObject.put("text", anchor.text());
-            anchorObject.put("href", anchor.attr("abs:href")); // Use absolute URL
-            anchorsArray.put(anchorObject);
-        }
+        // Elements anchors = document.select("a[href]");
+        // JSONArray anchorsArray = new JSONArray();
+        // for (Element anchor : anchors) {
+        //     JSONObject anchorObject = new JSONObject();
+        //     anchorObject.put("text", anchor.text());
+        //     anchorObject.put("href", anchor.attr("abs:href")); // Use absolute URL
+        //     anchorsArray.put(anchorObject);
+        // }
 
         JSONObject json = new JSONObject();
         json.put("title", title);
@@ -98,7 +100,7 @@ public class MultiplePages {
         json.put("paragraphs", paragraphsArray);
         json.put("keywords", keywordsArray);
         json.put("tables", tablesArray);
-        json.put("anchors", anchorsArray);
+        // json.put("anchors", anchorsArray);
 
         return json;
     }
