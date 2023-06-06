@@ -8,6 +8,8 @@ import org.json.JSONObject;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.net.URI;
+import java.net.URISyntaxException;
 import java.util.HashSet;
 import java.util.Set;
 
@@ -29,8 +31,9 @@ public class MultiplePages {
 
         try {
             JSONObject data = scrapePage(url);
-            String href = url.replace(BASE_URL, "");
-            String filename = href.replaceAll("[^a-zA-Z0-9.-]", "_") + ".json";
+            URI uri = new URI(url);
+            String[] segments = uri.getPath().split("/");
+            String filename = segments.length > 0 ? segments[segments.length - 1].replaceAll("[^a-zA-Z0-9.-]", "_") + ".json" : "index.json";
             File outputDirectory = new File("out");
             if (!outputDirectory.exists()) {
                 outputDirectory.mkdir();
@@ -44,12 +47,25 @@ public class MultiplePages {
             Elements anchors = document.select("a[href]");
             for (Element anchor : anchors) {
                 String nextPageUrl = anchor.attr("abs:href"); // Use the absolute URL directly
+                try {
+                    URI nextUri = new URI(nextPageUrl);
+                    if (nextUri.getFragment() != null) {
+                        // Ignore URLs with fragment identifiers
+                        continue;
+                    }
+                } catch (URISyntaxException e) {
+                    // Ignore invalid URLs
+                    continue;
+                }
+
                 if (!visitedPages.contains(nextPageUrl)) {
                     scrape(nextPageUrl);
                 }
             }
         } catch (IOException e) {
             System.err.println("Error connecting to " + url + ": " + e.getMessage());
+        } catch (URISyntaxException e) {
+            System.err.println("Error parsing URL " + url + ": " + e.getMessage());
         }
     }
 
