@@ -42,12 +42,12 @@ public class MultiplePages {
 
             JSONArray anchors = data.getJSONArray("anchors");
             for (int i = 0; i < anchors.length(); i++) {
-                JSONObject anchor = anchors.getJSONObject(i);
-                String nextPageUrl = BASE_URL + anchor.getString("href");
-                if (!visitedPages.contains(nextPageUrl)) {
-                    scrape(nextPageUrl);
-                }
+            JSONObject anchor = anchors.getJSONObject(i);
+            String nextPageUrl = anchor.getString("href"); // Use the absolute URL directly
+            if (!visitedPages.contains(nextPageUrl)) {
+                scrape(nextPageUrl);
             }
+        }
         } catch (IOException e) {
             System.err.println("Error connecting to " + url + ": " + e.getMessage());
         }
@@ -88,7 +88,7 @@ public class MultiplePages {
         for (Element anchor : anchors) {
             JSONObject anchorObject = new JSONObject();
             anchorObject.put("text", anchor.text());
-            anchorObject.put("href", anchor.attr("href"));
+            anchorObject.put("href", anchor.attr("abs:href")); // Use absolute URL
             anchorsArray.put(anchorObject);
         }
 

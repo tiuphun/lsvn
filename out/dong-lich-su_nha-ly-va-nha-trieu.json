@@ -1,0 +1,700 @@
+{
+    "tables": [],
+    "keywords": [],
+    "headings": [
+        "Nhà Tiền Lý",
+        "Nhà Triệu",
+        "Nhà Hậu Lý",
+        "Nhà Lý & Nhà Triệu",
+        "Lý Nam Đế - Lý Bí",
+        "Triệu Việt Vương - Triệu Quang Phục",
+        "Hậu Lý Nam Đế - Lý Phật Tử",
+        "CÁC THỜI KỲ LỊCH SỬ",
+        "Tư Liệu",
+        "Anh Hùng Dân Tộc Tiêu Biểu",
+        "Tư Liệu Lịch Sử",
+        "Di Tích Lịch Sử"
+    ],
+    "anchors": [
+        {
+            "text": "",
+            "href": "https://nguoikesu.com/"
+        },
+        {
+            "text": "Trang Chủ",
+            "href": "https://nguoikesu.com/"
+        },
+        {
+            "text": "Dòng Lịch Sử",
+            "href": "https://nguoikesu.com/dong-lich-su"
+        },
+        {
+            "text": "Hồng Bàng & Văn Lang",
+            "href": "https://nguoikesu.com/dong-lich-su/hong-bang-va-van-lang"
+        },
+        {
+            "text": "Âu Lạc & Nam Việt",
+            "href": "https://nguoikesu.com/dong-lich-su/au-lac-va-nam-viet"
+        },
+        {
+            "text": "Bắc thuộc lần I",
+            "href": "https://nguoikesu.com/dong-lich-su/bac-thuoc-lan-thu-nhat"
+        },
+        {
+            "text": "Trưng Nữ Vương",
+            "href": "https://nguoikesu.com/dong-lich-su/trung-nu-vuong"
+        },
+        {
+            "text": "Bắc thuộc lần II",
+            "href": "https://nguoikesu.com/dong-lich-su/bac-thuoc-lan-thu-hai"
+        },
+        {
+            "text": "Nhà Lý & Nhà Triệu",
+            "href": "https://nguoikesu.com/dong-lich-su/nha-ly-va-nha-trieu"
+        },
+        {
+            "text": "Bắc thuộc lần III",
+            "href": "https://nguoikesu.com/dong-lich-su/bac-thuoc-lan-thu-ba"
+        },
+        {
+            "text": "Thời kỳ xây nền tự chủ",
+            "href": "https://nguoikesu.com/dong-lich-su/thoi-ky-xay-nen-tu-chu"
+        },
+        {
+            "text": "Nhà Ngô",
+            "href": "https://nguoikesu.com/dong-lich-su/nha-ngo"
+        },
+        {
+            "text": "Nhà Đinh",
+            "href": "https://nguoikesu.com/dong-lich-su/nha-dinh"
+        },
+        {
+            "text": "Nhà Tiền Lê",
+            "href": "https://nguoikesu.com/dong-lich-su/nha-tien-le"
+        },
+        {
+            "text": "Nhà Lý",
+            "href": "https://nguoikesu.com/dong-lich-su/nha-ly"
+        },
+        {
+            "text": "Nhà Trần",
+            "href": "https://nguoikesu.com/dong-lich-su/nha-tran"
+        },
+        {
+            "text": "Nhà Hồ",
+            "href": "https://nguoikesu.com/dong-lich-su/nha-ho"
+        },
+        {
+            "text": "Nhà Hậu Trần",
+            "href": "https://nguoikesu.com/dong-lich-su/nha-hau-tran"
+        },
+        {
+            "text": "Bắc thuộc lần IV",
+            "href": "https://nguoikesu.com/dong-lich-su/bac-thuoc-lan-thu-tu"
+        },
+        {
+            "text": "Nhà Hậu Lê",
+            "href": "https://nguoikesu.com/dong-lich-su/nha-hau-le"
+        },
+        {
+            "text": "Nam Bắc Triều",
+            "href": "https://nguoikesu.com/dong-lich-su/nam-bac-trieu"
+        },
+        {
+            "text": "Trịnh Nguyễn Phân Tranh",
+            "href": "https://nguoikesu.com/dong-lich-su/trinh-nguyen-phan-tranh"
+        },
+        {
+            "text": "Nhà Tây Sơn",
+            "href": "https://nguoikesu.com/dong-lich-su/nha-tay-son"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "https://nguoikesu.com/dong-lich-su/nha-nguyen"
+        },
+        {
+            "text": "Pháp Thuộc",
+            "href": "https://nguoikesu.com/dong-lich-su/phap-thuoc"
+        },
+        {
+            "text": "Việt Nam Dân Chủ Cộng Hoà",
+            "href": "https://nguoikesu.com/dong-lich-su/viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Cộng hoà xã hội chủ nghĩa Việt Nam",
+            "href": "https://nguoikesu.com/dong-lich-su/viet-nam-xhcn"
+        },
+        {
+            "text": "Tư Liệu",
+            "href": "https://nguoikesu.com/tu-lieu"
+        },
+        {
+            "text": "Quân Sự",
+            "href": "https://nguoikesu.com/tu-lieu/quan-su?filter_tag[0]="
+        },
+        {
+            "text": "Tác Phẩm",
+            "href": "https://nguoikesu.com/tu-lieu/tac-pham?filter_tag[0]="
+        },
+        {
+            "text": "Bang Giao",
+            "href": "https://nguoikesu.com/tu-lieu/bang-giao"
+        },
+        {
+            "text": "Biểu đồ thời gian",
+            "href": "https://nguoikesu.com/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Nhân Vật",
+            "href": "https://nguoikesu.com/nhan-vat"
+        },
+        {
+            "text": "Anh Hùng Dân Tộc",
+            "href": "https://nguoikesu.com/anh-hung-dan-toc?types[0]=1"
+        },
+        {
+            "text": "Danh nhân văn hóa",
+            "href": "https://nguoikesu.com/danh-nhan-van-hoa?types[0]=1"
+        },
+        {
+            "text": "Di Tích",
+            "href": "https://nguoikesu.com/di-tich-lich-su?types[0]=1"
+        },
+        {
+            "text": "Ngày Nay",
+            "href": "https://nguoikesu.com/thoi-su"
+        },
+        {
+            "text": "Sách",
+            "href": "https://nguoikesu.com/sach"
+        },
+        {
+            "text": "Video",
+            "href": "https://nguoikesu.com/video"
+        },
+        {
+            "text": "Q&A",
+            "href": "https://nguoikesu.com/hoi-dap"
+        },
+        {
+            "text": "Lịch sử lớp 12",
+            "href": "https://nguoikesu.com/hoi-dap/lop-12"
+        },
+        {
+            "text": "Lịch sử lớp 11",
+            "href": "https://nguoikesu.com/hoi-dap/lop-11"
+        },
+        {
+            "text": "Lịch sử lớp 10",
+            "href": "https://nguoikesu.com/hoi-dap/lop-10"
+        },
+        {
+            "text": "Lịch sử lớp 9",
+            "href": "https://nguoikesu.com/hoi-dap/lop-9"
+        },
+        {
+            "text": "Lịch sử lớp 8",
+            "href": "https://nguoikesu.com/hoi-dap/lop-8"
+        },
+        {
+            "text": "Lịch sử lớp 7",
+            "href": "https://nguoikesu.com/hoi-dap/lop-7"
+        },
+        {
+            "text": "Lịch sử lớp 6",
+            "href": "https://nguoikesu.com/hoi-dap/lop-6"
+        },
+        {
+            "text": "Nhà Tiền Lý",
+            "href": "https://nguoikesu.com/dong-lich-su/nha-ly-va-nha-trieu#nha-tien-ly"
+        },
+        {
+            "text": "Nhà Triệu",
+            "href": "https://nguoikesu.com/dong-lich-su/nha-ly-va-nha-trieu#nha-trieu"
+        },
+        {
+            "text": "Nhà Hậu Lý",
+            "href": "https://nguoikesu.com/dong-lich-su/nha-ly-va-nha-trieu#nha-hau-ly"
+        },
+        {
+            "text": "Nhà Tiền Lý",
+            "href": "https://nguoikesu.com/dong-lich-su/nha-ly-va-nha-trieu/nha-tien-ly"
+        },
+        {
+            "text": "Nhà Triệu",
+            "href": "https://nguoikesu.com/dong-lich-su/nha-ly-va-nha-trieu/nha-trieu"
+        },
+        {
+            "text": "Nhà Hậu Lý",
+            "href": "https://nguoikesu.com/dong-lich-su/nha-ly-va-nha-trieu/nha-hau-ly"
+        },
+        {
+            "text": "+",
+            "href": "https://nguoikesu.com/dong-lich-su/nha-ly-va-nha-trieu#"
+        },
+        {
+            "text": "-",
+            "href": "https://nguoikesu.com/dong-lich-su/nha-ly-va-nha-trieu#"
+        },
+        {
+            "text": "Trang chủ",
+            "href": "https://nguoikesu.com/"
+        },
+        {
+            "text": "Dòng Lịch Sử",
+            "href": "https://nguoikesu.com/dong-lich-su"
+        },
+        {
+            "text": "Lý Nam Đế - Lý Bí",
+            "href": "https://nguoikesu.com/dong-lich-su/nha-ly-va-nha-trieu/nha-tien-ly/tien-ly-nam-de-ly-bi"
+        },
+        {
+            "text": "Nhà Tiền Lý",
+            "href": "https://nguoikesu.com/dong-lich-su/nha-ly-va-nha-trieu/nha-tien-ly"
+        },
+        {
+            "text": "Chi tiết: Lý Nam Đế - Lý Bí",
+            "href": "https://nguoikesu.com/dong-lich-su/nha-ly-va-nha-trieu/nha-tien-ly/tien-ly-nam-de-ly-bi"
+        },
+        {
+            "text": "Triệu Việt Vương - Triệu Quang Phục",
+            "href": "https://nguoikesu.com/dong-lich-su/nha-ly-va-nha-trieu/nha-trieu/trieu-viet-vuong-trieu-quang-phuc"
+        },
+        {
+            "text": "Nhà Triệu",
+            "href": "https://nguoikesu.com/dong-lich-su/nha-ly-va-nha-trieu/nha-trieu"
+        },
+        {
+            "text": "Chi tiết: Triệu Việt Vương - Triệu Quang Phục",
+            "href": "https://nguoikesu.com/dong-lich-su/nha-ly-va-nha-trieu/nha-trieu/trieu-viet-vuong-trieu-quang-phuc"
+        },
+        {
+            "text": "Hậu Lý Nam Đế - Lý Phật Tử",
+            "href": "https://nguoikesu.com/dong-lich-su/nha-ly-va-nha-trieu/nha-hau-ly/hau-ly-nam-de-ly-phat-tu"
+        },
+        {
+            "text": "Nhà Hậu Lý",
+            "href": "https://nguoikesu.com/dong-lich-su/nha-ly-va-nha-trieu/nha-hau-ly"
+        },
+        {
+            "text": "Chi tiết: Hậu Lý Nam Đế - Lý Phật Tử",
+            "href": "https://nguoikesu.com/dong-lich-su/nha-ly-va-nha-trieu/nha-hau-ly/hau-ly-nam-de-ly-phat-tu"
+        },
+        {
+            "text": "Hồng Bàng & Văn Lang",
+            "href": "https://nguoikesu.com/dong-lich-su/hong-bang-va-van-lang"
+        },
+        {
+            "text": "Âu Lạc & Nam Việt",
+            "href": "https://nguoikesu.com/dong-lich-su/au-lac-va-nam-viet"
+        },
+        {
+            "text": "Bắc thuộc lần I",
+            "href": "https://nguoikesu.com/dong-lich-su/bac-thuoc-lan-thu-nhat"
+        },
+        {
+            "text": "Nhà Triệu",
+            "href": "https://nguoikesu.com/dong-lich-su/bac-thuoc-lan-thu-nhat/nha-trieu"
+        },
+        {
+            "text": "Trưng Nữ Vương",
+            "href": "https://nguoikesu.com/dong-lich-su/trung-nu-vuong"
+        },
+        {
+            "text": "Bắc thuộc lần II",
+            "href": "https://nguoikesu.com/dong-lich-su/bac-thuoc-lan-thu-hai"
+        },
+        {
+            "text": "Nhà Lý & Nhà Triệu",
+            "href": "https://nguoikesu.com/dong-lich-su/nha-ly-va-nha-trieu"
+        },
+        {
+            "text": "Nhà Tiền Lý",
+            "href": "https://nguoikesu.com/dong-lich-su/nha-ly-va-nha-trieu/nha-tien-ly"
+        },
+        {
+            "text": "Nhà Triệu",
+            "href": "https://nguoikesu.com/dong-lich-su/nha-ly-va-nha-trieu/nha-trieu"
+        },
+        {
+            "text": "Nhà Hậu Lý",
+            "href": "https://nguoikesu.com/dong-lich-su/nha-ly-va-nha-trieu/nha-hau-ly"
+        },
+        {
+            "text": "Bắc thuộc lần III",
+            "href": "https://nguoikesu.com/dong-lich-su/bac-thuoc-lan-thu-ba"
+        },
+        {
+            "text": "Thời kỳ xây nền tự chủ",
+            "href": "https://nguoikesu.com/dong-lich-su/thoi-ky-xay-nen-tu-chu"
+        },
+        {
+            "text": "Họ Khúc",
+            "href": "https://nguoikesu.com/dong-lich-su/thoi-ky-xay-nen-tu-chu/ho-khuc"
+        },
+        {
+            "text": "Nhà Ngô",
+            "href": "https://nguoikesu.com/dong-lich-su/nha-ngo"
+        },
+        {
+            "text": "Nhà Đinh",
+            "href": "https://nguoikesu.com/dong-lich-su/nha-dinh"
+        },
+        {
+            "text": "Nhà Tiền Lê",
+            "href": "https://nguoikesu.com/dong-lich-su/nha-tien-le"
+        },
+        {
+            "text": "Nhà Lý",
+            "href": "https://nguoikesu.com/dong-lich-su/nha-ly"
+        },
+        {
+            "text": "Nhà Trần",
+            "href": "https://nguoikesu.com/dong-lich-su/nha-tran"
+        },
+        {
+            "text": "Nhà Hồ",
+            "href": "https://nguoikesu.com/dong-lich-su/nha-ho"
+        },
+        {
+            "text": "Nhà Hậu Trần",
+            "href": "https://nguoikesu.com/dong-lich-su/nha-hau-tran"
+        },
+        {
+            "text": "Bắc thuộc lần IV",
+            "href": "https://nguoikesu.com/dong-lich-su/bac-thuoc-lan-thu-tu"
+        },
+        {
+            "text": "Nhà Hậu Lê",
+            "href": "https://nguoikesu.com/dong-lich-su/nha-hau-le"
+        },
+        {
+            "text": "Nam Bắc Triều",
+            "href": "https://nguoikesu.com/dong-lich-su/nam-bac-trieu"
+        },
+        {
+            "text": "Nhà Lê Trung Hưng",
+            "href": "https://nguoikesu.com/dong-lich-su/nam-bac-trieu/nha-le-trung-hung"
+        },
+        {
+            "text": "Nhà Mạc",
+            "href": "https://nguoikesu.com/dong-lich-su/nam-bac-trieu/nha-mac"
+        },
+        {
+            "text": "Trịnh Nguyễn Phân Tranh",
+            "href": "https://nguoikesu.com/dong-lich-su/trinh-nguyen-phan-tranh"
+        },
+        {
+            "text": "Nhà Lê Trung Hưng",
+            "href": "https://nguoikesu.com/dong-lich-su/trinh-nguyen-phan-tranh/nha-le-trung-hung"
+        },
+        {
+            "text": "Chúa Trịnh",
+            "href": "https://nguoikesu.com/dong-lich-su/trinh-nguyen-phan-tranh/chua-trinh"
+        },
+        {
+            "text": "Chúa Nguyễn",
+            "href": "https://nguoikesu.com/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen"
+        },
+        {
+            "text": "Nhà Tây Sơn",
+            "href": "https://nguoikesu.com/dong-lich-su/nha-tay-son"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "https://nguoikesu.com/dong-lich-su/nha-nguyen"
+        },
+        {
+            "text": "Pháp Thuộc",
+            "href": "https://nguoikesu.com/dong-lich-su/phap-thuoc"
+        },
+        {
+            "text": "Nhà Nguyễn",
+            "href": "https://nguoikesu.com/dong-lich-su/phap-thuoc/nha-nguyen"
+        },
+        {
+            "text": "Những cuộc khởi nghĩa chống thực dân Pháp",
+            "href": "https://nguoikesu.com/dong-lich-su/phap-thuoc/khoi-nghia-chong-phap"
+        },
+        {
+            "text": "Đảng Cộng Sản Việt Nam",
+            "href": "https://nguoikesu.com/dong-lich-su/phap-thuoc/dang-cong-san-viet-nam"
+        },
+        {
+            "text": "Việt Nam Dân Chủ Cộng Hoà",
+            "href": "https://nguoikesu.com/dong-lich-su/viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Kháng chiến chống Pháp",
+            "href": "https://nguoikesu.com/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-phap"
+        },
+        {
+            "text": "Kháng chiến chống Mĩ",
+            "href": "https://nguoikesu.com/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-mi"
+        },
+        {
+            "text": "Cộng hoà xã hội chủ nghĩa Việt Nam",
+            "href": "https://nguoikesu.com/dong-lich-su/viet-nam-xhcn"
+        },
+        {
+            "text": "Trận Điện Biên Phủ trên không năm 1972",
+            "href": "https://nguoikesu.com/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972"
+        },
+        {
+            "text": "Chiến tranh biên giới Tây Nam năm 1975 - 1978",
+            "href": "https://nguoikesu.com/tu-lieu/quan-su/chien-tranh-bien-gioi-tay-nam-nam-1975-1978"
+        },
+        {
+            "text": "Chiến dịch Mùa Xuân năm 1975",
+            "href": "https://nguoikesu.com/tu-lieu/quan-su/chien-dich-mua-xuan-nam-1975"
+        },
+        {
+            "text": "Hải chiến Trường Sa năm 1988",
+            "href": "https://nguoikesu.com/tu-lieu/quan-su/hai-chien-truong-sa-nam-1988"
+        },
+        {
+            "text": "Chiến dịch Đường 14 - Phước Long năm 1974 - 1975",
+            "href": "https://nguoikesu.com/tu-lieu/quan-su/chien-dich-duong-14-phuoc-long-nam-1974-1975"
+        },
+        {
+            "text": "Chiến dịch Tây Nguyên năm 1975",
+            "href": "https://nguoikesu.com/tu-lieu/quan-su/chien-dich-tay-nguyen-nam-1975"
+        },
+        {
+            "text": "Trận Mậu Thân tại Huế năm 1968",
+            "href": "https://nguoikesu.com/tu-lieu/quan-su/tran-mau-than-tai-hue-nam-1968"
+        },
+        {
+            "text": "Bảng đối chiếu các triều đại Việt Nam và các triều đại Trung Quốc",
+            "href": "https://nguoikesu.com/tu-lieu/bang-doi-chieu-cac-trieu-dai-viet-nam-va-cac-trieu-dai-trung-quoc"
+        },
+        {
+            "text": "Bình Ngô đại cáo - bản tuyên ngôn độc lập thứ hai",
+            "href": "https://nguoikesu.com/tu-lieu/tac-pham/binh-ngo-dai-cao-ban-tuyen-ngon-doc-lap-thu-hai"
+        },
+        {
+            "text": "Lãnh thổ Việt Nam qua từng thời kỳ",
+            "href": "https://nguoikesu.com/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky"
+        },
+        {
+            "text": "Trận Đồi Thịt Băm năm 1969",
+            "href": "https://nguoikesu.com/tu-lieu/quan-su/tran-doi-thit-bam-nam-1969"
+        },
+        {
+            "text": "Chiến dịch Đắk Tô năm 1972",
+            "href": "https://nguoikesu.com/tu-lieu/quan-su/chien-dich-dak-to-nam-1972"
+        },
+        {
+            "text": "Nam quốc sơn hà - Bản tuyên ngôn độc lập đầu tiên",
+            "href": "https://nguoikesu.com/tu-lieu/tac-pham/nam-quoc-son-ha-ban-tuyen-ngon-doc-lap-dau-tien"
+        },
+        {
+            "text": "Tuyên ngôn độc lập Việt Nam Dân chủ Cộng hòa",
+            "href": "https://nguoikesu.com/tu-lieu/tac-pham/tuyen-ngon-doc-lap-viet-nam-dan-chu-cong-hoa"
+        },
+        {
+            "text": "Trận Bản Đông năm 1971",
+            "href": "https://nguoikesu.com/tu-lieu/quan-su/tran-ban-dong-nam-1971"
+        },
+        {
+            "text": "Trận Rạch Gầm \u2013 Xoài Mút năm 1785",
+            "href": "https://nguoikesu.com/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785"
+        },
+        {
+            "text": "Lịch sử Chữ viết tiếng Việt",
+            "href": "https://nguoikesu.com/tu-lieu/lich-su-chu-viet-tieng-viet"
+        },
+        {
+            "text": "Hịch tướng sĩ - Dụ chư tỳ tướng hịch văn",
+            "href": "https://nguoikesu.com/tu-lieu/tac-pham/hich-tuong-si-du-chu-ty-tuong-hich-van"
+        },
+        {
+            "text": "Danh sách Trạng nguyên Việt Nam",
+            "href": "https://nguoikesu.com/tu-lieu/danh-sach-trang-nguyen-viet-nam"
+        },
+        {
+            "text": "Hội nghị Paris, mặt trận ngoại giao năm 1968-1972",
+            "href": "https://nguoikesu.com/tu-lieu/bang-giao/hoi-nghi-paris-mat-tran-ngoai-giao-nam-1968-1972"
+        },
+        {
+            "text": "Lê Thái Tổ",
+            "href": "https://nguoikesu.com/nhan-vat/le-thai-to"
+        },
+        {
+            "text": "Lý Thường Kiệt",
+            "href": "https://nguoikesu.com/nhan-vat/ly-thuong-kiet"
+        },
+        {
+            "text": "Đinh Tiên Hoàng",
+            "href": "https://nguoikesu.com/nhan-vat/dinh-tien-hoang"
+        },
+        {
+            "text": "Lý Nam Đế",
+            "href": "https://nguoikesu.com/nhan-vat/ly-nam-de"
+        },
+        {
+            "text": "Nguyễn Huệ",
+            "href": "https://nguoikesu.com/nhan-vat/nguyen-hue"
+        },
+        {
+            "text": "Nguyễn Trãi",
+            "href": "https://nguoikesu.com/nhan-vat/nguyen-trai"
+        },
+        {
+            "text": "Ngô Quyền",
+            "href": "https://nguoikesu.com/nhan-vat/ngo-quyen"
+        },
+        {
+            "text": "Hồ Chí Minh",
+            "href": "https://nguoikesu.com/nhan-vat/ho-chi-minh"
+        },
+        {
+            "text": "Trần Nhân Tông",
+            "href": "https://nguoikesu.com/nhan-vat/tran-nhan-tong"
+        },
+        {
+            "text": "Trần Hưng Đạo",
+            "href": "https://nguoikesu.com/nhan-vat/tran-hung-dao"
+        },
+        {
+            "text": "Vấn đề biên giới Việt-Trung thời Mạc",
+            "href": "https://nguoikesu.com/tu-lieu/bang-giao/van-de-bien-gioi-viet-trung-thoi-mac"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Tây Sơn",
+            "href": "https://nguoikesu.com/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-tay-son"
+        },
+        {
+            "text": "Biểu đồ các nhân vật lịch sử theo dòng thời gian",
+            "href": "https://nguoikesu.com/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian"
+        },
+        {
+            "text": "Danh sách Trạng nguyên Việt Nam",
+            "href": "https://nguoikesu.com/tu-lieu/danh-sach-trang-nguyen-viet-nam"
+        },
+        {
+            "text": "Ngoại giao Việt Nam thời Nguyễn",
+            "href": "https://nguoikesu.com/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-nguyen"
+        },
+        {
+            "text": "Trận Điện Biên Phủ trên không năm 1972",
+            "href": "https://nguoikesu.com/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972"
+        },
+        {
+            "text": "Trận Ngọc Hồi - Đống Đa năm 1789",
+            "href": "https://nguoikesu.com/tu-lieu/quan-su/tran-ngoc-hoi-dong-da-nam-1789"
+        },
+        {
+            "text": "Trận Cẩm Sa năm 1775",
+            "href": "https://nguoikesu.com/tu-lieu/quan-su/tran-cam-sa-nam-1775"
+        },
+        {
+            "text": "Trận Rạch Gầm \u2013 Xoài Mút năm 1785",
+            "href": "https://nguoikesu.com/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785"
+        },
+        {
+            "text": "Lãnh thổ Việt Nam qua từng thời kỳ",
+            "href": "https://nguoikesu.com/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky"
+        },
+        {
+            "text": "Khu lăng mộ và đền thờ các vị vua triều Lý",
+            "href": "https://nguoikesu.com/dia-danh/khu-lang-mo-va-den-tho-cac-vi-vua-trieu-ly"
+        },
+        {
+            "text": "Hồ Hoàn Kiếm",
+            "href": "https://nguoikesu.com/dia-danh/ho-hoan-kiem"
+        },
+        {
+            "text": "Quần thể di tích danh thắng Yên Tử",
+            "href": "https://nguoikesu.com/dia-danh/quan-the-di-tich-danh-thang-yen-tu"
+        },
+        {
+            "text": "Dinh Độc Lập",
+            "href": "https://nguoikesu.com/dia-danh/dinh-doc-lap"
+        },
+        {
+            "text": "Đền Ngọc Sơn",
+            "href": "https://nguoikesu.com/dia-danh/den-ngoc-son"
+        },
+        {
+            "text": "Khu di tích chiến thắng Điện Biên Phủ",
+            "href": "https://nguoikesu.com/dia-danh/khu-di-tich-chien-thang-dien-bien-phu"
+        },
+        {
+            "text": "Đền Trần (Nam Định)",
+            "href": "https://nguoikesu.com/dia-danh/den-tran-nam-dinh"
+        },
+        {
+            "text": "Chiến khu Tân Trào",
+            "href": "https://nguoikesu.com/dia-danh/chien-khu-tan-trao"
+        },
+        {
+            "text": "chùa Thầy",
+            "href": "https://nguoikesu.com/dia-danh/chua-thay"
+        },
+        {
+            "text": "Đền Phù Đổng",
+            "href": "https://nguoikesu.com/dia-danh/den-phu-dong"
+        },
+        {
+            "text": "Giới thiệu",
+            "href": "https://nguoikesu.com/gioi-thieu"
+        },
+        {
+            "text": "Quyền riêng tư",
+            "href": "https://nguoikesu.com/quyen-rieng-tu"
+        },
+        {
+            "text": "Liên hệ",
+            "href": "https://nguoikesu.com/lien-he"
+        },
+        {
+            "text": "Địa Danh",
+            "href": "https://nguoikesu.com/dia-danh"
+        },
+        {
+            "text": "Trang Facebook",
+            "href": "https://www.facebook.com/nguoikesu/"
+        },
+        {
+            "text": "DanhMucBDS.com",
+            "href": "https://danhmucbds.com"
+        },
+        {
+            "text": "HocTotNguVan.com",
+            "href": "https://hoctotnguvan.com"
+        }
+    ],
+    "title": "Nhà Lý & Nhà Triệu - Người Kể Sử",
+    "paragraphs": [
+        "Lý Nam Đế (Lý Bôn, 544-548)",
+        "Lý Bôn tức Lý Bí là người Thái Bình, phủ Long Hưng (Sơn Tây). Ông là người có công đánh đuổi quân đô hộ nhà Lương (thời Nam Bắc triều), sáng lập ra nhà Tiền Lý.",
+        "Tháng Hai năm Giáp Tý - 544, Lý Bí lên ngôi Hoàng đế lấy hiệu là Lý Nam Đế, đặt tên nước là Vạn Xuân, đóng đô ở Long Biên.",
+        "Đầu năm 545, nhà Lương cử Dương Phiêu làm thứ sử Giao Châu cùng với tên tướng khát máu Trần Bá Tiên chia hai đường thuỷ bộ kéo sang xâm lược nước ta.Ở động Khuất Lão, Lý Nam Đế bị ốm nặng nên đã trao quyền cho Triệu Quang Phục tiếp tục cuộc kháng chiến chống quân Lương. Ngày 20 tháng Ba năm Mậu Thìn (13/4/548) Lý Nam Đế mất.",
+        "Triệu Việt Vương đánh đuổi quân Lương",
+        "Tháng 3 năm 548, nghe tin Lý Nam Đế mất trong động Khuất Lão, Triệu Quang Phục lên ngôi vua, xưng là Triệu Việt Vương.",
+        "Năm 550, từ căn cứ Dạ Trạch ông tiến quân ra đánh giết được tướng giặc là Dương San, thu lại được thành Long Biên.",
+        "Năm Đinh Sửu (557) Lý Phật Tử đem quân về đánh Triệu Việt Vương để giành ngôi vua cho nhà Lý, nhưng đánh không thắng, Lý Phật Tử phải chia đất giảng hoà.",
+        "Năm Tân Mão (571) Lý Phật Tử phản trắc, bất ngờ đem quân đánh úp. Vì không phòng bị nên Triệu Việt Vương thua chạy đến cửa biển Đại Nha, cùng đường phải nhảy xuống biển tuẫn tiết.",
+        "Diệt xong Triệu Việt Vương, Lý Phật Tử xưng là hậu Lý Nam Đế, đóng đô ở Phong Châu (Bạch Hạc - Phú Thọ).",
+        "Trong lúc Lý Phật Tử làm vua ở nước ta, thì bên Trung Quốc Tuỳ Văn Đế dẹp yên được Nam Bắc triều, thống nhất được đất nước Trung Hoa.",
+        "Năm Nhâm Tuất (602) nhà Tuỳ sai danh tướng Lưu Phương đem quân sang xâm lược nước ta.",
+        "Lý Phật Tử hèn nhát đầu hàng, dâng nước ta cho giặc. Từ đó nước ta lại bị nhà Tuỳ đô hộ",
+        "Nhà Tiền Lý (544-602) là một triều đại trong lịch sử Việt Nam, gắn liền với quốc hiệu Vạn Xuân. Nhà Tiền Lý kéo dài 58 năm, tổng cộng 3 đời vua, trong đó có 2 vua họ Lý và 1 vua họ Triệu cũng được tính gộp vào nhà Tiền Lý, tương tự như Dương Tam Kha trong nhà Ngô sau đó.",
+        "Lý Bôn tức Lý Bí, quê ở Long Hưng (Thái Bình), sinh ngày 12 tháng 9 năm Quý Mùi (17/10/503), là con hào trưởng Lý Toản, mẹ là Lê Thị Oánh người Ái Châu (Thanh Hoá), 5 tuổi bố mất, 7 tuổi mẹ mất, phải ở với chú ruột. Vị pháp tổ thiền sư thấy khôi ngô tuấn tú xin làm con nuôi đưa về chùa Linh Bảo nuôi dạy. Hơn mười năm đèn sách chuyên cần, lại được vị thiền sư hết lòng dạy bảo, Lý Bí trở thành người học rộng hiểu sâu, ít người sánh kịp. Nhờ có tài kiêm văn võ, Lý Bí được tôn làm thủ lĩnh địa phương.",
+        "Thấy nhân dân ta vô cùng thống khổ dưới sự đô hộ tàn ác của Tiêu Tư. Tháng 1 năm 542 Lý Bí lãnh đạo nhân dân khởi binh tấn công quân Lương. Thứ sử Tiêu Tư khiếp sợ bỏ chạy về nước. Chưa đầy 3 tháng Lý Bí đã chiếm được hầu hết các quận, huyện và thành Long Biên. Nhà Lương sai tướng đem quân sang phản công chiếm lại, Lý Bí đã cho quân mai phục đánh tan bọn xâm lược.",
+        "Đầu năm 543, vua Lương lại huy động binh mã sang xâm lược nước ta một lần nữa. Lý Bí chủ động đem quân đón đánh giặc ở bán đảo Hợp Phố, quân Lương bị tiêu diệt gần hết.",
+        "Tháng Hai năm Giáp Tý - 544, Lý Bí lên ngôi Hoàng đế lấy hiệu là Lý Nam Đế, đặt tên nước là Vạn Xuân, đóng đô ở Long Biên.",
+        "Chi tiết: Lý Nam Đế - Lý Bí",
+        "Triệu Quang Phục là con Triệu Túc, Tù trưởng ở Chu Diên (Hưng Yên). Khi được Lý Nam Đế trao quyền lãnh đạo cuộc kháng chiến chống quân Lương, ông đưa quân về Dạ Trạch (bãi Màn Trò, Hưng Yên) là một vùng đồng lầy rộng mênh mông, lau sậy um tùm, ở giữa có một bãi đất cao khô ráo để đóng quân. Ông cho quân lính vừa sản xuất lương thực, vừa tiếp tục cuộc kháng chiến lâu dài. Đêm đêm nghĩa quân kéo ra đánh các đồn địch, làm cho lực lượng địch bị tiêu hao và mất ăn, mất ngủ.",
+        "Ngày 13/4/548, Triệu Quang Phục lên ngôi vua, xưng là Triệu Việt Vương, dân gian gọi ông là Dạ Trạch Vương.",
+        "Năm 550, từ căn cứ Dạ Trạch ông tiến quân ra đánh giết được tướng giặc là Dương San, thu lại được thành Long Biên.",
+        "",
+        "Chi tiết: Triệu Việt Vương - Triệu Quang Phục",
+        "Diệt xong Triệu Việt Vương, Lý Phật Tử xưng là hậu Lý Nam Đế, đóng đô ở Phong Châu (Bạch Hạc - Phú Thọ).",
+        "Trong lúc Lý Phật Tử làm vua ở nước ta, thì bên Trung Quốc Tuỳ Văn Đế dẹp yên được Nam Bắc triều, thống nhất được đất nước Trung Hoa.",
+        "Năm Nhâm Tuất (602) nhà Tuỳ sai danh tướng Lưu Phương đem quân sang xâm lược nước ta.",
+        "Lý Phật Tử hèn nhát đầu hàng, dâng nước ta cho giặc. Từ đó nước ta lại bị nhà Tuỳ đô hộ",
+        "Chi tiết: Hậu Lý Nam Đế - Lý Phật Tử"
+    ]
+}
